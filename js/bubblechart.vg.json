@@ -1,0 +1,190 @@
+{
+    "config": {
+        "view": {
+            "stroke": null
+        }
+    },
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 500,
+    "height": 400,
+    "title": "GDP vs Renewable Electricity",
+    "data": {
+        "url": "../data/bc.csv"
+    },
+    "mark": "circle",
+    "params": [
+        {
+            "name": "year",
+            "value": 2020,  
+            "bind": {
+                "input": "range",
+                "min": 2000,  
+                "max": 2020,  
+                "step": 1,    
+                "name": "Select the year:"
+            }
+        },
+        {
+            "name": "showAllYears",
+            "value": false,
+            "bind": {
+                "input": "checkbox",
+                "name": "Show all years"
+            }
+        }, 
+        {
+            "name": "Continent_selection",
+            "bind": {
+              "input": "select",
+              "options": [
+                null,
+                "North America",
+                "South America",
+                "Europe",
+                "Africa",
+                "Asia",
+                "Oceania"
+              ],
+              "labels": [
+                "Show All",
+                "North America",
+                "South America",
+                "Europe",
+                "Africa",
+                "Asia",
+                "Oceania"
+              ],
+              "name": "Continent Selection: "
+            }
+          }
+    ],
+    "transform": [
+        {
+            "filter": "datum.renewable > 0"
+        },
+        {
+            "filter": "datum.gdp_per_capita > 0"
+        },
+        {
+            "filter": " showAllYears || year == datum.year"
+        },
+        {"filter": "Continent_selection == null || datum.continent == Continent_selection"}, 
+        {
+            "calculate": "datum.renewable",
+            "as": "renewable"
+        },
+        {
+            "calculate": "datum.gdp_per_capita",
+            "as": "gdp_per_capita"
+        }
+    ],
+    "encoding": {
+        "x": {
+            "field": "gdp_per_capita",
+            "type": "quantitative",
+            "title": "GDP Per Capita",
+            "axis": {
+                "tickCount": 7,
+                "grid": false
+            },
+            "scale": {
+                "type": "log",
+                "domain": [
+                    1,
+                    100000
+                ],
+                "zero": false
+            }
+        },
+        "y": {
+            "field": "renewable",
+            "type": "quantitative",
+            "title": "Renewable Electricity Generating Capacity Per Capita",
+            "axis": {
+                "tickCount": 6
+            },
+            "scale": {
+                "type": "log",
+                "domain": [
+                    0.01,
+                    10000
+                ],
+                "zero": false
+            }
+        },
+        "color": {
+            "field": "continent",
+            "type": "nominal",
+            "scale": {
+                "domain": [
+                    "North America",
+                    "South America",
+                    "Europe",
+                    "Africa",
+                    "Asia",
+                    "Oceania"
+                ],
+                "range": [
+                    "#e41a1c",
+                    "#984ea3",
+                    "#ff7f00",
+                    "#a6cee3",
+                    "#377eb8",
+                    "#a65628"
+                ]
+            }
+        },
+        "opacity": {
+            "value": 0.6
+        },
+        "size": {
+            "field": "population",
+            "type": "quantitative",
+            "scale": {
+                "type": "threshold",
+                "domain": [
+                    1000000,
+                    10000000,
+                    50000000,
+                    100000000,
+                    500000000
+                ],
+                "range": [
+                    10,
+                    50,
+                    150,
+                    200,
+                    300,
+                    400
+                ]
+            },
+            "legend": {
+                "format": ".1s"
+            }
+        },
+        "stroke": {
+            "value": "transparent"
+        },
+        "tooltip": [
+            {
+                "field": "continent",
+                "title": "Continent"
+            },
+            {
+                "field": "population",
+                "title": "Population",
+                "format": ",d"
+            },
+            {
+                "field": "gdp_per_capita",
+                "title": "GDP Per Capita",
+                "format": ".2f"
+            },
+            {
+                "field": "renewable",
+                "title": "Renewable Electricity Per Capita",
+                "format": ".2f"
+            }
+        ]
+    }
+}
