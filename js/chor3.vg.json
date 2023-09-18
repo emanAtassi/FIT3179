@@ -1,0 +1,234 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 800,
+    "height": 450,
+    "title": "Access to Electricity Across the World (%)",
+    "params": [
+        {
+            "name": "yearfilter",
+            "value": 2020,
+            "bind": {
+                "input": "range",
+                "min": 2000,
+                "max": 2020,
+                "step": 1,
+                "name": "Select the year: "
+            }
+        },
+        {
+            "name": "zoom",
+            "value": 140,
+            "bind": {
+            "input": "range",
+            "min": 140,
+            "max": 600,
+            "step": 20,
+            "name": "Zoom: "
+            }
+        },
+        {
+            "name": "signal_map_scale",
+            "value": 140,
+            "bind": {
+              "input": "range",
+              "min": 140,
+              "max": 4000,
+              "step": 50,
+              "name": "Map scale: "
+            },
+            "on": [
+              {
+                "events": {"type": "wheel", "consume": true},
+                "update": "round(clamp(signal_map_scale * pow(1.0005, -event.deltaY * pow(16, event.deltaMode)), 140, 4000))"
+              }
+            ]
+          },
+          {
+            "name": "signal_translate_xy",
+            "value": [400, 250],
+            "update": "[clamp(signal_translate_last_xy[0] + signal_mouse_delta_xy[0], -300, 1200), clamp(signal_translate_last_xy[1] + signal_mouse_delta_xy[1], -200, 800)]"
+          },
+          {
+            "name": "signal_translate_last_xy",
+            "value": [400, 250],
+            "on": [
+              {"events": [{"type": "mousedown"}], "update": "signal_translate_xy"}
+            ]
+          },
+          {
+            "name": "signal_mouse_start_xy",
+            "value": [0, 0],
+            "on": [{"events": [{"type": "mousedown"}], "update": "xy()"}]
+          },
+          {
+            "name": "signal_mouse_drag_xy",
+            "value": [0, 0],
+            "on": [
+              {
+                "events": [
+                  {
+                    "type": "mousemove",
+                    "between": [{"type": "mousedown"}, {"type": "mouseup"}]
+                  }
+                ],
+                "update": "xy()"
+              }
+            ]
+          },
+          {
+            "name": "signal_mouse_delta_xy",
+            "value": [0, 0],
+            "update": "[signal_mouse_drag_xy[0] - signal_mouse_start_xy[0], signal_mouse_drag_xy[1] - signal_mouse_start_xy[1]]"
+          }
+    ],
+    "projection": {"type": "equalEarth", "center": [0,0], "scale": {"signal": "signal_map_scale"},
+    "translate": {"signal": "signal_translate_xy"}},
+    "data": {
+        "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/3_choropleth_map/js/ne_110m_admin_0_countries.topojson",
+        "format": {
+            "type": "topojson",
+            "feature": "ne_110m_admin_0_countries"
+        }
+    },
+    "layer": [
+      {
+        "data": {
+          "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/2_symbol_map/js/WorldMapWithGraticules.topojson",
+          "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+        },
+        "transform": [
+            {
+              "calculate": "'Data is not available in ' + datum.properties.NAME",
+              "as": "note"
+            }
+        ],
+        "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white"},
+        "encoding": {"tooltip": {"field": "note"}}
+      },
+      {
+        "data": {
+            "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/7_others/oceans.topojson",
+            "format": {
+                "type": "topojson",
+                "feature": "oceans"
+            }
+        },
+        "mark": {
+            "type": "geoshape",
+            "fill": "skyblue"
+        }
+    },
+    {
+    "data": {
+        "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/2_symbol_map/js/WorldMapWithGraticules.topojson",
+        "format": {"type": "topojson", "feature": "ne_110m_graticules_30"}
+    },
+    "mark": {"type": "geoshape", "fill": null, "stroke": "lightgray"}
+    },
+    {
+    "data": {
+        "url": "../data/global-data-on-sustainable-energy (1).csv"
+    },
+    "transform": [
+        {
+            "lookup": "Entity",
+            "from": {
+                "data": {
+                    "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/3_choropleth_map/js/ne_110m_admin_0_countries.topojson",
+                    "format": {
+                        "type": "topojson",
+                        "feature": "ne_110m_admin_0_countries"
+                    }
+                },
+                "key": "properties.NAME",
+                "fields": [
+                    "properties",
+                    "type",
+                    "geometry"
+                ]
+            }
+        },
+        {
+            "filter": "datum.Year==yearfilter"
+        }
+      ],
+      "mark": {
+        "type": "geoshape",
+        "stroke": "white"
+    },
+    "encoding": {
+        "color": {
+            "field": "access_to_electricity",
+            "type": "quantitative",
+            "scale": {
+                "type": "log",
+                "domain": [
+                    1,
+
+                    100
+                ],
+                "range": [
+                    "#fdbe85",
+                    "#fd8d3c",
+                    "#e6550d",
+                    "#a63603"
+                ]
+            }
+        },
+        "tooltip": [
+            {
+                "field": "properties.NAME",
+                "type": "nominal",
+                "title": "Country"
+            },
+            {
+                "field": "access_to_electricity",
+                "title": "Access to Electricity (%)", 
+                "type": "quantitative", "format": ".0f"
+            }
+        ]
+    }
+    }, 
+    {
+        "transform": [
+            {
+                "lookup": "properties.NAME",
+                "from": {
+                    "data": {
+                        "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/3_choropleth_map/data/countryInfo.csv"
+                    },
+                    "key": "name",
+                    "fields": [
+                        "latitude",
+                        "longitude"
+                    ]
+                }
+            }
+        ],
+        "mark": {
+            "type": "text"
+        },
+        "encoding": {
+            "longitude": {
+                "field": "longitude",
+                "type": "quantitative"
+            },
+            "latitude": {
+                "field": "latitude",
+                "type": "quantitative"
+            },
+            "text": {
+                "field": "properties.NAME",
+                "type": "nominal"
+            },
+            "opacity": {
+                "condition": {
+                    "test": "datum['properties.NAME'] == 'China' || datum['properties.NAME'] == 'Brazil' || datum['properties.NAME'] == 'Australia' || datum['properties.NAME'] == 'Malaysia' ||  datum['properties.NAME'] == 'Sudan' ||  datum['properties.NAME'] == 'Somalia' ||  datum['properties.NAME'] == 'Chad' ||  datum['properties.NAME'] == 'Indonesia' ||  datum['properties.NAME'] == 'Afghanistan' ||  datum['properties.NAME'] == 'Papua New Guinea'",
+                    "value": 1
+                },
+                "value": 0
+            }
+        }
+    }
+    ]
+  }

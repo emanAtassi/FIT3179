@@ -1,0 +1,3222 @@
+,Entity,year,co2_emissions,continent
+0,Afghanistan,2000,760.0,Asia
+1,Afghanistan,2001,730.0,Asia
+2,Afghanistan,2002,1029.999971,Asia
+3,Afghanistan,2003,1220.000029,Asia
+4,Afghanistan,2004,1029.999971,Asia
+5,Afghanistan,2005,1549.999952,Asia
+6,Afghanistan,2006,1759.99999,Asia
+7,Afghanistan,2007,1769.999981,Asia
+8,Afghanistan,2008,3559.999943,Asia
+9,Afghanistan,2009,4880.000114,Asia
+10,Afghanistan,2010,7110.000134,Asia
+11,Afghanistan,2011,8930.000305,Asia
+12,Afghanistan,2012,8079.999924,Asia
+13,Afghanistan,2013,5989.999771,Asia
+14,Afghanistan,2014,4880.000114,Asia
+15,Afghanistan,2015,5949.999809,Asia
+16,Afghanistan,2016,5300.000191,Asia
+17,Afghanistan,2017,4780.00021,Asia
+18,Afghanistan,2018,6070.000172,Asia
+19,Afghanistan,2019,6079.999924,Asia
+21,Albania,2000,3170.0,Europe
+22,Albania,2001,3230.0,Europe
+23,Albania,2002,3759.99999,Europe
+24,Albania,2003,4070.000172,Europe
+25,Albania,2004,4250.0,Europe
+26,Albania,2005,4030.00021,Europe
+27,Albania,2006,4010.000229,Europe
+28,Albania,2007,4139.999866,Europe
+29,Albania,2008,4079.999924,Europe
+30,Albania,2009,4219.99979,Europe
+31,Albania,2010,4449.999809,Europe
+32,Albania,2011,4849.999905,Europe
+33,Albania,2012,4360.000134,Europe
+34,Albania,2013,4440.000057,Europe
+35,Albania,2014,4820.000172,Europe
+36,Albania,2015,4619.999886,Europe
+37,Albania,2016,4480.000019,Europe
+38,Albania,2017,5139.999866,Europe
+39,Albania,2018,5110.000134,Europe
+40,Albania,2019,4829.999924,Europe
+42,Algeria,2000,80050.0,Africa
+43,Algeria,2001,78650.0,Africa
+44,Algeria,2002,82400.00153,Africa
+45,Algeria,2003,88190.00244,Africa
+46,Algeria,2004,89489.99786,Africa
+47,Algeria,2005,94190.00244,Africa
+48,Algeria,2006,99809.99756,Africa
+49,Algeria,2007,102750.0,Africa
+50,Algeria,2008,107750.0,Africa
+51,Algeria,2009,112169.9982,Africa
+52,Algeria,2010,114180.0003,Africa
+53,Algeria,2011,120790.0009,Africa
+54,Algeria,2012,134929.9927,Africa
+55,Algeria,2013,139020.0043,Africa
+56,Algeria,2014,147740.0055,Africa
+57,Algeria,2015,156270.0043,Africa
+58,Algeria,2016,154910.0037,Africa
+59,Algeria,2017,158339.9963,Africa
+60,Algeria,2018,165539.9933,Africa
+61,Algeria,2019,171250.0,Africa
+63,Angola,2000,16200.0,Africa
+64,Angola,2001,15960.0,Africa
+65,Angola,2002,15689.99958,Africa
+66,Angola,2003,16760.00023,Africa
+67,Angola,2004,17450.00076,Africa
+68,Angola,2005,15810.00042,Africa
+69,Angola,2006,16559.99947,Africa
+70,Angola,2007,16969.99931,Africa
+71,Angola,2008,19280.00069,Africa
+72,Angola,2009,21149.99962,Africa
+73,Angola,2010,22799.99924,Africa
+74,Angola,2011,23870.00084,Africa
+75,Angola,2012,23870.00084,Africa
+76,Angola,2013,26959.99908,Africa
+77,Angola,2014,29629.99916,Africa
+78,Angola,2015,31649.99962,Africa
+79,Angola,2016,29760.00023,Africa
+80,Angola,2017,24250.0,Africa
+81,Angola,2018,23959.99908,Africa
+82,Angola,2019,25209.99908,Africa
+84,Antigua and Barbuda,2000,330.0,North America
+85,Antigua and Barbuda,2001,350.0,North America
+86,Antigua and Barbuda,2002,389.9999857,North America
+87,Antigua and Barbuda,2003,409.9999964,North America
+88,Antigua and Barbuda,2004,400.000006,North America
+89,Antigua and Barbuda,2005,409.9999964,North America
+90,Antigua and Barbuda,2006,439.9999976,North America
+91,Antigua and Barbuda,2007,460.0000083,North America
+92,Antigua and Barbuda,2008,479.9999893,North America
+93,Antigua and Barbuda,2009,1389.999986,North America
+94,Antigua and Barbuda,2010,490.0000095,North America
+95,Antigua and Barbuda,2011,540.0000215,North America
+96,Antigua and Barbuda,2012,699.9999881,North America
+97,Antigua and Barbuda,2013,469.9999988,North America
+98,Antigua and Barbuda,2014,479.9999893,North America
+99,Antigua and Barbuda,2015,490.0000095,North America
+100,Antigua and Barbuda,2016,500.0,North America
+101,Antigua and Barbuda,2017,500.0,North America
+102,Antigua and Barbuda,2018,509.9999905,North America
+103,Antigua and Barbuda,2019,519.9999809,North America
+105,Argentina,2000,132270.0,South America
+106,Argentina,2001,125260.0,South America
+107,Argentina,2002,117470.0012,South America
+108,Argentina,2003,127660.0037,South America
+109,Argentina,2004,141380.0049,South America
+110,Argentina,2005,145990.0055,South America
+111,Argentina,2006,154899.9939,South America
+112,Argentina,2007,162809.9976,South America
+113,Argentina,2008,167229.9957,South America
+114,Argentina,2009,156570.0073,South America
+115,Argentina,2010,167220.0012,South America
+116,Argentina,2011,176639.9994,South America
+117,Argentina,2012,177960.0067,South America
+118,Argentina,2013,183250.0,South America
+119,Argentina,2014,179600.0061,South America
+120,Argentina,2015,185550.0031,South America
+121,Argentina,2016,183160.0037,South America
+122,Argentina,2017,179320.0073,South America
+123,Argentina,2018,176899.9939,South America
+124,Argentina,2019,168100.0061,South America
+126,Armenia,2000,3560.0,Asia
+127,Armenia,2001,3600.0,Asia
+128,Armenia,2002,3119.999886,Asia
+129,Armenia,2003,3500.0,Asia
+130,Armenia,2004,3759.99999,Asia
+131,Armenia,2005,4460.000038,Asia
+132,Armenia,2006,4489.999771,Asia
+133,Armenia,2007,5199.999809,Asia
+134,Armenia,2008,5690.000057,Asia
+135,Armenia,2009,4510.000229,Asia
+136,Armenia,2010,4340.000153,Asia
+137,Armenia,2011,4940.000057,Asia
+138,Armenia,2012,5719.99979,Asia
+139,Armenia,2013,5500.0,Asia
+140,Armenia,2014,5480.000019,Asia
+141,Armenia,2015,5340.000153,Asia
+142,Armenia,2016,5070.000172,Asia
+143,Armenia,2017,5369.999886,Asia
+144,Armenia,2018,5710.000038,Asia
+145,Armenia,2019,6170.000076,Asia
+147,Aruba,2000,2379.883,North America
+148,Aruba,2001,2409.219,North America
+149,Aruba,2002,2438.555,North America
+150,Aruba,2003,2563.233,North America
+151,Aruba,2004,2618.238,North America
+152,Aruba,2005,2720.914,North America
+153,Aruba,2006,2717.247,North America
+154,Aruba,2007,2823.59,North America
+155,Aruba,2008,2658.575,North America
+156,Aruba,2009,2629.239,North America
+157,Aruba,2010,2508.228,North America
+158,Aruba,2011,2500.894,North America
+159,Aruba,2012,1349.456,North America
+160,Aruba,2013,861.745,North America
+161,Aruba,2014,872.746,North America
+162,Aruba,2015,898.415,North America
+163,Aruba,2016,883.747,North America
+168,Australia,2000,339450.0,Oceania
+169,Australia,2001,345640.0,Oceania
+170,Australia,2002,353369.9951,Oceania
+171,Australia,2003,352579.9866,Oceania
+172,Australia,2004,365809.9976,Oceania
+173,Australia,2005,370089.9963,Oceania
+174,Australia,2006,375489.9902,Oceania
+175,Australia,2007,385750.0,Oceania
+176,Australia,2008,388940.0024,Oceania
+177,Australia,2009,395290.0085,Oceania
+178,Australia,2010,387540.0085,Oceania
+179,Australia,2011,386380.0049,Oceania
+180,Australia,2012,386970.0012,Oceania
+181,Australia,2013,380279.9988,Oceania
+182,Australia,2014,371630.0049,Oceania
+183,Australia,2015,377799.9878,Oceania
+184,Australia,2016,384989.9902,Oceania
+185,Australia,2017,389160.0037,Oceania
+186,Australia,2018,387070.0073,Oceania
+187,Australia,2019,386529.9988,Oceania
+189,Austria,2000,63530.0,Europe
+190,Austria,2001,67910.0,Europe
+191,Austria,2002,69370.00275,Europe
+192,Austria,2003,74459.99908,Europe
+193,Austria,2004,75800.00305,Europe
+194,Austria,2005,76239.99786,Europe
+195,Austria,2006,74099.99847,Europe
+196,Austria,2007,71239.99786,Europe
+197,Austria,2008,70730.00336,Europe
+198,Austria,2009,64419.99817,Europe
+199,Austria,2010,69959.99908,Europe
+200,Austria,2011,68269.99664,Europe
+201,Austria,2012,65110.00061,Europe
+202,Austria,2013,65750.0,Europe
+203,Austria,2014,62049.99924,Europe
+204,Austria,2015,63240.00168,Europe
+205,Austria,2016,63680.00031,Europe
+206,Austria,2017,65860.00061,Europe
+207,Austria,2018,63060.00137,Europe
+208,Austria,2019,64769.99664,Europe
+210,Azerbaijan,2000,27690.0,Asia
+211,Azerbaijan,2001,26400.0,Asia
+212,Azerbaijan,2002,26180.00031,Asia
+213,Azerbaijan,2003,28569.99969,Asia
+214,Azerbaijan,2004,28309.99947,Asia
+215,Azerbaijan,2005,30040.00092,Asia
+216,Azerbaijan,2006,30489.99977,Asia
+217,Azerbaijan,2007,27629.99916,Asia
+218,Azerbaijan,2008,30450.00076,Asia
+219,Azerbaijan,2009,25500.0,Asia
+220,Azerbaijan,2010,24309.99947,Asia
+221,Azerbaijan,2011,27280.00069,Asia
+222,Azerbaijan,2012,30110.00061,Asia
+223,Azerbaijan,2013,30940.00053,Asia
+224,Azerbaijan,2014,32240.00168,Asia
+225,Azerbaijan,2015,31770.00046,Asia
+226,Azerbaijan,2016,32240.00168,Asia
+227,Azerbaijan,2017,31959.99908,Asia
+228,Azerbaijan,2018,32729.99954,Asia
+229,Azerbaijan,2019,35509.99832,Asia
+252,Bahrain,2000,15880.0,Asia
+253,Bahrain,2001,16390.0,Asia
+254,Bahrain,2002,17219.99931,Asia
+255,Bahrain,2003,17940.00053,Asia
+256,Bahrain,2004,17930.00031,Asia
+257,Bahrain,2005,20690.00053,Asia
+258,Bahrain,2006,22489.99977,Asia
+259,Bahrain,2007,23000.0,Asia
+260,Bahrain,2008,24760.00023,Asia
+261,Bahrain,2009,24719.99931,Asia
+262,Bahrain,2010,25969.99931,Asia
+263,Bahrain,2011,26020.00046,Asia
+264,Bahrain,2012,27170.00008,Asia
+265,Bahrain,2013,28850.00038,Asia
+266,Bahrain,2014,30280.00069,Asia
+267,Bahrain,2015,30579.99992,Asia
+268,Bahrain,2016,30299.99924,Asia
+269,Bahrain,2017,30520.00046,Asia
+270,Bahrain,2018,30809.99947,Asia
+271,Bahrain,2019,33259.99832,Asia
+273,Bangladesh,2000,21650.0,Asia
+274,Bangladesh,2001,25780.0,Asia
+275,Bangladesh,2002,27430.00031,Asia
+276,Bangladesh,2003,28629.99916,Asia
+277,Bangladesh,2004,30530.00069,Asia
+278,Bangladesh,2005,32709.99908,Asia
+279,Bangladesh,2006,35900.00153,Asia
+280,Bangladesh,2007,37990.00168,Asia
+281,Bangladesh,2008,41580.00183,Asia
+282,Bangladesh,2009,44750.0,Asia
+283,Bangladesh,2010,50580.00183,Asia
+284,Bangladesh,2011,54419.99817,Asia
+285,Bangladesh,2012,57990.00168,Asia
+286,Bangladesh,2013,60599.99847,Asia
+287,Bangladesh,2014,63830.00183,Asia
+288,Bangladesh,2015,72190.00244,Asia
+289,Bangladesh,2016,74379.99725,Asia
+290,Bangladesh,2017,79339.99634,Asia
+291,Bangladesh,2018,83449.99695,Asia
+292,Bangladesh,2019,90739.99786,Asia
+294,Barbados,2000,1240.0,North America
+295,Barbados,2001,1310.0,North America
+296,Barbados,2002,1370.000005,North America
+297,Barbados,2003,1379.999995,North America
+298,Barbados,2004,1360.000014,North America
+299,Barbados,2005,1419.999957,North America
+300,Barbados,2006,1470.000029,North America
+301,Barbados,2007,1480.000019,North America
+302,Barbados,2008,1779.999971,North America
+303,Barbados,2009,4619.999886,North America
+304,Barbados,2010,1549.999952,North America
+305,Barbados,2011,1759.99999,North America
+306,Barbados,2012,2119.999886,North America
+307,Barbados,2013,1440.000057,North America
+308,Barbados,2014,1269.999981,North America
+309,Barbados,2015,1269.999981,North America
+310,Barbados,2016,1289.999962,North America
+311,Barbados,2017,1179.999948,North America
+312,Barbados,2018,1240.00001,North America
+313,Barbados,2019,1250.0,North America
+315,Belarus,2000,52940.0,Europe
+316,Belarus,2001,51880.0,Europe
+317,Belarus,2002,51840.00015,Europe
+318,Belarus,2003,52700.00076,Europe
+319,Belarus,2004,56040.00092,Europe
+320,Belarus,2005,56779.99878,Europe
+321,Belarus,2006,59119.99893,Europe
+322,Belarus,2007,57650.00153,Europe
+323,Belarus,2008,60529.99878,Europe
+324,Belarus,2009,57400.00153,Europe
+325,Belarus,2010,61669.99817,Europe
+326,Belarus,2011,58549.99924,Europe
+327,Belarus,2012,59939.99863,Europe
+328,Belarus,2013,59990.00168,Europe
+329,Belarus,2014,59500.0,Europe
+330,Belarus,2015,54819.99969,Europe
+331,Belarus,2016,55139.99939,Europe
+332,Belarus,2017,56009.99832,Europe
+333,Belarus,2018,58950.00076,Europe
+334,Belarus,2019,57669.99817,Europe
+336,Belgium,2000,117270.0,Europe
+337,Belgium,2001,118340.0,Europe
+338,Belgium,2002,110849.9985,Europe
+339,Belgium,2003,115500.0,Europe
+340,Belgium,2004,114019.9966,Europe
+341,Belgium,2005,110610.0006,Europe
+342,Belgium,2006,108650.0015,Europe
+343,Belgium,2007,104589.9963,Europe
+344,Belgium,2008,106930.0003,Europe
+345,Belgium,2009,99669.99817,Europe
+346,Belgium,2010,106720.0012,Europe
+347,Belgium,2011,96480.00336,Europe
+348,Belgium,2012,95269.99664,Europe
+349,Belgium,2013,96589.99634,Europe
+350,Belgium,2014,90139.99939,Europe
+351,Belgium,2015,95129.99725,Europe
+352,Belgium,2016,94220.00122,Europe
+353,Belgium,2017,92720.00122,Europe
+354,Belgium,2018,93660.00366,Europe
+355,Belgium,2019,93010.00214,Europe
+357,Belize,2000,450.0,North America
+358,Belize,2001,530.0,North America
+359,Belize,2002,519.9999809,North America
+360,Belize,2003,509.9999905,North America
+361,Belize,2004,439.9999976,North America
+362,Belize,2005,469.9999988,North America
+363,Belize,2006,509.9999905,North America
+364,Belize,2007,529.9999714,North America
+365,Belize,2008,500.0,North America
+366,Belize,2009,1460.000038,North America
+367,Belize,2010,560.0000024,North America
+368,Belize,2011,670.0000167,North America
+369,Belize,2012,670.0000167,North America
+370,Belize,2013,460.0000083,North America
+371,Belize,2014,479.9999893,North America
+372,Belize,2015,680.0000072,North America
+373,Belize,2016,649.9999762,North America
+374,Belize,2017,639.9999857,North America
+375,Belize,2018,629.9999952,North America
+376,Belize,2019,639.9999857,North America
+378,Benin,2000,1420.0,Africa
+379,Benin,2001,1740.0,Africa
+380,Benin,2002,2180.000067,Africa
+381,Benin,2003,2440.000057,Africa
+382,Benin,2004,2650.000095,Africa
+383,Benin,2005,2900.000095,Africa
+384,Benin,2006,3470.000029,Africa
+385,Benin,2007,4000.0,Africa
+386,Benin,2008,4019.999981,Africa
+387,Benin,2009,4420.000076,Africa
+388,Benin,2010,4829.999924,Africa
+389,Benin,2011,4650.000095,Africa
+390,Benin,2012,4440.000057,Africa
+391,Benin,2013,4679.999828,Africa
+392,Benin,2014,5190.000057,Africa
+393,Benin,2015,5510.000229,Africa
+394,Benin,2016,6739.999771,Africa
+395,Benin,2017,6869.999886,Africa
+396,Benin,2018,7420.000076,Africa
+397,Benin,2019,7300.000191,Africa
+399,Bermuda,2000,517.047,North America
+400,Bermuda,2001,528.048,North America
+401,Bermuda,2002,557.384,North America
+402,Bermuda,2003,561.051,North America
+403,Bermuda,2004,583.053,North America
+404,Bermuda,2005,583.053,North America
+405,Bermuda,2006,652.726,North America
+406,Bermuda,2007,729.733,North America
+407,Bermuda,2008,649.059,North America
+408,Bermuda,2009,476.71,North America
+409,Bermuda,2010,608.722,North America
+410,Bermuda,2011,443.707,North America
+411,Bermuda,2012,366.7,North America
+412,Bermuda,2013,509.713,North America
+413,Bermuda,2014,649.059,North America
+414,Bermuda,2015,557.384,North America
+415,Bermuda,2016,612.389,North America
+420,Bhutan,2000,210.0,Asia
+421,Bhutan,2001,230.0,Asia
+422,Bhutan,2002,239.9999946,Asia
+423,Bhutan,2003,259.9999905,Asia
+424,Bhutan,2004,289.9999917,Asia
+425,Bhutan,2005,319.9999928,Asia
+426,Bhutan,2006,319.9999928,Asia
+427,Bhutan,2007,319.9999928,Asia
+428,Bhutan,2008,300.0000119,Asia
+429,Bhutan,2009,319.9999928,Asia
+430,Bhutan,2010,400.000006,Asia
+431,Bhutan,2011,589.9999738,Asia
+432,Bhutan,2012,639.9999857,Asia
+433,Bhutan,2013,670.0000167,Asia
+434,Bhutan,2014,699.9999881,Asia
+435,Bhutan,2015,769.9999809,Asia
+436,Bhutan,2016,930.0000072,Asia
+437,Bhutan,2017,970.0000286,Asia
+438,Bhutan,2018,1049.999952,Asia
+439,Bhutan,2019,1049.999952,Asia
+441,Bosnia and Herzegovina,2000,13960.0,Europe
+442,Bosnia and Herzegovina,2001,13760.0,Europe
+443,Bosnia and Herzegovina,2002,14560.00042,Europe
+444,Bosnia and Herzegovina,2003,14869.99989,Europe
+445,Bosnia and Herzegovina,2004,15569.99969,Europe
+446,Bosnia and Herzegovina,2005,16229.99954,Europe
+447,Bosnia and Herzegovina,2006,17909.99985,Europe
+448,Bosnia and Herzegovina,2007,18889.99939,Europe
+449,Bosnia and Herzegovina,2008,20760.00023,Europe
+450,Bosnia and Herzegovina,2009,20590.00015,Europe
+451,Bosnia and Herzegovina,2010,20840.00015,Europe
+452,Bosnia and Herzegovina,2011,23739.99977,Europe
+453,Bosnia and Herzegovina,2012,21959.99908,Europe
+454,Bosnia and Herzegovina,2013,21850.00038,Europe
+455,Bosnia and Herzegovina,2014,19489.99977,Europe
+456,Bosnia and Herzegovina,2015,19620.00084,Europe
+457,Bosnia and Herzegovina,2016,22340.00015,Europe
+458,Bosnia and Herzegovina,2017,22680.00031,Europe
+459,Bosnia and Herzegovina,2018,22600.00038,Europe
+460,Bosnia and Herzegovina,2019,21069.99969,Europe
+462,Botswana,2000,4030.0,Africa
+463,Botswana,2001,3870.0,Africa
+464,Botswana,2002,4030.00021,Africa
+465,Botswana,2003,3920.000076,Africa
+466,Botswana,2004,3970.000029,Africa
+467,Botswana,2005,4280.00021,Africa
+468,Botswana,2006,4090.000153,Africa
+469,Botswana,2007,4320.000172,Africa
+470,Botswana,2008,4389.999866,Africa
+471,Botswana,2009,4190.000057,Africa
+472,Botswana,2010,3369.999886,Africa
+473,Botswana,2011,3880.000114,Africa
+474,Botswana,2012,3410.000086,Africa
+475,Botswana,2013,5420.000076,Africa
+476,Botswana,2014,6989.999771,Africa
+477,Botswana,2015,6949.999809,Africa
+478,Botswana,2016,6630.000114,Africa
+479,Botswana,2017,7329.999924,Africa
+480,Botswana,2018,7309.999943,Africa
+481,Botswana,2019,7250.0,Africa
+483,Brazil,2000,313670.0,South America
+484,Brazil,2001,319380.0,South America
+485,Brazil,2002,317760.0098,South America
+486,Brazil,2003,310809.9976,South America
+487,Brazil,2004,328519.989,South America
+488,Brazil,2005,331690.0024,South America
+489,Brazil,2006,335619.9951,South America
+490,Brazil,2007,352559.9976,South America
+491,Brazil,2008,373630.0049,South America
+492,Brazil,2009,350000.0,South America
+493,Brazil,2010,397929.9927,South America
+494,Brazil,2011,418309.9976,South America
+495,Brazil,2012,454230.011,South America
+496,Brazil,2013,486839.9963,South America
+497,Brazil,2014,511619.9951,South America
+498,Brazil,2015,485339.9963,South America
+499,Brazil,2016,447079.9866,South America
+500,Brazil,2017,456489.9902,South America
+501,Brazil,2018,433989.9902,South America
+502,Brazil,2019,434299.9878,South America
+504,Bulgaria,2000,43420.0,Europe
+505,Bulgaria,2001,46190.0,Europe
+506,Bulgaria,2002,43599.99847,Europe
+507,Bulgaria,2003,47930.00031,Europe
+508,Bulgaria,2004,47270.00046,Europe
+509,Bulgaria,2005,47990.00168,Europe
+510,Bulgaria,2006,48950.00076,Europe
+511,Bulgaria,2007,52599.99847,Europe
+512,Bulgaria,2008,50040.00092,Europe
+513,Bulgaria,2009,42909.99985,Europe
+514,Bulgaria,2010,44740.00168,Europe
+515,Bulgaria,2011,49639.99939,Europe
+516,Bulgaria,2012,45020.00046,Europe
+517,Bulgaria,2013,39659.99985,Europe
+518,Bulgaria,2014,42049.99924,Europe
+519,Bulgaria,2015,44560.00137,Europe
+520,Bulgaria,2016,41590.00015,Europe
+521,Bulgaria,2017,43880.00107,Europe
+522,Bulgaria,2018,40900.00153,Europe
+523,Bulgaria,2019,39139.99939,Europe
+525,Burkina Faso,2000,940.0,Africa
+526,Burkina Faso,2001,970.0,Africa
+527,Burkina Faso,2002,959.9999785,Africa
+528,Burkina Faso,2003,1039.999962,Africa
+529,Burkina Faso,2004,1059.999943,Africa
+530,Burkina Faso,2005,1059.999943,Africa
+531,Burkina Faso,2006,1240.00001,Africa
+532,Burkina Faso,2007,1409.999967,Africa
+533,Burkina Faso,2008,1700.000048,Africa
+534,Burkina Faso,2009,1730.000019,Africa
+535,Burkina Faso,2010,2289.999962,Africa
+536,Burkina Faso,2011,2460.000038,Africa
+537,Burkina Faso,2012,2940.000057,Africa
+538,Burkina Faso,2013,3130.000114,Africa
+539,Burkina Faso,2014,3180.000067,Africa
+540,Burkina Faso,2015,3700.000048,Africa
+541,Burkina Faso,2016,3700.000048,Africa
+542,Burkina Faso,2017,4269.999981,Africa
+543,Burkina Faso,2018,4670.000076,Africa
+544,Burkina Faso,2019,5000.0,Africa
+546,Burundi,2000,260.0,Africa
+547,Burundi,2001,200.0,Africa
+548,Burundi,2002,209.9999934,Africa
+549,Burundi,2003,159.9999964,Africa
+550,Burundi,2004,150.000006,Africa
+551,Burundi,2005,150.000006,Africa
+552,Burundi,2006,180.0000072,Africa
+553,Burundi,2007,180.0000072,Africa
+554,Burundi,2008,180.0000072,Africa
+555,Burundi,2009,180.0000072,Africa
+556,Burundi,2010,300.0000119,Africa
+557,Burundi,2011,360.0000143,Africa
+558,Burundi,2012,370.0000048,Africa
+559,Burundi,2013,389.9999857,Africa
+560,Burundi,2014,379.9999952,Africa
+561,Burundi,2015,400.000006,Africa
+562,Burundi,2016,439.9999976,Africa
+563,Burundi,2017,529.9999714,Africa
+564,Burundi,2018,689.9999976,Africa
+565,Burundi,2019,720.0000286,Africa
+567,Cambodia,2000,1960.0,Asia
+568,Cambodia,2001,2150.0,Asia
+569,Cambodia,2002,2210.000038,Asia
+570,Cambodia,2003,2380.000114,Asia
+571,Cambodia,2004,2380.000114,Asia
+572,Cambodia,2005,2660.000086,Asia
+573,Cambodia,2006,2960.000038,Asia
+574,Cambodia,2007,3660.000086,Asia
+575,Cambodia,2008,4059.999943,Asia
+576,Cambodia,2009,4750.0,Asia
+577,Cambodia,2010,5139.999866,Asia
+578,Cambodia,2011,5360.000134,Asia
+579,Cambodia,2012,5670.000076,Asia
+580,Cambodia,2013,5739.999771,Asia
+581,Cambodia,2014,6949.999809,Asia
+582,Cambodia,2015,8430.000305,Asia
+583,Cambodia,2016,11069.99969,Asia
+584,Cambodia,2017,12689.99958,Asia
+585,Cambodia,2018,14579.99992,Asia
+586,Cambodia,2019,16180.00031,Asia
+588,Cameroon,2000,5210.0,Africa
+589,Cameroon,2001,5160.0,Africa
+590,Cameroon,2002,5130.000114,Africa
+591,Cameroon,2003,5210.000038,Africa
+592,Cameroon,2004,5119.999886,Africa
+593,Cameroon,2005,5019.999981,Africa
+594,Cameroon,2006,5090.000153,Africa
+595,Cameroon,2007,6130.000114,Africa
+596,Cameroon,2008,6389.999866,Africa
+597,Cameroon,2009,7030.00021,Africa
+598,Cameroon,2010,7010.000229,Africa
+599,Cameroon,2011,6809.999943,Africa
+600,Cameroon,2012,6880.000114,Africa
+601,Cameroon,2013,7550.000191,Africa
+602,Cameroon,2014,8250.0,Africa
+603,Cameroon,2015,8460.000038,Africa
+604,Cameroon,2016,9079.999924,Africa
+605,Cameroon,2017,9170.000076,Africa
+606,Cameroon,2018,9590.000153,Africa
+607,Cameroon,2019,9430.000305,Africa
+609,Canada,2000,514220.0,North America
+610,Canada,2001,506620.0,North America
+611,Canada,2002,524349.9756,North America
+612,Canada,2003,544539.978,North America
+613,Canada,2004,536419.9829,North America
+614,Canada,2005,549030.0293,North America
+615,Canada,2006,540530.0293,North America
+616,Canada,2007,571630.0049,North America
+617,Canada,2008,550469.9707,North America
+618,Canada,2009,521320.0073,North America
+619,Canada,2010,537010.0098,North America
+620,Canada,2011,549289.978,North America
+621,Canada,2012,546210.022,North America
+622,Canada,2013,555659.9731,North America
+623,Canada,2014,561679.9927,North America
+624,Canada,2015,558700.0122,North America
+625,Canada,2016,556830.0171,North America
+626,Canada,2017,568080.0171,North America
+627,Canada,2018,580090.0269,North America
+628,Canada,2019,580210.022,North America
+630,Cayman Islands,2000,465.709,North America
+631,Cayman Islands,2001,465.709,North America
+632,Cayman Islands,2002,484.044,North America
+633,Cayman Islands,2003,484.044,North America
+634,Cayman Islands,2004,462.042,North America
+635,Cayman Islands,2005,473.043,North America
+636,Cayman Islands,2006,484.044,North America
+637,Cayman Islands,2007,572.052,North America
+638,Cayman Islands,2008,583.053,North America
+639,Cayman Islands,2009,557.384,North America
+640,Cayman Islands,2010,557.384,North America
+641,Cayman Islands,2011,586.72,North America
+642,Cayman Islands,2012,535.382,North America
+643,Cayman Islands,2013,535.382,North America
+644,Cayman Islands,2014,546.383,North America
+645,Cayman Islands,2015,557.384,North America
+646,Cayman Islands,2016,546.383,North America
+651,Central African Republic,2000,240.0,Africa
+652,Central African Republic,2001,250.0,Africa
+653,Central African Republic,2002,250.0,Africa
+654,Central African Republic,2003,230.0000042,Africa
+655,Central African Republic,2004,230.0000042,Africa
+656,Central African Republic,2005,219.9999988,Africa
+657,Central African Republic,2006,230.0000042,Africa
+658,Central African Republic,2007,239.9999946,Africa
+659,Central African Republic,2008,170.0000018,Africa
+660,Central African Republic,2009,170.0000018,Africa
+661,Central African Republic,2010,170.0000018,Africa
+662,Central African Republic,2011,189.9999976,Africa
+663,Central African Republic,2012,200.000003,Africa
+664,Central African Republic,2013,119.9999973,Africa
+665,Central African Republic,2014,129.9999952,Africa
+666,Central African Republic,2015,189.9999976,Africa
+667,Central African Republic,2016,209.9999934,Africa
+668,Central African Republic,2017,219.9999988,Africa
+669,Central African Republic,2018,230.0000042,Africa
+670,Central African Republic,2019,239.9999946,Africa
+672,Chad,2000,290.0,Africa
+673,Chad,2001,340.0,Africa
+674,Chad,2002,400.000006,Africa
+675,Chad,2003,449.9999881,Africa
+676,Chad,2004,449.9999881,Africa
+677,Chad,2005,479.9999893,Africa
+678,Chad,2006,509.9999905,Africa
+679,Chad,2007,500.0,Africa
+680,Chad,2008,540.0000215,Africa
+681,Chad,2009,790.0000215,Africa
+682,Chad,2010,1240.00001,Africa
+683,Chad,2011,1100.000024,Africa
+684,Chad,2012,1860.000014,Africa
+685,Chad,2013,2190.000057,Africa
+686,Chad,2014,2259.99999,Africa
+687,Chad,2015,2390.000105,Africa
+688,Chad,2016,2210.000038,Africa
+689,Chad,2017,2150.000095,Africa
+690,Chad,2018,2190.000057,Africa
+691,Chad,2019,2250.0,Africa
+693,Chile,2000,50420.0,South America
+694,Chile,2001,48430.0,South America
+695,Chile,2002,49119.99893,South America
+696,Chile,2003,50200.00076,South America
+697,Chile,2004,54970.00122,South America
+698,Chile,2005,55970.00122,South America
+699,Chile,2006,57150.00153,South America
+700,Chile,2007,64569.99969,South America
+701,Chile,2008,67989.99786,South America
+702,Chile,2009,65449.99695,South America
+703,Chile,2010,69750.0,South America
+704,Chile,2011,76470.00122,South America
+705,Chile,2012,78410.00366,South America
+706,Chile,2013,83000.0,South America
+707,Chile,2014,76559.99756,South America
+708,Chile,2015,82230.00336,South America
+709,Chile,2016,86489.99786,South America
+710,Chile,2017,87069.99969,South America
+711,Chile,2018,86610.00061,South America
+712,Chile,2019,91370.00275,South America
+714,China,2000,3346530.0,Asia
+715,China,2001,3529080.0,Asia
+716,China,2002,3810060.059,Asia
+717,China,2003,4415910.156,Asia
+718,China,2004,5124819.824,Asia
+719,China,2005,5824629.883,Asia
+720,China,2006,6437470.215,Asia
+721,China,2007,6993180.176,Asia
+722,China,2008,7199600.098,Asia
+723,China,2009,7719069.824,Asia
+724,China,2010,8474919.922,Asia
+725,China,2011,9282549.805,Asia
+726,China,2012,9541870.117,Asia
+727,China,2013,9984570.313,Asia
+728,China,2014,10006669.92,Asia
+729,China,2015,9861099.609,Asia
+730,China,2016,9874660.156,Asia
+731,China,2017,10096009.77,Asia
+732,China,2018,10502929.69,Asia
+733,China,2019,10707219.73,Asia
+735,Colombia,2000,58340.0,South America
+736,Colombia,2001,58940.0,South America
+737,Colombia,2002,56770.00046,South America
+738,Colombia,2003,56110.00061,South America
+739,Colombia,2004,56110.00061,South America
+740,Colombia,2005,57639.99939,South America
+741,Colombia,2006,57689.99863,South America
+742,Colombia,2007,59180.00031,South America
+743,Colombia,2008,59779.99878,South America
+744,Colombia,2009,62009.99832,South America
+745,Colombia,2010,63560.00137,South America
+746,Colombia,2011,69099.99847,South America
+747,Colombia,2012,69699.99695,South America
+748,Colombia,2013,76860.00061,South America
+749,Colombia,2014,79199.99695,South America
+750,Colombia,2015,80230.00336,South America
+751,Colombia,2016,82680.00031,South America
+752,Colombia,2017,74989.99786,South America
+753,Colombia,2018,78589.99634,South America
+754,Colombia,2019,81040.00092,South America
+756,Comoros,2000,100.0,Africa
+757,Comoros,2001,110.0,Africa
+758,Comoros,2002,109.9999994,Africa
+759,Comoros,2003,140.0000006,Africa
+760,Comoros,2004,150.000006,Africa
+761,Comoros,2005,150.000006,Africa
+762,Comoros,2006,170.0000018,Africa
+763,Comoros,2007,109.9999994,Africa
+764,Comoros,2008,109.9999994,Africa
+765,Comoros,2009,140.0000006,Africa
+766,Comoros,2010,170.0000018,Africa
+767,Comoros,2011,150.000006,Africa
+768,Comoros,2012,159.9999964,Africa
+769,Comoros,2013,189.9999976,Africa
+770,Comoros,2014,170.0000018,Africa
+771,Comoros,2015,189.9999976,Africa
+772,Comoros,2016,219.9999988,Africa
+773,Comoros,2017,280.0000012,Africa
+774,Comoros,2018,300.0000119,Africa
+775,Comoros,2019,319.9999928,Africa
+798,Costa Rica,2000,4950.0,North America
+799,Costa Rica,2001,5420.0,North America
+800,Costa Rica,2002,5519.999981,North America
+801,Costa Rica,2003,5800.000191,North America
+802,Costa Rica,2004,5940.000057,North America
+803,Costa Rica,2005,6269.999981,North America
+804,Costa Rica,2006,6559.999943,North America
+805,Costa Rica,2007,7599.999905,North America
+806,Costa Rica,2008,7519.999981,North America
+807,Costa Rica,2009,7199.999809,North America
+808,Costa Rica,2010,7110.000134,North America
+809,Costa Rica,2011,7429.999828,North America
+810,Costa Rica,2012,7449.999809,North America
+811,Costa Rica,2013,7780.00021,North America
+812,Costa Rica,2014,7829.999924,North America
+813,Costa Rica,2015,7539.999962,North America
+814,Costa Rica,2016,8079.999924,North America
+815,Costa Rica,2017,8260.000229,North America
+816,Costa Rica,2018,8369.999886,North America
+817,Costa Rica,2019,8239.999771,North America
+819,Croatia,2000,18040.0,Europe
+820,Croatia,2001,19200.0,Europe
+821,Croatia,2002,20280.00069,Europe
+822,Croatia,2003,21610.00061,Europe
+823,Croatia,2004,21100.00038,Europe
+824,Croatia,2005,21450.00076,Europe
+825,Croatia,2006,21610.00061,Europe
+826,Croatia,2007,22879.99916,Europe
+827,Croatia,2008,21729.99954,Europe
+828,Croatia,2009,20309.99947,Europe
+829,Croatia,2010,19459.99908,Europe
+830,Croatia,2011,19030.00069,Europe
+831,Croatia,2012,17409.99985,Europe
+832,Croatia,2013,17010.00023,Europe
+833,Croatia,2014,16239.99977,Europe
+834,Croatia,2015,16600.00038,Europe
+835,Croatia,2016,16879.99916,Europe
+836,Croatia,2017,17409.99985,Europe
+837,Croatia,2018,16430.00031,Europe
+838,Croatia,2019,16520.00046,Europe
+840,Cuba,2000,28350.0,North America
+841,Cuba,2001,27470.0,North America
+842,Cuba,2002,26420.00008,North America
+843,Cuba,2003,25629.99916,North America
+844,Cuba,2004,25360.00061,North America
+845,Cuba,2005,26319.99969,North America
+846,Cuba,2006,26780.00069,North America
+847,Cuba,2007,27680.00031,North America
+848,Cuba,2008,26750.0,North America
+849,Cuba,2009,26979.99954,North America
+850,Cuba,2010,28110.00061,North America
+851,Cuba,2011,27590.00015,North America
+852,Cuba,2012,28690.00053,North America
+853,Cuba,2013,28870.00084,North America
+854,Cuba,2014,26690.00053,North America
+855,Cuba,2015,29209.99908,North America
+856,Cuba,2016,27170.00008,North America
+857,Cuba,2017,26239.99977,North America
+858,Cuba,2018,26709.99908,North America
+859,Cuba,2019,25909.99985,North America
+861,Cyprus,2000,7130.0,Asia
+862,Cyprus,2001,6990.0,Asia
+863,Cyprus,2002,7170.000076,Asia
+864,Cyprus,2003,7829.999924,Asia
+865,Cyprus,2004,7780.00021,Asia
+866,Cyprus,2005,7900.000095,Asia
+867,Cyprus,2006,8000.0,Asia
+868,Cyprus,2007,8310.00042,Asia
+869,Cyprus,2008,8489.999771,Asia
+870,Cyprus,2009,8279.999733,Asia
+871,Cyprus,2010,7900.000095,Asia
+872,Cyprus,2011,7630.000114,Asia
+873,Cyprus,2012,7099.999905,Asia
+874,Cyprus,2013,6429.999828,Asia
+875,Cyprus,2014,6809.999943,Asia
+876,Cyprus,2015,6849.999905,Asia
+877,Cyprus,2016,7219.99979,Asia
+878,Cyprus,2017,7360.000134,Asia
+879,Cyprus,2018,7199.999809,Asia
+880,Cyprus,2019,7190.000057,Asia
+882,Czechia,2000,123170.0,Europe
+883,Czechia,2001,122720.0,Europe
+884,Czechia,2002,118529.9988,Europe
+885,Czechia,2003,122769.9966,Europe
+886,Czechia,2004,123440.0024,Europe
+887,Czechia,2005,119989.9979,Europe
+888,Czechia,2006,120599.9985,Europe
+889,Czechia,2007,123620.0027,Europe
+890,Czechia,2008,118309.9976,Europe
+891,Czechia,2009,111169.9982,Europe
+892,Czechia,2010,112250.0,Europe
+893,Czechia,2011,109169.9982,Europe
+894,Czechia,2012,106069.9997,Europe
+895,Czechia,2013,101150.0015,Europe
+896,Czechia,2014,97510.00214,Europe
+897,Czechia,2015,99139.99939,Europe
+898,Czechia,2016,101730.0034,Europe
+899,Czechia,2017,101830.0018,Europe
+900,Czechia,2018,100900.0015,Europe
+901,Czechia,2019,96290.00092,Europe
+903,Denmark,2000,52600.0,Europe
+904,Denmark,2001,54250.0,Europe
+905,Denmark,2002,53840.00015,Europe
+906,Denmark,2003,59229.99954,Europe
+907,Denmark,2004,53729.99954,Europe
+908,Denmark,2005,50200.00076,Europe
+909,Denmark,2006,58130.00107,Europe
+910,Denmark,2007,53409.99985,Europe
+911,Denmark,2008,50130.00107,Europe
+912,Denmark,2009,47930.00031,Europe
+913,Denmark,2010,48119.99893,Europe
+914,Denmark,2011,43099.99847,Europe
+915,Denmark,2012,38220.00122,Europe
+916,Denmark,2013,39959.99908,Europe
+917,Denmark,2014,35819.99969,Europe
+918,Denmark,2015,33700.00076,Europe
+919,Denmark,2016,35319.99969,Europe
+920,Denmark,2017,33130.00107,Europe
+921,Denmark,2018,33130.00107,Europe
+922,Denmark,2019,29700.00076,Europe
+924,Djibouti,2000,370.0,Africa
+925,Djibouti,2001,380.0,Africa
+926,Djibouti,2002,400.000006,Africa
+927,Djibouti,2003,409.9999964,Africa
+928,Djibouti,2004,400.000006,Africa
+929,Djibouti,2005,430.0000072,Africa
+930,Djibouti,2006,430.0000072,Africa
+931,Djibouti,2007,469.9999988,Africa
+932,Djibouti,2008,469.9999988,Africa
+933,Djibouti,2009,469.9999988,Africa
+934,Djibouti,2010,519.9999809,Africa
+935,Djibouti,2011,479.9999893,Africa
+936,Djibouti,2012,500.0,Africa
+937,Djibouti,2013,560.0000024,Africa
+938,Djibouti,2014,400.000006,Africa
+939,Djibouti,2015,460.0000083,Africa
+940,Djibouti,2016,419.9999869,Africa
+941,Djibouti,2017,419.9999869,Africa
+942,Djibouti,2018,400.000006,Africa
+943,Djibouti,2019,419.9999869,Africa
+945,Dominica,2000,130.0,North America
+946,Dominica,2001,150.0,North America
+947,Dominica,2002,119.9999973,North America
+948,Dominica,2003,140.0000006,North America
+949,Dominica,2004,159.9999964,North America
+950,Dominica,2005,159.9999964,North America
+951,Dominica,2006,170.0000018,North America
+952,Dominica,2007,180.0000072,North America
+953,Dominica,2008,180.0000072,North America
+954,Dominica,2009,500.0,North America
+955,Dominica,2010,180.0000072,North America
+956,Dominica,2011,180.0000072,North America
+957,Dominica,2012,250.0,North America
+958,Dominica,2013,170.0000018,North America
+959,Dominica,2014,180.0000072,North America
+960,Dominica,2015,180.0000072,North America
+961,Dominica,2016,180.0000072,North America
+962,Dominica,2017,170.0000018,North America
+963,Dominica,2018,170.0000018,North America
+964,Dominica,2019,170.0000018,North America
+966,Dominican Republic,2000,18670.0,North America
+967,Dominican Republic,2001,18980.0,North America
+968,Dominican Republic,2002,20879.99916,North America
+969,Dominican Republic,2003,18729.99954,North America
+970,Dominican Republic,2004,17280.00069,North America
+971,Dominican Republic,2005,18690.00053,North America
+972,Dominican Republic,2006,20370.00084,North America
+973,Dominican Republic,2007,20629.99916,North America
+974,Dominican Republic,2008,20579.99992,North America
+975,Dominican Republic,2009,19659.99985,North America
+976,Dominican Republic,2010,20680.00031,North America
+977,Dominican Republic,2011,20909.99985,North America
+978,Dominican Republic,2012,21680.00031,North America
+979,Dominican Republic,2013,21290.00092,North America
+980,Dominican Republic,2014,21450.00076,North America
+981,Dominican Republic,2015,23590.00015,North America
+982,Dominican Republic,2016,24590.00015,North America
+983,Dominican Republic,2017,23549.99924,North America
+984,Dominican Republic,2018,25309.99947,North America
+985,Dominican Republic,2019,27229.99954,North America
+987,Ecuador,2000,22050.0,South America
+988,Ecuador,2001,24250.0,South America
+989,Ecuador,2002,24170.00008,South America
+990,Ecuador,2003,24659.99985,South America
+991,Ecuador,2004,26180.00031,South America
+992,Ecuador,2005,28219.99931,South America
+993,Ecuador,2006,30129.99916,South America
+994,Ecuador,2007,30639.99939,South America
+995,Ecuador,2008,31690.00053,South America
+996,Ecuador,2009,34500.0,South America
+997,Ecuador,2010,37250.0,South America
+998,Ecuador,2011,37099.99847,South America
+999,Ecuador,2012,37090.00015,South America
+1000,Ecuador,2013,39700.00076,South America
+1001,Ecuador,2014,41799.99924,South America
+1002,Ecuador,2015,41520.00046,South America
+1003,Ecuador,2016,39810.00137,South America
+1004,Ecuador,2017,38549.99924,South America
+1005,Ecuador,2018,40139.99939,South America
+1006,Ecuador,2019,39290.00092,South America
+1029,El Salvador,2000,5630.0,North America
+1030,El Salvador,2001,5870.0,North America
+1031,El Salvador,2002,5940.000057,North America
+1032,El Salvador,2003,6510.000229,North America
+1033,El Salvador,2004,6679.999828,North America
+1034,El Salvador,2005,6840.000153,North America
+1035,El Salvador,2006,7239.999771,North America
+1036,El Salvador,2007,7630.000114,North America
+1037,El Salvador,2008,6909.999847,North America
+1038,El Salvador,2009,6679.999828,North America
+1039,El Salvador,2010,6539.999962,North America
+1040,El Salvador,2011,6780.00021,North America
+1041,El Salvador,2012,6769.999981,North America
+1042,El Salvador,2013,6460.000038,North America
+1043,El Salvador,2014,6590.000153,North America
+1044,El Salvador,2015,7000.0,North America
+1045,El Salvador,2016,7170.000076,North America
+1046,El Salvador,2017,6380.000114,North America
+1047,El Salvador,2018,6809.999943,North America
+1048,El Salvador,2019,7800.000191,North America
+1050,Equatorial Guinea,2000,2220.0,Africa
+1051,Equatorial Guinea,2001,3400.0,Africa
+1052,Equatorial Guinea,2002,4630.000114,Africa
+1053,Equatorial Guinea,2003,5010.000229,Africa
+1054,Equatorial Guinea,2004,6199.999809,Africa
+1055,Equatorial Guinea,2005,8319.999695,Africa
+1056,Equatorial Guinea,2006,9369.999886,Africa
+1057,Equatorial Guinea,2007,8539.999962,Africa
+1058,Equatorial Guinea,2008,9779.999733,Africa
+1059,Equatorial Guinea,2009,9710.000038,Africa
+1060,Equatorial Guinea,2010,9949.999809,Africa
+1061,Equatorial Guinea,2011,9989.999771,Africa
+1062,Equatorial Guinea,2012,9819.999695,Africa
+1063,Equatorial Guinea,2013,9180.000305,Africa
+1064,Equatorial Guinea,2014,7909.999847,Africa
+1065,Equatorial Guinea,2015,6570.000172,Africa
+1066,Equatorial Guinea,2016,6659.999847,Africa
+1067,Equatorial Guinea,2017,5800.000191,Africa
+1068,Equatorial Guinea,2018,6429.999828,Africa
+1069,Equatorial Guinea,2019,5349.999905,Africa
+1071,Eritrea,2000,640.0,Africa
+1072,Eritrea,2001,700.0,Africa
+1073,Eritrea,2002,680.0000072,Africa
+1074,Eritrea,2003,689.9999976,Africa
+1075,Eritrea,2004,680.0000072,Africa
+1076,Eritrea,2005,600.0000238,Africa
+1077,Eritrea,2006,519.9999809,Africa
+1078,Eritrea,2007,509.9999905,Africa
+1079,Eritrea,2008,449.9999881,Africa
+1080,Eritrea,2009,469.9999988,Africa
+1081,Eritrea,2010,500.0,Africa
+1082,Eritrea,2011,569.9999928,Africa
+1083,Eritrea,2012,620.0000048,Africa
+1084,Eritrea,2013,639.9999857,Africa
+1085,Eritrea,2014,649.9999762,Africa
+1086,Eritrea,2015,649.9999762,Africa
+1087,Eritrea,2016,660.0000262,Africa
+1088,Eritrea,2017,720.0000286,Africa
+1089,Eritrea,2018,850.0000238,Africa
+1090,Eritrea,2019,879.9999952,Africa
+1092,Estonia,2000,14920.0,Europe
+1093,Estonia,2001,15380.0,Europe
+1094,Estonia,2002,14949.99981,Europe
+1095,Estonia,2003,16940.00053,Europe
+1096,Estonia,2004,17020.00046,Europe
+1097,Estonia,2005,17229.99954,Europe
+1098,Estonia,2006,15979.99954,Europe
+1099,Estonia,2007,19979.99954,Europe
+1100,Estonia,2008,18399.99962,Europe
+1101,Estonia,2009,15050.00019,Europe
+1102,Estonia,2010,19000.0,Europe
+1103,Estonia,2011,18170.00008,Europe
+1104,Estonia,2012,16889.99939,Europe
+1105,Estonia,2013,19319.99969,Europe
+1106,Estonia,2014,17940.00053,Europe
+1107,Estonia,2015,15539.99996,Europe
+1108,Estonia,2016,15989.99977,Europe
+1109,Estonia,2017,16709.99908,Europe
+1110,Estonia,2018,15319.99969,Europe
+1111,Estonia,2019,10180.00031,Europe
+1113,Eswatini,2000,690.0,Africa
+1114,Eswatini,2001,610.0,Africa
+1115,Eswatini,2002,620.0000048,Africa
+1116,Eswatini,2003,629.9999952,Africa
+1117,Eswatini,2004,629.9999952,Africa
+1118,Eswatini,2005,660.0000262,Africa
+1119,Eswatini,2006,649.9999762,Africa
+1120,Eswatini,2007,660.0000262,Africa
+1121,Eswatini,2008,629.9999952,Africa
+1122,Eswatini,2009,699.9999881,Africa
+1123,Eswatini,2010,649.9999762,Africa
+1124,Eswatini,2011,660.0000262,Africa
+1125,Eswatini,2012,680.0000072,Africa
+1126,Eswatini,2013,750.0,Africa
+1127,Eswatini,2014,750.0,Africa
+1128,Eswatini,2015,769.9999809,Africa
+1129,Eswatini,2016,839.9999738,Africa
+1130,Eswatini,2017,889.9999857,Africa
+1131,Eswatini,2018,910.0000262,Africa
+1132,Eswatini,2019,959.9999785,Africa
+1134,Ethiopia,2000,3560.0,Africa
+1135,Ethiopia,2001,4400.0,Africa
+1136,Ethiopia,2002,4570.000172,Africa
+1137,Ethiopia,2003,5019.999981,Africa
+1138,Ethiopia,2004,5329.999924,Africa
+1139,Ethiopia,2005,5050.000191,Africa
+1140,Ethiopia,2006,5400.000095,Africa
+1141,Ethiopia,2007,5960.000038,Africa
+1142,Ethiopia,2008,6489.999771,Africa
+1143,Ethiopia,2009,6530.00021,Africa
+1144,Ethiopia,2010,6469.99979,Africa
+1145,Ethiopia,2011,7539.999962,Africa
+1146,Ethiopia,2012,8479.999542,Africa
+1147,Ethiopia,2013,10079.99992,Africa
+1148,Ethiopia,2014,12340.00015,Africa
+1149,Ethiopia,2015,12890.00034,Africa
+1150,Ethiopia,2016,14970.00027,Africa
+1151,Ethiopia,2017,15819.99969,Africa
+1152,Ethiopia,2018,17239.99977,Africa
+1153,Ethiopia,2019,18360.00061,Africa
+1155,Fiji,2000,810.0,Oceania
+1156,Fiji,2001,1040.0,Oceania
+1157,Fiji,2002,879.9999952,Oceania
+1158,Fiji,2003,1049.999952,Oceania
+1159,Fiji,2004,1470.000029,Oceania
+1160,Fiji,2005,1289.999962,Oceania
+1161,Fiji,2006,1379.999995,Oceania
+1162,Fiji,2007,1259.99999,Oceania
+1163,Fiji,2008,970.0000286,Oceania
+1164,Fiji,2009,970.0000286,Oceania
+1165,Fiji,2010,1159.999967,Oceania
+1166,Fiji,2011,1110.000014,Oceania
+1167,Fiji,2012,1029.999971,Oceania
+1168,Fiji,2013,1129.999995,Oceania
+1169,Fiji,2014,1289.999962,Oceania
+1170,Fiji,2015,1379.999995,Oceania
+1171,Fiji,2016,1519.999981,Oceania
+1172,Fiji,2017,1649.999976,Oceania
+1173,Fiji,2018,1629.999995,Oceania
+1174,Fiji,2019,1629.999995,Oceania
+1176,Finland,2000,55100.0,Europe
+1177,Finland,2001,61090.0,Europe
+1178,Finland,2002,63439.99863,Europe
+1179,Finland,2003,71709.99908,Europe
+1180,Finland,2004,67680.00031,Europe
+1181,Finland,2005,55459.99908,Europe
+1182,Finland,2006,67019.99664,Europe
+1183,Finland,2007,65099.99847,Europe
+1184,Finland,2008,56659.99985,Europe
+1185,Finland,2009,54180.00031,Europe
+1186,Finland,2010,62529.99878,Europe
+1187,Finland,2011,55119.99893,Europe
+1188,Finland,2012,49409.99985,Europe
+1189,Finland,2013,50189.99863,Europe
+1190,Finland,2014,46159.99985,Europe
+1191,Finland,2015,42819.99969,Europe
+1192,Finland,2016,45700.00076,Europe
+1193,Finland,2017,43020.00046,Europe
+1194,Finland,2018,44580.00183,Europe
+1195,Finland,2019,40709.99908,Europe
+1197,France,2000,373120.0,Europe
+1198,France,2001,376730.0,Europe
+1199,France,2002,371019.989,Europe
+1200,France,2003,376709.9915,Europe
+1201,France,2004,377790.0085,Europe
+1202,France,2005,380660.0037,Europe
+1203,France,2006,371549.9878,Europe
+1204,France,2007,362829.9866,Europe
+1205,France,2008,357989.9902,Europe
+1206,France,2009,343730.011,Europe
+1207,France,2010,347779.9988,Europe
+1208,France,2011,335140.0146,Europe
+1209,France,2012,338420.0134,Europe
+1210,France,2013,338559.9976,Europe
+1211,France,2014,306100.0061,Europe
+1212,France,2015,311299.9878,Europe
+1213,France,2016,313920.0134,Europe
+1214,France,2017,317829.9866,Europe
+1215,France,2018,307049.9878,Europe
+1216,France,2019,300519.989,Europe
+1219,Gabon,2000,6080.0,Africa
+1220,Gabon,2001,6230.0,Africa
+1221,Gabon,2002,5960.000038,Africa
+1222,Gabon,2003,6440.000057,Africa
+1223,Gabon,2004,6090.000153,Africa
+1224,Gabon,2005,6059.999943,Africa
+1225,Gabon,2006,5440.000057,Africa
+1226,Gabon,2007,4940.000057,Africa
+1227,Gabon,2008,5269.999981,Africa
+1228,Gabon,2009,5199.999809,Africa
+1229,Gabon,2010,5760.000229,Africa
+1230,Gabon,2011,5780.00021,Africa
+1231,Gabon,2012,5599.999905,Africa
+1232,Gabon,2013,5789.999962,Africa
+1233,Gabon,2014,5960.000038,Africa
+1234,Gabon,2015,6119.999886,Africa
+1235,Gabon,2016,6420.000076,Africa
+1236,Gabon,2017,5329.999924,Africa
+1237,Gabon,2018,5119.999886,Africa
+1238,Gabon,2019,5250.0,Africa
+1261,Georgia,2000,4770.0,Asia
+1262,Georgia,2001,3520.0,Asia
+1263,Georgia,2002,2960.000038,Asia
+1264,Georgia,2003,3160.000086,Asia
+1265,Georgia,2004,3369.999886,Asia
+1266,Georgia,2005,4239.999771,Asia
+1267,Georgia,2006,4699.999809,Asia
+1268,Georgia,2007,5630.000114,Asia
+1269,Georgia,2008,4840.000153,Asia
+1270,Georgia,2009,5619.999886,Asia
+1271,Georgia,2010,5320.000172,Asia
+1272,Georgia,2011,6519.999981,Asia
+1273,Georgia,2012,7190.000057,Asia
+1274,Georgia,2013,7840.000153,Asia
+1275,Georgia,2014,8470.000267,Asia
+1276,Georgia,2015,9199.999809,Asia
+1277,Georgia,2016,9649.999619,Asia
+1278,Georgia,2017,9729.999542,Asia
+1279,Georgia,2018,9569.999695,Asia
+1280,Georgia,2019,10109.99966,Asia
+1282,Germany,2000,830280.0,Europe
+1283,Germany,2001,847680.0,Europe
+1284,Germany,2002,833380.0049,Europe
+1285,Germany,2003,836789.978,Europe
+1286,Germany,2004,821070.0073,Europe
+1287,Germany,2005,802380.0049,Europe
+1288,Germany,2006,814409.9731,Europe
+1289,Germany,2007,783799.9878,Europe
+1290,Germany,2008,789690.0024,Europe
+1291,Germany,2009,734809.9976,Europe
+1292,Germany,2010,773070.0073,Europe
+1293,Germany,2011,746479.9805,Europe
+1294,Germany,2012,760130.0049,Europe
+1295,Germany,2013,776150.0244,Europe
+1296,Germany,2014,736010.0098,Europe
+1297,Germany,2015,742309.9976,Europe
+1298,Germany,2016,747150.0244,Europe
+1299,Germany,2017,732200.0122,Europe
+1300,Germany,2018,707700.0122,Europe
+1301,Germany,2019,657400.0244,Europe
+1303,Ghana,2000,5740.0,Africa
+1304,Ghana,2001,6210.0,Africa
+1305,Ghana,2002,7429.999828,Africa
+1306,Ghana,2003,7139.999866,Africa
+1307,Ghana,2004,6679.999828,Africa
+1308,Ghana,2005,7039.999962,Africa
+1309,Ghana,2006,8510.000229,Africa
+1310,Ghana,2007,9119.999886,Africa
+1311,Ghana,2008,8659.999847,Africa
+1312,Ghana,2009,10010.00023,Africa
+1313,Ghana,2010,11189.99958,Africa
+1314,Ghana,2011,11750.0,Africa
+1315,Ghana,2012,14609.99966,Africa
+1316,Ghana,2013,15630.00011,Africa
+1317,Ghana,2014,15090.00015,Africa
+1318,Ghana,2015,15779.99973,Africa
+1319,Ghana,2016,16069.99969,Africa
+1320,Ghana,2017,17010.00023,Africa
+1321,Ghana,2018,18680.00031,Africa
+1322,Ghana,2019,20040.00092,Africa
+1324,Greece,2000,94460.0,Europe
+1325,Greece,2001,96610.0,Europe
+1326,Greece,2002,96599.99847,Europe
+1327,Greece,2003,100220.0012,Europe
+1328,Greece,2004,99839.99634,Europe
+1329,Greece,2005,101949.9969,Europe
+1330,Greece,2006,100699.9969,Europe
+1331,Greece,2007,104309.9976,Europe
+1332,Greece,2008,100410.0037,Europe
+1333,Greece,2009,94739.99786,Europe
+1334,Greece,2010,87580.00183,Europe
+1335,Greece,2011,84550.00305,Europe
+1336,Greece,2012,80089.99634,Europe
+1337,Greece,2013,72480.00336,Europe
+1338,Greece,2014,69550.00305,Europe
+1339,Greece,2015,68010.00214,Europe
+1340,Greece,2016,66849.99847,Europe
+1341,Greece,2017,66800.00305,Europe
+1342,Greece,2018,65019.99664,Europe
+1343,Greece,2019,60000.0,Europe
+1345,Grenada,2000,210.0,North America
+1346,Grenada,2001,230.0,North America
+1347,Grenada,2002,239.9999946,North America
+1348,Grenada,2003,250.0,North America
+1349,Grenada,2004,230.0000042,North America
+1350,Grenada,2005,250.0,North America
+1351,Grenada,2006,259.9999905,North America
+1352,Grenada,2007,280.0000012,North America
+1353,Grenada,2008,289.9999917,North America
+1354,Grenada,2009,810.0000024,North America
+1355,Grenada,2010,289.9999917,North America
+1356,Grenada,2011,310.0000024,North America
+1357,Grenada,2012,409.9999964,North America
+1358,Grenada,2013,319.9999928,North America
+1359,Grenada,2014,250.0,North America
+1360,Grenada,2015,270.0000107,North America
+1361,Grenada,2016,280.0000012,North America
+1362,Grenada,2017,289.9999917,North America
+1363,Grenada,2018,319.9999928,North America
+1364,Grenada,2019,330.0000131,North America
+1366,Guatemala,2000,9420.0,North America
+1367,Guatemala,2001,9810.0,North America
+1368,Guatemala,2002,10470.00027,North America
+1369,Guatemala,2003,10539.99996,North America
+1370,Guatemala,2004,10750.0,North America
+1371,Guatemala,2005,11529.99973,North America
+1372,Guatemala,2006,11520.00046,North America
+1373,Guatemala,2007,12409.99985,North America
+1374,Guatemala,2008,11239.99977,North America
+1375,Guatemala,2009,11850.00038,North America
+1376,Guatemala,2010,11439.99958,North America
+1377,Guatemala,2011,11739.99977,North America
+1378,Guatemala,2012,12149.99962,North America
+1379,Guatemala,2013,13000.0,North America
+1380,Guatemala,2014,13949.99981,North America
+1381,Guatemala,2015,16340.00015,North America
+1382,Guatemala,2016,17489.99977,North America
+1383,Guatemala,2017,16569.99969,North America
+1384,Guatemala,2018,18319.99969,North America
+1385,Guatemala,2019,19309.99947,North America
+1387,Guinea,2000,1490.0,Africa
+1388,Guinea,2001,1570.0,Africa
+1389,Guinea,2002,1629.999995,Africa
+1390,Guinea,2003,1700.000048,Africa
+1391,Guinea,2004,1769.999981,Africa
+1392,Guinea,2005,1830.000043,Africa
+1393,Guinea,2006,1899.999976,Africa
+1394,Guinea,2007,1980.000019,Africa
+1395,Guinea,2008,2009.99999,Africa
+1396,Guinea,2009,2119.999886,Africa
+1397,Guinea,2010,2500.0,Africa
+1398,Guinea,2011,2619.999886,Africa
+1399,Guinea,2012,2480.000019,Africa
+1400,Guinea,2013,2180.000067,Africa
+1401,Guinea,2014,2240.00001,Africa
+1402,Guinea,2015,2539.999962,Africa
+1403,Guinea,2016,2819.999933,Africa
+1404,Guinea,2017,3339.999914,Africa
+1405,Guinea,2018,3750.0,Africa
+1406,Guinea,2019,3950.000048,Africa
+1408,Guinea-Bissau,2000,150.0,Africa
+1409,Guinea-Bissau,2001,150.0,Africa
+1410,Guinea-Bissau,2002,150.000006,Africa
+1411,Guinea-Bissau,2003,189.9999976,Africa
+1412,Guinea-Bissau,2004,200.000003,Africa
+1413,Guinea-Bissau,2005,209.9999934,Africa
+1414,Guinea-Bissau,2006,219.9999988,Africa
+1415,Guinea-Bissau,2007,230.0000042,Africa
+1416,Guinea-Bissau,2008,219.9999988,Africa
+1417,Guinea-Bissau,2009,230.0000042,Africa
+1418,Guinea-Bissau,2010,239.9999946,Africa
+1419,Guinea-Bissau,2011,239.9999946,Africa
+1420,Guinea-Bissau,2012,250.0,Africa
+1421,Guinea-Bissau,2013,250.0,Africa
+1422,Guinea-Bissau,2014,270.0000107,Africa
+1423,Guinea-Bissau,2015,280.0000012,Africa
+1424,Guinea-Bissau,2016,310.0000024,Africa
+1425,Guinea-Bissau,2017,310.0000024,Africa
+1426,Guinea-Bissau,2018,319.9999928,Africa
+1427,Guinea-Bissau,2019,330.0000131,Africa
+1429,Guyana,2000,1660.0,South America
+1430,Guyana,2001,1640.0,South America
+1431,Guyana,2002,1620.000005,South America
+1432,Guyana,2003,1620.000005,South America
+1433,Guyana,2004,1669.999957,South America
+1434,Guyana,2005,1480.000019,South America
+1435,Guyana,2006,1330.000043,South America
+1436,Guyana,2007,1610.000014,South America
+1437,Guyana,2008,1600.000024,South America
+1438,Guyana,2009,1629.999995,South America
+1439,Guyana,2010,1759.99999,South America
+1440,Guyana,2011,1830.000043,South America
+1441,Guyana,2012,2000.0,South America
+1442,Guyana,2013,1980.000019,South America
+1443,Guyana,2014,2059.999943,South America
+1444,Guyana,2015,2079.999924,South America
+1445,Guyana,2016,2480.000019,South America
+1446,Guyana,2017,2470.000029,South America
+1447,Guyana,2018,2589.999914,South America
+1448,Guyana,2019,2849.999905,South America
+1450,Haiti,2000,1470.0,North America
+1451,Haiti,2001,1600.0,North America
+1452,Haiti,2002,1830.000043,North America
+1453,Haiti,2003,1809.999943,North America
+1454,Haiti,2004,1669.999957,North America
+1455,Haiti,2005,1700.000048,North America
+1456,Haiti,2006,1720.000029,North America
+1457,Haiti,2007,2049.999952,North America
+1458,Haiti,2008,2029.999971,North America
+1459,Haiti,2009,1990.00001,North America
+1460,Haiti,2010,2460.000038,North America
+1461,Haiti,2011,2700.000048,North America
+1462,Haiti,2012,2420.000076,North America
+1463,Haiti,2013,2650.000095,North America
+1464,Haiti,2014,3019.999981,North America
+1465,Haiti,2015,3279.999971,North America
+1466,Haiti,2016,3359.999895,North America
+1467,Haiti,2017,3329.999924,North America
+1468,Haiti,2018,3289.999962,North America
+1469,Haiti,2019,3319.999933,North America
+1471,Honduras,2000,4990.0,North America
+1472,Honduras,2001,5800.0,North America
+1473,Honduras,2002,6090.000153,North America
+1474,Honduras,2003,6730.000019,North America
+1475,Honduras,2004,7559.999943,North America
+1476,Honduras,2005,6969.99979,North America
+1477,Honduras,2006,7969.99979,North America
+1478,Honduras,2007,8539.999962,North America
+1479,Honduras,2008,8590.000153,North America
+1480,Honduras,2009,8069.999695,North America
+1481,Honduras,2010,8180.000305,North America
+1482,Honduras,2011,8810.00042,North America
+1483,Honduras,2012,9239.999771,North America
+1484,Honduras,2013,9369.999886,North America
+1485,Honduras,2014,9460.000038,North America
+1486,Honduras,2015,9930.000305,North America
+1487,Honduras,2016,9470.000267,North America
+1488,Honduras,2017,9260.000229,North America
+1489,Honduras,2018,10050.00019,North America
+1490,Honduras,2019,10220.00027,North America
+1492,Hungary,2000,54630.0,Europe
+1493,Hungary,2001,56280.0,Europe
+1494,Hungary,2002,55599.99847,Europe
+1495,Hungary,2003,58189.99863,Europe
+1496,Hungary,2004,56349.99847,Europe
+1497,Hungary,2005,55919.99817,Europe
+1498,Hungary,2006,55459.99908,Europe
+1499,Hungary,2007,53849.99847,Europe
+1500,Hungary,2008,53009.99832,Europe
+1501,Hungary,2009,47840.00015,Europe
+1502,Hungary,2010,47880.00107,Europe
+1503,Hungary,2011,46909.99985,Europe
+1504,Hungary,2012,43430.00031,Europe
+1505,Hungary,2013,40759.99832,Europe
+1506,Hungary,2014,40630.00107,Europe
+1507,Hungary,2015,43380.00107,Europe
+1508,Hungary,2016,44250.0,Europe
+1509,Hungary,2017,46439.99863,Europe
+1510,Hungary,2018,46400.00153,Europe
+1511,Hungary,2019,46380.00107,Europe
+1513,Iceland,2000,2230.0,Europe
+1514,Iceland,2001,2160.0,Europe
+1515,Iceland,2002,2240.00001,Europe
+1516,Iceland,2003,2230.000019,Europe
+1517,Iceland,2004,2319.999933,Europe
+1518,Iceland,2005,2289.999962,Europe
+1519,Iceland,2006,2329.999924,Europe
+1520,Iceland,2007,2380.000114,Europe
+1521,Iceland,2008,2180.000067,Europe
+1522,Iceland,2009,2109.999895,Europe
+1523,Iceland,2010,1960.000038,Europe
+1524,Iceland,2011,1889.999986,Europe
+1525,Iceland,2012,1860.000014,Europe
+1526,Iceland,2013,2029.999971,Europe
+1527,Iceland,2014,2049.999952,Europe
+1528,Iceland,2015,2059.999943,Europe
+1529,Iceland,2016,1629.999995,Europe
+1530,Iceland,2017,1669.999957,Europe
+1531,Iceland,2018,1700.000048,Europe
+1532,Iceland,2019,1639.999986,Europe
+1534,India,2000,937860.0,Asia
+1535,India,2001,953540.0,Asia
+1536,India,2002,985450.0122,Asia
+1537,India,2003,1011770.02,Asia
+1538,India,2004,1085670.044,Asia
+1539,India,2005,1136469.971,Asia
+1540,India,2006,1215209.961,Asia
+1541,India,2007,1336739.99,Asia
+1542,India,2008,1424380.005,Asia
+1543,India,2009,1564880.005,Asia
+1544,India,2010,1659979.98,Asia
+1545,India,2011,1756739.99,Asia
+1546,India,2012,1909439.941,Asia
+1547,India,2013,1972430.054,Asia
+1548,India,2014,2147110.107,Asia
+1549,India,2015,2158020.02,Asia
+1550,India,2016,2195250.0,Asia
+1551,India,2017,2320409.912,Asia
+1552,India,2018,2451929.932,Asia
+1553,India,2019,2456300.049,Asia
+1555,Indonesia,2000,280650.0,Asia
+1556,Indonesia,2001,302060.0,Asia
+1557,Indonesia,2002,305640.0146,Asia
+1558,Indonesia,2003,333890.0146,Asia
+1559,Indonesia,2004,341239.9902,Asia
+1560,Indonesia,2005,342149.9939,Asia
+1561,Indonesia,2006,364470.0012,Asia
+1562,Indonesia,2007,379959.9915,Asia
+1563,Indonesia,2008,376140.0146,Asia
+1564,Indonesia,2009,391079.9866,Asia
+1565,Indonesia,2010,415519.989,Asia
+1566,Indonesia,2011,475309.9976,Asia
+1567,Indonesia,2012,481510.0098,Asia
+1568,Indonesia,2013,447940.0024,Asia
+1569,Indonesia,2014,483910.0037,Asia
+1570,Indonesia,2015,488549.9878,Asia
+1571,Indonesia,2016,482510.0098,Asia
+1572,Indonesia,2017,517320.0073,Asia
+1573,Indonesia,2018,576989.9902,Asia
+1574,Indonesia,2019,619840.0269,Asia
+1576,Iraq,2000,87630.0,Asia
+1577,Iraq,2001,97550.0,Asia
+1578,Iraq,2002,91160.00366,Asia
+1579,Iraq,2003,81279.99878,Asia
+1580,Iraq,2004,88110.00061,Asia
+1581,Iraq,2005,85129.99725,Asia
+1582,Iraq,2006,82959.99908,Asia
+1583,Iraq,2007,76650.00153,Asia
+1584,Iraq,2008,88139.99939,Asia
+1585,Iraq,2009,94199.99695,Asia
+1586,Iraq,2010,108550.0031,Asia
+1587,Iraq,2011,113040.0009,Asia
+1588,Iraq,2012,129000.0,Asia
+1589,Iraq,2013,139100.0061,Asia
+1590,Iraq,2014,134039.9933,Asia
+1591,Iraq,2015,133169.9982,Asia
+1592,Iraq,2016,142229.9957,Asia
+1593,Iraq,2017,155080.0018,Asia
+1594,Iraq,2018,163149.9939,Asia
+1595,Iraq,2019,174559.9976,Asia
+1597,Ireland,2000,42530.0,Europe
+1598,Ireland,2001,44820.0,Europe
+1599,Ireland,2002,43930.00031,Europe
+1600,Ireland,2003,44090.00015,Europe
+1601,Ireland,2004,44689.99863,Europe
+1602,Ireland,2005,46650.00153,Europe
+1603,Ireland,2006,47259.99832,Europe
+1604,Ireland,2007,46360.00061,Europe
+1605,Ireland,2008,45779.99878,Europe
+1606,Ireland,2009,40560.00137,Europe
+1607,Ireland,2010,40189.99863,Europe
+1608,Ireland,2011,36680.00031,Europe
+1609,Ireland,2012,37130.00107,Europe
+1610,Ireland,2013,35709.99908,Europe
+1611,Ireland,2014,35529.99878,Europe
+1612,Ireland,2015,37060.00137,Europe
+1613,Ireland,2016,38819.99969,Europe
+1614,Ireland,2017,37779.99878,Europe
+1615,Ireland,2018,37659.99985,Europe
+1616,Ireland,2019,35750.0,Europe
+1618,Israel,2000,57000.0,Asia
+1619,Israel,2001,57950.0,Asia
+1620,Israel,2002,61080.00183,Asia
+1621,Israel,2003,62930.00031,Asia
+1622,Israel,2004,63159.99985,Asia
+1623,Israel,2005,61009.99832,Asia
+1624,Israel,2006,64330.00183,Asia
+1625,Israel,2007,66599.99847,Asia
+1626,Israel,2008,66709.99908,Asia
+1627,Israel,2009,65730.00336,Asia
+1628,Israel,2010,70519.99664,Asia
+1629,Israel,2011,69819.99969,Asia
+1630,Israel,2012,76059.99756,Asia
+1631,Israel,2013,67000.0,Asia
+1632,Israel,2014,64720.00122,Asia
+1633,Israel,2015,66139.99939,Asia
+1634,Israel,2016,64980.00336,Asia
+1635,Israel,2017,65610.00061,Asia
+1636,Israel,2018,61080.00183,Asia
+1637,Israel,2019,62650.00153,Asia
+1639,Italy,2000,436300.0,Europe
+1640,Italy,2001,436570.0,Europe
+1641,Italy,2002,443470.0012,Europe
+1642,Italy,2003,462200.0122,Europe
+1643,Italy,2004,472399.9939,Europe
+1644,Italy,2005,473829.9866,Europe
+1645,Italy,2006,466649.9939,Europe
+1646,Italy,2007,459369.9951,Europe
+1647,Italy,2008,444980.011,Europe
+1648,Italy,2009,397059.9976,Europe
+1649,Italy,2010,405269.989,Europe
+1650,Italy,2011,396690.0024,Europe
+1651,Italy,2012,376750.0,Europe
+1652,Italy,2013,346459.9915,Europe
+1653,Italy,2014,327500.0,Europe
+1654,Italy,2015,337859.9854,Europe
+1655,Italy,2016,333339.9963,Europe
+1656,Italy,2017,329190.0024,Europe
+1657,Italy,2018,324880.0049,Europe
+1658,Italy,2019,317239.9902,Europe
+1660,Jamaica,2000,10060.0,North America
+1661,Jamaica,2001,10080.0,North America
+1662,Jamaica,2002,10250.0,North America
+1663,Jamaica,2003,10590.00015,North America
+1664,Jamaica,2004,10569.99969,North America
+1665,Jamaica,2005,10560.00042,North America
+1666,Jamaica,2006,12060.00042,North America
+1667,Jamaica,2007,12020.00046,North America
+1668,Jamaica,2008,9619.999886,North America
+1669,Jamaica,2009,7880.000114,North America
+1670,Jamaica,2010,7480.000019,North America
+1671,Jamaica,2011,7530.00021,North America
+1672,Jamaica,2012,6960.000038,North America
+1673,Jamaica,2013,7400.000095,North America
+1674,Jamaica,2014,7190.000057,North America
+1675,Jamaica,2015,7090.000153,North America
+1676,Jamaica,2016,7570.000172,North America
+1677,Jamaica,2017,7219.99979,North America
+1678,Jamaica,2018,8609.999657,North America
+1679,Jamaica,2019,8390.000343,North America
+1681,Japan,2000,1182610.0,Asia
+1682,Japan,2001,1170380.0,Asia
+1683,Japan,2002,1206599.976,Asia
+1684,Japan,2003,1214949.951,Asia
+1685,Japan,2004,1209849.976,Asia
+1686,Japan,2005,1212819.946,Asia
+1687,Japan,2006,1189520.02,Asia
+1688,Japan,2007,1225069.946,Asia
+1689,Japan,2008,1158219.971,Asia
+1690,Japan,2009,1100979.98,Asia
+1691,Japan,2010,1156479.98,Asia
+1692,Japan,2011,1213520.02,Asia
+1693,Japan,2012,1253609.985,Asia
+1694,Japan,2013,1262780.029,Asia
+1695,Japan,2014,1217119.995,Asia
+1696,Japan,2015,1179439.941,Asia
+1697,Japan,2016,1167790.039,Asia
+1698,Japan,2017,1155229.98,Asia
+1699,Japan,2018,1116150.024,Asia
+1700,Japan,2019,1081569.946,Asia
+1702,Jordan,2000,16270.0,Asia
+1703,Jordan,2001,16250.0,Asia
+1704,Jordan,2002,16870.00084,Asia
+1705,Jordan,2003,17309.99947,Asia
+1706,Jordan,2004,18579.99992,Asia
+1707,Jordan,2005,19870.00084,Asia
+1708,Jordan,2006,20170.00008,Asia
+1709,Jordan,2007,21090.00015,Asia
+1710,Jordan,2008,20010.00023,Asia
+1711,Jordan,2009,20659.99985,Asia
+1712,Jordan,2010,20200.00076,Asia
+1713,Jordan,2011,20760.00023,Asia
+1714,Jordan,2012,24120.00084,Asia
+1715,Jordan,2013,23799.99924,Asia
+1716,Jordan,2014,25549.99924,Asia
+1717,Jordan,2015,25309.99947,Asia
+1718,Jordan,2016,24819.99969,Asia
+1719,Jordan,2017,26149.99962,Asia
+1720,Jordan,2018,24780.00069,Asia
+1721,Jordan,2019,24629.99916,Asia
+1723,Kazakhstan,2000,120150.0,Asia
+1724,Kazakhstan,2001,117440.0,Asia
+1725,Kazakhstan,2002,131059.9976,Asia
+1726,Kazakhstan,2003,146139.9994,Asia
+1727,Kazakhstan,2004,158029.9988,Asia
+1728,Kazakhstan,2005,169210.0067,Asia
+1729,Kazakhstan,2006,185300.0031,Asia
+1730,Kazakhstan,2007,198389.9994,Asia
+1731,Kazakhstan,2008,242029.9988,Asia
+1732,Kazakhstan,2009,213610.0006,Asia
+1733,Kazakhstan,2010,229699.9969,Asia
+1734,Kazakhstan,2011,245449.9969,Asia
+1735,Kazakhstan,2012,244600.0061,Asia
+1736,Kazakhstan,2013,260010.0098,Asia
+1737,Kazakhstan,2014,209229.9957,Asia
+1738,Kazakhstan,2015,190729.9957,Asia
+1739,Kazakhstan,2016,202149.9939,Asia
+1740,Kazakhstan,2017,214580.0018,Asia
+1741,Kazakhstan,2018,216600.0061,Asia
+1742,Kazakhstan,2019,212110.0006,Asia
+1744,Kenya,2000,8320.0,Africa
+1745,Kenya,2001,7610.0,Africa
+1746,Kenya,2002,7420.000076,Africa
+1747,Kenya,2003,6530.00021,Africa
+1748,Kenya,2004,7440.000057,Africa
+1749,Kenya,2005,8319.999695,Africa
+1750,Kenya,2006,9300.000191,Africa
+1751,Kenya,2007,9369.999886,Africa
+1752,Kenya,2008,9909.999847,Africa
+1753,Kenya,2009,11710.00004,Africa
+1754,Kenya,2010,12640.00034,Africa
+1755,Kenya,2011,13029.99973,Africa
+1756,Kenya,2012,12149.99962,Africa
+1757,Kenya,2013,14100.00038,Africa
+1758,Kenya,2014,15149.99962,Africa
+1759,Kenya,2015,17209.99908,Africa
+1760,Kenya,2016,19110.00061,Africa
+1761,Kenya,2017,18979.99954,Africa
+1762,Kenya,2018,17489.99977,Africa
+1763,Kenya,2019,22280.00069,Africa
+1765,Kiribati,2000,30.0,Oceania
+1766,Kiribati,2001,30.0,Oceania
+1767,Kiribati,2002,39.99999911,Oceania
+1768,Kiribati,2003,39.99999911,Oceania
+1769,Kiribati,2004,50.00000075,Oceania
+1770,Kiribati,2005,70.0000003,Oceania
+1771,Kiribati,2006,70.0000003,Oceania
+1772,Kiribati,2007,59.99999866,Oceania
+1773,Kiribati,2008,59.99999866,Oceania
+1774,Kiribati,2009,59.99999866,Oceania
+1775,Kiribati,2010,50.00000075,Oceania
+1776,Kiribati,2011,50.00000075,Oceania
+1777,Kiribati,2012,59.99999866,Oceania
+1778,Kiribati,2013,59.99999866,Oceania
+1779,Kiribati,2014,59.99999866,Oceania
+1780,Kiribati,2015,59.99999866,Oceania
+1781,Kiribati,2016,70.0000003,Oceania
+1782,Kiribati,2017,90.00000358,Oceania
+1783,Kiribati,2018,90.00000358,Oceania
+1784,Kiribati,2019,90.00000358,Oceania
+1786,Kuwait,2000,49840.0,Asia
+1787,Kuwait,2001,53190.0,Asia
+1788,Kuwait,2002,55590.00015,Asia
+1789,Kuwait,2003,58119.99893,Asia
+1790,Kuwait,2004,61909.99985,Asia
+1791,Kuwait,2005,69910.00366,Asia
+1792,Kuwait,2006,72430.00031,Asia
+1793,Kuwait,2007,70599.99847,Asia
+1794,Kuwait,2008,75839.99634,Asia
+1795,Kuwait,2009,77650.00153,Asia
+1796,Kuwait,2010,80720.00122,Asia
+1797,Kuwait,2011,83290.00092,Asia
+1798,Kuwait,2012,85309.99756,Asia
+1799,Kuwait,2013,87360.00061,Asia
+1800,Kuwait,2014,85569.99969,Asia
+1801,Kuwait,2015,89019.99664,Asia
+1802,Kuwait,2016,91550.00305,Asia
+1803,Kuwait,2017,90730.00336,Asia
+1804,Kuwait,2018,91389.99939,Asia
+1805,Kuwait,2019,92650.00153,Asia
+1828,Latvia,2000,6930.0,Europe
+1829,Latvia,2001,7360.0,Europe
+1830,Latvia,2002,7349.999905,Europe
+1831,Latvia,2003,7590.000153,Europe
+1832,Latvia,2004,7619.999886,Europe
+1833,Latvia,2005,7710.000038,Europe
+1834,Latvia,2006,8199.999809,Europe
+1835,Latvia,2007,8529.999733,Europe
+1836,Latvia,2008,8109.999657,Europe
+1837,Latvia,2009,7360.000134,Europe
+1838,Latvia,2010,8520.000458,Europe
+1839,Latvia,2011,7900.000095,Europe
+1840,Latvia,2012,7570.000172,Europe
+1841,Latvia,2013,7449.999809,Europe
+1842,Latvia,2014,7280.00021,Europe
+1843,Latvia,2015,7320.000172,Europe
+1844,Latvia,2016,7150.000095,Europe
+1845,Latvia,2017,7119.999886,Europe
+1846,Latvia,2018,7789.999962,Europe
+1847,Latvia,2019,7570.000172,Europe
+1849,Lebanon,2000,15670.0,Asia
+1850,Lebanon,2001,16890.0,Asia
+1851,Lebanon,2002,16840.00015,Asia
+1852,Lebanon,2003,17409.99985,Asia
+1853,Lebanon,2004,17879.99916,Asia
+1854,Lebanon,2005,17280.00069,Asia
+1855,Lebanon,2006,16229.99954,Asia
+1856,Lebanon,2007,15039.99996,Asia
+1857,Lebanon,2008,18649.99962,Asia
+1858,Lebanon,2009,21899.99962,Asia
+1859,Lebanon,2010,20860.00061,Asia
+1860,Lebanon,2011,21180.00031,Asia
+1861,Lebanon,2012,23469.99931,Asia
+1862,Lebanon,2013,23239.99977,Asia
+1863,Lebanon,2014,25149.99962,Asia
+1864,Lebanon,2015,27010.00023,Asia
+1865,Lebanon,2016,27809.99947,Asia
+1866,Lebanon,2017,29319.99969,Asia
+1867,Lebanon,2018,27790.00092,Asia
+1868,Lebanon,2019,27950.00076,Asia
+1870,Lesotho,2000,390.0,Africa
+1871,Lesotho,2001,400.0,Africa
+1872,Lesotho,2002,409.9999964,Africa
+1873,Lesotho,2003,409.9999964,Africa
+1874,Lesotho,2004,430.0000072,Africa
+1875,Lesotho,2005,430.0000072,Africa
+1876,Lesotho,2006,430.0000072,Africa
+1877,Lesotho,2007,439.9999976,Africa
+1878,Lesotho,2008,460.0000083,Africa
+1879,Lesotho,2009,529.9999714,Africa
+1880,Lesotho,2010,550.0000119,Africa
+1881,Lesotho,2011,569.9999928,Africa
+1882,Lesotho,2012,620.0000048,Africa
+1883,Lesotho,2013,610.0000143,Africa
+1884,Lesotho,2014,610.0000143,Africa
+1885,Lesotho,2015,649.9999762,Africa
+1886,Lesotho,2016,689.9999976,Africa
+1887,Lesotho,2017,699.9999881,Africa
+1888,Lesotho,2018,730.0000191,Africa
+1889,Lesotho,2019,769.9999809,Africa
+1891,Liberia,2000,430.0,Africa
+1892,Liberia,2001,450.0,Africa
+1893,Liberia,2002,449.9999881,Africa
+1894,Liberia,2003,479.9999893,Africa
+1895,Liberia,2004,560.0000024,Africa
+1896,Liberia,2005,670.0000167,Africa
+1897,Liberia,2006,689.9999976,Africa
+1898,Liberia,2007,639.9999857,Africa
+1899,Liberia,2008,540.0000215,Africa
+1900,Liberia,2009,540.0000215,Africa
+1901,Liberia,2010,730.0000191,Africa
+1902,Liberia,2011,850.0000238,Africa
+1903,Liberia,2012,949.9999881,Africa
+1904,Liberia,2013,920.0000167,Africa
+1905,Liberia,2014,1220.000029,Africa
+1906,Liberia,2015,1259.99999,Africa
+1907,Liberia,2016,1409.999967,Africa
+1908,Liberia,2017,1279.999971,Africa
+1909,Liberia,2018,1129.999995,Africa
+1910,Liberia,2019,1179.999948,Africa
+1912,Libya,2000,44720.0,Africa
+1913,Libya,2001,44450.0,Africa
+1914,Libya,2002,45590.00015,Africa
+1915,Libya,2003,48919.99817,Africa
+1916,Libya,2004,48459.99908,Africa
+1917,Libya,2005,52990.00168,Africa
+1918,Libya,2006,52919.99817,Africa
+1919,Libya,2007,49389.99939,Africa
+1920,Libya,2008,53270.00046,Africa
+1921,Libya,2009,56400.00153,Africa
+1922,Libya,2010,59549.99924,Africa
+1923,Libya,2011,41950.00076,Africa
+1924,Libya,2012,57630.00107,Africa
+1925,Libya,2013,58610.00061,Africa
+1926,Libya,2014,58000.0,Africa
+1927,Libya,2015,51330.00183,Africa
+1928,Libya,2016,50950.00076,Africa
+1929,Libya,2017,55159.99985,Africa
+1930,Libya,2018,56619.99893,Africa
+1931,Libya,2019,56799.99924,Africa
+1933,Lithuania,2000,10510.0,Europe
+1934,Lithuania,2001,11150.0,Europe
+1935,Lithuania,2002,11220.00027,Europe
+1936,Lithuania,2003,11229.99954,Europe
+1937,Lithuania,2004,11909.99985,Europe
+1938,Lithuania,2005,12829.99992,Europe
+1939,Lithuania,2006,13020.00046,Europe
+1940,Lithuania,2007,13210.00004,Europe
+1941,Lithuania,2008,13060.00042,Europe
+1942,Lithuania,2009,11689.99958,Europe
+1943,Lithuania,2010,12600.00038,Europe
+1944,Lithuania,2011,11850.00038,Europe
+1945,Lithuania,2012,11930.00031,Europe
+1946,Lithuania,2013,11329.99992,Europe
+1947,Lithuania,2014,10859.99966,Europe
+1948,Lithuania,2015,11069.99969,Europe
+1949,Lithuania,2016,11199.99981,Europe
+1950,Lithuania,2017,11220.00027,Europe
+1951,Lithuania,2018,11649.99962,Europe
+1952,Lithuania,2019,11729.99954,Europe
+1954,Luxembourg,2000,8560.0,Europe
+1955,Luxembourg,2001,9120.0,Europe
+1956,Luxembourg,2002,9819.999695,Europe
+1957,Luxembourg,2003,10239.99977,Europe
+1958,Luxembourg,2004,11659.99985,Europe
+1959,Luxembourg,2005,11909.99985,Europe
+1960,Luxembourg,2006,11720.00027,Europe
+1961,Luxembourg,2007,11109.99966,Europe
+1962,Luxembourg,2008,11020.00046,Europe
+1963,Luxembourg,2009,10439.99958,Europe
+1964,Luxembourg,2010,11029.99973,Europe
+1965,Luxembourg,2011,10899.99962,Europe
+1966,Luxembourg,2012,10689.99958,Europe
+1967,Luxembourg,2013,10149.99962,Europe
+1968,Luxembourg,2014,9649.999619,Europe
+1969,Luxembourg,2015,9130.000114,Europe
+1970,Luxembourg,2016,8850.000381,Europe
+1971,Luxembourg,2017,9000.0,Europe
+1972,Luxembourg,2018,9319.999695,Europe
+1973,Luxembourg,2019,9489.999771,Europe
+1975,Madagascar,2000,1650.0,Africa
+1976,Madagascar,2001,1670.0,Africa
+1977,Madagascar,2002,1120.000005,Africa
+1978,Madagascar,2003,1549.999952,Africa
+1979,Madagascar,2004,1649.999976,Africa
+1980,Madagascar,2005,1710.000038,Africa
+1981,Madagascar,2006,1639.999986,Africa
+1982,Madagascar,2007,1720.000029,Africa
+1983,Madagascar,2008,1779.999971,Africa
+1984,Madagascar,2009,1690.000057,Africa
+1985,Madagascar,2010,1870.000005,Africa
+1986,Madagascar,2011,2190.000057,Africa
+1987,Madagascar,2012,2740.00001,Africa
+1988,Madagascar,2013,2930.000067,Africa
+1989,Madagascar,2014,3009.99999,Africa
+1990,Madagascar,2015,3279.999971,Africa
+1991,Madagascar,2016,3180.000067,Africa
+1992,Madagascar,2017,3470.000029,Africa
+1993,Madagascar,2018,3349.999905,Africa
+1994,Madagascar,2019,4119.999886,Africa
+1996,Malawi,2000,710.0,Africa
+1997,Malawi,2001,680.0,Africa
+1998,Malawi,2002,680.0000072,Africa
+1999,Malawi,2003,750.0,Africa
+2000,Malawi,2004,769.9999809,Africa
+2001,Malawi,2005,759.9999905,Africa
+2002,Malawi,2006,779.9999714,Africa
+2003,Malawi,2007,829.9999833,Africa
+2004,Malawi,2008,959.9999785,Africa
+2005,Malawi,2009,980.0000191,Africa
+2006,Malawi,2010,889.9999857,Africa
+2007,Malawi,2011,930.0000072,Africa
+2008,Malawi,2012,949.9999881,Africa
+2009,Malawi,2013,980.0000191,Africa
+2010,Malawi,2014,850.0000238,Africa
+2011,Malawi,2015,930.0000072,Africa
+2012,Malawi,2016,1120.000005,Africa
+2013,Malawi,2017,1190.000057,Africa
+2014,Malawi,2018,1379.999995,Africa
+2015,Malawi,2019,1450.000048,Africa
+2017,Malaysia,2000,124360.0,Asia
+2018,Malaysia,2001,129460.0,Asia
+2019,Malaysia,2002,136380.0049,Asia
+2020,Malaysia,2003,144490.0055,Asia
+2021,Malaysia,2004,158270.0043,Asia
+2022,Malaysia,2005,167419.9982,Asia
+2023,Malaysia,2006,174100.0061,Asia
+2024,Malaysia,2007,189940.0024,Asia
+2025,Malaysia,2008,202910.0037,Asia
+2026,Malaysia,2009,181929.9927,Asia
+2027,Malaysia,2010,200220.0012,Asia
+2028,Malaysia,2011,202740.0055,Asia
+2029,Malaysia,2012,205809.9976,Asia
+2030,Malaysia,2013,223660.0037,Asia
+2031,Malaysia,2014,236649.9939,Asia
+2032,Malaysia,2015,236539.9933,Asia
+2033,Malaysia,2016,235960.0067,Asia
+2034,Malaysia,2017,227619.9951,Asia
+2035,Malaysia,2018,244410.0037,Asia
+2036,Malaysia,2019,253270.0043,Asia
+2038,Maldives,2000,460.0,Asia
+2039,Maldives,2001,480.0,Asia
+2040,Maldives,2002,620.0000048,Asia
+2041,Maldives,2003,529.9999714,Asia
+2042,Maldives,2004,750.0,Asia
+2043,Maldives,2005,720.0000286,Asia
+2044,Maldives,2006,870.0000048,Asia
+2045,Maldives,2007,870.0000048,Asia
+2046,Maldives,2008,870.0000048,Asia
+2047,Maldives,2009,910.0000262,Asia
+2048,Maldives,2010,959.9999785,Asia
+2049,Maldives,2011,1009.99999,Asia
+2050,Maldives,2012,1139.999986,Asia
+2051,Maldives,2013,1129.999995,Asia
+2052,Maldives,2014,1370.000005,Asia
+2053,Maldives,2015,1370.000005,Asia
+2054,Maldives,2016,1759.99999,Asia
+2055,Maldives,2017,1860.000014,Asia
+2056,Maldives,2018,2099.999905,Asia
+2057,Maldives,2019,2109.999895,Asia
+2059,Mali,2000,1410.0,Africa
+2060,Mali,2001,1610.0,Africa
+2061,Mali,2002,1399.999976,Africa
+2062,Mali,2003,1399.999976,Africa
+2063,Mali,2004,1480.000019,Africa
+2064,Mali,2005,1649.999976,Africa
+2065,Mali,2006,1889.999986,Africa
+2066,Mali,2007,2069.999933,Africa
+2067,Mali,2008,2079.999924,Africa
+2068,Mali,2009,2509.99999,Africa
+2069,Mali,2010,2779.999971,Africa
+2070,Mali,2011,3119.999886,Africa
+2071,Mali,2012,3109.999895,Africa
+2072,Mali,2013,3220.000029,Africa
+2073,Mali,2014,3380.000114,Africa
+2074,Mali,2015,3650.000095,Africa
+2075,Mali,2016,4670.000076,Africa
+2076,Mali,2017,5179.999828,Africa
+2077,Mali,2018,5469.99979,Africa
+2078,Mali,2019,5829.999924,Africa
+2080,Malta,2000,2130.0,Europe
+2081,Malta,2001,2490.0,Europe
+2082,Malta,2002,2319.999933,Europe
+2083,Malta,2003,2609.999895,Europe
+2084,Malta,2004,2599.999905,Europe
+2085,Malta,2005,2630.000114,Europe
+2086,Malta,2006,2650.000095,Europe
+2087,Malta,2007,2720.000029,Europe
+2088,Malta,2008,2720.000029,Europe
+2089,Malta,2009,2509.99999,Europe
+2090,Malta,2010,2589.999914,Europe
+2091,Malta,2011,2569.999933,Europe
+2092,Malta,2012,2720.000029,Europe
+2093,Malta,2013,2369.999886,Europe
+2094,Malta,2014,2359.999895,Europe
+2095,Malta,2015,1659.999967,Europe
+2096,Malta,2016,1350.000024,Europe
+2097,Malta,2017,1519.999981,Europe
+2098,Malta,2018,1549.999952,Europe
+2099,Malta,2019,1659.999967,Europe
+2101,Mauritania,2000,1270.0,Africa
+2102,Mauritania,2001,1400.0,Africa
+2103,Mauritania,2002,1549.999952,Africa
+2104,Mauritania,2003,1480.000019,Africa
+2105,Mauritania,2004,1639.999986,Africa
+2106,Mauritania,2005,1509.99999,Africa
+2107,Mauritania,2006,1730.000019,Africa
+2108,Mauritania,2007,1990.00001,Africa
+2109,Mauritania,2008,1899.999976,Africa
+2110,Mauritania,2009,2349.999905,Africa
+2111,Mauritania,2010,2400.000095,Africa
+2112,Mauritania,2011,2460.000038,Africa
+2113,Mauritania,2012,2730.000019,Africa
+2114,Mauritania,2013,2589.999914,Africa
+2115,Mauritania,2014,2900.000095,Africa
+2116,Mauritania,2015,3559.999943,Africa
+2117,Mauritania,2016,3259.99999,Africa
+2118,Mauritania,2017,3490.00001,Africa
+2119,Mauritania,2018,3690.000057,Africa
+2120,Mauritania,2019,3950.000048,Africa
+2122,Mauritius,2000,2430.0,Africa
+2123,Mauritius,2001,2570.0,Africa
+2124,Mauritius,2002,2609.999895,Africa
+2125,Mauritius,2003,2750.0,Africa
+2126,Mauritius,2004,2769.999981,Africa
+2127,Mauritius,2005,2960.000038,Africa
+2128,Mauritius,2006,3299.999952,Africa
+2129,Mauritius,2007,3400.000095,Africa
+2130,Mauritius,2008,3470.000029,Africa
+2131,Mauritius,2009,3420.000076,Africa
+2132,Mauritius,2010,3660.000086,Africa
+2133,Mauritius,2011,3640.000105,Africa
+2134,Mauritius,2012,3730.000019,Africa
+2135,Mauritius,2013,3819.999933,Africa
+2136,Mauritius,2014,3950.000048,Africa
+2137,Mauritius,2015,3960.000038,Africa
+2138,Mauritius,2016,4039.999962,Africa
+2139,Mauritius,2017,4170.000076,Africa
+2140,Mauritius,2018,4130.000114,Africa
+2141,Mauritius,2019,4170.000076,Africa
+2143,Mexico,2000,379180.0,North America
+2144,Mexico,2001,378830.0,North America
+2145,Mexico,2002,386000.0,North America
+2146,Mexico,2003,404690.0024,North America
+2147,Mexico,2004,414100.0061,North America
+2148,Mexico,2005,432190.0024,North America
+2149,Mexico,2006,448299.9878,North America
+2150,Mexico,2007,457119.9951,North America
+2151,Mexico,2008,459549.9878,North America
+2152,Mexico,2009,448369.9951,North America
+2153,Mexico,2010,462869.9951,North America
+2154,Mexico,2011,478399.9939,North America
+2155,Mexico,2012,486450.0122,North America
+2156,Mexico,2013,475739.9902,North America
+2157,Mexico,2014,462239.9902,North America
+2158,Mexico,2015,471630.0049,North America
+2159,Mexico,2016,473309.9976,North America
+2160,Mexico,2017,471579.9866,North America
+2161,Mexico,2018,452570.0073,North America
+2162,Mexico,2019,449269.989,North America
+2164,Mongolia,2000,9000.0,Asia
+2165,Mongolia,2001,8970.0,Asia
+2166,Mongolia,2002,9600.000381,Asia
+2167,Mongolia,2003,9310.00042,Asia
+2168,Mongolia,2004,9560.00042,Asia
+2169,Mongolia,2005,11060.00042,Asia
+2170,Mongolia,2006,12420.00008,Asia
+2171,Mongolia,2007,13020.00046,Asia
+2172,Mongolia,2008,12970.00027,Asia
+2173,Mongolia,2009,13640.00034,Asia
+2174,Mongolia,2010,14310.00042,Asia
+2175,Mongolia,2011,15729.99954,Asia
+2176,Mongolia,2012,17139.99939,Asia
+2177,Mongolia,2013,18379.99916,Asia
+2178,Mongolia,2014,18120.00084,Asia
+2179,Mongolia,2015,17299.99924,Asia
+2180,Mongolia,2016,18170.00008,Asia
+2181,Mongolia,2017,19579.99992,Asia
+2182,Mongolia,2018,21549.99924,Asia
+2183,Mongolia,2019,23069.99969,Asia
+2185,Montenegro,2007,2099.999905,Europe
+2186,Montenegro,2008,2690.000057,Europe
+2187,Montenegro,2009,1750.0,Europe
+2188,Montenegro,2010,2579.999924,Europe
+2189,Montenegro,2011,2539.999962,Europe
+2190,Montenegro,2012,2329.999924,Europe
+2191,Montenegro,2013,2269.999981,Europe
+2192,Montenegro,2014,2220.000029,Europe
+2193,Montenegro,2015,2359.999895,Europe
+2194,Montenegro,2016,2150.000095,Europe
+2195,Montenegro,2017,2269.999981,Europe
+2196,Montenegro,2018,2500.0,Europe
+2197,Montenegro,2019,2599.999905,Europe
+2199,Morocco,2000,32880.0,Africa
+2200,Morocco,2001,36270.0,Africa
+2201,Morocco,2002,37470.00122,Africa
+2202,Morocco,2003,37250.0,Africa
+2203,Morocco,2004,40990.00168,Africa
+2204,Morocco,2005,43580.00183,Africa
+2205,Morocco,2006,45000.0,Africa
+2206,Morocco,2007,46349.99847,Africa
+2207,Morocco,2008,48630.00107,Africa
+2208,Morocco,2009,48750.0,Africa
+2209,Morocco,2010,51759.99832,Africa
+2210,Morocco,2011,55939.99863,Africa
+2211,Morocco,2012,58080.00183,Africa
+2212,Morocco,2013,57590.00015,Africa
+2213,Morocco,2014,58689.99863,Africa
+2214,Morocco,2015,60409.99985,Africa
+2215,Morocco,2016,60319.99969,Africa
+2216,Morocco,2017,63520.00046,Africa
+2217,Morocco,2018,64959.99908,Africa
+2218,Morocco,2019,71480.00336,Africa
+2220,Mozambique,2000,1430.0,Africa
+2221,Mozambique,2001,1410.0,Africa
+2222,Mozambique,2002,1570.000052,Africa
+2223,Mozambique,2003,1899.999976,Africa
+2224,Mozambique,2004,1909.999967,Africa
+2225,Mozambique,2005,1710.000038,Africa
+2226,Mozambique,2006,1860.000014,Africa
+2227,Mozambique,2007,2230.000019,Africa
+2228,Mozambique,2008,2240.00001,Africa
+2229,Mozambique,2009,2490.00001,Africa
+2230,Mozambique,2010,2680.000067,Africa
+2231,Mozambique,2011,3349.999905,Africa
+2232,Mozambique,2012,3680.000067,Africa
+2233,Mozambique,2013,4199.999809,Africa
+2234,Mozambique,2014,4860.000134,Africa
+2235,Mozambique,2015,5519.999981,Africa
+2236,Mozambique,2016,7280.00021,Africa
+2237,Mozambique,2017,7210.000038,Africa
+2238,Mozambique,2018,6949.999809,Africa
+2239,Mozambique,2019,7500.0,Africa
+2241,Myanmar,2000,9440.0,Asia
+2242,Myanmar,2001,8350.0,Asia
+2243,Myanmar,2002,8300.000191,Asia
+2244,Myanmar,2003,10489.99977,Asia
+2245,Myanmar,2004,10149.99962,Asia
+2246,Myanmar,2005,10720.00027,Asia
+2247,Myanmar,2006,9970.000267,Asia
+2248,Myanmar,2007,10390.00034,Asia
+2249,Myanmar,2008,7900.000095,Asia
+2250,Myanmar,2009,7489.999771,Asia
+2251,Myanmar,2010,8130.000114,Asia
+2252,Myanmar,2011,8689.99958,Asia
+2253,Myanmar,2012,11960.00004,Asia
+2254,Myanmar,2013,13600.00038,Asia
+2255,Myanmar,2014,17040.00092,Asia
+2256,Myanmar,2015,19040.00092,Asia
+2257,Myanmar,2016,21860.00061,Asia
+2258,Myanmar,2017,32500.0,Asia
+2259,Myanmar,2018,32939.99863,Asia
+2260,Myanmar,2019,36720.00122,Asia
+2262,Namibia,2000,1940.0,Africa
+2263,Namibia,2001,2460.0,Africa
+2264,Namibia,2002,2130.000114,Africa
+2265,Namibia,2003,2269.999981,Africa
+2266,Namibia,2004,2380.000114,Africa
+2267,Namibia,2005,2529.999971,Africa
+2268,Namibia,2006,2529.999971,Africa
+2269,Namibia,2007,2619.999886,Africa
+2270,Namibia,2008,2950.000048,Africa
+2271,Namibia,2009,3019.999981,Africa
+2272,Namibia,2010,3130.000114,Africa
+2273,Namibia,2011,3329.999924,Africa
+2274,Namibia,2012,3529.999971,Africa
+2275,Namibia,2013,3789.999962,Africa
+2276,Namibia,2014,3950.000048,Africa
+2277,Namibia,2015,4199.999809,Africa
+2278,Namibia,2016,4130.000114,Africa
+2279,Namibia,2017,4269.999981,Africa
+2280,Namibia,2018,4230.000019,Africa
+2281,Namibia,2019,4219.99979,Africa
+2283,Nauru,2000,90.0,Oceania
+2284,Nauru,2001,80.0,Oceania
+2285,Nauru,2002,79.99999821,Oceania
+2286,Nauru,2003,70.0000003,Oceania
+2287,Nauru,2004,70.0000003,Oceania
+2288,Nauru,2005,70.0000003,Oceania
+2289,Nauru,2006,50.00000075,Oceania
+2290,Nauru,2007,39.99999911,Oceania
+2291,Nauru,2008,39.99999911,Oceania
+2292,Nauru,2009,39.99999911,Oceania
+2293,Nauru,2010,39.99999911,Oceania
+2294,Nauru,2011,39.99999911,Oceania
+2295,Nauru,2012,39.99999911,Oceania
+2296,Nauru,2013,50.00000075,Oceania
+2297,Nauru,2014,50.00000075,Oceania
+2298,Nauru,2015,59.99999866,Oceania
+2299,Nauru,2016,59.99999866,Oceania
+2300,Nauru,2017,70.0000003,Oceania
+2301,Nauru,2018,59.99999866,Oceania
+2302,Nauru,2019,59.99999866,Oceania
+2304,Nepal,2000,3220.0,Asia
+2305,Nepal,2001,3460.0,Asia
+2306,Nepal,2002,2789.999962,Asia
+2307,Nepal,2003,3019.999981,Asia
+2308,Nepal,2004,2809.999943,Asia
+2309,Nepal,2005,3190.000057,Asia
+2310,Nepal,2006,2619.999886,Asia
+2311,Nepal,2007,2690.000057,Asia
+2312,Nepal,2008,2990.00001,Asia
+2313,Nepal,2009,3880.000114,Asia
+2314,Nepal,2010,4639.999866,Asia
+2315,Nepal,2011,5199.999809,Asia
+2316,Nepal,2012,6000.0,Asia
+2317,Nepal,2013,6090.000153,Asia
+2318,Nepal,2014,7130.000114,Asia
+2319,Nepal,2015,7190.000057,Asia
+2320,Nepal,2016,10409.99985,Asia
+2321,Nepal,2017,12479.99954,Asia
+2322,Nepal,2018,15189.99958,Asia
+2323,Nepal,2019,13449.99981,Asia
+2325,Netherlands,2000,162100.0,Europe
+2326,Netherlands,2001,167120.0,Europe
+2327,Netherlands,2002,167429.9927,Europe
+2328,Netherlands,2003,170360.0006,Europe
+2329,Netherlands,2004,172119.9951,Europe
+2330,Netherlands,2005,167929.9927,Europe
+2331,Netherlands,2006,163699.9969,Europe
+2332,Netherlands,2007,164550.0031,Europe
+2333,Netherlands,2008,165220.0012,Europe
+2334,Netherlands,2009,160490.0055,Europe
+2335,Netherlands,2010,171110.0006,Europe
+2336,Netherlands,2011,158770.0043,Europe
+2337,Netherlands,2012,157470.0012,Europe
+2338,Netherlands,2013,157089.9963,Europe
+2339,Netherlands,2014,149789.9933,Europe
+2340,Netherlands,2015,157410.0037,Europe
+2341,Netherlands,2016,158539.9933,Europe
+2342,Netherlands,2017,155759.9945,Europe
+2343,Netherlands,2018,151360.0006,Europe
+2344,Netherlands,2019,146339.9963,Europe
+2346,New Caledonia,2000,2233.203,Oceania
+2347,New Caledonia,2001,1888.505,Oceania
+2348,New Caledonia,2002,2405.552,Oceania
+2349,New Caledonia,2003,2739.249,Oceania
+2350,New Caledonia,2004,2530.23,Oceania
+2351,New Caledonia,2005,2823.59,Oceania
+2352,New Caledonia,2006,2720.914,Oceania
+2353,New Caledonia,2007,2944.601,Oceania
+2354,New Caledonia,2008,2867.594,Oceania
+2355,New Caledonia,2009,2951.935,Oceania
+2356,New Caledonia,2010,3578.992,Oceania
+2357,New Caledonia,2011,3560.657,Oceania
+2358,New Caledonia,2012,3655.999,Oceania
+2359,New Caledonia,2013,3861.351,Oceania
+2360,New Caledonia,2014,4888.111,Oceania
+2361,New Caledonia,2015,4752.432,Oceania
+2362,New Caledonia,2016,5328.151,Oceania
+2367,New Zealand,2000,29450.0,Oceania
+2368,New Zealand,2001,31620.0,Oceania
+2369,New Zealand,2002,31540.00092,Oceania
+2370,New Zealand,2003,33400.00153,Oceania
+2371,New Zealand,2004,32840.00015,Oceania
+2372,New Zealand,2005,34229.99954,Oceania
+2373,New Zealand,2006,34270.00046,Oceania
+2374,New Zealand,2007,33270.00046,Oceania
+2375,New Zealand,2008,34169.99817,Oceania
+2376,New Zealand,2009,31170.00008,Oceania
+2377,New Zealand,2010,31049.99924,Oceania
+2378,New Zealand,2011,30290.00092,Oceania
+2379,New Zealand,2012,32110.00061,Oceania
+2380,New Zealand,2013,31889.99939,Oceania
+2381,New Zealand,2014,31969.99931,Oceania
+2382,New Zealand,2015,32279.99878,Oceania
+2383,New Zealand,2016,31190.00053,Oceania
+2384,New Zealand,2017,32930.00031,Oceania
+2385,New Zealand,2018,32360.00061,Oceania
+2386,New Zealand,2019,34009.99832,Oceania
+2388,Nicaragua,2000,3770.0,North America
+2389,Nicaragua,2001,3930.0,North America
+2390,Nicaragua,2002,4059.999943,North America
+2391,Nicaragua,2003,4559.999943,North America
+2392,Nicaragua,2004,4530.00021,North America
+2393,Nicaragua,2005,4340.000153,North America
+2394,Nicaragua,2006,4550.000191,North America
+2395,Nicaragua,2007,4699.999809,North America
+2396,Nicaragua,2008,4500.0,North America
+2397,Nicaragua,2009,4389.999866,North America
+2398,Nicaragua,2010,4510.000229,North America
+2399,Nicaragua,2011,4769.999981,North America
+2400,Nicaragua,2012,4690.000057,North America
+2401,Nicaragua,2013,4469.99979,North America
+2402,Nicaragua,2014,4760.000229,North America
+2403,Nicaragua,2015,5269.999981,North America
+2404,Nicaragua,2016,5380.000114,North America
+2405,Nicaragua,2017,5480.000019,North America
+2406,Nicaragua,2018,5110.000134,North America
+2407,Nicaragua,2019,5239.999771,North America
+2409,Niger,2000,670.0,Africa
+2410,Niger,2001,670.0,Africa
+2411,Niger,2002,699.9999881,Africa
+2412,Niger,2003,759.9999905,Africa
+2413,Niger,2004,790.0000215,Africa
+2414,Niger,2005,759.9999905,Africa
+2415,Niger,2006,750.0,Africa
+2416,Niger,2007,819.9999928,Africa
+2417,Niger,2008,860.0000143,Africa
+2418,Niger,2009,1080.000043,Africa
+2419,Niger,2010,1370.000005,Africa
+2420,Niger,2011,1409.999967,Africa
+2421,Niger,2012,1889.999986,Africa
+2422,Niger,2013,1970.000029,Africa
+2423,Niger,2014,2150.000095,Africa
+2424,Niger,2015,2109.999895,Africa
+2425,Niger,2016,2109.999895,Africa
+2426,Niger,2017,1909.999967,Africa
+2427,Niger,2018,1950.000048,Africa
+2428,Niger,2019,2150.000095,Africa
+2430,Nigeria,2000,97220.0,Africa
+2431,Nigeria,2001,101950.0,Africa
+2432,Nigeria,2002,92239.99786,Africa
+2433,Nigeria,2003,101000.0,Africa
+2434,Nigeria,2004,98730.00336,Africa
+2435,Nigeria,2005,98720.00122,Africa
+2436,Nigeria,2006,88769.99664,Africa
+2437,Nigeria,2007,81120.00275,Africa
+2438,Nigeria,2008,86930.00031,Africa
+2439,Nigeria,2009,76949.99695,Africa
+2440,Nigeria,2010,90059.99756,Africa
+2441,Nigeria,2011,95000.0,Africa
+2442,Nigeria,2012,95339.99634,Africa
+2443,Nigeria,2013,108129.9973,Africa
+2444,Nigeria,2014,114830.0018,Africa
+2445,Nigeria,2015,107760.0021,Africa
+2446,Nigeria,2016,110830.0018,Africa
+2447,Nigeria,2017,108500.0,Africa
+2448,Nigeria,2018,109889.9994,Africa
+2449,Nigeria,2019,115279.9988,Africa
+2451,North Macedonia,2000,8760.0,Europe
+2452,North Macedonia,2001,8920.0,Europe
+2453,North Macedonia,2002,8369.999886,Europe
+2454,North Macedonia,2003,9140.000343,Europe
+2455,North Macedonia,2004,8840.000153,Europe
+2456,North Macedonia,2005,9229.999542,Europe
+2457,North Macedonia,2006,9220.000267,Europe
+2458,North Macedonia,2007,9699.999809,Europe
+2459,North Macedonia,2008,9479.999542,Europe
+2460,North Macedonia,2009,8869.999886,Europe
+2461,North Macedonia,2010,8640.000343,Europe
+2462,North Macedonia,2011,9520.000458,Europe
+2463,North Macedonia,2012,9050.000191,Europe
+2464,North Macedonia,2013,8140.000343,Europe
+2465,North Macedonia,2014,7699.999809,Europe
+2466,North Macedonia,2015,7409.999847,Europe
+2467,North Macedonia,2016,7300.000191,Europe
+2468,North Macedonia,2017,7789.999962,Europe
+2469,North Macedonia,2018,7300.000191,Europe
+2470,North Macedonia,2019,8300.000191,Europe
+2472,Norway,2000,34290.0,Europe
+2473,Norway,2001,34720.0,Europe
+2474,Norway,2002,34369.99893,Europe
+2475,Norway,2003,37169.99817,Europe
+2476,Norway,2004,37340.00015,Europe
+2477,Norway,2005,36349.99847,Europe
+2478,Norway,2006,37200.00076,Europe
+2479,Norway,2007,37750.0,Europe
+2480,Norway,2008,36869.99893,Europe
+2481,Norway,2009,37430.00031,Europe
+2482,Norway,2010,41409.99985,Europe
+2483,Norway,2011,39599.99847,Europe
+2484,Norway,2012,38490.00168,Europe
+2485,Norway,2013,39500.0,Europe
+2486,Norway,2014,39110.00061,Europe
+2487,Norway,2015,39490.00168,Europe
+2488,Norway,2016,38759.99832,Europe
+2489,Norway,2017,37720.00122,Europe
+2490,Norway,2018,37590.00015,Europe
+2491,Norway,2019,35950.00076,Europe
+2493,Oman,2000,25110.0,Asia
+2494,Oman,2001,28030.0,Asia
+2495,Oman,2002,29969.99931,Asia
+2496,Oman,2003,31700.00076,Asia
+2497,Oman,2004,31260.00023,Asia
+2498,Oman,2005,31010.00023,Asia
+2499,Oman,2006,39189.99863,Asia
+2500,Oman,2007,42259.99832,Asia
+2501,Oman,2008,41310.00137,Asia
+2502,Oman,2009,43590.00015,Asia
+2503,Oman,2010,47080.00183,Asia
+2504,Oman,2011,53619.99893,Asia
+2505,Oman,2012,60549.99924,Asia
+2506,Oman,2013,63009.99832,Asia
+2507,Oman,2014,66389.99939,Asia
+2508,Oman,2015,70129.99725,Asia
+2509,Oman,2016,72129.99725,Asia
+2510,Oman,2017,71930.00031,Asia
+2511,Oman,2018,75599.99847,Asia
+2512,Oman,2019,76029.99878,Asia
+2514,Pakistan,2000,98370.0,Asia
+2515,Pakistan,2001,99840.0,Asia
+2516,Pakistan,2002,102330.0018,Asia
+2517,Pakistan,2003,105660.0037,Asia
+2518,Pakistan,2004,118650.0015,Asia
+2519,Pakistan,2005,121669.9982,Asia
+2520,Pakistan,2006,132479.9957,Asia
+2521,Pakistan,2007,146259.9945,Asia
+2522,Pakistan,2008,142160.0037,Asia
+2523,Pakistan,2009,145139.9994,Asia
+2524,Pakistan,2010,140619.9951,Asia
+2525,Pakistan,2011,141699.9969,Asia
+2526,Pakistan,2012,143809.9976,Asia
+2527,Pakistan,2013,146059.9976,Asia
+2528,Pakistan,2014,154240.0055,Asia
+2529,Pakistan,2015,164130.0049,Asia
+2530,Pakistan,2016,181110.0006,Asia
+2531,Pakistan,2017,198830.0018,Asia
+2532,Pakistan,2018,187309.9976,Asia
+2533,Pakistan,2019,190570.0073,Asia
+2535,Panama,2000,5280.0,North America
+2536,Panama,2001,6220.0,North America
+2537,Panama,2002,5409.999847,North America
+2538,Panama,2003,5530.00021,North America
+2539,Panama,2004,5610.000134,North America
+2540,Panama,2005,7119.999886,North America
+2541,Panama,2006,7489.999771,North America
+2542,Panama,2007,7480.000019,North America
+2543,Panama,2008,7300.000191,North America
+2544,Panama,2009,8699.999809,North America
+2545,Panama,2010,9189.99958,North America
+2546,Panama,2011,9989.999771,North America
+2547,Panama,2012,10460.00004,North America
+2548,Panama,2013,10250.0,North America
+2549,Panama,2014,10760.00023,North America
+2550,Panama,2015,10699.99981,North America
+2551,Panama,2016,10770.00046,North America
+2552,Panama,2017,10130.00011,North America
+2553,Panama,2018,10060.00042,North America
+2554,Panama,2019,13340.00015,North America
+2556,Papua New Guinea,2000,2830.0,Oceania
+2557,Papua New Guinea,2001,3390.0,Oceania
+2558,Papua New Guinea,2002,3609.999895,Oceania
+2559,Papua New Guinea,2003,4079.999924,Oceania
+2560,Papua New Guinea,2004,4949.999809,Oceania
+2561,Papua New Guinea,2005,4929.999828,Oceania
+2562,Papua New Guinea,2006,4780.00021,Oceania
+2563,Papua New Guinea,2007,5050.000191,Oceania
+2564,Papua New Guinea,2008,4760.000229,Oceania
+2565,Papua New Guinea,2009,5030.00021,Oceania
+2566,Papua New Guinea,2010,5019.999981,Oceania
+2567,Papua New Guinea,2011,5159.999847,Oceania
+2568,Papua New Guinea,2012,4889.999866,Oceania
+2569,Papua New Guinea,2013,5239.999771,Oceania
+2570,Papua New Guinea,2014,5889.999866,Oceania
+2571,Papua New Guinea,2015,6510.000229,Oceania
+2572,Papua New Guinea,2016,7659.999847,Oceania
+2573,Papua New Guinea,2017,7610.000134,Oceania
+2574,Papua New Guinea,2018,7559.999943,Oceania
+2575,Papua New Guinea,2019,7579.999924,Oceania
+2577,Paraguay,2000,3520.0,South America
+2578,Paraguay,2001,3610.0,South America
+2579,Paraguay,2002,3779.999971,South America
+2580,Paraguay,2003,3940.000057,South America
+2581,Paraguay,2004,3970.000029,South America
+2582,Paraguay,2005,3700.000048,South America
+2583,Paraguay,2006,3950.000048,South America
+2584,Paraguay,2007,3720.000029,South America
+2585,Paraguay,2008,4320.000172,South America
+2586,Paraguay,2009,4570.000172,South America
+2587,Paraguay,2010,5039.999962,South America
+2588,Paraguay,2011,5219.99979,South America
+2589,Paraguay,2012,5179.999828,South America
+2590,Paraguay,2013,5300.000191,South America
+2591,Paraguay,2014,5630.000114,South America
+2592,Paraguay,2015,6369.999886,South America
+2593,Paraguay,2016,7179.999828,South America
+2594,Paraguay,2017,8060.00042,South America
+2595,Paraguay,2018,8470.000267,South America
+2596,Paraguay,2019,8210.000038,South America
+2598,Peru,2000,28630.0,South America
+2599,Peru,2001,26540.0,South America
+2600,Peru,2002,27729.99954,South America
+2601,Peru,2003,27159.99985,South America
+2602,Peru,2004,31239.99977,South America
+2603,Peru,2005,31290.00092,South America
+2604,Peru,2006,30840.00015,South America
+2605,Peru,2007,33810.00137,South America
+2606,Peru,2008,38290.00092,South America
+2607,Peru,2009,41169.99817,South America
+2608,Peru,2010,45000.0,South America
+2609,Peru,2011,48430.00031,South America
+2610,Peru,2012,48119.99893,South America
+2611,Peru,2013,49750.0,South America
+2612,Peru,2014,53169.99817,South America
+2613,Peru,2015,54549.99924,South America
+2614,Peru,2016,56860.00061,South America
+2615,Peru,2017,54270.00046,South America
+2616,Peru,2018,54590.00015,South America
+2617,Peru,2019,56750.0,South America
+2619,Philippines,2000,72100.0,Asia
+2620,Philippines,2001,70480.0,Asia
+2621,Philippines,2002,71569.99969,Asia
+2622,Philippines,2003,73629.99725,Asia
+2623,Philippines,2004,75139.99939,Asia
+2624,Philippines,2005,76669.99817,Asia
+2625,Philippines,2006,69470.00122,Asia
+2626,Philippines,2007,73220.00122,Asia
+2627,Philippines,2008,75150.00153,Asia
+2628,Philippines,2009,76300.00305,Asia
+2629,Philippines,2010,81930.00031,Asia
+2630,Philippines,2011,82629.99725,Asia
+2631,Philippines,2012,86180.00031,Asia
+2632,Philippines,2013,95500.0,Asia
+2633,Philippines,2014,101819.9997,Asia
+2634,Philippines,2015,111010.0021,Asia
+2635,Philippines,2016,121959.9991,Asia
+2636,Philippines,2017,133500.0,Asia
+2637,Philippines,2018,138570.0073,Asia
+2638,Philippines,2019,145419.9982,Asia
+2640,Poland,2000,295770.0,Europe
+2641,Poland,2001,293630.0,Europe
+2642,Poland,2002,287320.0073,Europe
+2643,Poland,2003,297730.011,Europe
+2644,Poland,2004,301850.0061,Europe
+2645,Poland,2005,301350.0061,Europe
+2646,Poland,2006,314089.9963,Europe
+2647,Poland,2007,313380.0049,Europe
+2648,Poland,2008,308329.9866,Europe
+2649,Poland,2009,297260.0098,Europe
+2650,Poland,2010,313739.9902,Europe
+2651,Poland,2011,310589.9963,Europe
+2652,Poland,2012,303350.0061,Europe
+2653,Poland,2013,298299.9878,Europe
+2654,Poland,2014,285730.011,Europe
+2655,Poland,2015,289079.9866,Europe
+2656,Poland,2016,299799.9878,Europe
+2657,Poland,2017,312859.9854,Europe
+2658,Poland,2018,311910.0037,Europe
+2659,Poland,2019,295130.0049,Europe
+2661,Portugal,2000,61660.0,Europe
+2662,Portugal,2001,61380.0,Europe
+2663,Portugal,2002,65599.99847,Europe
+2664,Portugal,2003,60520.00046,Europe
+2665,Portugal,2004,62130.00107,Europe
+2666,Portugal,2005,65470.00122,Europe
+2667,Portugal,2006,60450.00076,Europe
+2668,Portugal,2007,58799.99924,Europe
+2669,Portugal,2008,56840.00015,Europe
+2670,Portugal,2009,56299.99924,Europe
+2671,Portugal,2010,50939.99863,Europe
+2672,Portugal,2011,49869.99893,Europe
+2673,Portugal,2012,48220.00122,Europe
+2674,Portugal,2013,46560.00137,Europe
+2675,Portugal,2014,45930.00031,Europe
+2676,Portugal,2015,49849.99847,Europe
+2677,Portugal,2016,48759.99832,Europe
+2678,Portugal,2017,53330.00183,Europe
+2679,Portugal,2018,49500.0,Europe
+2680,Portugal,2019,44639.99939,Europe
+2703,Qatar,2000,28660.0,Asia
+2704,Qatar,2001,28650.0,Asia
+2705,Qatar,2002,32500.0,Asia
+2706,Qatar,2003,34740.00168,Asia
+2707,Qatar,2004,37069.99969,Asia
+2708,Qatar,2005,38540.00092,Asia
+2709,Qatar,2006,43770.00046,Asia
+2710,Qatar,2007,49830.00183,Asia
+2711,Qatar,2008,53040.00092,Asia
+2712,Qatar,2009,54069.99969,Asia
+2713,Qatar,2010,60580.00183,Asia
+2714,Qatar,2011,68190.00244,Asia
+2715,Qatar,2012,75080.00183,Asia
+2716,Qatar,2013,76169.99817,Asia
+2717,Qatar,2014,81660.00366,Asia
+2718,Qatar,2015,84779.99878,Asia
+2719,Qatar,2016,86919.99817,Asia
+2720,Qatar,2017,87540.00092,Asia
+2721,Qatar,2018,86419.99817,Asia
+2722,Qatar,2019,91970.00122,Asia
+2724,Romania,2000,89020.0,Europe
+2725,Romania,2001,95230.0,Europe
+2726,Romania,2002,93739.99786,Europe
+2727,Romania,2003,98139.99939,Europe
+2728,Romania,2004,95349.99847,Europe
+2729,Romania,2005,94709.99908,Europe
+2730,Romania,2006,99260.00214,Europe
+2731,Romania,2007,96730.00336,Europe
+2732,Romania,2008,95419.99817,Europe
+2733,Romania,2009,80709.99908,Europe
+2734,Romania,2010,77620.00275,Europe
+2735,Romania,2011,84059.99756,Europe
+2736,Romania,2012,81849.99847,Europe
+2737,Romania,2013,72089.99634,Europe
+2738,Romania,2014,71540.00092,Europe
+2739,Romania,2015,73319.99969,Europe
+2740,Romania,2016,71589.99634,Europe
+2741,Romania,2017,74209.99908,Europe
+2742,Romania,2018,75190.00244,Europe
+2743,Romania,2019,73949.99695,Europe
+2745,Rwanda,2000,540.0,Africa
+2746,Rwanda,2001,560.0,Africa
+2747,Rwanda,2002,560.0000024,Africa
+2748,Rwanda,2003,550.0000119,Africa
+2749,Rwanda,2004,560.0000024,Africa
+2750,Rwanda,2005,550.0000119,Africa
+2751,Rwanda,2006,550.0000119,Africa
+2752,Rwanda,2007,579.9999833,Africa
+2753,Rwanda,2008,560.0000024,Africa
+2754,Rwanda,2009,589.9999738,Africa
+2755,Rwanda,2010,600.0000238,Africa
+2756,Rwanda,2011,680.0000072,Africa
+2757,Rwanda,2012,750.0,Africa
+2758,Rwanda,2013,810.0000024,Africa
+2759,Rwanda,2014,860.0000143,Africa
+2760,Rwanda,2015,980.0000191,Africa
+2761,Rwanda,2016,1159.999967,Africa
+2762,Rwanda,2017,1190.000057,Africa
+2763,Rwanda,2018,1289.999962,Africa
+2764,Rwanda,2019,1330.000043,Africa
+2829,Samoa,2000,150.0,Oceania
+2830,Samoa,2001,160.0,Oceania
+2831,Samoa,2002,170.0000018,Oceania
+2832,Samoa,2003,170.0000018,Oceania
+2833,Samoa,2004,189.9999976,Oceania
+2834,Samoa,2005,209.9999934,Oceania
+2835,Samoa,2006,200.000003,Oceania
+2836,Samoa,2007,200.000003,Oceania
+2837,Samoa,2008,170.0000018,Oceania
+2838,Samoa,2009,180.0000072,Oceania
+2839,Samoa,2010,189.9999976,Oceania
+2840,Samoa,2011,200.000003,Oceania
+2841,Samoa,2012,200.000003,Oceania
+2842,Samoa,2013,200.000003,Oceania
+2843,Samoa,2014,209.9999934,Oceania
+2844,Samoa,2015,239.9999946,Oceania
+2845,Samoa,2016,300.0000119,Oceania
+2846,Samoa,2017,310.0000024,Oceania
+2847,Samoa,2018,289.9999917,Oceania
+2848,Samoa,2019,300.0000119,Oceania
+2850,Sao Tome and Principe,2000,50.0,Africa
+2851,Sao Tome and Principe,2001,50.0,Africa
+2852,Sao Tome and Principe,2002,59.99999866,Africa
+2853,Sao Tome and Principe,2003,70.0000003,Africa
+2854,Sao Tome and Principe,2004,70.0000003,Africa
+2855,Sao Tome and Principe,2005,79.99999821,Africa
+2856,Sao Tome and Principe,2006,79.99999821,Africa
+2857,Sao Tome and Principe,2007,79.99999821,Africa
+2858,Sao Tome and Principe,2008,90.00000358,Africa
+2859,Sao Tome and Principe,2009,90.00000358,Africa
+2860,Sao Tome and Principe,2010,100.0000015,Africa
+2861,Sao Tome and Principe,2011,100.0000015,Africa
+2862,Sao Tome and Principe,2012,119.9999973,Africa
+2863,Sao Tome and Principe,2013,119.9999973,Africa
+2864,Sao Tome and Principe,2014,119.9999973,Africa
+2865,Sao Tome and Principe,2015,119.9999973,Africa
+2866,Sao Tome and Principe,2016,129.9999952,Africa
+2867,Sao Tome and Principe,2017,140.0000006,Africa
+2868,Sao Tome and Principe,2018,140.0000006,Africa
+2869,Sao Tome and Principe,2019,150.000006,Africa
+2871,Saudi Arabia,2000,249660.0,Asia
+2872,Saudi Arabia,2001,254090.0,Asia
+2873,Saudi Arabia,2002,272250.0,Asia
+2874,Saudi Arabia,2003,284829.9866,Asia
+2875,Saudi Arabia,2004,299890.0146,Asia
+2876,Saudi Arabia,2005,315290.0085,Asia
+2877,Saudi Arabia,2006,335440.0024,Asia
+2878,Saudi Arabia,2007,354619.9951,Asia
+2879,Saudi Arabia,2008,389720.0012,Asia
+2880,Saudi Arabia,2009,406529.9988,Asia
+2881,Saudi Arabia,2010,446130.0049,Asia
+2882,Saudi Arabia,2011,463769.989,Asia
+2883,Saudi Arabia,2012,492470.0012,Asia
+2884,Saudi Arabia,2013,503209.9915,Asia
+2885,Saudi Arabia,2014,540520.0195,Asia
+2886,Saudi Arabia,2015,565190.0024,Asia
+2887,Saudi Arabia,2016,561229.9805,Asia
+2888,Saudi Arabia,2017,545070.0073,Asia
+2889,Saudi Arabia,2018,521260.0098,Asia
+2890,Saudi Arabia,2019,523780.0293,Asia
+2892,Senegal,2000,4060.0,Africa
+2893,Senegal,2001,4460.0,Africa
+2894,Senegal,2002,4579.999924,Africa
+2895,Senegal,2003,4489.999771,Africa
+2896,Senegal,2004,5389.999866,Africa
+2897,Senegal,2005,5670.000076,Africa
+2898,Senegal,2006,5570.000172,Africa
+2899,Senegal,2007,6199.999809,Africa
+2900,Senegal,2008,6440.000057,Africa
+2901,Senegal,2009,6670.000076,Africa
+2902,Senegal,2010,7030.00021,Africa
+2903,Senegal,2011,7570.000172,Africa
+2904,Senegal,2012,7449.999809,Africa
+2905,Senegal,2013,8010.000229,Africa
+2906,Senegal,2014,8569.999695,Africa
+2907,Senegal,2015,9289.999962,Africa
+2908,Senegal,2016,10130.00011,Africa
+2909,Senegal,2017,9800.000191,Africa
+2910,Senegal,2018,10180.00031,Africa
+2911,Senegal,2019,10619.99989,Africa
+2913,Serbia,2007,51459.99908,Europe
+2914,Serbia,2008,49830.00183,Europe
+2915,Serbia,2009,46869.99893,Europe
+2916,Serbia,2010,47099.99847,Europe
+2917,Serbia,2011,51229.99954,Europe
+2918,Serbia,2012,45790.00092,Europe
+2919,Serbia,2013,46470.00122,Europe
+2920,Serbia,2014,38959.99908,Europe
+2921,Serbia,2015,45389.99939,Europe
+2922,Serbia,2016,46619.99893,Europe
+2923,Serbia,2017,47340.00015,Europe
+2924,Serbia,2018,46130.00107,Europe
+2925,Serbia,2019,45950.00076,Europe
+2927,Seychelles,2000,290.0,Africa
+2928,Seychelles,2001,320.0,Africa
+2929,Seychelles,2002,349.999994,Africa
+2930,Seychelles,2003,340.0000036,Africa
+2931,Seychelles,2004,379.9999952,Africa
+2932,Seychelles,2005,379.9999952,Africa
+2933,Seychelles,2006,389.9999857,Africa
+2934,Seychelles,2007,400.000006,Africa
+2935,Seychelles,2008,419.9999869,Africa
+2936,Seychelles,2009,449.9999881,Africa
+2937,Seychelles,2010,439.9999976,Africa
+2938,Seychelles,2011,409.9999964,Africa
+2939,Seychelles,2012,430.0000072,Africa
+2940,Seychelles,2013,419.9999869,Africa
+2941,Seychelles,2014,469.9999988,Africa
+2942,Seychelles,2015,509.9999905,Africa
+2943,Seychelles,2016,579.9999833,Africa
+2944,Seychelles,2017,579.9999833,Africa
+2945,Seychelles,2018,579.9999833,Africa
+2946,Seychelles,2019,610.0000143,Africa
+2948,Sierra Leone,2000,330.0,Africa
+2949,Sierra Leone,2001,440.0,Africa
+2950,Sierra Leone,2002,500.0,Africa
+2951,Sierra Leone,2003,550.0000119,Africa
+2952,Sierra Leone,2004,529.9999714,Africa
+2953,Sierra Leone,2005,449.9999881,Africa
+2954,Sierra Leone,2006,589.9999738,Africa
+2955,Sierra Leone,2007,500.0,Africa
+2956,Sierra Leone,2008,519.9999809,Africa
+2957,Sierra Leone,2009,519.9999809,Africa
+2958,Sierra Leone,2010,560.0000024,Africa
+2959,Sierra Leone,2011,740.0000095,Africa
+2960,Sierra Leone,2012,860.0000143,Africa
+2961,Sierra Leone,2013,1039.999962,Africa
+2962,Sierra Leone,2014,1149.999976,Africa
+2963,Sierra Leone,2015,910.0000262,Africa
+2964,Sierra Leone,2016,930.0000072,Africa
+2965,Sierra Leone,2017,939.9999976,Africa
+2966,Sierra Leone,2018,860.0000143,Africa
+2967,Sierra Leone,2019,899.9999762,Africa
+2969,Singapore,2000,42120.0,Asia
+2970,Singapore,2001,42030.0,Asia
+2971,Singapore,2002,41290.00092,Asia
+2972,Singapore,2003,38159.99985,Asia
+2973,Singapore,2004,39619.99893,Asia
+2974,Singapore,2005,36900.00153,Asia
+2975,Singapore,2006,37169.99817,Asia
+2976,Singapore,2007,38290.00092,Asia
+2977,Singapore,2008,38419.99817,Asia
+2978,Singapore,2009,38830.00183,Asia
+2979,Singapore,2010,42409.99985,Asia
+2980,Singapore,2011,44770.00046,Asia
+2981,Singapore,2012,43689.99863,Asia
+2982,Singapore,2013,43909.99985,Asia
+2983,Singapore,2014,44400.00153,Asia
+2984,Singapore,2015,45430.00031,Asia
+2985,Singapore,2016,46099.99847,Asia
+2986,Singapore,2017,49139.99939,Asia
+2987,Singapore,2018,47400.00153,Asia
+2988,Singapore,2019,47380.00107,Asia
+3011,Slovenia,2000,14540.0,Europe
+3012,Slovenia,2001,15380.0,Europe
+3013,Slovenia,2002,15520.00046,Europe
+3014,Slovenia,2003,15409.99985,Europe
+3015,Slovenia,2004,15699.99981,Europe
+3016,Slovenia,2005,15920.00008,Europe
+3017,Slovenia,2006,16290.00092,Europe
+3018,Slovenia,2007,16280.00069,Europe
+3019,Slovenia,2008,17360.00061,Europe
+3020,Slovenia,2009,15510.00023,Europe
+3021,Slovenia,2010,15779.99973,Europe
+3022,Slovenia,2011,15699.99981,Europe
+3023,Slovenia,2012,15119.99989,Europe
+3024,Slovenia,2013,14550.00019,Europe
+3025,Slovenia,2014,13109.99966,Europe
+3026,Slovenia,2015,13140.00034,Europe
+3027,Slovenia,2016,13899.99962,Europe
+3028,Slovenia,2017,14119.99989,Europe
+3029,Slovenia,2018,14069.99969,Europe
+3030,Slovenia,2019,13600.00038,Europe
+3032,Solomon Islands,2000,240.0,Oceania
+3033,Solomon Islands,2001,250.0,Oceania
+3034,Solomon Islands,2002,259.9999905,Oceania
+3035,Solomon Islands,2003,270.0000107,Oceania
+3036,Solomon Islands,2004,310.0000024,Oceania
+3037,Solomon Islands,2005,340.0000036,Oceania
+3038,Solomon Islands,2006,340.0000036,Oceania
+3039,Solomon Islands,2007,340.0000036,Oceania
+3040,Solomon Islands,2008,319.9999928,Oceania
+3041,Solomon Islands,2009,330.0000131,Oceania
+3042,Solomon Islands,2010,340.0000036,Oceania
+3043,Solomon Islands,2011,349.999994,Oceania
+3044,Solomon Islands,2012,349.999994,Oceania
+3045,Solomon Islands,2013,389.9999857,Oceania
+3046,Solomon Islands,2014,340.0000036,Oceania
+3047,Solomon Islands,2015,310.0000024,Oceania
+3048,Solomon Islands,2016,360.0000143,Oceania
+3049,Solomon Islands,2017,349.999994,Oceania
+3050,Solomon Islands,2018,360.0000143,Oceania
+3051,Solomon Islands,2019,360.0000143,Oceania
+3053,Somalia,2000,490.0,Africa
+3054,Somalia,2001,510.0,Africa
+3055,Somalia,2002,569.9999928,Africa
+3056,Somalia,2003,579.9999833,Africa
+3057,Somalia,2004,579.9999833,Africa
+3058,Somalia,2005,579.9999833,Africa
+3059,Somalia,2006,579.9999833,Africa
+3060,Somalia,2007,620.0000048,Africa
+3061,Somalia,2008,620.0000048,Africa
+3062,Somalia,2009,610.0000143,Africa
+3063,Somalia,2010,629.9999952,Africa
+3064,Somalia,2011,629.9999952,Africa
+3065,Somalia,2012,629.9999952,Africa
+3066,Somalia,2013,649.9999762,Africa
+3067,Somalia,2014,649.9999762,Africa
+3068,Somalia,2015,649.9999762,Africa
+3069,Somalia,2016,660.0000262,Africa
+3070,Somalia,2017,660.0000262,Africa
+3071,Somalia,2018,660.0000262,Africa
+3072,Somalia,2019,689.9999976,Africa
+3074,South Africa,2000,284660.0,Africa
+3075,South Africa,2001,320540.0,Africa
+3076,South Africa,2002,331320.0073,Africa
+3077,South Africa,2003,353089.9963,Africa
+3078,South Africa,2004,379989.9902,Africa
+3079,South Africa,2005,377649.9939,Africa
+3080,South Africa,2006,379790.0085,Africa
+3081,South Africa,2007,397059.9976,Africa
+3082,South Africa,2008,426739.9902,Africa
+3083,South Africa,2009,404200.0122,Africa
+3084,South Africa,2010,425309.9976,Africa
+3085,South Africa,2011,409260.0098,Africa
+3086,South Africa,2012,426779.9988,Africa
+3087,South Africa,2013,436920.0134,Africa
+3088,South Africa,2014,447929.9927,Africa
+3089,South Africa,2015,424809.9976,Africa
+3090,South Africa,2016,425140.0146,Africa
+3091,South Africa,2017,435649.9939,Africa
+3092,South Africa,2018,434350.0061,Africa
+3093,South Africa,2019,439640.0146,Africa
+3095,South Sudan,2013,1450.000048,Africa
+3096,South Sudan,2014,1529.999971,Africa
+3097,South Sudan,2015,1970.000029,Africa
+3098,South Sudan,2016,1730.000019,Africa
+3099,South Sudan,2017,1519.999981,Africa
+3100,South Sudan,2018,1549.999952,Africa
+3101,South Sudan,2019,1700.000048,Africa
+3103,Spain,2000,293310.0,Europe
+3104,Spain,2001,294790.0,Europe
+3105,Spain,2002,312750.0,Europe
+3106,Spain,2003,318660.0037,Europe
+3107,Spain,2004,335559.9976,Europe
+3108,Spain,2005,350500.0,Europe
+3109,Spain,2006,341779.9988,Europe
+3110,Spain,2007,354679.9927,Europe
+3111,Spain,2008,324269.989,Europe
+3112,Spain,2009,287489.9902,Europe
+3113,Spain,2010,273250.0,Europe
+3114,Spain,2011,274399.9939,Europe
+3115,Spain,2012,269269.989,Europe
+3116,Spain,2013,242809.9976,Europe
+3117,Spain,2014,240960.0067,Europe
+3118,Spain,2015,256279.9988,Europe
+3119,Spain,2016,247029.9988,Europe
+3120,Spain,2017,263450.0122,Europe
+3121,Spain,2018,257040.0085,Europe
+3122,Spain,2019,239979.9957,Europe
+3124,Sri Lanka,2000,10930.0,Asia
+3125,Sri Lanka,2001,10850.0,Asia
+3126,Sri Lanka,2002,11390.00034,Asia
+3127,Sri Lanka,2003,12409.99985,Asia
+3128,Sri Lanka,2004,12869.99989,Asia
+3129,Sri Lanka,2005,13979.99954,Asia
+3130,Sri Lanka,2006,12399.99962,Asia
+3131,Sri Lanka,2007,13590.00015,Asia
+3132,Sri Lanka,2008,12810.00042,Asia
+3133,Sri Lanka,2009,12289.99996,Asia
+3134,Sri Lanka,2010,13069.99969,Asia
+3135,Sri Lanka,2011,15420.00008,Asia
+3136,Sri Lanka,2012,16850.00038,Asia
+3137,Sri Lanka,2013,14479.99954,Asia
+3138,Sri Lanka,2014,17600.00038,Asia
+3139,Sri Lanka,2015,20360.00061,Asia
+3140,Sri Lanka,2016,21930.00031,Asia
+3141,Sri Lanka,2017,23360.00061,Asia
+3142,Sri Lanka,2018,21690.00053,Asia
+3143,Sri Lanka,2019,23780.00069,Asia
+3145,Sudan,2000,5690.0,Africa
+3146,Sudan,2001,6250.0,Africa
+3147,Sudan,2002,7710.000038,Africa
+3148,Sudan,2003,7929.999828,Africa
+3149,Sudan,2004,8829.999924,Africa
+3150,Sudan,2005,10500.0,Africa
+3151,Sudan,2006,12899.99962,Africa
+3152,Sudan,2007,13960.00004,Africa
+3153,Sudan,2008,14949.99981,Africa
+3154,Sudan,2009,15479.99954,Africa
+3155,Sudan,2010,16420.00008,Africa
+3156,Sudan,2011,15920.00008,Africa
+3157,Sudan,2012,15800.00019,Africa
+3158,Sudan,2013,15220.00027,Africa
+3159,Sudan,2014,16120.00084,Africa
+3160,Sudan,2015,18709.99908,Africa
+3161,Sudan,2016,21129.99916,Africa
+3162,Sudan,2017,20959.99908,Africa
+3163,Sudan,2018,20860.00061,Africa
+3164,Sudan,2019,20620.00084,Africa
+3166,Suriname,2000,1480.0,South America
+3167,Suriname,2001,1520.0,South America
+3168,Suriname,2002,1120.000005,South America
+3169,Suriname,2003,1230.000019,South America
+3170,Suriname,2004,1389.999986,South America
+3171,Suriname,2005,1690.000057,South America
+3172,Suriname,2006,1529.999971,South America
+3173,Suriname,2007,1409.999967,South America
+3174,Suriname,2008,1460.000038,South America
+3175,Suriname,2009,1450.000048,South America
+3176,Suriname,2010,1740.00001,South America
+3177,Suriname,2011,1950.000048,South America
+3178,Suriname,2012,2440.000057,South America
+3179,Suriname,2013,2289.999962,South America
+3180,Suriname,2014,2619.999886,South America
+3181,Suriname,2015,2720.000029,South America
+3182,Suriname,2016,2950.000048,South America
+3183,Suriname,2017,2500.0,South America
+3184,Suriname,2018,2210.000038,South America
+3185,Suriname,2019,2650.000095,South America
+3187,Sweden,2000,53280.0,Europe
+3188,Sweden,2001,52500.0,Europe
+3189,Sweden,2002,54020.00046,Europe
+3190,Sweden,2003,55200.00076,Europe
+3191,Sweden,2004,53590.00015,Europe
+3192,Sweden,2005,50209.99908,Europe
+3193,Sweden,2006,48900.00153,Europe
+3194,Sweden,2007,47139.99939,Europe
+3195,Sweden,2008,46150.00153,Europe
+3196,Sweden,2009,42880.00107,Europe
+3197,Sweden,2010,48130.00107,Europe
+3198,Sweden,2011,44580.00183,Europe
+3199,Sweden,2012,42139.99939,Europe
+3200,Sweden,2013,40540.00092,Europe
+3201,Sweden,2014,39080.00183,Europe
+3202,Sweden,2015,39189.99863,Europe
+3203,Sweden,2016,38779.99878,Europe
+3204,Sweden,2017,38290.00092,Europe
+3205,Sweden,2018,36009.99832,Europe
+3206,Sweden,2019,35000.0,Europe
+3208,Switzerland,2000,43710.0,Europe
+3209,Switzerland,2001,45150.0,Europe
+3210,Switzerland,2002,43569.99969,Europe
+3211,Switzerland,2003,44840.00015,Europe
+3212,Switzerland,2004,45279.99878,Europe
+3213,Switzerland,2005,45849.99847,Europe
+3214,Switzerland,2006,45479.99954,Europe
+3215,Switzerland,2007,43540.00092,Europe
+3216,Switzerland,2008,44959.99908,Europe
+3217,Switzerland,2009,43669.99817,Europe
+3218,Switzerland,2010,45209.99908,Europe
+3219,Switzerland,2011,41189.99863,Europe
+3220,Switzerland,2012,42520.00046,Europe
+3221,Switzerland,2013,43529.99878,Europe
+3222,Switzerland,2014,39790.00092,Europe
+3223,Switzerland,2015,39090.00015,Europe
+3224,Switzerland,2016,39669.99817,Europe
+3225,Switzerland,2017,38700.00076,Europe
+3226,Switzerland,2018,37479.99954,Europe
+3227,Switzerland,2019,37380.00107,Europe
+3229,Tajikistan,2000,2200.0,Asia
+3230,Tajikistan,2001,2150.0,Asia
+3231,Tajikistan,2002,2130.000114,Asia
+3232,Tajikistan,2003,2180.000067,Asia
+3233,Tajikistan,2004,2599.999905,Asia
+3234,Tajikistan,2005,2470.000029,Asia
+3235,Tajikistan,2006,2690.000057,Asia
+3236,Tajikistan,2007,3269.999981,Asia
+3237,Tajikistan,2008,3039.999962,Asia
+3238,Tajikistan,2009,2410.000086,Asia
+3239,Tajikistan,2010,2450.000048,Asia
+3240,Tajikistan,2011,2559.999943,Asia
+3241,Tajikistan,2012,3019.999981,Asia
+3242,Tajikistan,2013,3200.000048,Asia
+3243,Tajikistan,2014,4579.999924,Asia
+3244,Tajikistan,2015,4900.000095,Asia
+3245,Tajikistan,2016,6090.000153,Asia
+3246,Tajikistan,2017,7369.999886,Asia
+3247,Tajikistan,2018,8680.000305,Asia
+3248,Tajikistan,2019,9420.000076,Asia
+3250,Thailand,2000,164490.0,Asia
+3251,Thailand,2001,173160.0,Asia
+3252,Thailand,2002,184240.0055,Asia
+3253,Thailand,2003,191929.9927,Asia
+3254,Thailand,2004,210190.0024,Asia
+3255,Thailand,2005,217770.0043,Asia
+3256,Thailand,2006,219880.0049,Asia
+3257,Thailand,2007,224589.9963,Asia
+3258,Thailand,2008,227580.0018,Asia
+3259,Thailand,2009,220259.9945,Asia
+3260,Thailand,2010,234380.0049,Asia
+3261,Thailand,2011,233600.0061,Asia
+3262,Thailand,2012,250679.9927,Asia
+3263,Thailand,2013,260700.0122,Asia
+3264,Thailand,2014,256799.9878,Asia
+3265,Thailand,2015,264000.0,Asia
+3266,Thailand,2016,261600.0061,Asia
+3267,Thailand,2017,258820.0073,Asia
+3268,Thailand,2018,257049.9878,Asia
+3269,Thailand,2019,267089.9963,Asia
+3271,Togo,2000,1270.0,Africa
+3272,Togo,2001,1180.0,Africa
+3273,Togo,2002,1340.000033,Africa
+3274,Togo,2003,1830.000043,Africa
+3275,Togo,2004,1779.999971,Africa
+3276,Togo,2005,1750.0,Africa
+3277,Togo,2006,1570.000052,Africa
+3278,Togo,2007,1500.0,Africa
+3279,Togo,2008,1570.000052,Africa
+3280,Togo,2009,2819.999933,Africa
+3281,Togo,2010,2630.000114,Africa
+3282,Togo,2011,2519.999981,Africa
+3283,Togo,2012,2240.00001,Africa
+3284,Togo,2013,1750.0,Africa
+3285,Togo,2014,1590.000033,Africa
+3286,Togo,2015,1830.000043,Africa
+3287,Togo,2016,2299.999952,Africa
+3288,Togo,2017,2069.999933,Africa
+3289,Togo,2018,2309.999943,Africa
+3290,Togo,2019,2369.999886,Africa
+3292,Tonga,2000,100.0,Oceania
+3293,Tonga,2001,90.0,Oceania
+3294,Tonga,2002,100.0000015,Oceania
+3295,Tonga,2003,119.9999973,Oceania
+3296,Tonga,2004,129.9999952,Oceania
+3297,Tonga,2005,129.9999952,Oceania
+3298,Tonga,2006,150.000006,Oceania
+3299,Tonga,2007,129.9999952,Oceania
+3300,Tonga,2008,129.9999952,Oceania
+3301,Tonga,2009,140.0000006,Oceania
+3302,Tonga,2010,119.9999973,Oceania
+3303,Tonga,2011,109.9999994,Oceania
+3304,Tonga,2012,109.9999994,Oceania
+3305,Tonga,2013,119.9999973,Oceania
+3306,Tonga,2014,109.9999994,Oceania
+3307,Tonga,2015,119.9999973,Oceania
+3308,Tonga,2016,150.000006,Oceania
+3309,Tonga,2017,180.0000072,Oceania
+3310,Tonga,2018,159.9999964,Oceania
+3311,Tonga,2019,159.9999964,Oceania
+3313,Trinidad and Tobago,2000,10200.0,North America
+3314,Trinidad and Tobago,2001,11620.0,North America
+3315,Trinidad and Tobago,2002,12680.00031,North America
+3316,Trinidad and Tobago,2003,15449.99981,North America
+3317,Trinidad and Tobago,2004,16100.00038,North America
+3318,Trinidad and Tobago,2005,17590.00015,North America
+3319,Trinidad and Tobago,2006,20059.99947,North America
+3320,Trinidad and Tobago,2007,20500.0,North America
+3321,Trinidad and Tobago,2008,20020.00046,North America
+3322,Trinidad and Tobago,2009,19040.00092,North America
+3323,Trinidad and Tobago,2010,21459.99908,North America
+3324,Trinidad and Tobago,2011,22260.00023,North America
+3325,Trinidad and Tobago,2012,21520.00046,North America
+3326,Trinidad and Tobago,2013,22209.99908,North America
+3327,Trinidad and Tobago,2014,22040.00092,North America
+3328,Trinidad and Tobago,2015,21329.99992,North America
+3329,Trinidad and Tobago,2016,18309.99947,North America
+3330,Trinidad and Tobago,2017,18250.0,North America
+3331,Trinidad and Tobago,2018,17780.00069,North America
+3332,Trinidad and Tobago,2019,17190.00053,North America
+3334,Tunisia,2000,20700.0,Africa
+3335,Tunisia,2001,21570.0,Africa
+3336,Tunisia,2002,21709.99908,Africa
+3337,Tunisia,2003,21500.0,Africa
+3338,Tunisia,2004,22479.99954,Africa
+3339,Tunisia,2005,22969.99931,Africa
+3340,Tunisia,2006,23899.99962,Africa
+3341,Tunisia,2007,24750.0,Africa
+3342,Tunisia,2008,25250.0,Africa
+3343,Tunisia,2009,25290.00092,Africa
+3344,Tunisia,2010,27520.00046,Africa
+3345,Tunisia,2011,26340.00015,Africa
+3346,Tunisia,2012,27790.00092,Africa
+3347,Tunisia,2013,27850.00038,Africa
+3348,Tunisia,2014,29950.00076,Africa
+3349,Tunisia,2015,30479.99954,Africa
+3350,Tunisia,2016,29610.00061,Africa
+3351,Tunisia,2017,29959.99908,Africa
+3352,Tunisia,2018,29889.99939,Africa
+3353,Tunisia,2019,29909.99985,Africa
+3376,Turkmenistan,2000,38510.0,Asia
+3377,Turkmenistan,2001,39120.0,Asia
+3378,Turkmenistan,2002,41409.99985,Asia
+3379,Turkmenistan,2003,46349.99847,Asia
+3380,Turkmenistan,2004,49369.99893,Asia
+3381,Turkmenistan,2005,50590.00015,Asia
+3382,Turkmenistan,2006,51919.99817,Asia
+3383,Turkmenistan,2007,58479.99954,Asia
+3384,Turkmenistan,2008,59279.99878,Asia
+3385,Turkmenistan,2009,52389.99939,Asia
+3386,Turkmenistan,2010,59180.00031,Asia
+3387,Turkmenistan,2011,65449.99695,Asia
+3388,Turkmenistan,2012,69010.00214,Asia
+3389,Turkmenistan,2013,70220.00122,Asia
+3390,Turkmenistan,2014,71400.00153,Asia
+3391,Turkmenistan,2015,73400.00153,Asia
+3392,Turkmenistan,2016,73339.99634,Asia
+3393,Turkmenistan,2017,73120.00275,Asia
+3394,Turkmenistan,2018,73050.00305,Asia
+3395,Turkmenistan,2019,72870.00275,Asia
+3397,Tuvalu,2000,10.0,Oceania
+3398,Tuvalu,2001,10.0,Oceania
+3399,Tuvalu,2002,9.999999776,Oceania
+3400,Tuvalu,2003,9.999999776,Oceania
+3401,Tuvalu,2004,9.999999776,Oceania
+3402,Tuvalu,2005,9.999999776,Oceania
+3403,Tuvalu,2006,9.999999776,Oceania
+3404,Tuvalu,2007,9.999999776,Oceania
+3405,Tuvalu,2008,9.999999776,Oceania
+3406,Tuvalu,2009,9.999999776,Oceania
+3407,Tuvalu,2010,9.999999776,Oceania
+3408,Tuvalu,2011,9.999999776,Oceania
+3409,Tuvalu,2012,9.999999776,Oceania
+3410,Tuvalu,2013,9.999999776,Oceania
+3411,Tuvalu,2014,9.999999776,Oceania
+3412,Tuvalu,2015,9.999999776,Oceania
+3413,Tuvalu,2016,9.999999776,Oceania
+3414,Tuvalu,2017,9.999999776,Oceania
+3415,Tuvalu,2018,9.999999776,Oceania
+3416,Tuvalu,2019,9.999999776,Oceania
+3418,Uganda,2000,1300.0,Africa
+3419,Uganda,2001,1300.0,Africa
+3420,Uganda,2002,1490.00001,Africa
+3421,Uganda,2003,1570.000052,Africa
+3422,Uganda,2004,1629.999995,Africa
+3423,Uganda,2005,2019.999981,Africa
+3424,Uganda,2006,2400.000095,Africa
+3425,Uganda,2007,2869.999886,Africa
+3426,Uganda,2008,2970.000029,Africa
+3427,Uganda,2009,3359.999895,Africa
+3428,Uganda,2010,3329.999924,Africa
+3429,Uganda,2011,3740.00001,Africa
+3430,Uganda,2012,3779.999971,Africa
+3431,Uganda,2013,3690.000057,Africa
+3432,Uganda,2014,4110.000134,Africa
+3433,Uganda,2015,4719.99979,Africa
+3434,Uganda,2016,4949.999809,Africa
+3435,Uganda,2017,5170.000076,Africa
+3436,Uganda,2018,5860.000134,Africa
+3437,Uganda,2019,5860.000134,Africa
+3439,Ukraine,2000,297380.0,Europe
+3440,Ukraine,2001,300550.0,Europe
+3441,Ukraine,2002,303940.0024,Europe
+3442,Ukraine,2003,330230.011,Europe
+3443,Ukraine,2004,307140.0146,Europe
+3444,Ukraine,2005,295410.0037,Europe
+3445,Ukraine,2006,303989.9902,Europe
+3446,Ukraine,2007,312140.0146,Europe
+3447,Ukraine,2008,301200.0122,Europe
+3448,Ukraine,2009,251619.9951,Europe
+3449,Ukraine,2010,268920.0134,Europe
+3450,Ukraine,2011,283339.9963,Europe
+3451,Ukraine,2012,277109.9854,Europe
+3452,Ukraine,2013,270269.989,Europe
+3453,Ukraine,2014,237729.9957,Europe
+3454,Ukraine,2015,191070.0073,Europe
+3455,Ukraine,2016,201660.0037,Europe
+3456,Ukraine,2017,174940.0024,Europe
+3457,Ukraine,2018,185619.9951,Europe
+3458,Ukraine,2019,174729.9957,Europe
+3460,United Arab Emirates,2000,84730.0,Asia
+3461,United Arab Emirates,2001,97200.0,Asia
+3462,United Arab Emirates,2002,99150.00153,Asia
+3463,United Arab Emirates,2003,103819.9997,Asia
+3464,United Arab Emirates,2004,110010.0021,Asia
+3465,United Arab Emirates,2005,116459.9991,Asia
+3466,United Arab Emirates,2006,121559.9976,Asia
+3467,United Arab Emirates,2007,131830.0018,Asia
+3468,United Arab Emirates,2008,156050.0031,Asia
+3469,United Arab Emirates,2009,157020.0043,Asia
+3470,United Arab Emirates,2010,162789.9933,Asia
+3471,United Arab Emirates,2011,165600.0061,Asia
+3472,United Arab Emirates,2012,175589.9963,Asia
+3473,United Arab Emirates,2013,184470.0012,Asia
+3474,United Arab Emirates,2014,184759.9945,Asia
+3475,United Arab Emirates,2015,195240.0055,Asia
+3476,United Arab Emirates,2016,201080.0018,Asia
+3477,United Arab Emirates,2017,197039.9933,Asia
+3478,United Arab Emirates,2018,177119.9951,Asia
+3479,United Arab Emirates,2019,188860.0006,Asia
+3481,United Kingdom,2000,530890.0,Europe
+3482,United Kingdom,2001,545260.0,Europe
+3483,United Kingdom,2002,530789.978,Europe
+3484,United Kingdom,2003,543039.978,Europe
+3485,United Kingdom,2004,543080.0171,Europe
+3486,United Kingdom,2005,540919.9829,Europe
+3487,United Kingdom,2006,542059.9976,Europe
+3488,United Kingdom,2007,530500.0,Europe
+3489,United Kingdom,2008,515340.0269,Europe
+3490,United Kingdom,2009,466489.9902,Europe
+3491,United Kingdom,2010,482440.0024,Europe
+3492,United Kingdom,2011,445589.9963,Europe
+3493,United Kingdom,2012,467779.9988,Europe
+3494,United Kingdom,2013,453760.0098,Europe
+3495,United Kingdom,2014,415600.0061,Europe
+3496,United Kingdom,2015,401079.9866,Europe
+3497,United Kingdom,2016,380809.9976,Europe
+3498,United Kingdom,2017,367000.0,Europe
+3499,United Kingdom,2018,360730.011,Europe
+3500,United Kingdom,2019,348920.0134,Europe
+3502,United States,2000,5775810.0,North America
+3503,United States,2001,5748260.0,North America
+3504,United States,2002,5593029.785,North America
+3505,United States,2003,5658990.234,North America
+3506,United States,2004,5738290.039,North America
+3507,United States,2005,5753490.234,North America
+3508,United States,2006,5653080.078,North America
+3509,United States,2007,5736319.824,North America
+3510,United States,2008,5558379.883,North America
+3511,United States,2009,5156430.176,North America
+3512,United States,2010,5392109.863,North America
+3513,United States,2011,5173600.098,North America
+3514,United States,2012,4956060.059,North America
+3515,United States,2013,5092100.098,North America
+3516,United States,2014,5107209.961,North America
+3517,United States,2015,4990709.961,North America
+3518,United States,2016,4894500.0,North America
+3519,United States,2017,4819370.117,North America
+3520,United States,2018,4975310.059,North America
+3521,United States,2019,4817720.215,North America
+3523,Uruguay,2000,5460.0,South America
+3524,Uruguay,2001,4950.0,South America
+3525,Uruguay,2002,4530.00021,South America
+3526,Uruguay,2003,4489.999771,South America
+3527,Uruguay,2004,5460.000038,South America
+3528,Uruguay,2005,5420.000076,South America
+3529,Uruguay,2006,6329.999924,South America
+3530,Uruguay,2007,5849.999905,South America
+3531,Uruguay,2008,7750.0,South America
+3532,Uruguay,2009,7670.000076,South America
+3533,Uruguay,2010,6280.00021,South America
+3534,Uruguay,2011,7610.000134,South America
+3535,Uruguay,2012,8520.000458,South America
+3536,Uruguay,2013,7360.000134,South America
+3537,Uruguay,2014,6500.0,South America
+3538,Uruguay,2015,6639.999866,South America
+3539,Uruguay,2016,6519.999981,South America
+3540,Uruguay,2017,6099.999905,South America
+3541,Uruguay,2018,6539.999962,South America
+3542,Uruguay,2019,6489.999771,South America
+3544,Uzbekistan,2000,123810.0,Asia
+3545,Uzbekistan,2001,125700.0,Asia
+3546,Uzbekistan,2002,129889.9994,Asia
+3547,Uzbekistan,2003,121910.0037,Asia
+3548,Uzbekistan,2004,124839.9963,Asia
+3549,Uzbekistan,2005,119190.0024,Asia
+3550,Uzbekistan,2006,127360.0006,Asia
+3551,Uzbekistan,2007,122580.0018,Asia
+3552,Uzbekistan,2008,128880.0049,Asia
+3553,Uzbekistan,2009,116529.9988,Asia
+3554,Uzbekistan,2010,126239.9979,Asia
+3555,Uzbekistan,2011,128630.0049,Asia
+3556,Uzbekistan,2012,113139.9994,Asia
+3557,Uzbekistan,2013,111860.0006,Asia
+3558,Uzbekistan,2014,104870.0027,Asia
+3559,Uzbekistan,2015,99169.99817,Asia
+3560,Uzbekistan,2016,105230.0034,Asia
+3561,Uzbekistan,2017,109529.9988,Asia
+3562,Uzbekistan,2018,112470.0012,Asia
+3563,Uzbekistan,2019,116709.9991,Asia
+3565,Vanuatu,2000,90.0,Oceania
+3566,Vanuatu,2001,90.0,Oceania
+3567,Vanuatu,2002,79.99999821,Oceania
+3568,Vanuatu,2003,90.00000358,Oceania
+3569,Vanuatu,2004,70.0000003,Oceania
+3570,Vanuatu,2005,70.0000003,Oceania
+3571,Vanuatu,2006,70.0000003,Oceania
+3572,Vanuatu,2007,109.9999994,Oceania
+3573,Vanuatu,2008,100.0000015,Oceania
+3574,Vanuatu,2009,129.9999952,Oceania
+3575,Vanuatu,2010,129.9999952,Oceania
+3576,Vanuatu,2011,129.9999952,Oceania
+3577,Vanuatu,2012,119.9999973,Oceania
+3578,Vanuatu,2013,109.9999994,Oceania
+3579,Vanuatu,2014,159.9999964,Oceania
+3580,Vanuatu,2015,140.0000006,Oceania
+3581,Vanuatu,2016,180.0000072,Oceania
+3582,Vanuatu,2017,170.0000018,Oceania
+3583,Vanuatu,2018,209.9999934,Oceania
+3584,Vanuatu,2019,209.9999934,Oceania
+3607,Zambia,2000,1810.0,Africa
+3608,Zambia,2001,1840.0,Africa
+3609,Zambia,2002,1919.999957,Africa
+3610,Zambia,2003,2079.999924,Africa
+3611,Zambia,2004,2109.999895,Africa
+3612,Zambia,2005,2289.999962,Africa
+3613,Zambia,2006,2180.000067,Africa
+3614,Zambia,2007,1980.000019,Africa
+3615,Zambia,2008,2190.000057,Africa
+3616,Zambia,2009,2490.00001,Africa
+3617,Zambia,2010,2660.000086,Africa
+3618,Zambia,2011,3049.999952,Africa
+3619,Zambia,2012,4030.00021,Africa
+3620,Zambia,2013,4239.999771,Africa
+3621,Zambia,2014,4690.000057,Africa
+3622,Zambia,2015,4960.000038,Africa
+3623,Zambia,2016,5320.000172,Africa
+3624,Zambia,2017,6809.999943,Africa
+3625,Zambia,2018,7730.000019,Africa
+3626,Zambia,2019,6800.000191,Africa
+3628,Zimbabwe,2000,13700.0,Africa
+3629,Zimbabwe,2001,13900.0,Africa
+3630,Zimbabwe,2002,12489.99977,Africa
+3631,Zimbabwe,2003,10180.00031,Africa
+3632,Zimbabwe,2004,9770.000458,Africa
+3633,Zimbabwe,2005,10510.00023,Africa
+3634,Zimbabwe,2006,9829.999924,Africa
+3635,Zimbabwe,2007,9760.000229,Africa
+3636,Zimbabwe,2008,7599.999905,Africa
+3637,Zimbabwe,2009,7750.0,Africa
+3638,Zimbabwe,2010,9600.000381,Africa
+3639,Zimbabwe,2011,11409.99985,Africa
+3640,Zimbabwe,2012,12010.00023,Africa
+3641,Zimbabwe,2013,12279.99973,Africa
+3642,Zimbabwe,2014,12079.99992,Africa
+3643,Zimbabwe,2015,12430.00031,Africa
+3644,Zimbabwe,2016,11020.00046,Africa
+3645,Zimbabwe,2017,10340.00015,Africa
+3646,Zimbabwe,2018,12380.00011,Africa
+3647,Zimbabwe,2019,11760.00023,Africa

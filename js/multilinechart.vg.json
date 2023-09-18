@@ -1,0 +1,165 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 500,
+    "height": 400,
+    "title": "CO2 Emissions over the years (By countries)",
+    "data": {"url": "../data/ml.csv"},
+    "params": [
+        {
+            "name": "Continent_selection",
+            "bind": {
+              "input": "select",
+              "options": [
+                null,
+                "North America",
+                "South America",
+                "Europe",
+                "Africa",
+                "Asia",
+                "Oceania"
+              ],
+              "labels": [
+                "Show All",
+                "North America",
+                "South America",
+                "Europe",
+                "Africa",
+                "Asia",
+                "Oceania"
+              ],
+              "name": "Select a continent: "
+            }
+          },
+        {
+            "name": "country_selection",
+            "bind": {
+              "input": "select",
+              "options": [null,  "Afghanistan", "Albania", "Algeria", "Angola","Antigua and Barbuda", "Argentina", "Armenia", "Aruba","Australia", "Austria", "Azerbaijan", "Bahamas", "Bahrain","Bangladesh", "Barbados", "Belarus", "Belgium", "Belize", "Benin",
+       "Bermuda", "Bhutan", "Bosnia and Herzegovina", "Botswana","Brazil", "Bulgaria", "Burkina Faso", "Burundi", "Cambodia","Cameroon", "Canada", "Cayman Islands", "Central African Republic","Chad", "China", "Colombia", "Comoros", "Congo", "Costa Rica","Croatia", "Cuba", "Cyprus", "Czechia", "Denmark", "Djibouti",
+       "Dominica", "Dominican Republic", "Ecuador", "Egypt","El Salvador", "Equatorial Guinea", "Eritrea", "Estonia", "Eswatini", "Ethiopia", "Fiji", "Finland", "France",
+       "French Guiana", "Gabon", "Gambia", "Georgia", "Germany", "Ghana","Greece", "Grenada", "Guatemala", "Guinea", "Guinea-Bissau","Guyana", "Haiti", "Honduras", "Hungary", "Iceland", "India",
+       "Iraq", "Ireland", "Israel", "Italy", "Jamaica", "Japan", "Jordan","Kenya", "Kiribati", "Kuwait", "Kyrgyzstan", "Latvia", "Lebanon","Lesotho", "Liberia", "Libya", "Lithuania", "Luxembourg",
+       "Madagascar", "Malawi", "Maldives", "Mali", "Malta", "Mauritania",
+       "Mauritius", "Mexico", "Mongolia", "Montenegro", "Morocco",
+       "Mozambique", "Myanmar", "Namibia", "Nauru", "Nepal",
+       "Netherlands", "New Caledonia", "New Zealand", "Nicaragua",
+       "Niger", "Nigeria", "North Macedonia", "Norway", "Oman",
+       "Pakistan", "Panama", "Papua New Guinea", "Paraguay", "Peru",
+       "Philippines", "Poland", "Portugal", "Puerto Rico", "Qatar",
+       "Romania", "Rwanda", "Saint Kitts and Nevis", "Saint Lucia",
+       "Saint Vincent and the Grenadines", "Samoa",
+       "Sao Tome and Principe", "Senegal", "Serbia", "Seychelles",
+       "Sierra Leone", "Singapore", "Slovakia", "Slovenia",
+       "Solomon Islands", "Somalia", "South Africa", "South Sudan",
+       "Spain", "Sri Lanka", "Sudan", "Suriname", "Sweden", "Switzerland",
+       "Tajikistan", "Thailand", "Togo", "Tonga", "Trinidad and Tobago",
+       "Tunisia", "Turkey", "Turkmenistan", "Uganda", "Ukraine",
+       "United Arab Emirates", "United Kingdom", "United States",
+       "Uruguay", "Uzbekistan", "Vanuatu", "Yemen", "Zambia", "Zimbabwe"],
+            "labels": ["Show All", "Afghanistan", "Albania", "Algeria", "Angola",
+            "Antigua and Barbuda", "Argentina", "Armenia", "Aruba",
+            "Australia", "Austria", "Azerbaijan", "Bahamas", "Bahrain",
+            "Bangladesh", "Barbados", "Belarus", "Belgium", "Belize", "Benin",
+            "Bermuda", "Bhutan", "Bosnia and Herzegovina", "Botswana",
+            "Brazil", "Bulgaria", "Burkina Faso", "Burundi", "Cambodia",
+            "Cameroon", "Canada", "Cayman Islands", "Central African Republic",
+            "Chad", "China", "Colombia", "Comoros", "Congo", "Costa Rica",
+            "Croatia", "Cuba", "Cyprus", "Czechia", "Denmark", "Djibouti",
+            "Dominica", "Dominican Republic", "Ecuador", "Egypt",
+            "El Salvador", "Equatorial Guinea", "Eritrea", "Estonia",
+            "Eswatini", "Ethiopia", "Fiji", "Finland", "France",
+            "French Guiana", "Gabon", "Gambia", "Georgia", "Germany", "Ghana",
+            "Greece", "Grenada", "Guatemala", "Guinea", "Guinea-Bissau",
+            "Guyana", "Haiti", "Honduras", "Hungary", "Iceland", "India",
+            "Iraq", "Ireland", "Israel", "Italy", "Jamaica", "Japan", "Jordan",
+            "Kenya", "Kiribati", "Kuwait", "Kyrgyzstan", "Latvia", "Lebanon",
+            "Lesotho", "Liberia", "Libya", "Lithuania", "Luxembourg",
+            "Madagascar", "Malawi", "Maldives", "Mali", "Malta", "Mauritania",
+            "Mauritius", "Mexico", "Mongolia", "Montenegro", "Morocco",
+            "Mozambique", "Myanmar", "Namibia", "Nauru", "Nepal",
+            "Netherlands", "New Caledonia", "New Zealand", "Nicaragua",
+            "Niger", "Nigeria", "North Macedonia", "Norway", "Oman",
+            "Pakistan", "Panama", "Papua New Guinea", "Paraguay", "Peru",
+            "Philippines", "Poland", "Portugal", "Puerto Rico", "Qatar",
+            "Romania", "Rwanda", "Saint Kitts and Nevis", "Saint Lucia",
+            "Saint Vincent and the Grenadines", "Samoa",
+            "Sao Tome and Principe", "Senegal", "Serbia", "Seychelles",
+            "Sierra Leone", "Singapore", "Slovakia", "Slovenia",
+            "Solomon Islands", "Somalia", "South Africa", "South Sudan",
+            "Spain", "Sri Lanka", "Sudan", "Suriname", "Sweden", "Switzerland",
+            "Tajikistan", "Thailand", "Togo", "Tonga", "Trinidad and Tobago",
+            "Tunisia", "Turkey", "Turkmenistan", "Uganda", "Ukraine",
+            "United Arab Emirates", "United Kingdom", "United States",
+            "Uruguay", "Uzbekistan", "Vanuatu", "Yemen", "Zambia", "Zimbabwe"
+            ],
+              "name": "Select a Country: "
+            }
+          }
+    ],
+    "transform": [ 
+        {"filter": "country_selection == null || datum.Entity == country_selection"}, 
+        {"filter": "datum['co2_emissions'] > 600"}, 
+        {"filter": "Continent_selection == null || datum.continent == Continent_selection"}, 
+        {"fold": ["China", "United States", "India"], "as": ["label", "value"]},
+        {"window": [{"op": "last_value", "field": "co2_emissions", "as": "last_value"}], "groupby": ["Entity"]}
+      ],
+      "encoding": {
+        "x": {"field": "year", "type": "temporal", "title": "Year"},
+        "y": {"field": "co2_emissions", "type": "quantitative", "title": "CO2 Emissions"}
+      }, 
+    "layer": [
+    {
+    "mark": "line",
+    "encoding": {
+
+        "color": {
+            "field": "Entity",
+            "type": "nominal", 
+            "scale": {
+                "range": ["#333333"] 
+            }, 
+            "legend": null 
+        },
+        "opacity": {
+            "condition": {
+            "test": "datum['Entity'] == 'China' || datum['Entity'] == 'United States' || datum['Entity'] == 'India' ",
+            "value": 1
+            },
+            "value": 0.1
+            },
+        "tooltip": [
+            {
+                "field": "Entity",
+                "title": "Country"
+            },
+            {
+                "field": "co2_emissions",
+                "title": "CO2 Emissions",
+                "format": ".2f"
+            }
+        ]
+    }
+}, 
+    {
+        "mark": {
+        "type": "text",
+        "align": "right",
+        "baseline": "middle",
+        "dx": -12,
+        "fontSize": 11.5,
+        "fontStyle": "italic"
+        },
+        "encoding": {
+        "text": {"field": "Entity", "type": "nominal"},
+        "color": {"value": "black"},
+        "opacity": {
+        "condition": {
+        "test": "datum['year'] == 2017 || datum['Entity'] == 'China' || datum['Entity'] == 'United States' || datum['Entity'] == 'India'",
+        "value": 1
+        },
+        "value": 0
+        }
+        }
+        }
+]
+}

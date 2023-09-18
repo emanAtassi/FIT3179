@@ -9,19 +9,13 @@
 
 <body>
 
-    <div id="choroplethmap1" />
-
-
-
-
-
-
-
+    <div id="choroplethmap1"></div>
 
 
 
     <script>
-        vegaEmbed("#choroplethmap1", spec, { mode: "vega-lite" }).then(console.log).catch(console.warn);
+        var spec1 = "../js/chor3.vg.json";
+        vegaEmbed("#choroplethmap1", spec1, { mode: "vega-lite" }).then(console.log).catch(console.warn);
     </script>
 
 </body>
