@@ -95,7 +95,7 @@
         {
           "field": "Electricity",
           "aggregate": "sum",
-          "title": "Sum of Electricity (TWh)"
+          "title": "Value (TWh)"
         }
       ]
     }, 
