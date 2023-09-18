@@ -1,0 +1,1548 @@
+,Entity,year,clean_fuels,financial_flow,continent
+0,Afghanistan,2000,6.2,20000.0,Asia
+1,Afghanistan,2001,7.2,130000.0,Asia
+2,Afghanistan,2002,8.2,3950000.0,Asia
+3,Afghanistan,2003,9.5,25970000.0,Asia
+5,Afghanistan,2005,12.2,9830000.0,Asia
+6,Afghanistan,2006,13.85,10620000.0,Asia
+7,Afghanistan,2007,15.3,15750000.0,Asia
+8,Afghanistan,2008,16.7,16170000.0,Asia
+9,Afghanistan,2009,18.4,9960000.0,Asia
+10,Afghanistan,2010,20.0,36500000.0,Asia
+11,Afghanistan,2011,21.8,28690000.0,Asia
+12,Afghanistan,2012,23.0,62630000.0,Asia
+13,Afghanistan,2013,24.8,268460000.0,Asia
+14,Afghanistan,2014,26.1,6940000.0,Asia
+15,Afghanistan,2015,27.4,4890000.0,Asia
+16,Afghanistan,2016,28.6,860000.0,Asia
+17,Afghanistan,2017,29.7,50330000.0,Asia
+18,Afghanistan,2018,30.9,70100000.0,Asia
+19,Afghanistan,2019,31.9,4620000.0,Asia
+43,Algeria,2001,97.3,810000.0,Africa
+44,Algeria,2002,97.8,310000.0,Africa
+45,Algeria,2003,98.0,90000.0,Africa
+46,Algeria,2004,98.2,140000.0,Africa
+47,Algeria,2005,98.5,160000.0,Africa
+51,Algeria,2009,99.1,2190000.0,Africa
+52,Algeria,2010,99.2,400000.0,Africa
+53,Algeria,2011,99.3,0.0,Africa
+54,Algeria,2012,99.4,940000.0,Africa
+55,Algeria,2013,99.4,940000.0,Africa
+56,Algeria,2014,99.5,940000.0,Africa
+57,Algeria,2015,99.5,890000.0,Africa
+58,Algeria,2016,99.6,160000.0,Africa
+59,Algeria,2017,99.6,10000.0,Africa
+60,Algeria,2018,99.6,50000.0,Africa
+61,Algeria,2019,99.7,60000.0,Africa
+66,Angola,2003,42.0,50000.0,Africa
+67,Angola,2004,41.9,40000.0,Africa
+70,Angola,2007,43.5,760000.0,Africa
+73,Angola,2010,44.3,20000.0,Africa
+74,Angola,2011,44.8,220000.0,Africa
+75,Angola,2012,45.2,10000.0,Africa
+78,Angola,2015,47.2,10000.0,Africa
+79,Angola,2016,47.8,93960000.0,Africa
+81,Angola,2018,49.1,120000.0,Africa
+82,Angola,2019,49.5,60000.0,Africa
+97,Antigua and Barbuda,2013,100.0,2580000.0,North America
+99,Antigua and Barbuda,2015,100.0,6970000.0,North America
+101,Antigua and Barbuda,2017,100.0,19550000.0,North America
+106,Argentina,2001,95.6,3890000.0,South America
+108,Argentina,2003,96.45,50000.0,South America
+109,Argentina,2004,97.2,40960000.0,South America
+110,Argentina,2005,97.5,280000.0,South America
+111,Argentina,2006,98.1,440000.0,South America
+112,Argentina,2007,98.3,360000.0,South America
+113,Argentina,2008,98.6,22940000.0,South America
+114,Argentina,2009,98.9,39080000.0,South America
+115,Argentina,2010,99.1,1040000.0,South America
+116,Argentina,2011,99.3,69260000.0,South America
+117,Argentina,2012,99.5,256070000.0,South America
+118,Argentina,2013,99.6,47820000.0,South America
+119,Argentina,2014,99.7,2472850000.0,South America
+120,Argentina,2015,99.7,109830000.0,South America
+121,Argentina,2016,99.8,250160000.0,South America
+122,Argentina,2017,99.8,503740000.0,South America
+123,Argentina,2018,99.8,492720000.0,South America
+124,Argentina,2019,99.9,474460000.0,South America
+127,Armenia,2001,82.2,7670000.0,Asia
+128,Armenia,2002,84.9,50000.0,Asia
+129,Armenia,2003,87.7,2780000.0,Asia
+130,Armenia,2004,89.9,10320000.0,Asia
+131,Armenia,2005,91.6,3060000.0,Asia
+132,Armenia,2006,92.9,13470000.0,Asia
+133,Armenia,2007,94.2,1530000.0,Asia
+134,Armenia,2008,95.0,100000.0,Asia
+135,Armenia,2009,95.7,450000.0,Asia
+136,Armenia,2010,96.4,92450000.0,Asia
+137,Armenia,2011,96.8,960000.0,Asia
+138,Armenia,2012,97.2,74170000.0,Asia
+139,Armenia,2013,97.5,25910000.0,Asia
+140,Armenia,2014,97.6,9340000.0,Asia
+141,Armenia,2015,97.8,23250000.0,Asia
+142,Armenia,2016,97.9,120440000.0,Asia
+143,Armenia,2017,98.0,1550000.0,Asia
+144,Armenia,2018,98.0,27690000.0,Asia
+145,Armenia,2019,98.0,72580000.0,Asia
+210,Azerbaijan,2000,70.3,4880000.0,Asia
+215,Azerbaijan,2005,85.2,2230000.0,Asia
+216,Azerbaijan,2006,87.4,480000.0,Asia
+219,Azerbaijan,2009,92.1,170000.0,Asia
+220,Azerbaijan,2010,93.1,187390000.0,Asia
+221,Azerbaijan,2011,94.0,20000.0,Asia
+224,Azerbaijan,2014,95.5,20000.0,Asia
+225,Azerbaijan,2015,95.9,77640000.0,Asia
+226,Azerbaijan,2016,96.2,10000.0,Asia
+227,Azerbaijan,2017,96.4,20000.0,Asia
+248,Bahamas,2017,100.0,20000.0,North America
+249,Bahamas,2018,100.0,110000.0,North America
+250,Bahamas,2019,100.0,560000.0,North America
+273,Bangladesh,2000,8.3,3010000.0,Asia
+275,Bangladesh,2002,8.4,32180000.0,Asia
+276,Bangladesh,2003,8.6,46690000.0,Asia
+277,Bangladesh,2004,8.9,17170000.0,Asia
+278,Bangladesh,2005,9.2,39380000.0,Asia
+279,Bangladesh,2006,9.8,20000.0,Asia
+280,Bangladesh,2007,10.3,50500000.0,Asia
+281,Bangladesh,2008,11.0,10000.0,Asia
+282,Bangladesh,2009,11.8,26970000.0,Asia
+283,Bangladesh,2010,12.7,180000.0,Asia
+284,Bangladesh,2011,13.7,236740000.0,Asia
+285,Bangladesh,2012,14.7,149130000.0,Asia
+286,Bangladesh,2013,15.8,112940000.0,Asia
+287,Bangladesh,2014,17.1,90490000.0,Asia
+288,Bangladesh,2015,18.3,7700000.0,Asia
+289,Bangladesh,2016,19.3,418430000.0,Asia
+290,Bangladesh,2017,20.6,246620000.0,Asia
+291,Bangladesh,2018,21.9,235500000.0,Asia
+292,Bangladesh,2019,23.4,137390000.0,Asia
+309,Barbados,2015,100.0,80000.0,North America
+310,Barbados,2016,100.0,8860000.0,North America
+312,Barbados,2018,100.0,50000.0,North America
+313,Barbados,2019,100.0,34100000.0,North America
+366,Belize,2009,83.4,4660000.0,North America
+372,Belize,2015,82.9,20000.0,North America
+373,Belize,2016,82.8,1690000.0,North America
+374,Belize,2017,82.6,10000.0,North America
+375,Belize,2018,82.4,15950000.0,North America
+376,Belize,2019,82.1,260000.0,North America
+380,Benin,2002,1.0,90000.0,Africa
+382,Benin,2004,1.7,0.0,Africa
+384,Benin,2006,2.5,8540000.0,Africa
+386,Benin,2008,3.4,570000.0,Africa
+387,Benin,2009,3.7,8850000.0,Africa
+388,Benin,2010,4.0,170000.0,Africa
+389,Benin,2011,4.1,370000.0,Africa
+390,Benin,2012,4.3,70000.0,Africa
+392,Benin,2014,4.3,12880000.0,Africa
+393,Benin,2015,4.3,571900000.0,Africa
+394,Benin,2016,4.3,1280000.0,Africa
+395,Benin,2017,4.2,257820000.0,Africa
+396,Benin,2018,4.2,1940000.0,Africa
+397,Benin,2019,4.0,40000.0,Africa
+420,Bhutan,2000,27.8,4890000.0,Asia
+421,Bhutan,2001,30.9,2490000.0,Asia
+422,Bhutan,2002,34.8,25880000.0,Asia
+425,Bhutan,2005,47.3,1320000.0,Asia
+426,Bhutan,2006,51.1,120000.0,Asia
+427,Bhutan,2007,54.65,840000.0,Asia
+428,Bhutan,2008,57.8,4250000.0,Asia
+429,Bhutan,2009,61.2,82980000.0,Asia
+430,Bhutan,2010,63.9,22890000.0,Asia
+431,Bhutan,2011,66.7,90000.0,Asia
+432,Bhutan,2012,68.9,3510000.0,Asia
+433,Bhutan,2013,71.2,36930000.0,Asia
+434,Bhutan,2014,72.9,1990000.0,Asia
+435,Bhutan,2015,75.0,126110000.0,Asia
+436,Bhutan,2016,76.0,50000.0,Asia
+437,Bhutan,2017,77.4,20000.0,Asia
+438,Bhutan,2018,78.3,110000.0,Asia
+439,Bhutan,2019,79.4,700000.0,Asia
+462,Botswana,2000,44.4,30000.0,Africa
+466,Botswana,2004,51.1,40000.0,Africa
+467,Botswana,2005,52.6,20000.0,Africa
+468,Botswana,2006,53.7,60000.0,Africa
+469,Botswana,2007,55.1,10000.0,Africa
+471,Botswana,2009,57.6,6740000.0,Africa
+472,Botswana,2010,58.5,10260000.0,Africa
+473,Botswana,2011,59.6,80000.0,Africa
+474,Botswana,2012,60.2,460000.0,Africa
+476,Botswana,2014,61.3,2550000.0,Africa
+478,Botswana,2016,62.4,10000.0,Africa
+479,Botswana,2017,63.0,20000.0,Africa
+480,Botswana,2018,63.8,10000.0,Africa
+483,Brazil,2000,89.0,126500000.0,South America
+484,Brazil,2001,89.7,5290000.0,South America
+485,Brazil,2002,90.1,33350000.0,South America
+486,Brazil,2003,90.6,7530000.0,South America
+487,Brazil,2004,91.1,1140000.0,South America
+488,Brazil,2005,91.6,11720000.0,South America
+489,Brazil,2006,92.1,1220000.0,South America
+490,Brazil,2007,92.6,910000.0,South America
+491,Brazil,2008,93.1,19530000.0,South America
+492,Brazil,2009,93.6,174490000.0,South America
+493,Brazil,2010,94.0,135380000.0,South America
+494,Brazil,2011,94.3,187660000.0,South America
+495,Brazil,2012,94.7,228480000.0,South America
+496,Brazil,2013,95.0,93260000.0,South America
+497,Brazil,2014,95.2,489030000.0,South America
+498,Brazil,2015,95.4,2300000.0,South America
+499,Brazil,2016,95.7,161960000.0,South America
+500,Brazil,2017,95.7,521620000.0,South America
+501,Brazil,2018,95.8,256430000.0,South America
+502,Brazil,2019,95.8,50980000.0,South America
+525,Burkina Faso,2000,2.7,120000.0,Africa
+526,Burkina Faso,2001,2.9,15360000.0,Africa
+527,Burkina Faso,2002,3.1,20000.0,Africa
+529,Burkina Faso,2004,3.7,5260000.0,Africa
+530,Burkina Faso,2005,3.9,15860000.0,Africa
+532,Burkina Faso,2007,4.6,3560000.0,Africa
+533,Burkina Faso,2008,5.1,8000000.0,Africa
+534,Burkina Faso,2009,5.4,710000.0,Africa
+535,Burkina Faso,2010,5.8,1350000.0,Africa
+536,Burkina Faso,2011,6.3,30000.0,Africa
+537,Burkina Faso,2012,6.7,1480000.0,Africa
+538,Burkina Faso,2013,7.1,32460000.0,Africa
+539,Burkina Faso,2014,7.6,38410000.0,Africa
+540,Burkina Faso,2015,8.1,180000.0,Africa
+541,Burkina Faso,2016,8.7,29290000.0,Africa
+542,Burkina Faso,2017,9.0,20820000.0,Africa
+543,Burkina Faso,2018,9.5,35120000.0,Africa
+544,Burkina Faso,2019,10.1,45840000.0,Africa
+554,Burundi,2008,0.3,10000.0,Africa
+555,Burundi,2009,0.3,90000.0,Africa
+556,Burundi,2010,0.3,13350000.0,Africa
+557,Burundi,2011,0.2,10000.0,Africa
+558,Burundi,2012,0.2,6200000.0,Africa
+559,Burundi,2013,0.2,96640000.0,Africa
+560,Burundi,2014,0.2,140890000.0,Africa
+561,Burundi,2015,0.2,2490000.0,Africa
+562,Burundi,2016,0.2,50000.0,Africa
+563,Burundi,2017,0.2,16940000.0,Africa
+564,Burundi,2018,0.2,20360000.0,Africa
+565,Burundi,2019,0.2,89840000.0,Africa
+570,Cambodia,2003,5.3,4630000.0,Asia
+571,Cambodia,2004,5.9,409150000.0,Asia
+572,Cambodia,2005,6.7,1250000.0,Asia
+573,Cambodia,2006,7.6,10300000.0,Asia
+575,Cambodia,2008,9.4,65900000.0,Asia
+576,Cambodia,2009,10.5,3840000.0,Asia
+577,Cambodia,2010,11.7,680450000.0,Asia
+578,Cambodia,2011,13.1,1120000.0,Asia
+579,Cambodia,2012,14.5,720000.0,Asia
+580,Cambodia,2013,16.2,425110000.0,Asia
+581,Cambodia,2014,18.0,420000.0,Asia
+582,Cambodia,2015,20.3,8150000.0,Asia
+583,Cambodia,2016,22.7,156640000.0,Asia
+584,Cambodia,2017,25.5,3750000.0,Asia
+585,Cambodia,2018,28.9,15750000.0,Asia
+586,Cambodia,2019,32.6,360000.0,Asia
+590,Cameroon,2002,11.7,10000.0,Africa
+591,Cameroon,2003,12.7,10000.0,Africa
+592,Cameroon,2004,13.7,20000.0,Africa
+594,Cameroon,2006,15.9,11080000.0,Africa
+596,Cameroon,2008,17.7,490000.0,Africa
+597,Cameroon,2009,18.55,150000.0,Africa
+598,Cameroon,2010,19.4,53960000.0,Africa
+599,Cameroon,2011,20.0,40000.0,Africa
+600,Cameroon,2012,20.8,724590000.0,Africa
+601,Cameroon,2013,21.4,20000.0,Africa
+602,Cameroon,2014,21.7,11230000.0,Africa
+603,Cameroon,2015,22.0,2060000.0,Africa
+604,Cameroon,2016,22.2,77450000.0,Africa
+605,Cameroon,2017,22.2,171120000.0,Africa
+606,Cameroon,2018,22.1,934680000.0,Africa
+607,Cameroon,2019,22.2,7360000.0,Africa
+657,Central African Republic,2006,0.6,0.0,Africa
+660,Central African Republic,2009,0.6,4190000.0,Africa
+662,Central African Republic,2011,0.5,32850000.0,Africa
+665,Central African Republic,2014,0.6,0.0,Africa
+666,Central African Republic,2015,0.6,670000.0,Africa
+667,Central African Republic,2016,0.7,0.0,Africa
+668,Central African Republic,2017,0.7,30000.0,Africa
+669,Central African Republic,2018,0.7,3730000.0,Africa
+670,Central African Republic,2019,0.7,50050000.0,Africa
+673,Chad,2001,2.8,5880000.0,Africa
+679,Chad,2007,2.3,25860000.0,Africa
+683,Chad,2011,2.8,0.0,Africa
+685,Chad,2013,3.3,30000.0,Africa
+686,Chad,2014,3.7,20000.0,Africa
+687,Chad,2015,4.1,20000.0,Africa
+688,Chad,2016,4.6,41330000.0,Africa
+689,Chad,2017,5.1,10000.0,Africa
+693,Chile,2000,100.0,460000.0,South America
+694,Chile,2001,100.0,150000.0,South America
+695,Chile,2002,100.0,30000.0,South America
+696,Chile,2003,100.0,70000.0,South America
+697,Chile,2004,100.0,2790000.0,South America
+698,Chile,2005,100.0,50460000.0,South America
+699,Chile,2006,100.0,110000.0,South America
+700,Chile,2007,100.0,93230000.0,South America
+701,Chile,2008,100.0,65320000.0,South America
+702,Chile,2009,100.0,56220000.0,South America
+703,Chile,2010,100.0,3200000.0,South America
+704,Chile,2011,100.0,68530000.0,South America
+705,Chile,2012,100.0,1003530000.0,South America
+706,Chile,2013,100.0,1352650000.0,South America
+707,Chile,2014,100.0,1263800000.0,South America
+708,Chile,2015,100.0,113310000.0,South America
+709,Chile,2016,100.0,300130000.0,South America
+710,Chile,2017,100.0,209270000.0,South America
+714,China,2000,42.0,243620000.0,Asia
+715,China,2001,42.3,325050000.0,Asia
+716,China,2002,43.1,218270000.0,Asia
+717,China,2003,43.4,22510000.0,Asia
+718,China,2004,44.9,32680000.0,Asia
+719,China,2005,46.3,155060000.0,Asia
+720,China,2006,47.7,127720000.0,Asia
+721,China,2007,49.4,24770000.0,Asia
+722,China,2008,51.1,142770000.0,Asia
+723,China,2009,53.5,58540000.0,Asia
+724,China,2010,55.6,131240000.0,Asia
+725,China,2011,58.0,43040000.0,Asia
+726,China,2012,60.7,100650000.0,Asia
+727,China,2013,63.2,301710000.0,Asia
+728,China,2014,66.0,229420000.0,Asia
+729,China,2015,68.4,92000000.0,Asia
+730,China,2016,70.6,1245180000.0,Asia
+731,China,2017,73.2,372490000.0,Asia
+732,China,2018,75.6,318260000.0,Asia
+733,China,2019,77.6,201540000.0,Asia
+737,Colombia,2002,79.7,90000.0,South America
+738,Colombia,2003,80.7,10000.0,South America
+740,Colombia,2005,82.4,223460000.0,South America
+741,Colombia,2006,83.0,1940000.0,South America
+742,Colombia,2007,83.8,790000.0,South America
+743,Colombia,2008,84.6,15930000.0,South America
+744,Colombia,2009,85.4,10000.0,South America
+745,Colombia,2010,86.3,3470000.0,South America
+746,Colombia,2011,87.0,780000.0,South America
+747,Colombia,2012,87.6,1840000.0,South America
+748,Colombia,2013,88.45,310000.0,South America
+749,Colombia,2014,89.1,55290000.0,South America
+750,Colombia,2015,89.75,23220000.0,South America
+751,Colombia,2016,90.7,1454760000.0,South America
+752,Colombia,2017,91.2,184770000.0,South America
+753,Colombia,2018,92.0,144250000.0,South America
+754,Colombia,2019,92.5,152510000.0,South America
+768,Comoros,2012,4.2,310000.0,Africa
+769,Comoros,2013,4.8,20000.0,Africa
+770,Comoros,2014,5.3,120000.0,Africa
+771,Comoros,2015,5.7,970000.0,Africa
+772,Comoros,2016,6.3,10000.0,Africa
+773,Comoros,2017,6.8,11180000.0,Africa
+777,Congo,2000,9.3,150000.0,Africa
+780,Congo,2003,10.5,515910000.0,Africa
+789,Congo,2012,20.05,114860000.0,Africa
+790,Congo,2013,21.8,1880000.0,Africa
+791,Congo,2014,23.5,0.0,Africa
+793,Congo,2016,27.4,90000.0,Africa
+795,Congo,2018,31.05,20630000.0,Africa
+796,Congo,2019,32.6,90000.0,Africa
+798,Costa Rica,2000,89.0,100000.0,North America
+799,Costa Rica,2001,89.4,140120000.0,North America
+801,Costa Rica,2003,90.1,16200000.0,North America
+802,Costa Rica,2004,90.4,90000.0,North America
+803,Costa Rica,2005,90.7,100000.0,North America
+804,Costa Rica,2006,91.2,80000.0,North America
+805,Costa Rica,2007,91.3,700000.0,North America
+806,Costa Rica,2008,91.8,90000.0,North America
+807,Costa Rica,2009,92.1,10000.0,North America
+808,Costa Rica,2010,92.4,7640000.0,North America
+809,Costa Rica,2011,92.9,1670000.0,North America
+810,Costa Rica,2012,93.1,333910000.0,North America
+811,Costa Rica,2013,93.6,122760000.0,North America
+812,Costa Rica,2014,94.0,161780000.0,North America
+813,Costa Rica,2015,94.3,596370000.0,North America
+814,Costa Rica,2016,94.6,173040000.0,North America
+815,Costa Rica,2017,94.9,251880000.0,North America
+816,Costa Rica,2018,95.3,27800000.0,North America
+817,Costa Rica,2019,95.6,680000.0,North America
+840,Cuba,2000,71.4,790000.0,North America
+841,Cuba,2001,74.5,4590000.0,North America
+842,Cuba,2002,77.2,1710000.0,North America
+843,Cuba,2003,79.8,360000.0,North America
+844,Cuba,2004,81.8,910000.0,North America
+845,Cuba,2005,83.8,410000.0,North America
+846,Cuba,2006,85.4,390000.0,North America
+847,Cuba,2007,87.0,10000.0,North America
+848,Cuba,2008,88.1,50000.0,North America
+849,Cuba,2009,89.1,910000.0,North America
+850,Cuba,2010,90.2,4160000.0,North America
+851,Cuba,2011,91.0,1310000.0,North America
+852,Cuba,2012,91.5,420000.0,North America
+853,Cuba,2013,92.0,3100000.0,North America
+854,Cuba,2014,92.7,40000.0,North America
+855,Cuba,2015,92.65,77320000.0,North America
+856,Cuba,2016,93.2,31010000.0,North America
+857,Cuba,2017,93.4,110970000.0,North America
+858,Cuba,2018,93.5,7200000.0,North America
+859,Cuba,2019,93.6,5670000.0,North America
+929,Djibouti,2005,4.8,5940000.0,Africa
+933,Djibouti,2009,6.1,5580000.0,Africa
+934,Djibouti,2010,6.5,12430000.0,Africa
+935,Djibouti,2011,6.8,10000.0,Africa
+936,Djibouti,2012,7.2,9480000.0,Africa
+937,Djibouti,2013,7.8,8230000.0,Africa
+938,Djibouti,2014,8.1,3140000.0,Africa
+939,Djibouti,2015,8.4,940000.0,Africa
+940,Djibouti,2016,8.75,1290000.0,Africa
+941,Djibouti,2017,9.0,1730000.0,Africa
+942,Djibouti,2018,9.3,30470000.0,Africa
+943,Djibouti,2019,9.5,26860000.0,Africa
+958,Dominica,2013,88.7,7640000.0,North America
+959,Dominica,2014,88.9,1700000.0,North America
+962,Dominica,2017,89.3,13270000.0,North America
+963,Dominica,2018,89.1,1640000.0,North America
+964,Dominica,2019,89.3,8940000.0,North America
+966,Dominican Republic,2000,84.1,11100000.0,North America
+967,Dominican Republic,2001,84.7,4170000.0,North America
+968,Dominican Republic,2002,85.5,670000.0,North America
+970,Dominican Republic,2004,86.4,460000.0,North America
+971,Dominican Republic,2005,86.7,6260000.0,North America
+972,Dominican Republic,2006,87.0,530000.0,North America
+973,Dominican Republic,2007,87.1,370000.0,North America
+974,Dominican Republic,2008,87.3,150000.0,North America
+975,Dominican Republic,2009,87.4,310000.0,North America
+976,Dominican Republic,2010,87.6,180000.0,North America
+977,Dominican Republic,2011,87.8,240000.0,North America
+978,Dominican Republic,2012,87.9,1390000.0,North America
+979,Dominican Republic,2013,88.2,20000.0,North America
+980,Dominican Republic,2014,88.5,450000.0,North America
+981,Dominican Republic,2015,89.0,70000.0,North America
+982,Dominican Republic,2016,89.5,81910000.0,North America
+983,Dominican Republic,2017,90.0,82190000.0,North America
+984,Dominican Republic,2018,90.4,380000.0,North America
+985,Dominican Republic,2019,90.9,42670000.0,North America
+987,Ecuador,2000,87.8,2220000.0,South America
+988,Ecuador,2001,88.75,2140000.0,South America
+989,Ecuador,2002,89.8,830000.0,South America
+990,Ecuador,2003,90.6,360000.0,South America
+991,Ecuador,2004,91.1,310000.0,South America
+992,Ecuador,2005,91.7,8400000.0,South America
+993,Ecuador,2006,92.3,10000.0,South America
+995,Ecuador,2008,93.05,2770000.0,South America
+996,Ecuador,2009,93.3,1270000.0,South America
+997,Ecuador,2010,93.6,2811680000.0,South America
+998,Ecuador,2011,93.9,394900000.0,South America
+999,Ecuador,2012,94.0,26490000.0,South America
+1000,Ecuador,2013,94.1,331000000.0,South America
+1001,Ecuador,2014,94.3,509020000.0,South America
+1002,Ecuador,2015,94.4,31740000.0,South America
+1003,Ecuador,2016,94.4,134670000.0,South America
+1004,Ecuador,2017,94.4,36680000.0,South America
+1005,Ecuador,2018,94.5,890000.0,South America
+1006,Ecuador,2019,94.45,60120000.0,South America
+1008,Egypt,2000,83.5,10780000.0,Africa
+1009,Egypt,2001,86.7,31600000.0,Africa
+1010,Egypt,2002,89.4,530000.0,Africa
+1011,Egypt,2003,92.0,209660000.0,Africa
+1012,Egypt,2004,93.85,47570000.0,Africa
+1013,Egypt,2005,95.5,102760000.0,Africa
+1014,Egypt,2006,96.7,500000.0,Africa
+1015,Egypt,2007,97.6,97280000.0,Africa
+1016,Egypt,2008,98.2,85760000.0,Africa
+1017,Egypt,2009,98.8,257900000.0,Africa
+1018,Egypt,2010,99.1,1025120000.0,Africa
+1019,Egypt,2011,99.4,118940000.0,Africa
+1020,Egypt,2012,99.55,14920000.0,Africa
+1021,Egypt,2013,99.7,159850000.0,Africa
+1022,Egypt,2014,99.8,80000.0,Africa
+1023,Egypt,2015,99.8,239160000.0,Africa
+1024,Egypt,2016,99.8,312350000.0,Africa
+1025,Egypt,2017,99.9,2070240000.0,Africa
+1026,Egypt,2018,99.9,124930000.0,Africa
+1027,Egypt,2019,99.9,340400000.0,Africa
+1033,El Salvador,2004,65.8,1300000.0,North America
+1035,El Salvador,2006,69.4,0.0,North America
+1036,El Salvador,2007,71.4,250000.0,North America
+1037,El Salvador,2008,73.1,20000.0,North America
+1038,El Salvador,2009,75.1,100000.0,North America
+1039,El Salvador,2010,76.8,90000.0,North America
+1040,El Salvador,2011,78.7,960000.0,North America
+1041,El Salvador,2012,80.3,1440000.0,North America
+1042,El Salvador,2013,82.1,54180000.0,North America
+1043,El Salvador,2014,84.0,10000.0,North America
+1044,El Salvador,2015,85.5,150500000.0,North America
+1045,El Salvador,2016,86.9,67690000.0,North America
+1046,El Salvador,2017,88.2,222340000.0,North America
+1047,El Salvador,2018,89.4,31910000.0,North America
+1048,El Salvador,2019,90.75,1180000.0,North America
+1051,Equatorial Guinea,2001,19.5,180000.0,Africa
+1052,Equatorial Guinea,2002,19.4,170000.0,Africa
+1053,Equatorial Guinea,2003,19.6,40000.0,Africa
+1056,Equatorial Guinea,2006,21.3,464620000.0,Africa
+1063,Equatorial Guinea,2013,23.6,3420000.0,Africa
+1065,Equatorial Guinea,2015,24.0,20000.0,Africa
+1078,Eritrea,2007,6.8,510000.0,Africa
+1079,Eritrea,2008,7.4,70000.0,Africa
+1080,Eritrea,2009,7.7,30000.0,Africa
+1081,Eritrea,2010,8.0,50000.0,Africa
+1082,Eritrea,2011,8.3,250000.0,Africa
+1086,Eritrea,2015,9.0,113190000.0,Africa
+1089,Eritrea,2018,9.1,30000.0,Africa
+1116,Eswatini,2003,27.8,9820000.0,Africa
+1128,Eswatini,2015,47.6,1040000.0,Africa
+1134,Ethiopia,2000,0.9,1500000.0,Africa
+1135,Ethiopia,2001,0.9,790000.0,Africa
+1136,Ethiopia,2002,1.0,205460000.0,Africa
+1137,Ethiopia,2003,1.0,7790000.0,Africa
+1138,Ethiopia,2004,1.1,640000.0,Africa
+1139,Ethiopia,2005,1.1,364870000.0,Africa
+1140,Ethiopia,2006,1.3,420000.0,Africa
+1141,Ethiopia,2007,1.4,204140000.0,Africa
+1142,Ethiopia,2008,1.6,320000.0,Africa
+1143,Ethiopia,2009,1.9,4284370000.0,Africa
+1144,Ethiopia,2010,2.1,92370000.0,Africa
+1145,Ethiopia,2011,2.5,109570000.0,Africa
+1146,Ethiopia,2012,2.9,54000000.0,Africa
+1147,Ethiopia,2013,3.2,292840000.0,Africa
+1148,Ethiopia,2014,3.7,655350000.0,Africa
+1149,Ethiopia,2015,4.3,300680000.0,Africa
+1150,Ethiopia,2016,4.9,54100000.0,Africa
+1151,Ethiopia,2017,5.45,361270000.0,Africa
+1152,Ethiopia,2018,6.2,33800000.0,Africa
+1153,Ethiopia,2019,7.0,56700000.0,Africa
+1159,Fiji,2004,28.5,310000.0,Oceania
+1160,Fiji,2005,28.7,260000.0,Oceania
+1162,Fiji,2007,29.6,50000.0,Oceania
+1164,Fiji,2009,31.0,96070000.0,Oceania
+1166,Fiji,2011,33.2,10000.0,Oceania
+1167,Fiji,2012,34.5,110000.0,Oceania
+1168,Fiji,2013,36.6,4710000.0,Oceania
+1169,Fiji,2014,38.1,6670000.0,Oceania
+1170,Fiji,2015,40.3,1700000.0,Oceania
+1171,Fiji,2016,42.4,180000.0,Oceania
+1172,Fiji,2017,44.6,50000.0,Oceania
+1173,Fiji,2018,46.7,5620000.0,Oceania
+1174,Fiji,2019,49.4,110000.0,Oceania
+1227,Gabon,2008,77.7,407070000.0,Africa
+1229,Gabon,2010,80.4,6240000.0,Africa
+1232,Gabon,2013,83.6,20000.0,Africa
+1233,Gabon,2014,84.65,10000.0,Africa
+1234,Gabon,2015,85.6,13090000.0,Africa
+1235,Gabon,2016,86.2,40720000.0,Africa
+1236,Gabon,2017,86.8,120000.0,Africa
+1237,Gabon,2018,87.4,20000.0,Africa
+1242,Gambia,2002,3.8,10000.0,Africa
+1251,Gambia,2011,2.4,10000.0,Africa
+1257,Gambia,2017,1.9,25390000.0,Africa
+1258,Gambia,2018,1.8,64770000.0,Africa
+1259,Gambia,2019,1.8,11870000.0,Africa
+1262,Georgia,2001,49.1,18260000.0,Asia
+1264,Georgia,2003,51.1,1860000.0,Asia
+1265,Georgia,2004,52.7,3440000.0,Asia
+1266,Georgia,2005,54.2,9570000.0,Asia
+1267,Georgia,2006,56.35,2580000.0,Asia
+1270,Georgia,2009,63.0,1020000.0,Asia
+1271,Georgia,2010,65.6,8380000.0,Asia
+1272,Georgia,2011,68.7,139210000.0,Asia
+1273,Georgia,2012,71.7,37150000.0,Asia
+1274,Georgia,2013,74.1,9820000.0,Asia
+1275,Georgia,2014,77.0,195990000.0,Asia
+1276,Georgia,2015,79.3,6770000.0,Asia
+1277,Georgia,2016,81.65,90510000.0,Asia
+1278,Georgia,2017,84.0,30000000.0,Asia
+1279,Georgia,2018,85.8,46330000.0,Asia
+1280,Georgia,2019,87.7,23940000.0,Asia
+1303,Ghana,2000,6.2,4160000.0,Africa
+1304,Ghana,2001,6.6,1020000.0,Africa
+1305,Ghana,2002,7.2,20000.0,Africa
+1306,Ghana,2003,7.9,340000.0,Africa
+1307,Ghana,2004,8.5,250000.0,Africa
+1308,Ghana,2005,9.5,350000.0,Africa
+1309,Ghana,2006,10.5,27040000.0,Africa
+1310,Ghana,2007,11.8,922210000.0,Africa
+1311,Ghana,2008,13.0,7780000.0,Africa
+1312,Ghana,2009,14.5,620000.0,Africa
+1313,Ghana,2010,16.0,24730000.0,Africa
+1314,Ghana,2011,17.3,1370000.0,Africa
+1315,Ghana,2012,18.7,800000.0,Africa
+1316,Ghana,2013,19.6,2370000.0,Africa
+1317,Ghana,2014,20.5,7190000.0,Africa
+1318,Ghana,2015,21.1,6660000.0,Africa
+1319,Ghana,2016,21.8,505230000.0,Africa
+1320,Ghana,2017,21.9,7910000.0,Africa
+1321,Ghana,2018,22.2,28360000.0,Africa
+1322,Ghana,2019,22.4,3360000.0,Africa
+1348,Grenada,2003,93.1,460000.0,North America
+1356,Grenada,2011,92.6,3090000.0,North America
+1359,Grenada,2014,91.5,110000.0,North America
+1360,Grenada,2015,91.2,1740000.0,North America
+1362,Grenada,2017,90.25,720000.0,North America
+1371,Guatemala,2005,37.45,40000.0,North America
+1372,Guatemala,2006,37.3,0.0,North America
+1374,Guatemala,2008,37.1,60000.0,North America
+1375,Guatemala,2009,37.4,20000.0,North America
+1376,Guatemala,2010,38.1,9610000.0,North America
+1377,Guatemala,2011,38.4,4330000.0,North America
+1378,Guatemala,2012,39.2,8420000.0,North America
+1379,Guatemala,2013,40.2,17640000.0,North America
+1380,Guatemala,2014,41.6,630000.0,North America
+1381,Guatemala,2015,42.7,20000.0,North America
+1382,Guatemala,2016,44.3,13190000.0,North America
+1383,Guatemala,2017,45.7,860000.0,North America
+1384,Guatemala,2018,46.95,11450000.0,North America
+1385,Guatemala,2019,48.6,56590000.0,North America
+1387,Guinea,2000,0.7,220000.0,Africa
+1388,Guinea,2001,0.7,560000.0,Africa
+1389,Guinea,2002,0.7,4910000.0,Africa
+1393,Guinea,2006,0.7,2490000.0,Africa
+1394,Guinea,2007,0.7,500000.0,Africa
+1395,Guinea,2008,0.7,10000.0,Africa
+1398,Guinea,2011,0.8,366800000.0,Africa
+1399,Guinea,2012,0.8,6000000.0,Africa
+1401,Guinea,2014,0.9,60000.0,Africa
+1402,Guinea,2015,1.0,1190000.0,Africa
+1403,Guinea,2016,1.1,140760000.0,Africa
+1404,Guinea,2017,1.2,130000.0,Africa
+1405,Guinea,2018,1.4,1139600000.0,Africa
+1406,Guinea,2019,1.6,819800000.0,Africa
+1409,Guinea-Bissau,2001,1.3,3340000.0,Africa
+1410,Guinea-Bissau,2002,1.3,4560000.0,Africa
+1412,Guinea-Bissau,2004,1.2,160000.0,Africa
+1417,Guinea-Bissau,2009,1.1,30000.0,Africa
+1418,Guinea-Bissau,2010,1.1,20000.0,Africa
+1419,Guinea-Bissau,2011,1.1,220000.0,Africa
+1420,Guinea-Bissau,2012,1.1,100000.0,Africa
+1421,Guinea-Bissau,2013,1.1,190000.0,Africa
+1422,Guinea-Bissau,2014,1.1,200000.0,Africa
+1424,Guinea-Bissau,2016,1.1,410000.0,Africa
+1425,Guinea-Bissau,2017,1.1,3370000.0,Africa
+1426,Guinea-Bissau,2018,1.2,4510000.0,Africa
+1427,Guinea-Bissau,2019,1.0,230000.0,Africa
+1430,Guyana,2001,37.7,5030000.0,South America
+1434,Guyana,2005,47.6,30000.0,South America
+1439,Guyana,2010,61.0,1190000.0,South America
+1441,Guyana,2012,66.2,90000.0,South America
+1442,Guyana,2013,68.6,20000.0,South America
+1443,Guyana,2014,70.9,20000.0,South America
+1444,Guyana,2015,72.8,2850000.0,South America
+1447,Guyana,2018,77.9,30810000.0,South America
+1448,Guyana,2019,79.5,14630000.0,South America
+1450,Haiti,2000,2.6,840000.0,North America
+1455,Haiti,2005,3.1,320000.0,North America
+1458,Haiti,2008,3.4,0.0,North America
+1459,Haiti,2009,3.6,14870000.0,North America
+1460,Haiti,2010,3.6,2330000.0,North America
+1461,Haiti,2011,3.7,31320000.0,North America
+1462,Haiti,2012,3.7,12110000.0,North America
+1463,Haiti,2013,3.7,13910000.0,North America
+1464,Haiti,2014,3.8,810000.0,North America
+1465,Haiti,2015,4.0,49590000.0,North America
+1466,Haiti,2016,4.0,8670000.0,North America
+1467,Haiti,2017,4.1,26180000.0,North America
+1468,Haiti,2018,4.3,750000.0,North America
+1469,Haiti,2019,4.4,39510000.0,North America
+1471,Honduras,2000,30.7,32740000.0,North America
+1474,Honduras,2003,35.0,210000.0,North America
+1476,Honduras,2005,37.4,5860000.0,North America
+1478,Honduras,2007,39.8,20000.0,North America
+1479,Honduras,2008,40.8,20000.0,North America
+1480,Honduras,2009,41.5,130000.0,North America
+1481,Honduras,2010,42.5,20520000.0,North America
+1482,Honduras,2011,43.2,13080000.0,North America
+1483,Honduras,2012,43.8,270000.0,North America
+1484,Honduras,2013,44.5,322440000.0,North America
+1485,Honduras,2014,45.1,134590000.0,North America
+1486,Honduras,2015,45.9,391110000.0,North America
+1487,Honduras,2016,46.5,176000000.0,North America
+1488,Honduras,2017,47.1,86060000.0,North America
+1489,Honduras,2018,47.2,99040000.0,North America
+1490,Honduras,2019,48.1,960000.0,North America
+1534,India,2000,22.3,485730000.0,Asia
+1535,India,2001,23.4,193140000.0,Asia
+1536,India,2002,24.7,17160000.0,Asia
+1537,India,2003,25.9,10700000.0,Asia
+1538,India,2004,27.3,399430000.0,Asia
+1539,India,2005,28.6,175340000.0,Asia
+1540,India,2006,29.5,160980000.0,Asia
+1541,India,2007,30.55,465640000.0,Asia
+1542,India,2008,32.0,369350000.0,Asia
+1543,India,2009,34.0,210650000.0,Asia
+1544,India,2010,35.4,372820000.0,Asia
+1545,India,2011,37.2,1950940000.0,Asia
+1546,India,2012,39.6,1119110000.0,Asia
+1547,India,2013,41.6,586410000.0,Asia
+1548,India,2014,44.8,699800000.0,Asia
+1549,India,2015,48.2,898770000.0,Asia
+1550,India,2016,51.4,2112780000.0,Asia
+1551,India,2017,55.8,861450000.0,Asia
+1552,India,2018,59.8,1764130000.0,Asia
+1553,India,2019,63.9,786330000.0,Asia
+1555,Indonesia,2000,6.1,2320000.0,Asia
+1556,Indonesia,2001,6.9,5090000.0,Asia
+1557,Indonesia,2002,8.0,120000.0,Asia
+1558,Indonesia,2003,9.3,201310000.0,Asia
+1559,Indonesia,2004,11.3,51670000.0,Asia
+1560,Indonesia,2005,14.1,188350000.0,Asia
+1561,Indonesia,2006,17.9,255840000.0,Asia
+1562,Indonesia,2007,22.5,602100000.0,Asia
+1563,Indonesia,2008,28.5,19440000.0,Asia
+1564,Indonesia,2009,34.7,29220000.0,Asia
+1565,Indonesia,2010,41.3,46300000.0,Asia
+1566,Indonesia,2011,47.3,947340000.0,Asia
+1567,Indonesia,2012,52.9,16110000.0,Asia
+1568,Indonesia,2013,58.0,245060000.0,Asia
+1569,Indonesia,2014,62.8,881330000.0,Asia
+1570,Indonesia,2015,67.1,378150000.0,Asia
+1571,Indonesia,2016,71.2,342330000.0,Asia
+1572,Indonesia,2017,75.1,300880000.0,Asia
+1573,Indonesia,2018,78.7,1056140000.0,Asia
+1574,Indonesia,2019,81.85,215790000.0,Asia
+1579,Iraq,2003,82.2,23850000.0,Asia
+1582,Iraq,2006,89.1,43260000.0,Asia
+1583,Iraq,2007,90.9,35230000.0,Asia
+1584,Iraq,2008,92.6,80000.0,Asia
+1585,Iraq,2009,93.9,150000.0,Asia
+1586,Iraq,2010,95.0,158470000.0,Asia
+1588,Iraq,2012,96.7,2250000.0,Asia
+1590,Iraq,2014,97.7,20000.0,Asia
+1592,Iraq,2016,98.3,260570000.0,Asia
+1593,Iraq,2017,98.7,112960000.0,Asia
+1660,Jamaica,2000,75.7,5180000.0,North America
+1661,Jamaica,2001,77.6,9070000.0,North America
+1668,Jamaica,2008,85.4,410000.0,North America
+1669,Jamaica,2009,85.8,110000.0,North America
+1670,Jamaica,2010,85.9,170000.0,North America
+1671,Jamaica,2011,86.2,8860000.0,North America
+1672,Jamaica,2012,86.1,120000.0,North America
+1674,Jamaica,2014,85.85,57810000.0,North America
+1675,Jamaica,2015,85.4,87990000.0,North America
+1676,Jamaica,2016,85.0,17580000.0,North America
+1677,Jamaica,2017,84.5,900000.0,North America
+1678,Jamaica,2018,83.9,70520000.0,North America
+1679,Jamaica,2019,83.4,180000.0,North America
+1704,Jordan,2002,99.8,30000.0,Asia
+1705,Jordan,2003,99.8,250000.0,Asia
+1707,Jordan,2005,99.8,20000.0,Asia
+1709,Jordan,2007,99.9,190000.0,Asia
+1710,Jordan,2008,99.9,80000.0,Asia
+1711,Jordan,2009,99.9,14160000.0,Asia
+1712,Jordan,2010,99.9,6880000.0,Asia
+1713,Jordan,2011,99.9,46930000.0,Asia
+1714,Jordan,2012,99.9,10000.0,Asia
+1715,Jordan,2013,99.9,212100000.0,Asia
+1716,Jordan,2014,99.9,156210000.0,Asia
+1717,Jordan,2015,99.9,252190000.0,Asia
+1718,Jordan,2016,99.9,509070000.0,Asia
+1719,Jordan,2017,99.9,436080000.0,Asia
+1720,Jordan,2018,99.9,89000000.0,Asia
+1721,Jordan,2019,99.9,73760000.0,Asia
+1729,Kazakhstan,2006,89.3,361570000.0,Asia
+1730,Kazakhstan,2007,89.9,57660000.0,Asia
+1731,Kazakhstan,2008,90.55,2670000.0,Asia
+1733,Kazakhstan,2010,91.7,1360000.0,Asia
+1734,Kazakhstan,2011,92.3,1710000.0,Asia
+1735,Kazakhstan,2012,92.4,27490000.0,Asia
+1736,Kazakhstan,2013,92.6,20000.0,Asia
+1737,Kazakhstan,2014,92.9,37380000.0,Asia
+1738,Kazakhstan,2015,93.3,48470000.0,Asia
+1739,Kazakhstan,2016,93.1,45870000.0,Asia
+1740,Kazakhstan,2017,93.1,150150000.0,Asia
+1741,Kazakhstan,2018,92.9,250340000.0,Asia
+1742,Kazakhstan,2019,92.8,279670000.0,Asia
+1744,Kenya,2000,1.8,90000.0,Africa
+1747,Kenya,2003,3.1,330000.0,Africa
+1748,Kenya,2004,3.6,135540000.0,Africa
+1749,Kenya,2005,4.2,44010000.0,Africa
+1750,Kenya,2006,4.8,10000.0,Africa
+1751,Kenya,2007,5.3,59020000.0,Africa
+1752,Kenya,2008,6.0,29980000.0,Africa
+1753,Kenya,2009,6.6,35460000.0,Africa
+1754,Kenya,2010,7.2,729350000.0,Africa
+1755,Kenya,2011,8.0,511180000.0,Africa
+1756,Kenya,2012,8.7,143990000.0,Africa
+1757,Kenya,2013,9.6,16250000.0,Africa
+1758,Kenya,2014,10.6,719120000.0,Africa
+1759,Kenya,2015,11.6,546170000.0,Africa
+1760,Kenya,2016,13.0,701120000.0,Africa
+1761,Kenya,2017,14.4,301210000.0,Africa
+1762,Kenya,2018,16.0,220980000.0,Africa
+1763,Kenya,2019,17.7,165780000.0,Africa
+1774,Kiribati,2009,2.9,5150000.0,Oceania
+1775,Kiribati,2010,3.2,980000.0,Oceania
+1778,Kiribati,2013,4.5,4700000.0,Oceania
+1779,Kiribati,2014,5.2,4340000.0,Oceania
+1781,Kiribati,2016,6.5,0.0,Oceania
+1783,Kiribati,2018,8.2,860000.0,Oceania
+1807,Kyrgyzstan,2000,52.7,8460000.0,Asia
+1811,Kyrgyzstan,2004,60.5,40000.0,Asia
+1815,Kyrgyzstan,2008,68.2,400000.0,Asia
+1816,Kyrgyzstan,2009,70.0,170000.0,Asia
+1817,Kyrgyzstan,2010,71.55,1540000.0,Asia
+1818,Kyrgyzstan,2011,73.3,24380000.0,Asia
+1819,Kyrgyzstan,2012,74.7,610000.0,Asia
+1820,Kyrgyzstan,2013,75.4,13510000.0,Asia
+1822,Kyrgyzstan,2015,76.3,20000.0,Asia
+1823,Kyrgyzstan,2016,76.6,38220000.0,Asia
+1824,Kyrgyzstan,2017,76.6,1250000.0,Asia
+1825,Kyrgyzstan,2018,76.9,80000.0,Asia
+1826,Kyrgyzstan,2019,76.6,86210000.0,Asia
+1874,Lesotho,2004,22.2,50000.0,Africa
+1875,Lesotho,2005,23.9,90000.0,Africa
+1876,Lesotho,2006,25.5,60000.0,Africa
+1877,Lesotho,2007,26.9,10000.0,Africa
+1879,Lesotho,2009,29.9,790000.0,Africa
+1880,Lesotho,2010,31.2,40000.0,Africa
+1881,Lesotho,2011,32.5,2830000.0,Africa
+1882,Lesotho,2012,33.8,210000.0,Africa
+1883,Lesotho,2013,34.95,100000.0,Africa
+1884,Lesotho,2014,35.8,9270000.0,Africa
+1885,Lesotho,2015,36.5,40000.0,Africa
+1886,Lesotho,2016,37.4,0.0,Africa
+1888,Lesotho,2018,38.7,840000.0,Africa
+1889,Lesotho,2019,39.3,13520000.0,Africa
+1898,Liberia,2007,0.4,660000.0,Africa
+1899,Liberia,2008,0.4,160000.0,Africa
+1902,Liberia,2011,0.4,103060000.0,Africa
+1903,Liberia,2012,0.4,20000.0,Africa
+1904,Liberia,2013,0.3,85180000.0,Africa
+1905,Liberia,2014,0.4,190000.0,Africa
+1906,Liberia,2015,0.4,252910000.0,Africa
+1907,Liberia,2016,0.4,10240000.0,Africa
+1908,Liberia,2017,0.4,46280000.0,Africa
+1909,Liberia,2018,0.4,6590000.0,Africa
+1910,Liberia,2019,0.4,37570000.0,Africa
+1977,Madagascar,2002,1.3,10000.0,Africa
+1979,Madagascar,2004,1.2,8340000.0,Africa
+1980,Madagascar,2005,1.1,3220000.0,Africa
+1981,Madagascar,2006,1.1,7150000.0,Africa
+1982,Madagascar,2007,1.1,8560000.0,Africa
+1983,Madagascar,2008,1.0,2710000.0,Africa
+1986,Madagascar,2011,0.9,7370000.0,Africa
+1987,Madagascar,2012,0.9,50000.0,Africa
+1988,Madagascar,2013,0.9,2760000.0,Africa
+1989,Madagascar,2014,0.9,14120000.0,Africa
+1990,Madagascar,2015,0.9,4740000.0,Africa
+1991,Madagascar,2016,0.9,22530000.0,Africa
+1992,Madagascar,2017,0.9,27120000.0,Africa
+1993,Madagascar,2018,0.9,5250000.0,Africa
+1994,Madagascar,2019,0.9,43730000.0,Africa
+1996,Malawi,2000,2.1,6840000.0,Africa
+1999,Malawi,2003,2.1,510000.0,Africa
+2000,Malawi,2004,2.1,60000.0,Africa
+2001,Malawi,2005,2.2,60000.0,Africa
+2002,Malawi,2006,2.3,50000.0,Africa
+2003,Malawi,2007,2.3,60000.0,Africa
+2005,Malawi,2009,2.45,70000.0,Africa
+2006,Malawi,2010,2.5,15180000.0,Africa
+2007,Malawi,2011,2.5,2410000.0,Africa
+2008,Malawi,2012,2.4,1690000.0,Africa
+2009,Malawi,2013,2.3,36020000.0,Africa
+2010,Malawi,2014,2.2,1930000.0,Africa
+2011,Malawi,2015,2.0,63510000.0,Africa
+2012,Malawi,2016,1.8,350000.0,Africa
+2013,Malawi,2017,1.6,3860000.0,Africa
+2014,Malawi,2018,1.3,17150000.0,Africa
+2015,Malawi,2019,1.2,101610000.0,Africa
+2017,Malaysia,2000,98.0,141190000.0,Asia
+2019,Malaysia,2002,98.1,20000.0,Asia
+2021,Malaysia,2004,98.1,270000.0,Asia
+2023,Malaysia,2006,98.1,10000.0,Asia
+2024,Malaysia,2007,98.0,10000.0,Asia
+2026,Malaysia,2009,97.7,30000.0,Asia
+2027,Malaysia,2010,97.7,140000.0,Asia
+2028,Malaysia,2011,97.6,60000.0,Asia
+2029,Malaysia,2012,97.4,4000000.0,Asia
+2030,Malaysia,2013,97.2,70000.0,Asia
+2031,Malaysia,2014,97.1,160000.0,Asia
+2032,Malaysia,2015,96.8,170000.0,Asia
+2033,Malaysia,2016,96.6,1290000.0,Asia
+2034,Malaysia,2017,96.5,50000.0,Asia
+2035,Malaysia,2018,96.1,60000.0,Asia
+2036,Malaysia,2019,95.8,20000.0,Asia
+2038,Maldives,2000,53.1,4770000.0,Asia
+2046,Maldives,2008,89.0,110000.0,Asia
+2047,Maldives,2009,91.25,450000.0,Asia
+2048,Maldives,2010,93.3,9710000.0,Asia
+2049,Maldives,2011,94.8,10000.0,Asia
+2050,Maldives,2012,95.9,30000.0,Asia
+2052,Maldives,2014,97.3,42590000.0,Asia
+2053,Maldives,2015,97.9,6210000.0,Asia
+2054,Maldives,2016,98.3,10000.0,Asia
+2055,Maldives,2017,98.6,20000.0,Asia
+2056,Maldives,2018,98.8,5690000.0,Asia
+2057,Maldives,2019,99.0,4020000.0,Asia
+2059,Mali,2000,0.7,3560000.0,Africa
+2060,Mali,2001,0.8,10190000.0,Africa
+2061,Mali,2002,0.8,10000.0,Africa
+2062,Mali,2003,0.8,20000.0,Africa
+2063,Mali,2004,0.8,60000.0,Africa
+2064,Mali,2005,0.8,5950000.0,Africa
+2065,Mali,2006,0.9,31390000.0,Africa
+2066,Mali,2007,0.9,100000.0,Africa
+2067,Mali,2008,0.9,50000.0,Africa
+2068,Mali,2009,0.9,38440000.0,Africa
+2069,Mali,2010,0.9,20000.0,Africa
+2070,Mali,2011,0.9,230000.0,Africa
+2071,Mali,2012,0.8,170000.0,Africa
+2072,Mali,2013,0.9,445280000.0,Africa
+2073,Mali,2014,0.9,99900000.0,Africa
+2074,Mali,2015,0.9,9440000.0,Africa
+2075,Mali,2016,0.9,50960000.0,Africa
+2076,Mali,2017,0.9,7520000.0,Africa
+2077,Mali,2018,0.9,20870000.0,Africa
+2078,Mali,2019,0.9,44950000.0,Africa
+2102,Mauritania,2001,31.4,200000.0,Africa
+2107,Mauritania,2006,38.7,24330000.0,Africa
+2108,Mauritania,2007,39.8,70000.0,Africa
+2112,Mauritania,2011,42.6,10000.0,Africa
+2113,Mauritania,2012,42.7,67620000.0,Africa
+2114,Mauritania,2013,43.0,68690000.0,Africa
+2115,Mauritania,2014,43.1,6040000.0,Africa
+2116,Mauritania,2015,43.1,120000.0,Africa
+2117,Mauritania,2016,43.3,178260000.0,Africa
+2118,Mauritania,2017,43.2,18440000.0,Africa
+2119,Mauritania,2018,43.3,10000.0,Africa
+2120,Mauritania,2019,43.0,1000000.0,Africa
+2132,Mauritius,2010,96.8,2040000.0,Africa
+2135,Mauritius,2013,97.1,58790000.0,Africa
+2136,Mauritius,2014,97.25,52610000.0,Africa
+2137,Mauritius,2015,97.2,9440000.0,Africa
+2138,Mauritius,2016,97.1,29400000.0,Africa
+2139,Mauritius,2017,97.1,340000.0,Africa
+2143,Mexico,2000,82.4,2450000.0,North America
+2144,Mexico,2001,83.1,3430000.0,North America
+2145,Mexico,2002,84.1,14190000.0,North America
+2146,Mexico,2003,84.6,260000.0,North America
+2147,Mexico,2004,84.9,530000.0,North America
+2148,Mexico,2005,85.3,33670000.0,North America
+2149,Mexico,2006,85.3,32770000.0,North America
+2150,Mexico,2007,85.4,160000.0,North America
+2151,Mexico,2008,85.4,6690000.0,North America
+2152,Mexico,2009,85.2,4420000.0,North America
+2153,Mexico,2010,85.0,82310000.0,North America
+2154,Mexico,2011,84.85,1020000.0,North America
+2155,Mexico,2012,84.6,366050000.0,North America
+2156,Mexico,2013,84.6,70970000.0,North America
+2157,Mexico,2014,84.6,387450000.0,North America
+2158,Mexico,2015,84.6,226340000.0,North America
+2159,Mexico,2016,84.8,455350000.0,North America
+2160,Mexico,2017,84.8,502060000.0,North America
+2161,Mexico,2018,84.8,300340000.0,North America
+2162,Mexico,2019,84.9,338650000.0,North America
+2164,Mongolia,2000,22.8,5180000.0,Asia
+2165,Mongolia,2001,23.1,1650000.0,Asia
+2166,Mongolia,2002,23.6,1410000.0,Asia
+2167,Mongolia,2003,24.3,5690000.0,Asia
+2169,Mongolia,2005,26.0,2800000.0,Asia
+2170,Mongolia,2006,27.6,6120000.0,Asia
+2171,Mongolia,2007,28.8,12730000.0,Asia
+2172,Mongolia,2008,30.8,4400000.0,Asia
+2173,Mongolia,2009,33.0,11980000.0,Asia
+2174,Mongolia,2010,35.2,12170000.0,Asia
+2176,Mongolia,2012,38.6,29080000.0,Asia
+2177,Mongolia,2013,40.8,150000.0,Asia
+2178,Mongolia,2014,42.6,10000.0,Asia
+2179,Mongolia,2015,44.15,890000.0,Asia
+2180,Mongolia,2016,45.6,198810000.0,Asia
+2181,Mongolia,2017,47.2,84180000.0,Asia
+2182,Mongolia,2018,48.7,116030000.0,Asia
+2183,Mongolia,2019,50.1,10600000.0,Asia
+2199,Morocco,2000,90.6,260000.0,Africa
+2200,Morocco,2001,91.3,1480000.0,Africa
+2201,Morocco,2002,92.0,13440000.0,Africa
+2202,Morocco,2003,92.7,550000.0,Africa
+2203,Morocco,2004,93.2,153490000.0,Africa
+2204,Morocco,2005,94.0,186110000.0,Africa
+2205,Morocco,2006,94.35,70280000.0,Africa
+2206,Morocco,2007,95.0,180550000.0,Africa
+2207,Morocco,2008,95.6,226260000.0,Africa
+2208,Morocco,2009,96.0,121030000.0,Africa
+2209,Morocco,2010,96.5,8470000.0,Africa
+2210,Morocco,2011,96.7,218320000.0,Africa
+2211,Morocco,2012,97.1,914040000.0,Africa
+2212,Morocco,2013,97.3,5890000.0,Africa
+2213,Morocco,2014,97.4,1433570000.0,Africa
+2214,Morocco,2015,97.7,234280000.0,Africa
+2215,Morocco,2016,97.8,410030000.0,Africa
+2216,Morocco,2017,97.9,82050000.0,Africa
+2217,Morocco,2018,97.9,811630000.0,Africa
+2218,Morocco,2019,98.0,413480000.0,Africa
+2220,Mozambique,2000,2.3,40000.0,Africa
+2221,Mozambique,2001,2.3,420000.0,Africa
+2222,Mozambique,2002,2.3,13110000.0,Africa
+2223,Mozambique,2003,2.4,4020000.0,Africa
+2224,Mozambique,2004,2.4,1350000.0,Africa
+2225,Mozambique,2005,2.5,900000.0,Africa
+2226,Mozambique,2006,2.5,50000.0,Africa
+2227,Mozambique,2007,2.7,4810000.0,Africa
+2228,Mozambique,2008,2.7,6430000.0,Africa
+2229,Mozambique,2009,2.9,1960000.0,Africa
+2230,Mozambique,2010,3.1,90890000.0,Africa
+2231,Mozambique,2011,3.1,16200000.0,Africa
+2232,Mozambique,2012,3.4,74200000.0,Africa
+2233,Mozambique,2013,3.5,38460000.0,Africa
+2234,Mozambique,2014,3.7,9310000.0,Africa
+2235,Mozambique,2015,3.9,9500000.0,Africa
+2236,Mozambique,2016,4.2,55930000.0,Africa
+2237,Mozambique,2017,4.35,52490000.0,Africa
+2238,Mozambique,2018,4.6,9130000.0,Africa
+2239,Mozambique,2019,4.8,188450000.0,Africa
+2243,Myanmar,2002,3.3,5350000.0,Asia
+2244,Myanmar,2003,3.6,434230000.0,Asia
+2245,Myanmar,2004,4.1,70000.0,Asia
+2251,Myanmar,2010,9.8,90000.0,Asia
+2253,Myanmar,2012,13.4,10000.0,Asia
+2254,Myanmar,2013,15.1,64080000.0,Asia
+2255,Myanmar,2014,17.5,10630000.0,Asia
+2256,Myanmar,2015,19.6,57800000.0,Asia
+2257,Myanmar,2016,21.8,3870000.0,Asia
+2258,Myanmar,2017,24.0,129660000.0,Asia
+2259,Myanmar,2018,26.4,22170000.0,Asia
+2260,Myanmar,2019,28.9,41330000.0,Asia
+2262,Namibia,2000,33.7,110000.0,Africa
+2263,Namibia,2001,34.0,220000.0,Africa
+2264,Namibia,2002,35.0,30000.0,Africa
+2265,Namibia,2003,35.9,30000.0,Africa
+2266,Namibia,2004,36.4,100000.0,Africa
+2267,Namibia,2005,37.3,400000.0,Africa
+2268,Namibia,2006,37.9,220000.0,Africa
+2269,Namibia,2007,38.6,10000.0,Africa
+2270,Namibia,2008,39.5,46600000.0,Africa
+2272,Namibia,2010,40.9,47200000.0,Africa
+2273,Namibia,2011,41.5,50000.0,Africa
+2274,Namibia,2012,42.2,530000.0,Africa
+2276,Namibia,2014,43.6,70000.0,Africa
+2278,Namibia,2016,45.2,11630000.0,Africa
+2279,Namibia,2017,45.6,37150000.0,Africa
+2280,Namibia,2018,46.0,3050000.0,Africa
+2281,Namibia,2019,46.5,20000.0,Africa
+2288,Nauru,2005,100.0,2070000.0,Oceania
+2290,Nauru,2007,100.0,350000.0,Oceania
+2297,Nauru,2014,100.0,10000.0,Oceania
+2298,Nauru,2015,100.0,8640000.0,Oceania
+2299,Nauru,2016,100.0,2950000.0,Oceania
+2300,Nauru,2017,100.0,2650000.0,Oceania
+2304,Nepal,2000,5.7,11770000.0,Asia
+2305,Nepal,2001,6.9,5140000.0,Asia
+2306,Nepal,2002,8.3,41820000.0,Asia
+2307,Nepal,2003,9.9,62490000.0,Asia
+2308,Nepal,2004,11.4,5260000.0,Asia
+2309,Nepal,2005,13.1,39830000.0,Asia
+2310,Nepal,2006,14.7,18590000.0,Asia
+2311,Nepal,2007,16.5,61790000.0,Asia
+2312,Nepal,2008,18.1,53050000.0,Asia
+2313,Nepal,2009,19.8,51230000.0,Asia
+2314,Nepal,2010,21.6,23280000.0,Asia
+2315,Nepal,2011,23.2,130800000.0,Asia
+2316,Nepal,2012,24.6,29380000.0,Asia
+2317,Nepal,2013,26.1,319940000.0,Asia
+2318,Nepal,2014,27.6,386670000.0,Asia
+2319,Nepal,2015,29.0,18440000.0,Asia
+2320,Nepal,2016,30.2,29030000.0,Asia
+2321,Nepal,2017,31.4,10640000.0,Asia
+2322,Nepal,2018,32.3,14870000.0,Asia
+2323,Nepal,2019,33.6,332730000.0,Asia
+2388,Nicaragua,2000,33.9,30000.0,North America
+2389,Nicaragua,2001,35.0,20000.0,North America
+2390,Nicaragua,2002,36.0,680000.0,North America
+2391,Nicaragua,2003,37.0,15280000.0,North America
+2392,Nicaragua,2004,38.2,180000.0,North America
+2393,Nicaragua,2005,39.1,40000.0,North America
+2394,Nicaragua,2006,40.2,50000.0,North America
+2395,Nicaragua,2007,41.2,100000.0,North America
+2396,Nicaragua,2008,42.5,1930000.0,North America
+2397,Nicaragua,2009,43.4,8980000.0,North America
+2398,Nicaragua,2010,44.7,96620000.0,North America
+2399,Nicaragua,2011,46.0,16970000.0,North America
+2400,Nicaragua,2012,47.2,72210000.0,North America
+2401,Nicaragua,2013,48.2,14660000.0,North America
+2402,Nicaragua,2014,49.3,51690000.0,North America
+2403,Nicaragua,2015,50.5,67430000.0,North America
+2404,Nicaragua,2016,51.7,178280000.0,North America
+2405,Nicaragua,2017,52.85,65850000.0,North America
+2406,Nicaragua,2018,53.8,19750000.0,North America
+2407,Nicaragua,2019,55.1,7660000.0,North America
+2409,Niger,2000,0.9,190000.0,Africa
+2410,Niger,2001,1.0,3500000.0,Africa
+2411,Niger,2002,1.0,1410000.0,Africa
+2414,Niger,2005,1.0,40000.0,Africa
+2415,Niger,2006,1.0,100000.0,Africa
+2417,Niger,2008,1.1,10000.0,Africa
+2421,Niger,2012,1.4,132260000.0,Africa
+2423,Niger,2014,1.6,40990000.0,Africa
+2425,Niger,2016,1.8,1180000.0,Africa
+2426,Niger,2017,1.9,82980000.0,Africa
+2427,Niger,2018,2.1,46190000.0,Africa
+2428,Niger,2019,2.3,108900000.0,Africa
+2432,Nigeria,2002,0.9,0.0,Africa
+2434,Nigeria,2004,1.0,180000.0,Africa
+2435,Nigeria,2005,1.0,18500000.0,Africa
+2436,Nigeria,2006,1.1,1230000.0,Africa
+2437,Nigeria,2007,1.3,550000.0,Africa
+2440,Nigeria,2010,1.9,580000.0,Africa
+2441,Nigeria,2011,2.2,18980000.0,Africa
+2442,Nigeria,2012,2.7,20950000.0,Africa
+2443,Nigeria,2013,3.4,974050000.0,Africa
+2444,Nigeria,2014,4.2,24780000.0,Africa
+2445,Nigeria,2015,5.4,46500000.0,Africa
+2446,Nigeria,2016,6.85,61810000.0,Africa
+2447,Nigeria,2017,8.7,5202310000.0,Africa
+2448,Nigeria,2018,10.7,94760000.0,Africa
+2449,Nigeria,2019,12.9,1172580000.0,Africa
+2514,Pakistan,2000,23.7,40000.0,Asia
+2515,Pakistan,2001,24.4,360220000.0,Asia
+2516,Pakistan,2002,25.6,180000.0,Asia
+2517,Pakistan,2003,26.7,2780000.0,Asia
+2518,Pakistan,2004,27.65,40000.0,Asia
+2519,Pakistan,2005,28.8,4070000.0,Asia
+2520,Pakistan,2006,30.2,6820000.0,Asia
+2521,Pakistan,2007,31.5,122690000.0,Asia
+2522,Pakistan,2008,32.8,138060000.0,Asia
+2523,Pakistan,2009,33.9,118640000.0,Asia
+2524,Pakistan,2010,35.7,264760000.0,Asia
+2525,Pakistan,2011,36.9,253790000.0,Asia
+2526,Pakistan,2012,38.2,1386720000.0,Asia
+2527,Pakistan,2013,39.6,244730000.0,Asia
+2528,Pakistan,2014,41.0,552100000.0,Asia
+2529,Pakistan,2015,42.1,1232650000.0,Asia
+2530,Pakistan,2016,43.3,903830000.0,Asia
+2531,Pakistan,2017,44.8,3386850000.0,Asia
+2532,Pakistan,2018,46.3,99120000.0,Asia
+2533,Pakistan,2019,47.8,302840000.0,Asia
+2536,Panama,2001,80.9,230000.0,North America
+2541,Panama,2006,84.1,0.0,North America
+2543,Panama,2008,85.4,10000.0,North America
+2544,Panama,2009,85.9,10000.0,North America
+2545,Panama,2010,86.4,2050000.0,North America
+2546,Panama,2011,86.9,43030000.0,North America
+2548,Panama,2013,87.1,1810000.0,North America
+2549,Panama,2014,87.6,156490000.0,North America
+2550,Panama,2015,87.5,65060000.0,North America
+2551,Panama,2016,87.7,366660000.0,North America
+2552,Panama,2017,87.9,101570000.0,North America
+2553,Panama,2018,87.6,350000.0,North America
+2554,Panama,2019,87.6,90010000.0,North America
+2560,Papua New Guinea,2004,6.1,10000.0,Oceania
+2563,Papua New Guinea,2007,6.9,30000.0,Oceania
+2564,Papua New Guinea,2008,7.1,30000.0,Oceania
+2567,Papua New Guinea,2011,7.8,37760000.0,Oceania
+2569,Papua New Guinea,2013,8.2,6420000.0,Oceania
+2570,Papua New Guinea,2014,8.5,0.0,Oceania
+2571,Papua New Guinea,2015,8.7,8420000.0,Oceania
+2572,Papua New Guinea,2016,8.85,32340000.0,Oceania
+2573,Papua New Guinea,2017,8.8,830000.0,Oceania
+2574,Papua New Guinea,2018,9.0,130000.0,Oceania
+2575,Papua New Guinea,2019,9.1,120000.0,Oceania
+2578,Paraguay,2001,48.9,10000.0,South America
+2583,Paraguay,2006,50.3,191130000.0,South America
+2586,Paraguay,2009,55.6,80000.0,South America
+2587,Paraguay,2010,57.45,90000.0,South America
+2588,Paraguay,2011,59.7,30000.0,South America
+2590,Paraguay,2013,63.1,80000.0,South America
+2593,Paraguay,2016,66.2,460000.0,South America
+2595,Paraguay,2018,67.4,130470000.0,South America
+2596,Paraguay,2019,68.0,1160000.0,South America
+2598,Peru,2000,43.1,1070000.0,South America
+2599,Peru,2001,45.7,190000.0,South America
+2600,Peru,2002,48.7,88200000.0,South America
+2601,Peru,2003,51.2,280000.0,South America
+2602,Peru,2004,53.8,110000.0,South America
+2603,Peru,2005,56.2,290000.0,South America
+2604,Peru,2006,58.3,7550000.0,South America
+2605,Peru,2007,60.3,730000.0,South America
+2606,Peru,2008,62.3,970000.0,South America
+2607,Peru,2009,63.8,1520000.0,South America
+2608,Peru,2010,65.9,91150000.0,South America
+2609,Peru,2011,67.5,223960000.0,South America
+2610,Peru,2012,69.7,238880000.0,South America
+2611,Peru,2013,71.7,292670000.0,South America
+2612,Peru,2014,73.7,279440000.0,South America
+2613,Peru,2015,75.8,84640000.0,South America
+2614,Peru,2016,77.7,102310000.0,South America
+2615,Peru,2017,79.6,548830000.0,South America
+2616,Peru,2018,81.5,68750000.0,South America
+2617,Peru,2019,83.25,1090000.0,South America
+2619,Philippines,2000,37.9,12130000.0,Asia
+2620,Philippines,2001,39.15,30000.0,Asia
+2621,Philippines,2002,39.6,50390000.0,Asia
+2622,Philippines,2003,40.1,29150000.0,Asia
+2623,Philippines,2004,40.9,5840000.0,Asia
+2624,Philippines,2005,40.9,11820000.0,Asia
+2625,Philippines,2006,41.4,27510000.0,Asia
+2626,Philippines,2007,40.9,167610000.0,Asia
+2628,Philippines,2009,40.9,3860000.0,Asia
+2629,Philippines,2010,40.7,80870000.0,Asia
+2630,Philippines,2011,40.6,810000.0,Asia
+2631,Philippines,2012,40.7,1300000.0,Asia
+2632,Philippines,2013,40.9,53290000.0,Asia
+2633,Philippines,2014,42.0,9290000.0,Asia
+2634,Philippines,2015,42.2,22760000.0,Asia
+2635,Philippines,2016,43.3,98890000.0,Asia
+2636,Philippines,2017,44.1,1510000.0,Asia
+2637,Philippines,2018,45.4,177920000.0,Asia
+2638,Philippines,2019,46.5,2000000.0,Asia
+2745,Rwanda,2000,0.2,150000.0,Africa
+2750,Rwanda,2005,0.2,8140000.0,Africa
+2751,Rwanda,2006,0.2,540000.0,Africa
+2752,Rwanda,2007,0.2,20650000.0,Africa
+2753,Rwanda,2008,0.2,26610000.0,Africa
+2754,Rwanda,2009,0.2,23370000.0,Africa
+2755,Rwanda,2010,0.2,2120000.0,Africa
+2756,Rwanda,2011,0.3,6470000.0,Africa
+2757,Rwanda,2012,0.3,720000.0,Africa
+2758,Rwanda,2013,0.4,96720000.0,Africa
+2759,Rwanda,2014,0.5,48480000.0,Africa
+2761,Rwanda,2016,0.9,41630000.0,Africa
+2762,Rwanda,2017,1.1,81040000.0,Africa
+2763,Rwanda,2018,1.4,15840000.0,Africa
+2764,Rwanda,2019,1.9,1560000.0,Africa
+2774,Saint Kitts and Nevis,2008,100.0,360000.0,North America
+2777,Saint Kitts and Nevis,2011,100.0,18410000.0,North America
+2801,Saint Lucia,2014,95.5,930000.0,North America
+2802,Saint Lucia,2015,95.3,10000.0,North America
+2804,Saint Lucia,2017,95.0,9770000.0,North America
+2816,Saint Vincent and the Grenadines,2008,95.75,360000.0,North America
+2821,Saint Vincent and the Grenadines,2013,95.6,10000.0,North America
+2822,Saint Vincent and the Grenadines,2014,95.35,20000.0,North America
+2824,Saint Vincent and the Grenadines,2016,95.3,31690000.0,North America
+2825,Saint Vincent and the Grenadines,2017,94.9,3100000.0,North America
+2838,Samoa,2009,25.9,0.0,Oceania
+2839,Samoa,2010,26.8,200000.0,Oceania
+2842,Samoa,2013,29.5,4700000.0,Oceania
+2843,Samoa,2014,30.4,32460000.0,Oceania
+2844,Samoa,2015,31.4,10000.0,Oceania
+2845,Samoa,2016,32.4,0.0,Oceania
+2846,Samoa,2017,33.6,2050000.0,Oceania
+2851,Sao Tome and Principe,2001,0.4,1090000.0,Africa
+2852,Sao Tome and Principe,2002,0.4,1220000.0,Africa
+2853,Sao Tome and Principe,2003,0.5,0.0,Africa
+2854,Sao Tome and Principe,2004,0.5,70000.0,Africa
+2855,Sao Tome and Principe,2005,0.6,190000.0,Africa
+2860,Sao Tome and Principe,2010,1.2,120000.0,Africa
+2861,Sao Tome and Principe,2011,1.3,260000.0,Africa
+2862,Sao Tome and Principe,2012,1.5,20000.0,Africa
+2863,Sao Tome and Principe,2013,1.7,5060000.0,Africa
+2864,Sao Tome and Principe,2014,1.9,120000.0,Africa
+2865,Sao Tome and Principe,2015,2.1,350000.0,Africa
+2866,Sao Tome and Principe,2016,2.3,310000.0,Africa
+2867,Sao Tome and Principe,2017,2.6,10000.0,Africa
+2892,Senegal,2000,34.8,160000.0,Africa
+2893,Senegal,2001,35.9,11490000.0,Africa
+2894,Senegal,2002,37.0,2030000.0,Africa
+2895,Senegal,2003,37.9,33840000.0,Africa
+2896,Senegal,2004,38.5,13420000.0,Africa
+2897,Senegal,2005,38.8,6640000.0,Africa
+2898,Senegal,2006,38.4,33410000.0,Africa
+2899,Senegal,2007,37.6,710000.0,Africa
+2901,Senegal,2009,35.4,38090000.0,Africa
+2902,Senegal,2010,33.85,1090000.0,Africa
+2903,Senegal,2011,32.4,1440000.0,Africa
+2904,Senegal,2012,30.8,8590000.0,Africa
+2905,Senegal,2013,29.3,18400000.0,Africa
+2906,Senegal,2014,28.4,120000.0,Africa
+2907,Senegal,2015,27.3,32310000.0,Africa
+2908,Senegal,2016,26.5,319870000.0,Africa
+2909,Senegal,2017,25.9,8550000.0,Africa
+2910,Senegal,2018,25.2,83950000.0,Africa
+2911,Senegal,2019,24.7,68930000.0,Africa
+2938,Seychelles,2011,100.0,10000.0,Africa
+2941,Seychelles,2014,100.0,80000.0,Africa
+2942,Seychelles,2015,100.0,40000.0,Africa
+2943,Seychelles,2016,100.0,670000.0,Africa
+2944,Seychelles,2017,100.0,950000.0,Africa
+2952,Sierra Leone,2004,0.3,24790000.0,Africa
+2953,Sierra Leone,2005,0.3,56410000.0,Africa
+2954,Sierra Leone,2006,0.3,10000.0,Africa
+2955,Sierra Leone,2007,0.3,15540000.0,Africa
+2956,Sierra Leone,2008,0.4,15600000.0,Africa
+2957,Sierra Leone,2009,0.4,50000.0,Africa
+2958,Sierra Leone,2010,0.4,9310000.0,Africa
+2962,Sierra Leone,2014,0.5,8400000.0,Africa
+2964,Sierra Leone,2016,0.5,29280000.0,Africa
+2965,Sierra Leone,2017,0.6,380000.0,Africa
+2966,Sierra Leone,2018,0.65,240000.0,Africa
+2967,Sierra Leone,2019,0.7,170000.0,Africa
+3040,Solomon Islands,2008,8.2,90000.0,Oceania
+3041,Solomon Islands,2009,8.2,80000.0,Oceania
+3043,Solomon Islands,2011,8.2,10000.0,Oceania
+3044,Solomon Islands,2012,8.2,1090000.0,Oceania
+3045,Solomon Islands,2013,8.2,10000.0,Oceania
+3046,Solomon Islands,2014,8.4,13060000.0,Oceania
+3047,Solomon Islands,2015,8.4,6830000.0,Oceania
+3048,Solomon Islands,2016,8.6,7100000.0,Oceania
+3049,Solomon Islands,2017,8.6,163010000.0,Oceania
+3050,Solomon Islands,2018,8.9,20550000.0,Oceania
+3051,Solomon Islands,2019,9.2,46400000.0,Oceania
+3066,Somalia,2013,1.6,3340000.0,Africa
+3068,Somalia,2015,2.0,310000.0,Africa
+3069,Somalia,2016,2.3,800000.0,Africa
+3070,Somalia,2017,2.4,20000.0,Africa
+3071,Somalia,2018,2.7,3210000.0,Africa
+3072,Somalia,2019,2.9,21490000.0,Africa
+3074,South Africa,2000,55.9,7020000.0,Africa
+3075,South Africa,2001,57.8,1240000.0,Africa
+3076,South Africa,2002,60.0,25560000.0,Africa
+3078,South Africa,2004,64.4,40000.0,Africa
+3079,South Africa,2005,66.8,13110000.0,Africa
+3080,South Africa,2006,69.0,7770000.0,Africa
+3081,South Africa,2007,71.4,1150000.0,Africa
+3082,South Africa,2008,73.5,1170000.0,Africa
+3083,South Africa,2009,75.4,100000.0,Africa
+3084,South Africa,2010,77.1,261160000.0,Africa
+3085,South Africa,2011,78.8,265140000.0,Africa
+3086,South Africa,2012,80.2,484730000.0,Africa
+3087,South Africa,2013,81.5,409200000.0,Africa
+3088,South Africa,2014,82.65,202270000.0,Africa
+3089,South Africa,2015,83.4,725580000.0,Africa
+3090,South Africa,2016,84.4,201750000.0,Africa
+3091,South Africa,2017,85.2,26330000.0,Africa
+3092,South Africa,2018,85.7,378180000.0,Africa
+3093,South Africa,2019,86.3,164100000.0,Africa
+3095,South Sudan,2013,0.0,28370000.0,Africa
+3097,South Sudan,2015,0.0,70000.0,Africa
+3098,South Sudan,2016,0.0,30000.0,Africa
+3099,South Sudan,2017,0.0,300000.0,Africa
+3100,South Sudan,2018,0.0,280000.0,Africa
+3101,South Sudan,2019,0.0,100000.0,Africa
+3124,Sri Lanka,2000,16.9,1470000.0,Asia
+3125,Sri Lanka,2001,17.5,3810000.0,Asia
+3126,Sri Lanka,2002,17.9,388260000.0,Asia
+3127,Sri Lanka,2003,18.5,40000.0,Asia
+3128,Sri Lanka,2004,18.7,130000.0,Asia
+3129,Sri Lanka,2005,19.5,24750000.0,Asia
+3130,Sri Lanka,2006,19.8,90000.0,Asia
+3131,Sri Lanka,2007,20.3,38210000.0,Asia
+3132,Sri Lanka,2008,20.9,120000.0,Asia
+3133,Sri Lanka,2009,21.3,11750000.0,Asia
+3134,Sri Lanka,2010,21.7,44570000.0,Asia
+3135,Sri Lanka,2011,22.3,7090000.0,Asia
+3136,Sri Lanka,2012,23.0,225580000.0,Asia
+3137,Sri Lanka,2013,24.0,2340000.0,Asia
+3138,Sri Lanka,2014,24.8,119750000.0,Asia
+3139,Sri Lanka,2015,25.75,450000.0,Asia
+3140,Sri Lanka,2016,26.9,61260000.0,Asia
+3141,Sri Lanka,2017,28.2,211630000.0,Asia
+3142,Sri Lanka,2018,29.4,200450000.0,Asia
+3143,Sri Lanka,2019,30.6,170000.0,Asia
+3148,Sudan,2003,13.4,1317960000.0,Africa
+3155,Sudan,2010,32.5,85500000.0,Africa
+3156,Sudan,2011,35.6,27700000.0,Africa
+3157,Sudan,2012,38.95,130000.0,Africa
+3158,Sudan,2013,40.95,3340000.0,Africa
+3159,Sudan,2014,43.3,400000.0,Africa
+3160,Sudan,2015,45.4,30000.0,Africa
+3161,Sudan,2016,47.9,40000.0,Africa
+3162,Sudan,2017,49.8,10000.0,Africa
+3163,Sudan,2018,51.3,2470000.0,Africa
+3164,Sudan,2019,53.6,207170000.0,Africa
+3175,Suriname,2009,86.3,400000.0,South America
+3177,Suriname,2011,88.0,4060000.0,South America
+3179,Suriname,2013,89.8,20000.0,South America
+3180,Suriname,2014,90.6,0.0,South America
+3183,Suriname,2017,92.7,10000.0,South America
+3184,Suriname,2018,93.3,290000.0,South America
+3185,Suriname,2019,93.9,22500000.0,South America
+3231,Tajikistan,2002,44.1,20920000.0,Asia
+3232,Tajikistan,2003,48.0,20780000.0,Asia
+3234,Tajikistan,2005,56.0,580000.0,Asia
+3235,Tajikistan,2006,59.65,540000.0,Asia
+3236,Tajikistan,2007,62.6,22870000.0,Asia
+3237,Tajikistan,2008,65.3,34870000.0,Asia
+3238,Tajikistan,2009,67.7,140000.0,Asia
+3239,Tajikistan,2010,69.9,6540000.0,Asia
+3240,Tajikistan,2011,71.9,890000.0,Asia
+3241,Tajikistan,2012,73.4,3700000.0,Asia
+3242,Tajikistan,2013,74.85,134390000.0,Asia
+3243,Tajikistan,2014,76.5,420000.0,Asia
+3244,Tajikistan,2015,77.3,180000.0,Asia
+3245,Tajikistan,2016,78.7,90000.0,Asia
+3246,Tajikistan,2017,79.7,334530000.0,Asia
+3250,Thailand,2000,56.9,150000.0,Asia
+3251,Thailand,2001,58.6,6490000.0,Asia
+3252,Thailand,2002,61.1,10660000.0,Asia
+3253,Thailand,2003,63.0,3650000.0,Asia
+3254,Thailand,2004,64.6,1520000.0,Asia
+3256,Thailand,2006,68.2,100000.0,Asia
+3257,Thailand,2007,69.6,440000.0,Asia
+3258,Thailand,2008,71.1,4660000.0,Asia
+3259,Thailand,2009,72.6,1720000.0,Asia
+3260,Thailand,2010,73.6,4140000.0,Asia
+3261,Thailand,2011,74.7,288270000.0,Asia
+3262,Thailand,2012,75.9,119370000.0,Asia
+3263,Thailand,2013,77.1,54650000.0,Asia
+3264,Thailand,2014,77.9,4370000.0,Asia
+3265,Thailand,2015,78.9,55520000.0,Asia
+3266,Thailand,2016,80.1,420000.0,Asia
+3267,Thailand,2017,80.8,1990000.0,Asia
+3268,Thailand,2018,81.7,296130000.0,Asia
+3269,Thailand,2019,82.7,99160000.0,Asia
+3277,Togo,2006,1.6,20000.0,Africa
+3283,Togo,2012,4.5,20000.0,Africa
+3284,Togo,2013,5.3,160000.0,Africa
+3285,Togo,2014,6.0,9160000.0,Africa
+3286,Togo,2015,6.6,4780000.0,Africa
+3287,Togo,2016,7.3,50000.0,Africa
+3288,Togo,2017,8.0,0.0,Africa
+3289,Togo,2018,8.6,17710000.0,Africa
+3290,Togo,2019,9.25,1150000.0,Africa
+3296,Tonga,2004,45.8,20000.0,Oceania
+3297,Tonga,2005,47.9,760000.0,Oceania
+3298,Tonga,2006,50.7,440000.0,Oceania
+3301,Tonga,2009,57.6,0.0,Oceania
+3302,Tonga,2010,59.8,5660000.0,Oceania
+3303,Tonga,2011,62.1,12100000.0,Oceania
+3304,Tonga,2012,64.6,7940000.0,Oceania
+3305,Tonga,2013,67.0,17550000.0,Oceania
+3306,Tonga,2014,69.5,2510000.0,Oceania
+3307,Tonga,2015,72.1,14140000.0,Oceania
+3308,Tonga,2016,75.1,2910000.0,Oceania
+3309,Tonga,2017,77.1,20470000.0,Oceania
+3310,Tonga,2018,79.75,37000000.0,Oceania
+3311,Tonga,2019,82.1,2450000.0,Oceania
+3334,Tunisia,2000,94.2,4390000.0,Africa
+3335,Tunisia,2001,95.1,4400000.0,Africa
+3336,Tunisia,2002,96.1,5280000.0,Africa
+3337,Tunisia,2003,96.8,420000.0,Africa
+3338,Tunisia,2004,97.4,280000.0,Africa
+3339,Tunisia,2005,97.9,17630000.0,Africa
+3340,Tunisia,2006,98.4,24440000.0,Africa
+3341,Tunisia,2007,98.7,1640000.0,Africa
+3342,Tunisia,2008,99.0,235950000.0,Africa
+3343,Tunisia,2009,99.2,123490000.0,Africa
+3344,Tunisia,2010,99.4,130720000.0,Africa
+3345,Tunisia,2011,99.5,820000.0,Africa
+3346,Tunisia,2012,99.6,180150000.0,Africa
+3347,Tunisia,2013,99.7,9350000.0,Africa
+3349,Tunisia,2015,99.7,8880000.0,Africa
+3350,Tunisia,2016,99.8,45640000.0,Africa
+3351,Tunisia,2017,99.8,4870000.0,Africa
+3352,Tunisia,2018,99.8,18600000.0,Africa
+3353,Tunisia,2019,99.8,80070000.0,Africa
+3355,Turkey,2000,90.1,130880000.0,Asia
+3356,Turkey,2001,90.8,10000.0,Asia
+3359,Turkey,2004,92.3,128920000.0,Asia
+3360,Turkey,2005,92.8,350000.0,Asia
+3361,Turkey,2006,93.1,240000.0,Asia
+3362,Turkey,2007,93.4,1640000.0,Asia
+3363,Turkey,2008,93.7,66710000.0,Asia
+3364,Turkey,2009,93.9,494550000.0,Asia
+3365,Turkey,2010,94.2,270520000.0,Asia
+3366,Turkey,2011,94.3,801710000.0,Asia
+3367,Turkey,2012,94.5,263710000.0,Asia
+3368,Turkey,2013,94.7,595990000.0,Asia
+3369,Turkey,2014,94.8,515970000.0,Asia
+3370,Turkey,2015,94.9,389350000.0,Asia
+3371,Turkey,2016,95.1,1364150000.0,Asia
+3372,Turkey,2017,95.2,403600000.0,Asia
+3373,Turkey,2018,95.2,1062530000.0,Asia
+3374,Turkey,2019,95.2,360120000.0,Asia
+3385,Turkmenistan,2009,99.8,30000.0,Asia
+3389,Turkmenistan,2013,99.9,5940000.0,Asia
+3390,Turkmenistan,2014,99.9,50000.0,Asia
+3391,Turkmenistan,2015,99.9,120000.0,Asia
+3392,Turkmenistan,2016,99.9,80000.0,Asia
+3393,Turkmenistan,2017,99.9,60000.0,Asia
+3394,Turkmenistan,2018,99.9,0.0,Asia
+3395,Turkmenistan,2019,99.9,40000.0,Asia
+3405,Tuvalu,2008,40.9,30000.0,Oceania
+3406,Tuvalu,2009,44.65,10000.0,Oceania
+3407,Tuvalu,2010,48.55,530000.0,Oceania
+3408,Tuvalu,2011,52.9,10000.0,Oceania
+3409,Tuvalu,2012,56.6,2320000.0,Oceania
+3410,Tuvalu,2013,59.5,4760000.0,Oceania
+3411,Tuvalu,2014,62.4,20310000.0,Oceania
+3412,Tuvalu,2015,64.2,8560000.0,Oceania
+3415,Tuvalu,2018,68.9,390000.0,Oceania
+3416,Tuvalu,2019,69.8,6160000.0,Oceania
+3418,Uganda,2000,0.9,26560000.0,Africa
+3419,Uganda,2001,0.9,6620000.0,Africa
+3420,Uganda,2002,0.9,3710000.0,Africa
+3421,Uganda,2003,0.9,630000.0,Africa
+3422,Uganda,2004,0.8,30000.0,Africa
+3423,Uganda,2005,0.8,70000.0,Africa
+3424,Uganda,2006,0.8,60000.0,Africa
+3425,Uganda,2007,0.8,571170000.0,Africa
+3426,Uganda,2008,0.9,19610000.0,Africa
+3427,Uganda,2009,0.8,74230000.0,Africa
+3428,Uganda,2010,0.8,29340000.0,Africa
+3429,Uganda,2011,0.8,27100000.0,Africa
+3430,Uganda,2012,0.8,23250000.0,Africa
+3431,Uganda,2013,0.8,1470000000.0,Africa
+3432,Uganda,2014,0.7,32260000.0,Africa
+3433,Uganda,2015,0.7,521370000.0,Africa
+3434,Uganda,2016,0.7,187710000.0,Africa
+3435,Uganda,2017,0.6,91700000.0,Africa
+3436,Uganda,2018,0.6,542660000.0,Africa
+3437,Uganda,2019,0.5,66480000.0,Africa
+3524,Uruguay,2001,100.0,1310000.0,South America
+3526,Uruguay,2003,100.0,23520000.0,South America
+3528,Uruguay,2005,100.0,0.0,South America
+3529,Uruguay,2006,100.0,0.0,South America
+3530,Uruguay,2007,100.0,880000.0,South America
+3532,Uruguay,2009,100.0,6770000.0,South America
+3533,Uruguay,2010,100.0,1120000.0,South America
+3534,Uruguay,2011,100.0,7770000.0,South America
+3535,Uruguay,2012,100.0,290700000.0,South America
+3536,Uruguay,2013,100.0,211660000.0,South America
+3537,Uruguay,2014,100.0,275600000.0,South America
+3538,Uruguay,2015,100.0,518270000.0,South America
+3539,Uruguay,2016,100.0,69860000.0,South America
+3540,Uruguay,2017,100.0,18290000.0,South America
+3548,Uzbekistan,2004,84.6,220000.0,Asia
+3551,Uzbekistan,2007,85.3,25500000.0,Asia
+3556,Uzbekistan,2012,85.8,94470000.0,Asia
+3557,Uzbekistan,2013,85.5,196820000.0,Asia
+3559,Uzbekistan,2015,85.35,270000.0,Asia
+3560,Uzbekistan,2016,85.2,690000.0,Asia
+3561,Uzbekistan,2017,84.9,60130000.0,Asia
+3562,Uzbekistan,2018,84.3,84130000.0,Asia
+3563,Uzbekistan,2019,84.6,65940000.0,Asia
+3572,Vanuatu,2007,13.9,12720000.0,Oceania
+3573,Vanuatu,2008,13.5,30000.0,Oceania
+3575,Vanuatu,2010,12.3,890000.0,Oceania
+3577,Vanuatu,2012,11.0,3050000.0,Oceania
+3578,Vanuatu,2013,10.6,4750000.0,Oceania
+3579,Vanuatu,2014,10.0,8540000.0,Oceania
+3580,Vanuatu,2015,9.5,7260000.0,Oceania
+3582,Vanuatu,2017,8.4,17770000.0,Oceania
+3583,Vanuatu,2018,8.3,1780000.0,Oceania
+3584,Vanuatu,2019,8.0,150000.0,Oceania
+3586,Yemen,2000,55.7,1480000.0,Asia
+3587,Yemen,2001,56.1,30000.0,Asia
+3588,Yemen,2002,56.7,0.0,Asia
+3590,Yemen,2004,57.4,110000.0,Asia
+3591,Yemen,2005,57.9,140000.0,Asia
+3592,Yemen,2006,58.2,130000.0,Asia
+3593,Yemen,2007,58.7,110000.0,Asia
+3594,Yemen,2008,59.0,150000.0,Asia
+3595,Yemen,2009,59.5,11170000.0,Asia
+3596,Yemen,2010,59.7,310000.0,Asia
+3598,Yemen,2012,60.0,79630000.0,Asia
+3599,Yemen,2013,60.3,660000.0,Asia
+3600,Yemen,2014,60.8,18670000.0,Asia
+3603,Yemen,2017,61.35,10000.0,Asia
+3604,Yemen,2018,61.5,55730000.0,Asia
+3605,Yemen,2019,61.3,1200000.0,Asia
+3607,Zambia,2000,13.8,10000.0,Africa
+3611,Zambia,2004,15.3,2550000.0,Africa
+3612,Zambia,2005,15.7,10300000.0,Africa
+3613,Zambia,2006,15.9,90000.0,Africa
+3614,Zambia,2007,16.1,30000.0,Africa
+3615,Zambia,2008,16.2,19440000.0,Africa
+3616,Zambia,2009,16.3,253950000.0,Africa
+3617,Zambia,2010,16.2,397390000.0,Africa
+3618,Zambia,2011,15.9,75360000.0,Africa
+3619,Zambia,2012,15.5,10000.0,Africa
+3620,Zambia,2013,15.1,1970000.0,Africa
+3621,Zambia,2014,14.6,233900000.0,Africa
+3622,Zambia,2015,14.0,1791180000.0,Africa
+3623,Zambia,2016,13.4,109510000.0,Africa
+3624,Zambia,2017,12.5,170340000.0,Africa
+3625,Zambia,2018,11.9,54110000.0,Africa
+3626,Zambia,2019,11.2,78570000.0,Africa
+3628,Zimbabwe,2000,33.5,40000.0,Africa
+3629,Zimbabwe,2001,33.6,280000.0,Africa
+3631,Zimbabwe,2003,32.8,10000.0,Africa
+3633,Zimbabwe,2005,31.7,500000.0,Africa
+3637,Zimbabwe,2009,30.5,20000.0,Africa
+3639,Zimbabwe,2011,30.1,1080000.0,Africa
+3641,Zimbabwe,2013,29.8,319000000.0,Africa
+3642,Zimbabwe,2014,29.5,17830000.0,Africa
+3644,Zimbabwe,2016,29.8,30000.0,Africa
+3645,Zimbabwe,2017,29.8,5570000.0,Africa
+3646,Zimbabwe,2018,29.9,10000.0,Africa
+3647,Zimbabwe,2019,30.1,250000.0,Africa
+3648,Zimbabwe,2020,30.4,30000.0,Africa

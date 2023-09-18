@@ -1,0 +1,3524 @@
+,Entity,year,Electricity from fossil fuels (TWh),Electricity from nuclear (TWh),Electricity from renewables (TWh),continent
+0,Afghanistan,2000,0.16,0.0,0.31,Asia
+1,Afghanistan,2001,0.09,0.0,0.5,Asia
+2,Afghanistan,2002,0.13,0.0,0.56,Asia
+3,Afghanistan,2003,0.31,0.0,0.63,Asia
+4,Afghanistan,2004,0.33,0.0,0.56,Asia
+5,Afghanistan,2005,0.34,0.0,0.59,Asia
+6,Afghanistan,2006,0.2,0.0,0.64,Asia
+7,Afghanistan,2007,0.2,0.0,0.75,Asia
+8,Afghanistan,2008,0.19,0.0,0.54,Asia
+9,Afghanistan,2009,0.16,0.0,0.78,Asia
+10,Afghanistan,2010,0.19,0.0,0.75,Asia
+11,Afghanistan,2011,0.18,0.0,0.6,Asia
+12,Afghanistan,2012,0.14,0.0,0.74,Asia
+13,Afghanistan,2013,0.22,0.0,0.89,Asia
+14,Afghanistan,2014,0.16,0.0,1.0,Asia
+15,Afghanistan,2015,0.15,0.0,1.03,Asia
+16,Afghanistan,2016,0.15,0.0,1.06,Asia
+17,Afghanistan,2017,0.18,0.0,1.09,Asia
+18,Afghanistan,2018,0.2,0.0,0.97,Asia
+19,Afghanistan,2019,0.18,0.0,0.89,Asia
+20,Afghanistan,2020,0.12,0.0,0.68,Asia
+21,Albania,2000,0.14,0.0,4.55,Europe
+22,Albania,2001,0.13,0.0,3.52,Europe
+23,Albania,2002,0.16,0.0,3.48,Europe
+24,Albania,2003,0.1,0.0,5.12,Europe
+25,Albania,2004,0.13,0.0,5.41,Europe
+26,Albania,2005,0.07,0.0,5.32,Europe
+27,Albania,2006,0.09,0.0,4.95,Europe
+28,Albania,2007,0.07,0.0,2.76,Europe
+29,Albania,2008,0.07,0.0,3.76,Europe
+30,Albania,2009,0.0,0.0,5.2,Europe
+31,Albania,2010,0.0,0.0,7.49,Europe
+32,Albania,2011,0.06,0.0,4.09,Europe
+33,Albania,2012,0.0,0.0,4.68,Europe
+34,Albania,2013,0.0,0.0,6.89,Europe
+35,Albania,2014,0.0,0.0,4.68,Europe
+36,Albania,2015,0.0,0.0,5.84,Europe
+37,Albania,2016,0.0,0.0,7.7,Europe
+38,Albania,2017,0.0,0.0,4.48,Europe
+39,Albania,2018,0.0,0.0,8.47,Europe
+40,Albania,2019,0.0,0.0,5.17,Europe
+41,Albania,2020,0.0,0.0,5.31,Europe
+42,Algeria,2000,23.84,0.0,0.05,Africa
+43,Algeria,2001,24.96,0.0,0.07,Africa
+44,Algeria,2002,25.94,0.0,0.06,Africa
+45,Algeria,2003,27.54,0.0,0.26,Africa
+46,Algeria,2004,29.14,0.0,0.25,Africa
+47,Algeria,2005,31.36,0.0,0.55,Africa
+48,Algeria,2006,32.9,0.0,0.22,Africa
+49,Algeria,2007,34.75,0.0,0.22,Africa
+50,Algeria,2008,37.55,0.0,0.28,Africa
+51,Algeria,2009,35.91,0.0,0.3,Africa
+52,Algeria,2010,42.82,0.0,0.17,Africa
+53,Algeria,2011,47.67,0.0,0.5,Africa
+54,Algeria,2012,53.36,0.0,0.62,Africa
+55,Algeria,2013,55.99,0.0,0.33,Africa
+56,Algeria,2014,60.15,0.0,0.25,Africa
+57,Algeria,2015,64.46,0.0,0.22,Africa
+58,Algeria,2016,66.43,0.0,0.34,Africa
+59,Algeria,2017,70.86,0.0,0.64,Africa
+60,Algeria,2018,71.32,0.0,0.78,Africa
+61,Algeria,2019,75.85,0.0,0.84,Africa
+62,Algeria,2020,72.01,0.0,0.72,Africa
+63,Angola,2000,0.5,0.0,0.9,Africa
+64,Angola,2001,0.58,0.0,1.01,Africa
+65,Angola,2002,0.58,0.0,1.13,Africa
+66,Angola,2003,0.71,0.0,1.23,Africa
+67,Angola,2004,0.45,0.0,1.73,Africa
+68,Angola,2005,0.53,0.0,2.2,Africa
+69,Angola,2006,0.6,0.0,2.64,Africa
+70,Angola,2007,0.68,0.0,2.47,Africa
+71,Angola,2008,0.96,0.0,3.1,Africa
+72,Angola,2009,1.54,0.0,3.06,Africa
+73,Angola,2010,1.64,0.0,3.68,Africa
+74,Angola,2011,1.55,0.0,3.98,Africa
+75,Angola,2012,2.29,0.0,3.74,Africa
+76,Angola,2013,3.24,0.0,4.73,Africa
+77,Angola,2014,3.98,0.0,5.24,Africa
+78,Angola,2015,4.03,0.0,5.28,Africa
+79,Angola,2016,4.2,0.0,6.01,Africa
+80,Angola,2017,2.99,0.0,7.69,Africa
+81,Angola,2018,2.93,0.0,9.9,Africa
+82,Angola,2019,4.38,0.0,11.02,Africa
+83,Angola,2020,4.49,0.0,12.1,Africa
+84,Antigua and Barbuda,2000,0.14,0.0,0.0,North America
+85,Antigua and Barbuda,2001,0.16,0.0,0.0,North America
+86,Antigua and Barbuda,2002,0.18,0.0,0.0,North America
+87,Antigua and Barbuda,2003,0.2,0.0,0.0,North America
+88,Antigua and Barbuda,2004,0.21,0.0,0.0,North America
+89,Antigua and Barbuda,2005,0.23,0.0,0.0,North America
+90,Antigua and Barbuda,2006,0.24,0.0,0.0,North America
+91,Antigua and Barbuda,2007,0.26,0.0,0.0,North America
+92,Antigua and Barbuda,2008,0.27,0.0,0.0,North America
+93,Antigua and Barbuda,2009,0.31,0.0,0.0,North America
+94,Antigua and Barbuda,2010,0.32,0.0,0.0,North America
+95,Antigua and Barbuda,2011,0.32,0.0,0.0,North America
+96,Antigua and Barbuda,2012,0.31,0.0,0.0,North America
+97,Antigua and Barbuda,2013,0.31,0.0,0.0,North America
+98,Antigua and Barbuda,2014,0.32,0.0,0.0,North America
+99,Antigua and Barbuda,2015,0.32,0.0,0.01,North America
+100,Antigua and Barbuda,2016,0.32,0.0,0.0,North America
+101,Antigua and Barbuda,2017,0.32,0.0,0.01,North America
+102,Antigua and Barbuda,2018,0.32,0.0,0.01,North America
+103,Antigua and Barbuda,2019,0.33,0.0,0.01,North America
+104,Antigua and Barbuda,2020,0.31,0.0,0.02,North America
+105,Argentina,2000,50.37,5.99,28.89,South America
+106,Argentina,2001,42.91,6.54,37.04,South America
+107,Argentina,2002,39.7,5.39,36.06,South America
+108,Argentina,2003,46.73,7.03,34.38,South America
+109,Argentina,2004,57.35,7.31,31.03,South America
+110,Argentina,2005,59.89,6.37,34.6,South America
+111,Argentina,2006,65.58,7.15,38.67,South America
+112,Argentina,2007,72.95,6.72,31.18,South America
+113,Argentina,2008,76.62,6.85,31.28,South America
+114,Argentina,2009,74.01,7.59,34.7,South America
+115,Argentina,2010,78.54,6.69,34.41,South America
+116,Argentina,2011,84.43,5.89,32.43,South America
+117,Argentina,2012,91.86,5.9,30.93,South America
+118,Argentina,2013,91.55,5.73,35.03,South America
+119,Argentina,2014,92.18,5.26,34.37,South America
+120,Argentina,2015,97.18,6.64,33.97,South America
+121,Argentina,2016,100.8,7.82,31.02,South America
+122,Argentina,2017,99.4,5.77,33.4,South America
+123,Argentina,2018,98.31,6.51,34.97,South America
+124,Argentina,2019,90.56,7.97,34.63,South America
+125,Argentina,2020,91.58,10.06,37.05,South America
+126,Armenia,2000,2.53,1.84,1.25,Asia
+127,Armenia,2001,2.62,1.99,0.96,Asia
+128,Armenia,2002,1.48,2.09,1.64,Asia
+129,Armenia,2003,1.43,1.82,1.96,Asia
+130,Armenia,2004,1.72,2.2,1.98,Asia
+131,Armenia,2005,1.72,2.5,1.75,Asia
+132,Armenia,2006,1.39,2.42,1.81,Asia
+133,Armenia,2007,1.4,2.35,1.83,Asia
+134,Armenia,2008,1.42,2.27,1.78,Asia
+135,Armenia,2009,1.08,2.29,2.0,Asia
+136,Armenia,2010,1.35,2.29,2.54,Asia
+137,Armenia,2011,2.25,2.36,2.46,Asia
+138,Armenia,2012,3.19,2.12,2.3,Asia
+139,Armenia,2013,2.98,2.17,2.15,Asia
+140,Armenia,2014,3.09,2.27,1.97,Asia
+141,Armenia,2015,2.63,2.57,2.18,Asia
+142,Armenia,2016,2.43,2.19,2.33,Asia
+143,Armenia,2017,2.7,2.41,2.25,Asia
+144,Armenia,2018,3.17,1.9,2.31,Asia
+145,Armenia,2019,2.86,2.03,2.41,Asia
+146,Armenia,2020,2.98,2.55,1.92,Asia
+147,Aruba,2000,0.73,0.0,0.0,North America
+148,Aruba,2001,0.76,0.0,0.0,North America
+149,Aruba,2002,0.77,0.0,0.0,North America
+150,Aruba,2003,0.79,0.0,0.0,North America
+151,Aruba,2004,0.81,0.0,0.0,North America
+152,Aruba,2005,0.86,0.0,0.0,North America
+153,Aruba,2006,0.85,0.0,0.0,North America
+154,Aruba,2007,0.88,0.0,0.0,North America
+155,Aruba,2008,0.86,0.0,0.0,North America
+156,Aruba,2009,0.87,0.0,0.03,North America
+157,Aruba,2010,0.78,0.0,0.11,North America
+158,Aruba,2011,0.77,0.0,0.11,North America
+159,Aruba,2012,0.73,0.0,0.14,North America
+160,Aruba,2013,0.74,0.0,0.15,North America
+161,Aruba,2014,0.73,0.0,0.16,North America
+162,Aruba,2015,0.75,0.0,0.18,North America
+163,Aruba,2016,0.76,0.0,0.14,North America
+164,Aruba,2017,0.79,0.0,0.14,North America
+165,Aruba,2018,0.76,0.0,0.15,North America
+166,Aruba,2019,0.77,0.0,0.15,North America
+167,Aruba,2020,0.73,0.0,0.15,North America
+168,Australia,2000,181.05,0.0,17.11,Oceania
+169,Australia,2001,194.33,0.0,17.4,Oceania
+170,Australia,2002,197.29,0.0,17.35,Oceania
+171,Australia,2003,195.13,0.0,18.5,Oceania
+172,Australia,2004,203.66,0.0,19.41,Oceania
+173,Australia,2005,195.95,0.0,19.75,Oceania
+174,Australia,2006,198.72,0.0,21.19,Oceania
+175,Australia,2007,208.59,0.0,20.93,Oceania
+176,Australia,2008,211.06,0.0,18.49,Oceania
+177,Australia,2009,216.42,0.0,18.32,Oceania
+178,Australia,2010,212.5,0.0,21.13,Oceania
+179,Australia,2011,213.56,0.0,27.33,Oceania
+180,Australia,2012,206.75,0.0,26.63,Oceania
+181,Australia,2013,195.78,0.0,34.2,Oceania
+182,Australia,2014,205.46,0.0,36.15,Oceania
+183,Australia,2015,197.72,0.0,33.12,Oceania
+184,Australia,2016,207.66,0.0,38.41,Oceania
+185,Australia,2017,209.14,0.0,40.77,Oceania
+186,Australia,2018,207.45,0.0,42.93,Oceania
+187,Australia,2019,196.45,0.0,53.41,Oceania
+188,Australia,2020,186.92,0.0,63.99,Oceania
+189,Austria,2000,16.41,0.0,43.44,Europe
+190,Austria,2001,18.82,0.0,42.24,Europe
+191,Austria,2002,18.79,0.0,41.9,Europe
+192,Austria,2003,22.82,0.0,35.24,Europe
+193,Austria,2004,22.31,0.0,39.62,Europe
+194,Austria,2005,23.61,0.0,40.88,Europe
+195,Austria,2006,21.62,0.0,40.66,Europe
+196,Austria,2007,19.74,0.0,43.17,Europe
+197,Austria,2008,19.97,0.0,44.53,Europe
+198,Austria,2009,19.12,0.0,47.18,Europe
+199,Austria,2010,22.92,0.0,44.99,Europe
+200,Austria,2011,21.35,0.0,40.91,Europe
+201,Austria,2012,17.37,0.0,51.33,Europe
+202,Austria,2013,14.09,0.0,50.5,Europe
+203,Austria,2014,11.42,0.0,50.2,Europe
+204,Austria,2015,14.26,0.0,47.59,Europe
+205,Austria,2016,14.17,0.0,51.08,Europe
+206,Austria,2017,16.37,0.0,51.05,Europe
+207,Austria,2018,14.98,0.0,50.06,Europe
+208,Austria,2019,16.22,0.0,54.64,Europe
+209,Austria,2020,13.77,0.0,55.42,Europe
+210,Azerbaijan,2000,16.13,0.0,1.52,Asia
+211,Azerbaijan,2001,16.61,0.0,1.29,Asia
+212,Azerbaijan,2002,16.47,0.0,2.0,Asia
+213,Azerbaijan,2003,17.69,0.0,2.44,Asia
+214,Azerbaijan,2004,17.76,0.0,2.73,Asia
+215,Azerbaijan,2005,17.12,0.0,2.98,Asia
+216,Azerbaijan,2006,19.83,0.0,2.49,Asia
+217,Azerbaijan,2007,18.31,0.0,2.34,Asia
+218,Azerbaijan,2008,18.24,0.0,2.21,Asia
+219,Azerbaijan,2009,15.57,0.0,2.29,Asia
+220,Azerbaijan,2010,14.34,0.0,3.41,Asia
+221,Azerbaijan,2011,16.57,0.0,2.65,Asia
+222,Azerbaijan,2012,19.9,0.0,1.8,Asia
+223,Azerbaijan,2013,20.56,0.0,1.47,Asia
+224,Azerbaijan,2014,22.03,0.0,1.29,Asia
+225,Azerbaijan,2015,21.66,0.0,1.62,Asia
+226,Azerbaijan,2016,21.57,0.0,2.0,Asia
+227,Azerbaijan,2017,21.17,0.0,1.79,Asia
+228,Azerbaijan,2018,21.95,0.0,1.87,Asia
+229,Azerbaijan,2019,22.91,0.0,1.69,Asia
+230,Azerbaijan,2020,23.16,0.0,1.22,Asia
+231,Bahamas,2000,1.57,0.0,0.0,North America
+232,Bahamas,2001,1.63,0.0,0.0,North America
+233,Bahamas,2002,1.72,0.0,0.0,North America
+234,Bahamas,2003,1.81,0.0,0.0,North America
+235,Bahamas,2004,1.79,0.0,0.0,North America
+236,Bahamas,2005,1.89,0.0,0.0,North America
+237,Bahamas,2006,1.93,0.0,0.0,North America
+238,Bahamas,2007,2.05,0.0,0.0,North America
+239,Bahamas,2008,2.05,0.0,0.0,North America
+240,Bahamas,2009,1.95,0.0,0.0,North America
+241,Bahamas,2010,1.89,0.0,0.0,North America
+242,Bahamas,2011,1.93,0.0,0.0,North America
+243,Bahamas,2012,1.79,0.0,0.0,North America
+244,Bahamas,2013,1.77,0.0,0.0,North America
+245,Bahamas,2014,1.81,0.0,0.0,North America
+246,Bahamas,2015,1.88,0.0,0.0,North America
+247,Bahamas,2016,1.85,0.0,0.0,North America
+248,Bahamas,2017,1.87,0.0,0.0,North America
+249,Bahamas,2018,2.14,0.0,0.0,North America
+250,Bahamas,2019,2.1,0.0,0.0,North America
+251,Bahamas,2020,1.99,0.0,0.0,North America
+252,Bahrain,2000,13.02,0.0,0.0,Asia
+253,Bahrain,2001,13.74,0.0,0.0,Asia
+254,Bahrain,2002,14.34,0.0,0.0,Asia
+255,Bahrain,2003,14.76,0.0,0.0,Asia
+256,Bahrain,2004,15.18,0.0,0.0,Asia
+257,Bahrain,2005,18.2,0.0,0.0,Asia
+258,Bahrain,2006,19.77,0.0,0.0,Asia
+259,Bahrain,2007,20.42,0.0,0.0,Asia
+260,Bahrain,2008,21.45,0.0,0.0,Asia
+261,Bahrain,2009,21.21,0.0,0.0,Asia
+262,Bahrain,2010,22.39,0.0,0.0,Asia
+263,Bahrain,2011,22.88,0.0,0.0,Asia
+264,Bahrain,2012,23.29,0.0,0.0,Asia
+265,Bahrain,2013,24.36,0.0,0.0,Asia
+266,Bahrain,2014,25.62,0.0,0.01,Asia
+267,Bahrain,2015,26.77,0.0,0.01,Asia
+268,Bahrain,2016,26.8,0.0,0.01,Asia
+269,Bahrain,2017,27.47,0.0,0.01,Asia
+270,Bahrain,2018,27.77,0.0,0.01,Asia
+271,Bahrain,2019,31.43,0.0,0.01,Asia
+272,Bahrain,2020,29.85,0.0,0.01,Asia
+273,Bangladesh,2000,13.93,0.0,0.94,Asia
+274,Bangladesh,2001,15.41,0.0,0.98,Asia
+275,Bangladesh,2002,16.55,0.0,1.05,Asia
+276,Bangladesh,2003,17.47,0.0,1.12,Asia
+277,Bangladesh,2004,22.05,0.0,1.21,Asia
+278,Bangladesh,2005,24.15,0.0,1.28,Asia
+279,Bangladesh,2006,27.86,0.0,1.39,Asia
+280,Bangladesh,2007,28.45,0.0,0.76,Asia
+281,Bangladesh,2008,31.36,0.0,0.96,Asia
+282,Bangladesh,2009,34.6,0.0,0.47,Asia
+283,Bangladesh,2010,37.65,0.0,0.84,Asia
+284,Bangladesh,2011,40.67,0.0,0.99,Asia
+285,Bangladesh,2012,44.91,0.0,0.93,Asia
+286,Bangladesh,2013,48.94,0.0,1.1,Asia
+287,Bangladesh,2014,51.78,0.0,0.81,Asia
+288,Bangladesh,2015,54.76,0.0,0.83,Asia
+289,Bangladesh,2016,63.57,0.0,1.27,Asia
+290,Bangladesh,2017,67.59,0.0,1.32,Asia
+291,Bangladesh,2018,72.56,0.0,1.4,Asia
+292,Bangladesh,2019,78.37,0.0,1.14,Asia
+293,Bangladesh,2020,74.41,0.0,1.31,Asia
+294,Barbados,2000,0.76,0.0,0.0,North America
+295,Barbados,2001,0.8,0.0,0.0,North America
+296,Barbados,2002,0.83,0.0,0.0,North America
+297,Barbados,2003,0.87,0.0,0.0,North America
+298,Barbados,2004,0.9,0.0,0.0,North America
+299,Barbados,2005,0.95,0.0,0.0,North America
+300,Barbados,2006,0.98,0.0,0.0,North America
+301,Barbados,2007,1.0,0.0,0.0,North America
+302,Barbados,2008,1.01,0.0,0.0,North America
+303,Barbados,2009,1.02,0.0,0.0,North America
+304,Barbados,2010,0.97,0.0,0.0,North America
+305,Barbados,2011,0.99,0.0,0.0,North America
+306,Barbados,2012,1.06,0.0,0.0,North America
+307,Barbados,2013,0.95,0.0,0.0,North America
+308,Barbados,2014,0.96,0.0,0.01,North America
+309,Barbados,2015,0.97,0.0,0.01,North America
+310,Barbados,2016,0.98,0.0,0.02,North America
+311,Barbados,2017,0.98,0.0,0.03,North America
+312,Barbados,2018,0.97,0.0,0.03,North America
+313,Barbados,2019,0.98,0.0,0.04,North America
+314,Barbados,2020,0.93,0.0,0.07,North America
+315,Belarus,2000,24.51,0.0,0.03,Europe
+316,Belarus,2001,23.53,0.0,0.03,Europe
+317,Belarus,2002,24.84,0.0,0.03,Europe
+318,Belarus,2003,25.0,0.0,0.03,Europe
+319,Belarus,2004,29.31,0.0,0.03,Europe
+320,Belarus,2005,29.07,0.0,0.04,Europe
+321,Belarus,2006,29.79,0.0,0.06,Europe
+322,Belarus,2007,29.81,0.0,0.07,Europe
+323,Belarus,2008,32.79,0.0,0.11,Europe
+324,Belarus,2009,28.38,0.0,0.1,Europe
+325,Belarus,2010,32.68,0.0,0.12,Europe
+326,Belarus,2011,30.12,0.0,0.12,Europe
+327,Belarus,2012,28.78,0.0,0.16,Europe
+328,Belarus,2013,29.31,0.0,0.29,Europe
+329,Belarus,2014,32.36,0.0,0.27,Europe
+330,Belarus,2015,31.73,0.0,0.29,Europe
+331,Belarus,2016,31.15,0.0,0.4,Europe
+332,Belarus,2017,31.71,0.0,0.75,Europe
+333,Belarus,2018,35.85,0.0,0.81,Europe
+334,Belarus,2019,36.74,0.0,0.94,Europe
+335,Belarus,2020,34.59,0.34,1.27,Europe
+336,Belgium,2000,33.58,48.16,1.05,Europe
+337,Belgium,2001,31.2,46.35,1.08,Europe
+338,Belgium,2002,32.44,47.36,1.14,Europe
+339,Belgium,2003,34.99,47.38,1.2,Europe
+340,Belgium,2004,34.11,47.31,1.5,Europe
+341,Belgium,2005,34.39,47.6,2.11,Europe
+342,Belgium,2006,33.46,46.65,2.96,Europe
+343,Belgium,2007,34.84,48.23,3.49,Europe
+344,Belgium,2008,32.82,45.57,4.42,Europe
+345,Belgium,2009,37.0,47.22,5.45,Europe
+346,Belgium,2010,38.39,47.94,6.54,Europe
+347,Belgium,2011,32.51,48.23,8.31,Europe
+348,Belgium,2012,30.62,40.29,10.51,Europe
+349,Belgium,2013,27.37,42.64,11.71,Europe
+350,Belgium,2014,25.03,33.7,12.21,Europe
+351,Belgium,2015,27.57,26.1,14.45,Europe
+352,Belgium,2016,26.19,43.52,14.25,Europe
+353,Belgium,2017,26.9,42.23,15.8,Europe
+354,Belgium,2018,27.75,28.6,17.17,Europe
+355,Belgium,2019,29.32,43.52,19.47,Europe
+356,Belgium,2020,30.0,34.43,23.46,Europe
+357,Belize,2000,0.09,0.0,0.09,North America
+358,Belize,2001,0.06,0.0,0.09,North America
+359,Belize,2002,0.06,0.0,0.09,North America
+360,Belize,2003,0.11,0.0,0.06,North America
+361,Belize,2004,0.1,0.0,0.06,North America
+362,Belize,2005,0.1,0.0,0.07,North America
+363,Belize,2006,0.05,0.0,0.18,North America
+364,Belize,2007,0.06,0.0,0.18,North America
+365,Belize,2008,0.03,0.0,0.2,North America
+366,Belize,2009,0.05,0.0,0.2,North America
+367,Belize,2010,0.18,0.0,0.31,North America
+368,Belize,2011,0.14,0.0,0.29,North America
+369,Belize,2012,0.2,0.0,0.27,North America
+370,Belize,2013,0.15,0.0,0.3,North America
+371,Belize,2014,0.19,0.0,0.32,North America
+372,Belize,2015,0.23,0.0,0.31,North America
+373,Belize,2016,0.21,0.0,0.32,North America
+374,Belize,2017,0.35,0.0,0.41,North America
+375,Belize,2018,0.39,0.0,0.4,North America
+376,Belize,2019,0.41,0.0,0.47,North America
+377,Belize,2020,0.38,0.0,0.24,North America
+378,Benin,2000,0.08,0.0,0.0,Africa
+379,Benin,2001,0.06,0.0,0.0,Africa
+380,Benin,2002,0.06,0.0,0.0,Africa
+381,Benin,2003,0.07,0.0,0.0,Africa
+382,Benin,2004,0.08,0.0,0.0,Africa
+383,Benin,2005,0.1,0.0,0.0,Africa
+384,Benin,2006,0.14,0.0,0.0,Africa
+385,Benin,2007,0.2,0.0,0.0,Africa
+386,Benin,2008,0.21,0.0,0.0,Africa
+387,Benin,2009,0.12,0.0,0.0,Africa
+388,Benin,2010,0.11,0.0,0.0,Africa
+389,Benin,2011,0.09,0.0,0.0,Africa
+390,Benin,2012,0.05,0.0,0.0,Africa
+391,Benin,2013,0.09,0.0,0.0,Africa
+392,Benin,2014,0.22,0.0,0.0,Africa
+393,Benin,2015,0.3,0.0,0.0,Africa
+394,Benin,2016,0.25,0.0,0.0,Africa
+395,Benin,2017,0.31,0.0,0.0,Africa
+396,Benin,2018,0.19,0.0,0.0,Africa
+397,Benin,2019,0.19,0.0,0.01,Africa
+398,Benin,2020,0.22,0.0,0.01,Africa
+399,Bermuda,2000,0.0,0.0,0.0,North America
+400,Bermuda,2001,0.0,0.0,0.0,North America
+401,Bermuda,2002,0.0,0.0,0.0,North America
+402,Bermuda,2003,0.0,0.0,0.0,North America
+403,Bermuda,2004,0.0,0.0,0.0,North America
+404,Bermuda,2005,0.0,0.0,0.0,North America
+405,Bermuda,2006,0.0,0.0,0.0,North America
+406,Bermuda,2007,0.0,0.0,0.0,North America
+407,Bermuda,2008,0.0,0.0,0.0,North America
+408,Bermuda,2009,0.0,0.0,0.0,North America
+409,Bermuda,2010,0.0,0.0,0.0,North America
+410,Bermuda,2011,0.0,0.0,0.0,North America
+411,Bermuda,2012,0.0,0.0,0.0,North America
+412,Bermuda,2013,0.0,0.0,0.0,North America
+413,Bermuda,2014,0.0,0.0,0.0,North America
+414,Bermuda,2015,0.0,0.0,0.0,North America
+415,Bermuda,2016,0.0,0.0,0.0,North America
+416,Bermuda,2017,0.0,0.0,0.0,North America
+417,Bermuda,2018,0.0,0.0,0.0,North America
+418,Bermuda,2019,0.0,0.0,0.0,North America
+419,Bermuda,2020,0.0,0.0,0.0,North America
+420,Bhutan,2000,0.0,0.0,1.79,Asia
+421,Bhutan,2001,0.0,0.0,1.92,Asia
+422,Bhutan,2002,0.0,0.0,2.18,Asia
+423,Bhutan,2003,0.0,0.0,2.5,Asia
+424,Bhutan,2004,0.0,0.0,2.33,Asia
+425,Bhutan,2005,0.0,0.0,2.62,Asia
+426,Bhutan,2006,0.0,0.0,4.47,Asia
+427,Bhutan,2007,0.0,0.0,6.49,Asia
+428,Bhutan,2008,0.0,0.0,6.89,Asia
+429,Bhutan,2009,0.0,0.0,6.93,Asia
+430,Bhutan,2010,0.0,0.0,7.26,Asia
+431,Bhutan,2011,0.0,0.0,6.97,Asia
+432,Bhutan,2012,0.0,0.0,6.74,Asia
+433,Bhutan,2013,0.0,0.0,7.53,Asia
+434,Bhutan,2014,0.0,0.0,7.15,Asia
+435,Bhutan,2015,0.0,0.0,7.73,Asia
+436,Bhutan,2016,0.0,0.0,7.88,Asia
+437,Bhutan,2017,0.0,0.0,7.65,Asia
+438,Bhutan,2018,0.0,0.0,6.89,Asia
+439,Bhutan,2019,0.0,0.0,8.95,Asia
+440,Bhutan,2020,0.0,0.0,8.95,Asia
+441,Bosnia and Herzegovina,2000,5.01,0.0,5.04,Europe
+442,Bosnia and Herzegovina,2001,5.13,0.0,5.13,Europe
+443,Bosnia and Herzegovina,2002,5.19,0.0,5.22,Europe
+444,Bosnia and Herzegovina,2003,6.36,0.0,4.46,Europe
+445,Bosnia and Herzegovina,2004,6.34,0.0,5.92,Europe
+446,Bosnia and Herzegovina,2005,6.21,0.0,5.94,Europe
+447,Bosnia and Herzegovina,2006,7.0,0.0,5.8,Europe
+448,Bosnia and Herzegovina,2007,7.32,0.0,3.96,Europe
+449,Bosnia and Herzegovina,2008,9.36,0.0,4.82,Europe
+450,Bosnia and Herzegovina,2009,8.86,0.0,6.18,Europe
+451,Bosnia and Herzegovina,2010,8.55,0.0,7.95,Europe
+452,Bosnia and Herzegovina,2011,10.24,0.0,4.34,Europe
+453,Bosnia and Herzegovina,2012,9.27,0.0,4.17,Europe
+454,Bosnia and Herzegovina,2013,9.6,0.0,7.16,Europe
+455,Bosnia and Herzegovina,2014,9.61,0.0,5.89,Europe
+456,Bosnia and Herzegovina,2015,9.47,0.0,5.5,Europe
+457,Bosnia and Herzegovina,2016,11.37,0.0,5.62,Europe
+458,Bosnia and Herzegovina,2017,11.68,0.0,3.78,Europe
+459,Bosnia and Herzegovina,2018,11.76,0.0,6.48,Europe
+460,Bosnia and Herzegovina,2019,10.36,0.0,6.31,Europe
+461,Bosnia and Herzegovina,2020,10.82,0.0,4.9,Europe
+462,Botswana,2000,0.89,0.0,0.0,Africa
+463,Botswana,2001,0.95,0.0,0.0,Africa
+464,Botswana,2002,0.84,0.0,0.0,Africa
+465,Botswana,2003,0.68,0.0,0.0,Africa
+466,Botswana,2004,0.74,0.0,0.0,Africa
+467,Botswana,2005,0.81,0.0,0.0,Africa
+468,Botswana,2006,0.75,0.0,0.0,Africa
+469,Botswana,2007,0.58,0.0,0.0,Africa
+470,Botswana,2008,0.55,0.0,0.0,Africa
+471,Botswana,2009,0.41,0.0,0.0,Africa
+472,Botswana,2010,0.5,0.0,0.0,Africa
+473,Botswana,2011,0.45,0.0,0.0,Africa
+474,Botswana,2012,0.33,0.0,0.0,Africa
+475,Botswana,2013,0.86,0.0,0.0,Africa
+476,Botswana,2014,2.17,0.0,0.0,Africa
+477,Botswana,2015,2.79,0.0,0.0,Africa
+478,Botswana,2016,2.52,0.0,0.0,Africa
+479,Botswana,2017,2.84,0.0,0.0,Africa
+480,Botswana,2018,2.96,0.0,0.01,Africa
+481,Botswana,2019,3.05,0.0,0.01,Africa
+482,Botswana,2020,2.05,0.0,0.01,Africa
+483,Brazil,2000,28.87,4.94,308.77,South America
+484,Brazil,2001,35.19,14.27,273.71,South America
+485,Brazil,2002,33.5,13.84,292.95,South America
+486,Brazil,2003,31.62,13.4,313.88,South America
+487,Brazil,2004,40.14,11.6,329.43,South America
+488,Brazil,2005,39.56,9.2,346.96,South America
+489,Brazil,2006,39.4,12.98,359.55,South America
+490,Brazil,2007,37.64,11.65,387.88,South America
+491,Brazil,2008,55.87,13.21,385.61,South America
+492,Brazil,2009,36.32,12.22,410.13,South America
+493,Brazil,2010,61.02,13.77,435.99,South America
+494,Brazil,2011,50.27,14.8,462.32,South America
+495,Brazil,2012,77.21,15.17,454.78,South America
+496,Brazil,2013,112.0,14.65,436.84,South America
+497,Brazil,2014,136.58,14.46,430.82,South America
+498,Brazil,2015,128.85,13.91,428.81,South America
+499,Brazil,2016,93.06,14.97,463.37,South America
+500,Brazil,2017,101.9,14.86,464.4,South America
+501,Brazil,2018,86.69,14.79,492.66,South America
+502,Brazil,2019,90.91,15.16,512.59,South America
+503,Brazil,2020,81.15,13.21,520.01,South America
+504,Bulgaria,2000,19.79,18.18,2.63,Europe
+505,Bulgaria,2001,22.25,19.55,1.65,Europe
+506,Bulgaria,2002,19.75,20.22,2.12,Europe
+507,Bulgaria,2003,22.02,17.28,2.99,Europe
+508,Bulgaria,2004,21.44,16.82,3.14,Europe
+509,Bulgaria,2005,20.98,18.65,4.3,Europe
+510,Bulgaria,2006,21.76,19.49,4.23,Europe
+511,Bulgaria,2007,25.38,14.64,2.88,Europe
+512,Bulgaria,2008,25.86,15.77,2.93,Europe
+513,Bulgaria,2009,23.39,15.26,3.68,Europe
+514,Bulgaria,2010,24.97,15.25,5.76,Europe
+515,Bulgaria,2011,29.75,16.31,3.89,Europe
+516,Bulgaria,2012,25.45,15.78,5.25,Europe
+517,Bulgaria,2013,21.96,14.17,6.91,Europe
+518,Bulgaria,2014,23.66,15.87,7.39,Europe
+519,Bulgaria,2015,24.57,15.38,8.75,Europe
+520,Bulgaria,2016,21.74,15.78,7.04,Europe
+521,Bulgaria,2017,23.25,15.55,6.13,Europe
+522,Bulgaria,2018,21.03,16.13,9.38,Europe
+523,Bulgaria,2019,19.75,16.56,7.49,Europe
+524,Bulgaria,2020,16.12,16.63,7.47,Europe
+525,Burkina Faso,2000,0.22,0.0,0.1,Africa
+526,Burkina Faso,2001,0.27,0.0,0.05,Africa
+527,Burkina Faso,2002,0.3,0.0,0.06,Africa
+528,Burkina Faso,2003,0.35,0.0,0.1,Africa
+529,Burkina Faso,2004,0.37,0.0,0.1,Africa
+530,Burkina Faso,2005,0.39,0.0,0.1,Africa
+531,Burkina Faso,2006,0.44,0.0,0.08,Africa
+532,Burkina Faso,2007,0.47,0.0,0.11,Africa
+533,Burkina Faso,2008,0.45,0.0,0.13,Africa
+534,Burkina Faso,2009,0.53,0.0,0.13,Africa
+535,Burkina Faso,2010,0.51,0.0,0.13,Africa
+536,Burkina Faso,2011,0.6,0.0,0.09,Africa
+537,Burkina Faso,2012,0.76,0.0,0.11,Africa
+538,Burkina Faso,2013,0.87,0.0,0.12,Africa
+539,Burkina Faso,2014,1.02,0.0,0.1,Africa
+540,Burkina Faso,2015,1.33,0.0,0.1,Africa
+541,Burkina Faso,2016,1.39,0.0,0.16,Africa
+542,Burkina Faso,2017,1.48,0.0,0.16,Africa
+543,Burkina Faso,2018,1.42,0.0,0.23,Africa
+544,Burkina Faso,2019,1.51,0.0,0.21,Africa
+545,Burkina Faso,2020,1.43,0.0,0.21,Africa
+546,Burundi,2000,0.0,0.0,0.1,Africa
+547,Burundi,2001,0.0,0.0,0.11,Africa
+548,Burundi,2002,0.0,0.0,0.13,Africa
+549,Burundi,2003,0.0,0.0,0.1,Africa
+550,Burundi,2004,0.0,0.0,0.09,Africa
+551,Burundi,2005,0.0,0.0,0.09,Africa
+552,Burundi,2006,0.0,0.0,0.09,Africa
+553,Burundi,2007,0.0,0.0,0.12,Africa
+554,Burundi,2008,0.0,0.0,0.11,Africa
+555,Burundi,2009,0.0,0.0,0.12,Africa
+556,Burundi,2010,0.0,0.0,0.14,Africa
+557,Burundi,2011,0.01,0.0,0.13,Africa
+558,Burundi,2012,0.01,0.0,0.14,Africa
+559,Burundi,2013,0.03,0.0,0.15,Africa
+560,Burundi,2014,0.04,0.0,0.15,Africa
+561,Burundi,2015,0.03,0.0,0.15,Africa
+562,Burundi,2016,0.03,0.0,0.16,Africa
+563,Burundi,2017,0.08,0.0,0.21,Africa
+564,Burundi,2018,0.1,0.0,0.17,Africa
+565,Burundi,2019,0.12,0.0,0.24,Africa
+566,Burundi,2020,0.11,0.0,0.24,Africa
+567,Cambodia,2000,0.42,0.0,0.05,Asia
+568,Cambodia,2001,0.48,0.0,0.03,Asia
+569,Cambodia,2002,0.66,0.0,0.03,Asia
+570,Cambodia,2003,0.67,0.0,0.04,Asia
+571,Cambodia,2004,0.73,0.0,0.03,Asia
+572,Cambodia,2005,0.86,0.0,0.04,Asia
+573,Cambodia,2006,0.98,0.0,0.13,Asia
+574,Cambodia,2007,1.25,0.0,0.16,Asia
+575,Cambodia,2008,1.23,0.0,0.16,Asia
+576,Cambodia,2009,1.02,0.0,0.15,Asia
+577,Cambodia,2010,0.81,0.0,0.12,Asia
+578,Cambodia,2011,0.81,0.0,0.18,Asia
+579,Cambodia,2012,0.51,0.0,0.86,Asia
+580,Cambodia,2013,0.47,0.0,1.26,Asia
+581,Cambodia,2014,1.03,0.0,1.96,Asia
+582,Cambodia,2015,2.1,0.0,2.16,Asia
+583,Cambodia,2016,2.62,0.0,2.81,Asia
+584,Cambodia,2017,3.7,0.0,3.07,Asia
+585,Cambodia,2018,2.96,0.0,5.0,Asia
+586,Cambodia,2019,3.94,0.0,4.51,Asia
+587,Cambodia,2020,3.83,0.0,4.62,Asia
+588,Cameroon,2000,0.04,0.0,3.41,Africa
+589,Cameroon,2001,0.06,0.0,3.44,Africa
+590,Cameroon,2002,0.11,0.0,3.15,Africa
+591,Cameroon,2003,0.15,0.0,3.49,Africa
+592,Cameroon,2004,0.18,0.0,3.88,Africa
+593,Cameroon,2005,0.22,0.0,3.73,Africa
+594,Cameroon,2006,0.54,0.0,3.85,Africa
+595,Cameroon,2007,1.24,0.0,3.81,Africa
+596,Cameroon,2008,1.29,0.0,4.19,Africa
+597,Cameroon,2009,1.59,0.0,3.98,Africa
+598,Cameroon,2010,1.49,0.0,4.22,Africa
+599,Cameroon,2011,1.38,0.0,4.35,Africa
+600,Cameroon,2012,1.09,0.0,4.21,Africa
+601,Cameroon,2013,1.82,0.0,4.33,Africa
+602,Cameroon,2014,2.33,0.0,4.34,Africa
+603,Cameroon,2015,3.37,0.0,4.33,Africa
+604,Cameroon,2016,2.58,0.0,4.34,Africa
+605,Cameroon,2017,2.78,0.0,5.06,Africa
+606,Cameroon,2018,3.29,0.0,4.99,Africa
+607,Cameroon,2019,2.99,0.0,5.36,Africa
+608,Cameroon,2020,2.84,0.0,5.45,Africa
+609,Canada,2000,155.56,69.16,363.7,North America
+610,Canada,2001,159.93,72.86,339.58,North America
+611,Canada,2002,155.12,71.75,357.06,North America
+612,Canada,2003,157.35,71.15,343.88,North America
+613,Canada,2004,148.86,85.87,347.68,North America
+614,Canada,2005,150.78,86.83,368.86,North America
+615,Canada,2006,139.71,92.44,360.48,North America
+616,Canada,2007,149.36,88.19,375.42,North America
+617,Canada,2008,141.33,88.3,385.21,North America
+618,Canada,2009,129.76,85.13,380.24,North America
+619,Canada,2010,130.08,85.53,366.21,North America
+620,Canada,2011,131.3,88.29,391.95,North America
+621,Canada,2012,124.2,89.49,398.58,North America
+622,Canada,2013,122.87,97.58,417.28,North America
+623,Canada,2014,122.75,101.21,412.13,North America
+624,Canada,2015,125.7,96.05,417.2,North America
+625,Canada,2016,122.35,95.69,426.84,North America
+626,Canada,2017,113.7,95.57,435.43,North America
+627,Canada,2018,112.47,95.03,428.39,North America
+628,Canada,2019,110.65,95.47,421.8,North America
+629,Canada,2020,102.19,92.65,429.24,North America
+630,Cayman Islands,2000,0.4,0.0,0.0,North America
+631,Cayman Islands,2001,0.42,0.0,0.0,North America
+632,Cayman Islands,2002,0.45,0.0,0.0,North America
+633,Cayman Islands,2003,0.46,0.0,0.0,North America
+634,Cayman Islands,2004,0.49,0.0,0.0,North America
+635,Cayman Islands,2005,0.39,0.0,0.0,North America
+636,Cayman Islands,2006,0.49,0.0,0.0,North America
+637,Cayman Islands,2007,0.55,0.0,0.0,North America
+638,Cayman Islands,2008,0.58,0.0,0.0,North America
+639,Cayman Islands,2009,0.6,0.0,0.0,North America
+640,Cayman Islands,2010,0.59,0.0,0.0,North America
+641,Cayman Islands,2011,0.59,0.0,0.0,North America
+642,Cayman Islands,2012,0.59,0.0,0.0,North America
+643,Cayman Islands,2013,0.6,0.0,0.0,North America
+644,Cayman Islands,2014,0.61,0.0,0.0,North America
+645,Cayman Islands,2015,0.62,0.0,0.0,North America
+646,Cayman Islands,2016,0.65,0.0,0.0,North America
+647,Cayman Islands,2017,0.65,0.0,0.01,North America
+648,Cayman Islands,2018,0.64,0.0,0.01,North America
+649,Cayman Islands,2019,0.68,0.0,0.02,North America
+650,Cayman Islands,2020,0.67,0.0,0.02,North America
+651,Central African Republic,2000,0.02,0.0,0.08,Africa
+652,Central African Republic,2001,0.02,0.0,0.08,Africa
+653,Central African Republic,2002,0.02,0.0,0.08,Africa
+654,Central African Republic,2003,0.02,0.0,0.08,Africa
+655,Central African Republic,2004,0.03,0.0,0.12,Africa
+656,Central African Republic,2005,0.03,0.0,0.13,Africa
+657,Central African Republic,2006,0.03,0.0,0.14,Africa
+658,Central African Republic,2007,0.02,0.0,0.14,Africa
+659,Central African Republic,2008,0.02,0.0,0.14,Africa
+660,Central African Republic,2009,0.02,0.0,0.14,Africa
+661,Central African Republic,2010,0.03,0.0,0.13,Africa
+662,Central African Republic,2011,0.03,0.0,0.15,Africa
+663,Central African Republic,2012,0.03,0.0,0.15,Africa
+664,Central African Republic,2013,0.0,0.0,0.14,Africa
+665,Central African Republic,2014,0.0,0.0,0.17,Africa
+666,Central African Republic,2015,0.0,0.0,0.17,Africa
+667,Central African Republic,2016,0.0,0.0,0.17,Africa
+668,Central African Republic,2017,0.0,0.0,0.15,Africa
+669,Central African Republic,2018,0.0,0.0,0.15,Africa
+670,Central African Republic,2019,0.0,0.0,0.15,Africa
+671,Central African Republic,2020,0.0,0.0,0.15,Africa
+672,Chad,2000,0.08,0.0,0.01,Africa
+673,Chad,2001,0.09,0.0,0.01,Africa
+674,Chad,2002,0.09,0.0,0.01,Africa
+675,Chad,2003,0.1,0.0,0.01,Africa
+676,Chad,2004,0.11,0.0,0.01,Africa
+677,Chad,2005,0.11,0.0,0.01,Africa
+678,Chad,2006,0.12,0.0,0.01,Africa
+679,Chad,2007,0.12,0.0,0.0,Africa
+680,Chad,2008,0.14,0.0,0.0,Africa
+681,Chad,2009,0.17,0.0,0.01,Africa
+682,Chad,2010,0.18,0.0,0.01,Africa
+683,Chad,2011,0.18,0.0,0.01,Africa
+684,Chad,2012,0.23,0.0,0.0,Africa
+685,Chad,2013,0.26,0.0,0.0,Africa
+686,Chad,2014,0.27,0.0,0.0,Africa
+687,Chad,2015,0.28,0.0,0.0,Africa
+688,Chad,2016,0.28,0.0,0.01,Africa
+689,Chad,2017,0.29,0.0,0.01,Africa
+690,Chad,2018,0.29,0.0,0.01,Africa
+691,Chad,2019,0.3,0.0,0.01,Africa
+692,Chad,2020,0.28,0.0,0.01,Africa
+714,China,2000,1113.3,16.74,225.56,Asia
+715,China,2001,1182.59,17.47,280.73,Asia
+716,China,2002,1337.46,25.13,291.41,Asia
+717,China,2003,1579.96,43.34,287.28,Asia
+718,China,2004,1795.41,50.47,357.43,Asia
+719,China,2005,2042.8,53.09,404.37,Asia
+720,China,2006,2364.16,54.84,446.72,Asia
+721,China,2007,2718.7,62.13,500.71,Asia
+722,China,2008,2762.29,68.39,665.08,Asia
+723,China,2009,2980.2,70.05,664.39,Asia
+724,China,2010,3326.19,74.74,786.38,Asia
+725,China,2011,3811.77,87.2,792.38,Asia
+726,China,2012,3869.38,98.32,999.56,Asia
+727,China,2013,4203.77,111.5,1093.37,Asia
+728,China,2014,4345.86,133.22,1289.23,Asia
+729,China,2015,4222.76,171.38,1393.66,Asia
+730,China,2016,4355.0,213.18,1522.79,Asia
+731,China,2017,4643.1,248.1,1667.06,Asia
+732,China,2018,4990.28,295.0,1835.32,Asia
+733,China,2019,5098.22,348.7,2014.57,Asia
+734,China,2020,5184.13,366.2,2184.94,Asia
+735,Colombia,2000,10.21,0.0,31.98,South America
+736,Colombia,2001,10.78,0.0,31.69,South America
+737,Colombia,2002,10.25,0.0,33.83,South America
+738,Colombia,2003,9.6,0.0,36.0,South America
+739,Colombia,2004,8.87,0.0,39.91,South America
+740,Colombia,2005,9.71,0.0,39.64,South America
+741,Colombia,2006,10.13,0.0,42.6,South America
+742,Colombia,2007,9.93,0.0,44.27,South America
+743,Colombia,2008,8.77,0.0,46.19,South America
+744,Colombia,2009,14.77,0.0,41.08,South America
+745,Colombia,2010,15.96,0.0,40.66,South America
+746,Colombia,2011,10.11,0.0,48.81,South America
+747,Colombia,2012,12.96,0.0,47.58,South America
+748,Colombia,2013,21.71,0.0,50.48,South America
+749,Colombia,2014,20.99,0.0,48.06,South America
+750,Colombia,2015,27.22,0.0,49.0,South America
+751,Colombia,2016,25.02,0.0,49.54,South America
+752,Colombia,2017,16.07,0.0,61.39,South America
+753,Colombia,2018,19.11,0.0,60.08,South America
+754,Colombia,2019,23.84,0.0,54.31,South America
+755,Colombia,2020,27.17,0.0,49.97,South America
+756,Comoros,2000,0.02,0.0,0.0,Africa
+757,Comoros,2001,0.03,0.0,0.0,Africa
+758,Comoros,2002,0.03,0.0,0.0,Africa
+759,Comoros,2003,0.03,0.0,0.0,Africa
+760,Comoros,2004,0.04,0.0,0.0,Africa
+761,Comoros,2005,0.04,0.0,0.0,Africa
+762,Comoros,2006,0.04,0.0,0.0,Africa
+763,Comoros,2007,0.04,0.0,0.0,Africa
+764,Comoros,2008,0.04,0.0,0.0,Africa
+765,Comoros,2009,0.04,0.0,0.0,Africa
+766,Comoros,2010,0.04,0.0,0.0,Africa
+767,Comoros,2011,0.05,0.0,0.0,Africa
+768,Comoros,2012,0.05,0.0,0.0,Africa
+769,Comoros,2013,0.05,0.0,0.0,Africa
+770,Comoros,2014,0.05,0.0,0.0,Africa
+771,Comoros,2015,0.05,0.0,0.0,Africa
+772,Comoros,2016,0.05,0.0,0.0,Africa
+773,Comoros,2017,0.09,0.0,0.0,Africa
+774,Comoros,2018,0.09,0.0,0.0,Africa
+775,Comoros,2019,0.1,0.0,0.0,Africa
+776,Comoros,2020,0.13,0.0,0.0,Africa
+777,Congo,2000,0.0,0.0,0.29,Africa
+778,Congo,2001,0.0,0.0,0.33,Africa
+779,Congo,2002,0.0,0.0,0.39,Africa
+780,Congo,2003,0.04,0.0,0.36,Africa
+781,Congo,2004,0.04,0.0,0.35,Africa
+782,Congo,2005,0.05,0.0,0.37,Africa
+783,Congo,2006,0.05,0.0,0.39,Africa
+784,Congo,2007,0.06,0.0,0.34,Africa
+785,Congo,2008,0.09,0.0,0.39,Africa
+786,Congo,2009,0.16,0.0,0.36,Africa
+787,Congo,2010,0.32,0.0,0.44,Africa
+788,Congo,2011,0.45,0.0,0.79,Africa
+789,Congo,2012,0.64,0.0,1.0,Africa
+790,Congo,2013,0.67,0.0,0.98,Africa
+791,Congo,2014,0.72,0.0,0.96,Africa
+792,Congo,2015,1.53,0.0,1.14,Africa
+793,Congo,2016,1.66,0.0,1.17,Africa
+794,Congo,2017,1.61,0.0,1.24,Africa
+795,Congo,2018,1.82,0.0,1.15,Africa
+796,Congo,2019,2.72,0.0,0.94,Africa
+797,Congo,2020,2.87,0.0,0.96,Africa
+798,Costa Rica,2000,0.07,0.0,6.78,North America
+799,Costa Rica,2001,0.11,0.0,6.78,North America
+800,Costa Rica,2002,0.16,0.0,7.26,North America
+801,Costa Rica,2003,0.19,0.0,7.1,North America
+802,Costa Rica,2004,0.07,0.0,7.9,North America
+803,Costa Rica,2005,0.28,0.0,7.87,North America
+804,Costa Rica,2006,0.53,0.0,8.05,North America
+805,Costa Rica,2007,0.69,0.0,8.24,North America
+806,Costa Rica,2008,0.68,0.0,8.68,North America
+807,Costa Rica,2009,0.52,0.0,8.7,North America
+808,Costa Rica,2010,0.71,0.0,8.76,North America
+809,Costa Rica,2011,0.91,0.0,8.79,North America
+810,Costa Rica,2012,0.9,0.0,9.15,North America
+811,Costa Rica,2013,1.23,0.0,8.88,North America
+812,Costa Rica,2014,1.1,0.0,9.01,North America
+813,Costa Rica,2015,0.26,0.0,10.5,North America
+814,Costa Rica,2016,0.35,0.0,10.5,North America
+815,Costa Rica,2017,0.21,0.0,11.06,North America
+816,Costa Rica,2018,0.31,0.0,11.13,North America
+817,Costa Rica,2019,0.25,0.0,11.18,North America
+818,Costa Rica,2020,0.19,0.0,11.55,North America
+819,Croatia,2000,4.81,0.0,6.45,Europe
+820,Croatia,2001,5.59,0.0,7.18,Europe
+821,Croatia,2002,6.86,0.0,5.85,Europe
+822,Croatia,2003,7.73,0.0,5.46,Europe
+823,Croatia,2004,6.26,0.0,7.63,Europe
+824,Croatia,2005,6.0,0.0,7.06,Europe
+825,Croatia,2006,6.27,0.0,6.65,Europe
+826,Croatia,2007,7.8,0.0,4.74,Europe
+827,Croatia,2008,6.94,0.0,5.84,Europe
+828,Croatia,2009,5.87,0.0,7.48,Europe
+829,Croatia,2010,5.49,0.0,9.3,Europe
+830,Croatia,2011,5.95,0.0,5.28,Europe
+831,Croatia,2012,5.33,0.0,5.26,Europe
+832,Croatia,2013,4.67,0.0,9.28,Europe
+833,Croatia,2014,3.5,0.0,9.94,Europe
+834,Croatia,2015,3.73,0.0,7.52,Europe
+835,Croatia,2016,4.26,0.0,8.36,Europe
+836,Croatia,2017,4.67,0.0,7.12,Europe
+837,Croatia,2018,3.77,0.0,9.78,Europe
+838,Croatia,2019,4.31,0.0,8.35,Europe
+839,Croatia,2020,4.69,0.0,8.55,Europe
+840,Cuba,2000,14.1,0.0,0.09,North America
+841,Cuba,2001,14.37,0.0,0.07,North America
+842,Cuba,2002,14.71,0.0,0.1,North America
+843,Cuba,2003,14.79,0.0,0.13,North America
+844,Cuba,2004,14.66,0.0,0.09,North America
+845,Cuba,2005,11.88,0.0,2.57,North America
+846,Cuba,2006,13.96,0.0,1.54,North America
+847,Cuba,2007,14.67,0.0,1.93,North America
+848,Cuba,2008,14.7,0.0,1.97,North America
+849,Cuba,2009,14.82,0.0,1.89,North America
+850,Cuba,2010,14.66,0.0,1.73,North America
+851,Cuba,2011,14.99,0.0,1.74,North America
+852,Cuba,2012,15.55,0.0,1.82,North America
+853,Cuba,2013,16.4,0.0,1.77,North America
+854,Cuba,2014,16.52,0.0,1.8,North America
+855,Cuba,2015,17.37,0.0,1.85,North America
+856,Cuba,2016,17.64,0.0,1.74,North America
+857,Cuba,2017,17.57,0.0,1.82,North America
+858,Cuba,2018,17.64,0.0,2.0,North America
+859,Cuba,2019,16.54,0.0,2.99,North America
+860,Cuba,2020,15.47,0.0,3.13,North America
+861,Cyprus,2000,3.37,0.0,0.0,Asia
+862,Cyprus,2001,3.55,0.0,0.0,Asia
+863,Cyprus,2002,3.79,0.0,0.0,Asia
+864,Cyprus,2003,4.05,0.0,0.0,Asia
+865,Cyprus,2004,4.2,0.0,0.0,Asia
+866,Cyprus,2005,4.38,0.0,0.0,Asia
+867,Cyprus,2006,4.65,0.0,0.0,Asia
+868,Cyprus,2007,4.87,0.0,0.0,Asia
+869,Cyprus,2008,5.06,0.0,0.01,Asia
+870,Cyprus,2009,5.18,0.0,0.03,Asia
+871,Cyprus,2010,5.25,0.0,0.08,Asia
+872,Cyprus,2011,4.75,0.0,0.17,Asia
+873,Cyprus,2012,4.46,0.0,0.26,Asia
+874,Cyprus,2013,3.96,0.0,0.33,Asia
+875,Cyprus,2014,4.03,0.0,0.31,Asia
+876,Cyprus,2015,4.14,0.0,0.4,Asia
+877,Cyprus,2016,4.46,0.0,0.43,Asia
+878,Cyprus,2017,4.57,0.0,0.43,Asia
+879,Cyprus,2018,4.58,0.0,0.48,Asia
+880,Cyprus,2019,4.63,0.0,0.52,Asia
+881,Cyprus,2020,4.25,0.0,0.6,Asia
+882,Czechia,2000,57.03,13.59,2.28,Europe
+883,Czechia,2001,56.9,14.75,2.57,Europe
+884,Czechia,2002,54.27,18.74,2.99,Europe
+885,Czechia,2003,55.05,25.87,1.87,Europe
+886,Czechia,2004,54.72,26.33,2.74,Europe
+887,Czechia,2005,54.07,24.73,3.13,Europe
+888,Czechia,2006,54.09,26.05,3.52,Europe
+889,Czechia,2007,58.18,26.17,3.42,Europe
+890,Czechia,2008,53.01,26.55,3.72,Europe
+891,Czechia,2009,49.77,27.21,4.66,Europe
+892,Czechia,2010,51.33,28.0,5.91,Europe
+893,Czechia,2011,51.15,28.28,7.24,Europe
+894,Czechia,2012,48.22,30.32,8.07,Europe
+895,Czechia,2013,45.89,30.75,9.3,Europe
+896,Czechia,2014,45.51,30.33,9.17,Europe
+897,Czechia,2015,46.27,26.84,9.41,Europe
+898,Czechia,2016,48.52,24.1,9.39,Europe
+899,Czechia,2017,47.81,28.34,9.63,Europe
+900,Czechia,2018,47.51,29.92,9.43,Europe
+901,Czechia,2019,45.44,30.25,10.08,Europe
+902,Czechia,2020,39.72,30.04,10.39,Europe
+903,Denmark,2000,30.43,0.0,5.57,Europe
+904,Denmark,2001,31.87,0.0,5.85,Europe
+905,Denmark,2002,32.49,0.0,6.79,Europe
+906,Denmark,2003,38.09,0.0,8.07,Europe
+907,Denmark,2004,30.9,0.0,9.52,Europe
+908,Denmark,2005,26.43,0.0,9.8,Europe
+909,Denmark,2006,36.41,0.0,9.2,Europe
+910,Denmark,2007,29.01,0.0,10.3,Europe
+911,Denmark,2008,26.52,0.0,10.1,Europe
+912,Denmark,2009,26.32,0.0,10.06,Europe
+913,Denmark,2010,26.44,0.0,12.43,Europe
+914,Denmark,2011,21.05,0.0,14.17,Europe
+915,Denmark,2012,15.86,0.0,14.84,Europe
+916,Denmark,2013,18.78,0.0,15.96,Europe
+917,Denmark,2014,14.2,0.0,17.99,Europe
+918,Denmark,2015,10.0,0.0,18.93,Europe
+919,Denmark,2016,12.16,0.0,18.39,Europe
+920,Denmark,2017,9.23,0.0,21.8,Europe
+921,Denmark,2018,9.61,0.0,20.75,Europe
+922,Denmark,2019,6.44,0.0,23.07,Europe
+923,Denmark,2020,5.28,0.0,23.45,Europe
+924,Djibouti,2000,0.18,0.0,0.0,Africa
+925,Djibouti,2001,0.18,0.0,0.0,Africa
+926,Djibouti,2002,0.19,0.0,0.0,Africa
+927,Djibouti,2003,0.19,0.0,0.0,Africa
+928,Djibouti,2004,0.2,0.0,0.0,Africa
+929,Djibouti,2005,0.24,0.0,0.0,Africa
+930,Djibouti,2006,0.26,0.0,0.0,Africa
+931,Djibouti,2007,0.3,0.0,0.0,Africa
+932,Djibouti,2008,0.32,0.0,0.0,Africa
+933,Djibouti,2009,0.33,0.0,0.0,Africa
+934,Djibouti,2010,0.36,0.0,0.0,Africa
+935,Djibouti,2011,0.36,0.0,0.0,Africa
+936,Djibouti,2012,0.37,0.0,0.0,Africa
+937,Djibouti,2013,0.41,0.0,0.0,Africa
+938,Djibouti,2014,0.09,0.0,0.0,Africa
+939,Djibouti,2015,0.17,0.0,0.0,Africa
+940,Djibouti,2016,0.08,0.0,0.0,Africa
+941,Djibouti,2017,0.06,0.0,0.0,Africa
+942,Djibouti,2018,0.05,0.0,0.0,Africa
+943,Djibouti,2019,0.06,0.0,0.0,Africa
+944,Djibouti,2020,0.05,0.0,0.0,Africa
+945,Dominica,2000,0.04,0.0,0.03,North America
+946,Dominica,2001,0.05,0.0,0.03,North America
+947,Dominica,2002,0.04,0.0,0.03,North America
+948,Dominica,2003,0.05,0.0,0.03,North America
+949,Dominica,2004,0.04,0.0,0.03,North America
+950,Dominica,2005,0.05,0.0,0.03,North America
+951,Dominica,2006,0.05,0.0,0.03,North America
+952,Dominica,2007,0.06,0.0,0.02,North America
+953,Dominica,2008,0.06,0.0,0.02,North America
+954,Dominica,2009,0.06,0.0,0.02,North America
+955,Dominica,2010,0.07,0.0,0.02,North America
+956,Dominica,2011,0.06,0.0,0.04,North America
+957,Dominica,2012,0.07,0.0,0.03,North America
+958,Dominica,2013,0.06,0.0,0.04,North America
+959,Dominica,2014,0.07,0.0,0.03,North America
+960,Dominica,2015,0.08,0.0,0.02,North America
+961,Dominica,2016,0.07,0.0,0.04,North America
+962,Dominica,2017,0.05,0.0,0.03,North America
+963,Dominica,2018,0.04,0.0,0.02,North America
+964,Dominica,2019,0.07,0.0,0.02,North America
+965,Dominica,2020,0.12,0.0,0.04,North America
+966,Dominican Republic,2000,7.34,0.0,0.75,North America
+967,Dominican Republic,2001,9.07,0.0,0.7,North America
+968,Dominican Republic,2002,10.98,0.0,0.87,North America
+969,Dominican Republic,2003,11.38,0.0,1.19,North America
+970,Dominican Republic,2004,9.58,0.0,1.6,North America
+971,Dominican Republic,2005,10.14,0.0,1.91,North America
+972,Dominican Republic,2006,11.36,0.0,1.75,North America
+973,Dominican Republic,2007,11.98,0.0,1.7,North America
+974,Dominican Republic,2008,10.34,0.0,1.38,North America
+975,Dominican Republic,2009,10.13,0.0,1.46,North America
+976,Dominican Republic,2010,12.5,0.0,1.48,North America
+977,Dominican Republic,2011,13.33,0.0,1.59,North America
+978,Dominican Republic,2012,13.86,0.0,1.93,North America
+979,Dominican Republic,2013,14.54,0.0,2.19,North America
+980,Dominican Republic,2014,14.63,0.0,1.64,North America
+981,Dominican Republic,2015,15.59,0.0,1.32,North America
+982,Dominican Republic,2016,16.53,0.0,2.14,North America
+983,Dominican Republic,2017,16.07,0.0,2.94,North America
+984,Dominican Republic,2018,16.89,0.0,2.74,North America
+985,Dominican Republic,2019,16.91,0.0,2.36,North America
+986,Dominican Republic,2020,13.74,0.0,2.9,North America
+987,Ecuador,2000,2.82,0.0,7.53,South America
+988,Ecuador,2001,3.74,0.0,7.0,South America
+989,Ecuador,2002,4.1,0.0,7.45,South America
+990,Ecuador,2003,4.11,0.0,7.11,South America
+991,Ecuador,2004,5.59,0.0,7.5,South America
+992,Ecuador,2005,5.09,0.0,7.07,South America
+993,Ecuador,2006,6.17,0.0,7.35,South America
+994,Ecuador,2007,7.33,0.0,9.26,South America
+995,Ecuador,2008,6.68,0.0,11.58,South America
+996,Ecuador,2009,8.36,0.0,9.57,South America
+997,Ecuador,2010,9.77,0.0,9.0,South America
+998,Ecuador,2011,8.47,0.0,11.41,South America
+999,Ecuador,2012,9.57,0.0,12.54,South America
+1000,Ecuador,2013,10.98,0.0,11.46,South America
+1001,Ecuador,2014,11.36,0.0,12.09,South America
+1002,Ecuador,2015,11.34,0.0,13.74,South America
+1003,Ecuador,2016,10.77,0.0,16.37,South America
+1004,Ecuador,2017,7.4,0.0,20.44,South America
+1005,Ecuador,2018,7.97,0.0,21.06,South America
+1006,Ecuador,2019,7.09,0.0,25.2,South America
+1007,Ecuador,2020,6.45,0.0,24.83,South America
+1008,Egypt,2000,60.77,0.0,13.7,Africa
+1009,Egypt,2001,64.17,0.0,15.2,Africa
+1010,Egypt,2002,71.88,0.0,12.93,Africa
+1011,Egypt,2003,77.22,0.0,13.26,Africa
+1012,Egypt,2004,83.17,0.0,13.04,Africa
+1013,Egypt,2005,90.09,0.0,13.07,Africa
+1014,Egypt,2006,96.08,0.0,13.42,Africa
+1015,Egypt,2007,102.6,0.0,16.18,Africa
+1016,Egypt,2008,108.85,0.0,15.44,Africa
+1017,Egypt,2009,117.81,0.0,13.86,Africa
+1018,Egypt,2010,145.66,0.0,14.63,Africa
+1019,Egypt,2011,142.53,0.0,14.55,Africa
+1020,Egypt,2012,150.04,0.0,14.35,Africa
+1021,Egypt,2013,153.57,0.0,14.66,Africa
+1022,Egypt,2014,159.93,0.0,15.36,Africa
+1023,Egypt,2015,170.68,0.0,15.64,Africa
+1024,Egypt,2016,174.07,0.0,15.5,Africa
+1025,Egypt,2017,181.31,0.0,15.53,Africa
+1026,Egypt,2018,182.31,0.0,17.31,Africa
+1027,Egypt,2019,173.86,0.0,20.75,Africa
+1028,Egypt,2020,168.46,0.0,20.83,Africa
+1029,El Salvador,2000,1.7,0.0,2.03,North America
+1030,El Salvador,2001,1.46,0.0,2.33,North America
+1031,El Salvador,2002,1.57,0.0,2.4,North America
+1032,El Salvador,2003,1.46,0.0,2.81,North America
+1033,El Salvador,2004,1.61,0.0,2.73,North America
+1034,El Salvador,2005,1.64,0.0,3.07,North America
+1035,El Salvador,2006,2.11,0.0,3.49,North America
+1036,El Salvador,2007,2.21,0.0,3.51,North America
+1037,El Salvador,2008,2.08,0.0,3.91,North America
+1038,El Salvador,2009,2.38,0.0,3.47,North America
+1039,El Salvador,2010,2.0,0.0,3.97,North America
+1040,El Salvador,2011,1.97,0.0,4.12,North America
+1041,El Salvador,2012,2.08,0.0,4.18,North America
+1042,El Salvador,2013,2.15,0.0,4.12,North America
+1043,El Salvador,2014,2.1,0.0,4.14,North America
+1044,El Salvador,2015,2.44,0.0,3.57,North America
+1045,El Salvador,2016,2.34,0.0,3.68,North America
+1046,El Salvador,2017,1.55,0.0,3.94,North America
+1047,El Salvador,2018,1.38,0.0,3.95,North America
+1048,El Salvador,2019,1.84,0.0,4.15,North America
+1049,El Salvador,2020,1.29,0.0,4.97,North America
+1050,Equatorial Guinea,2000,0.08,0.0,0.01,Africa
+1051,Equatorial Guinea,2001,0.05,0.0,0.01,Africa
+1052,Equatorial Guinea,2002,0.1,0.0,0.01,Africa
+1053,Equatorial Guinea,2003,0.11,0.0,0.01,Africa
+1054,Equatorial Guinea,2004,0.16,0.0,0.01,Africa
+1055,Equatorial Guinea,2005,0.19,0.0,0.01,Africa
+1056,Equatorial Guinea,2006,0.25,0.0,0.01,Africa
+1057,Equatorial Guinea,2007,0.31,0.0,0.01,Africa
+1058,Equatorial Guinea,2008,0.41,0.0,0.05,Africa
+1059,Equatorial Guinea,2009,0.46,0.0,0.05,Africa
+1060,Equatorial Guinea,2010,0.55,0.0,0.03,Africa
+1061,Equatorial Guinea,2011,0.62,0.0,0.03,Africa
+1062,Equatorial Guinea,2012,0.67,0.0,0.08,Africa
+1063,Equatorial Guinea,2013,0.71,0.0,0.25,Africa
+1064,Equatorial Guinea,2014,0.71,0.0,0.38,Africa
+1065,Equatorial Guinea,2015,0.83,0.0,0.47,Africa
+1066,Equatorial Guinea,2016,0.93,0.0,0.47,Africa
+1067,Equatorial Guinea,2017,0.9,0.0,0.44,Africa
+1068,Equatorial Guinea,2018,0.91,0.0,0.44,Africa
+1069,Equatorial Guinea,2019,0.95,0.0,0.45,Africa
+1070,Equatorial Guinea,2020,0.92,0.0,0.49,Africa
+1071,Eritrea,2000,0.2,0.0,0.0,Africa
+1072,Eritrea,2001,0.22,0.0,0.0,Africa
+1073,Eritrea,2002,0.24,0.0,0.0,Africa
+1074,Eritrea,2003,0.26,0.0,0.0,Africa
+1075,Eritrea,2004,0.27,0.0,0.0,Africa
+1076,Eritrea,2005,0.27,0.0,0.0,Africa
+1077,Eritrea,2006,0.25,0.0,0.0,Africa
+1078,Eritrea,2007,0.27,0.0,0.0,Africa
+1079,Eritrea,2008,0.27,0.0,0.0,Africa
+1080,Eritrea,2009,0.28,0.0,0.0,Africa
+1081,Eritrea,2010,0.29,0.0,0.0,Africa
+1082,Eritrea,2011,0.3,0.0,0.0,Africa
+1083,Eritrea,2012,0.31,0.0,0.0,Africa
+1084,Eritrea,2013,0.32,0.0,0.0,Africa
+1085,Eritrea,2014,0.32,0.0,0.0,Africa
+1086,Eritrea,2015,0.33,0.0,0.0,Africa
+1087,Eritrea,2016,0.34,0.0,0.0,Africa
+1088,Eritrea,2017,0.4,0.0,0.01,Africa
+1089,Eritrea,2018,0.42,0.0,0.01,Africa
+1090,Eritrea,2019,0.43,0.0,0.01,Africa
+1091,Eritrea,2020,0.41,0.0,0.01,Africa
+1092,Estonia,2000,8.5,0.0,0.01,Europe
+1093,Estonia,2001,8.47,0.0,0.02,Europe
+1094,Estonia,2002,8.5,0.0,0.03,Europe
+1095,Estonia,2003,10.11,0.0,0.05,Europe
+1096,Estonia,2004,10.25,0.0,0.06,Europe
+1097,Estonia,2005,10.09,0.0,0.11,Europe
+1098,Estonia,2006,9.6,0.0,0.13,Europe
+1099,Estonia,2007,12.04,0.0,0.14,Europe
+1100,Estonia,2008,10.38,0.0,0.2,Europe
+1101,Estonia,2009,8.24,0.0,0.54,Europe
+1102,Estonia,2010,11.92,0.0,1.05,Europe
+1103,Estonia,2011,11.71,0.0,1.18,Europe
+1104,Estonia,2012,10.49,0.0,1.47,Europe
+1105,Estonia,2013,12.05,0.0,1.23,Europe
+1106,Estonia,2014,11.06,0.0,1.39,Europe
+1107,Estonia,2015,8.59,0.0,1.56,Europe
+1108,Estonia,2016,10.58,0.0,1.59,Europe
+1109,Estonia,2017,11.3,0.0,1.86,Europe
+1110,Estonia,2018,10.38,0.0,1.99,Europe
+1111,Estonia,2019,5.47,0.0,2.14,Europe
+1112,Estonia,2020,3.11,0.0,2.97,Europe
+1113,Eswatini,2000,0.06,0.0,0.55,Africa
+1114,Eswatini,2001,0.06,0.0,0.57,Africa
+1115,Eswatini,2002,0.06,0.0,0.59,Africa
+1116,Eswatini,2003,0.06,0.0,0.5,Africa
+1117,Eswatini,2004,0.06,0.0,0.47,Africa
+1118,Eswatini,2005,0.06,0.0,0.54,Africa
+1119,Eswatini,2006,0.06,0.0,0.54,Africa
+1120,Eswatini,2007,0.06,0.0,0.57,Africa
+1121,Eswatini,2008,0.06,0.0,0.54,Africa
+1122,Eswatini,2009,0.06,0.0,0.57,Africa
+1123,Eswatini,2010,0.06,0.0,0.58,Africa
+1124,Eswatini,2011,0.03,0.0,0.68,Africa
+1125,Eswatini,2012,0.04,0.0,0.7,Africa
+1126,Eswatini,2013,0.04,0.0,0.77,Africa
+1127,Eswatini,2014,0.04,0.0,0.61,Africa
+1128,Eswatini,2015,0.04,0.0,0.51,Africa
+1129,Eswatini,2016,0.04,0.0,0.52,Africa
+1130,Eswatini,2017,0.04,0.0,0.63,Africa
+1131,Eswatini,2018,0.04,0.0,0.71,Africa
+1132,Eswatini,2019,0.04,0.0,0.67,Africa
+1133,Eswatini,2020,0.04,0.0,0.7,Africa
+1134,Ethiopia,2000,0.06,0.0,1.64,Africa
+1135,Ethiopia,2001,0.06,0.0,1.98,Africa
+1136,Ethiopia,2002,0.06,0.0,2.01,Africa
+1137,Ethiopia,2003,0.06,0.0,2.27,Africa
+1138,Ethiopia,2004,0.06,0.0,2.51,Africa
+1139,Ethiopia,2005,0.06,0.0,2.82,Africa
+1140,Ethiopia,2006,0.06,0.0,3.24,Africa
+1141,Ethiopia,2007,0.17,0.0,3.37,Africa
+1142,Ethiopia,2008,0.44,0.0,3.31,Africa
+1143,Ethiopia,2009,0.42,0.0,3.55,Africa
+1144,Ethiopia,2010,0.08,0.0,4.91,Africa
+1145,Ethiopia,2011,0.07,0.0,6.25,Africa
+1146,Ethiopia,2012,0.04,0.0,7.51,Africa
+1147,Ethiopia,2013,0.03,0.0,8.64,Africa
+1148,Ethiopia,2014,0.02,0.0,9.45,Africa
+1149,Ethiopia,2015,0.02,0.0,10.37,Africa
+1150,Ethiopia,2016,0.01,0.0,12.46,Africa
+1151,Ethiopia,2017,0.01,0.0,13.12,Africa
+1152,Ethiopia,2018,0.01,0.0,13.78,Africa
+1153,Ethiopia,2019,0.01,0.0,14.22,Africa
+1154,Ethiopia,2020,0.01,0.0,14.22,Africa
+1155,Fiji,2000,0.18,0.0,0.44,Oceania
+1156,Fiji,2001,0.17,0.0,0.5,Oceania
+1157,Fiji,2002,0.21,0.0,0.5,Oceania
+1158,Fiji,2003,0.31,0.0,0.41,Oceania
+1159,Fiji,2004,0.31,0.0,0.44,Oceania
+1160,Fiji,2005,0.37,0.0,0.42,Oceania
+1161,Fiji,2006,0.39,0.0,0.45,Oceania
+1162,Fiji,2007,0.27,0.0,0.6,Oceania
+1163,Fiji,2008,0.26,0.0,0.62,Oceania
+1164,Fiji,2009,0.28,0.0,0.58,Oceania
+1165,Fiji,2010,0.35,0.0,0.55,Oceania
+1166,Fiji,2011,0.3,0.0,0.56,Oceania
+1167,Fiji,2012,0.24,0.0,0.62,Oceania
+1168,Fiji,2013,0.27,0.0,0.61,Oceania
+1169,Fiji,2014,0.38,0.0,0.53,Oceania
+1170,Fiji,2015,0.43,0.0,0.53,Oceania
+1171,Fiji,2016,0.36,0.0,0.6,Oceania
+1172,Fiji,2017,0.41,0.0,0.64,Oceania
+1173,Fiji,2018,0.38,0.0,0.71,Oceania
+1174,Fiji,2019,0.42,0.0,0.71,Oceania
+1175,Fiji,2020,0.4,0.0,0.7,Oceania
+1176,Finland,2000,23.93,22.48,23.38,Europe
+1177,Finland,2001,29.98,22.77,21.54,Europe
+1178,Finland,2002,32.6,22.3,19.83,Europe
+1179,Finland,2003,42.29,22.73,19.06,Europe
+1180,Finland,2004,37.25,22.72,25.63,Europe
+1181,Finland,2005,23.6,23.27,23.46,Europe
+1182,Finland,2006,36.68,22.91,22.46,Europe
+1183,Finland,2007,33.18,23.42,24.32,Europe
+1184,Finland,2008,26.25,22.96,27.77,Europe
+1185,Finland,2009,26.55,23.53,21.7,Europe
+1186,Finland,2010,33.36,22.8,24.18,Europe
+1187,Finland,2011,25.84,23.19,24.18,Europe
+1188,Finland,2012,18.54,22.99,28.56,Europe
+1189,Finland,2013,21.74,23.61,25.63,Europe
+1190,Finland,2014,17.95,23.58,26.28,Europe
+1191,Finland,2015,14.58,23.25,30.53,Europe
+1192,Finland,2016,14.87,23.2,30.41,Europe
+1193,Finland,2017,13.17,22.48,31.48,Europe
+1194,Finland,2018,15.05,22.79,32.14,Europe
+1195,Finland,2019,12.63,23.87,31.88,Europe
+1196,Finland,2020,9.82,23.29,35.93,Europe
+1197,France,2000,50.61,415.16,67.83,Europe
+1198,France,2001,46.48,421.08,76.09,Europe
+1199,France,2002,52.67,436.76,62.69,Europe
+1200,France,2003,57.38,441.07,61.47,Europe
+1201,France,2004,56.53,448.24,62.42,Europe
+1202,France,2005,63.35,451.53,54.98,Europe
+1203,France,2006,56.9,450.19,60.91,Europe
+1204,France,2007,58.18,439.73,64.3,Europe
+1205,France,2008,55.57,439.45,72.33,Europe
+1206,France,2009,51.32,409.74,68.15,Europe
+1207,France,2010,57.63,428.52,76.68,Europe
+1208,France,2011,58.99,442.39,66.02,Europe
+1209,France,2012,56.42,425.41,85.25,Europe
+1210,France,2013,53.35,423.68,99.42,Europe
+1211,France,2014,35.68,436.48,94.03,Europe
+1212,France,2015,44.65,437.43,91.84,Europe
+1213,France,2016,56.45,403.2,99.0,Europe
+1214,France,2017,65.09,398.36,92.63,Europe
+1215,France,2018,49.27,412.94,113.62,Europe
+1216,France,2019,53.5,399.01,113.21,Europe
+1217,France,2020,48.14,353.83,125.28,Europe
+1218,French Guiana,2000,0.43,0.0,0.0,South America
+1219,Gabon,2000,0.48,0.0,0.8,Africa
+1220,Gabon,2001,0.48,0.0,0.87,Africa
+1221,Gabon,2002,0.51,0.0,0.91,Africa
+1222,Gabon,2003,0.57,0.0,0.89,Africa
+1223,Gabon,2004,0.6,0.0,0.88,Africa
+1224,Gabon,2005,0.71,0.0,0.8,Africa
+1225,Gabon,2006,0.67,0.0,0.94,Africa
+1226,Gabon,2007,0.89,0.0,0.79,Africa
+1227,Gabon,2008,0.89,0.0,0.88,Africa
+1228,Gabon,2009,0.87,0.0,0.94,Africa
+1229,Gabon,2010,0.97,0.0,0.9,Africa
+1230,Gabon,2011,1.13,0.0,0.83,Africa
+1231,Gabon,2012,1.18,0.0,0.9,Africa
+1232,Gabon,2013,1.09,0.0,0.93,Africa
+1233,Gabon,2014,1.13,0.0,0.79,Africa
+1234,Gabon,2015,1.12,0.0,0.93,Africa
+1235,Gabon,2016,1.28,0.0,0.96,Africa
+1236,Gabon,2017,1.25,0.0,0.94,Africa
+1237,Gabon,2018,1.26,0.0,0.91,Africa
+1238,Gabon,2019,1.25,0.0,1.01,Africa
+1239,Gabon,2020,1.19,0.0,1.01,Africa
+1240,Gambia,2000,0.11,0.0,0.0,Africa
+1241,Gambia,2001,0.13,0.0,0.0,Africa
+1242,Gambia,2002,0.14,0.0,0.0,Africa
+1243,Gambia,2003,0.16,0.0,0.0,Africa
+1244,Gambia,2004,0.17,0.0,0.0,Africa
+1245,Gambia,2005,0.19,0.0,0.0,Africa
+1246,Gambia,2006,0.2,0.0,0.0,Africa
+1247,Gambia,2007,0.22,0.0,0.0,Africa
+1248,Gambia,2008,0.23,0.0,0.0,Africa
+1249,Gambia,2009,0.23,0.0,0.0,Africa
+1250,Gambia,2010,0.23,0.0,0.0,Africa
+1251,Gambia,2011,0.24,0.0,0.0,Africa
+1252,Gambia,2012,0.25,0.0,0.0,Africa
+1253,Gambia,2013,0.25,0.0,0.0,Africa
+1254,Gambia,2014,0.26,0.0,0.0,Africa
+1255,Gambia,2015,0.28,0.0,0.0,Africa
+1256,Gambia,2016,0.29,0.0,0.0,Africa
+1257,Gambia,2017,0.3,0.0,0.0,Africa
+1258,Gambia,2018,0.31,0.0,0.0,Africa
+1259,Gambia,2019,0.3,0.0,0.0,Africa
+1260,Gambia,2020,0.29,0.0,0.0,Africa
+1261,Georgia,2000,1.47,0.0,5.8,Asia
+1262,Georgia,2001,1.31,0.0,5.49,Asia
+1263,Georgia,2002,0.46,0.0,6.7,Asia
+1264,Georgia,2003,0.6,0.0,6.46,Asia
+1265,Georgia,2004,0.82,0.0,5.99,Asia
+1266,Georgia,2005,0.97,0.0,6.17,Asia
+1267,Georgia,2006,1.85,0.0,5.26,Asia
+1268,Georgia,2007,1.42,0.0,6.75,Asia
+1269,Georgia,2008,1.21,0.0,7.09,Asia
+1270,Georgia,2009,1.08,0.0,7.34,Asia
+1271,Georgia,2010,0.71,0.0,9.27,Asia
+1272,Georgia,2011,2.17,0.0,7.81,Asia
+1273,Georgia,2012,2.32,0.0,7.15,Asia
+1274,Georgia,2013,1.68,0.0,8.19,Asia
+1275,Georgia,2014,1.91,0.0,8.25,Asia
+1276,Georgia,2015,2.24,0.0,8.37,Asia
+1277,Georgia,2016,2.1,0.0,9.25,Asia
+1278,Georgia,2017,2.1,0.0,9.21,Asia
+1279,Georgia,2018,1.99,0.0,9.93,Asia
+1280,Georgia,2019,2.67,0.0,8.93,Asia
+1281,Georgia,2020,2.82,0.0,8.34,Asia
+1282,Germany,2000,367.22,169.61,35.47,Europe
+1283,Germany,2001,372.69,171.3,37.9,Europe
+1284,Germany,2002,372.64,164.84,44.48,Europe
+1285,Germany,2003,390.81,165.06,46.67,Europe
+1286,Germany,2004,385.24,167.07,57.97,Europe
+1287,Germany,2005,386.96,163.05,63.4,Europe
+1288,Germany,2006,390.03,167.27,72.51,Europe
+1289,Germany,2007,402.4,140.53,89.38,Europe
+1290,Germany,2008,390.43,148.49,94.28,Europe
+1291,Germany,2009,358.07,134.93,95.94,Europe
+1292,Germany,2010,378.9,140.56,105.18,Europe
+1293,Germany,2011,373.16,107.97,124.04,Europe
+1294,Germany,2012,377.89,99.46,143.04,Europe
+1295,Germany,2013,381.52,97.29,152.34,Europe
+1296,Germany,2014,360.28,97.13,162.54,Europe
+1297,Germany,2015,359.99,91.79,188.79,Europe
+1298,Germany,2016,368.67,84.63,189.67,Europe
+1299,Germany,2017,353.37,76.32,216.32,Europe
+1300,Germany,2018,334.65,76.0,222.07,Europe
+1301,Germany,2019,284.09,75.07,240.33,Europe
+1302,Germany,2020,251.4,64.38,251.48,Europe
+1303,Ghana,2000,0.58,0.0,6.55,Africa
+1304,Ghana,2001,1.18,0.0,6.55,Africa
+1305,Ghana,2002,2.1,0.0,5.01,Africa
+1306,Ghana,2003,1.86,0.0,3.87,Africa
+1307,Ghana,2004,0.64,0.0,5.24,Africa
+1308,Ghana,2005,1.1,0.0,5.58,Africa
+1309,Ghana,2006,2.64,0.0,5.58,Africa
+1310,Ghana,2007,3.06,0.0,3.71,Africa
+1311,Ghana,2008,2.0,0.0,6.14,Africa
+1312,Ghana,2009,1.96,0.0,6.82,Africa
+1313,Ghana,2010,2.98,0.0,6.95,Africa
+1314,Ghana,2011,3.42,0.0,7.51,Africa
+1315,Ghana,2012,3.71,0.0,8.01,Africa
+1316,Ghana,2013,4.36,0.0,8.17,Africa
+1317,Ghana,2014,4.31,0.0,8.32,Africa
+1318,Ghana,2015,5.36,0.0,5.81,Africa
+1319,Ghana,2016,5.84,0.0,5.56,Africa
+1320,Ghana,2017,7.17,0.0,5.67,Africa
+1321,Ghana,2018,8.3,0.0,6.07,Africa
+1322,Ghana,2019,9.37,0.0,7.32,Africa
+1323,Ghana,2020,12.82,0.0,7.38,Africa
+1324,Greece,2000,49.28,0.0,4.14,Europe
+1325,Greece,2001,50.14,0.0,2.94,Europe
+1326,Greece,2002,50.37,0.0,3.58,Europe
+1327,Greece,2003,52.01,0.0,5.89,Europe
+1328,Greece,2004,52.89,0.0,5.91,Europe
+1329,Greece,2005,53.02,0.0,6.41,Europe
+1330,Greece,2006,52.5,0.0,7.67,Europe
+1331,Greece,2007,58.12,0.0,4.59,Europe
+1332,Greece,2008,57.17,0.0,5.75,Europe
+1333,Greece,2009,52.91,0.0,8.16,Europe
+1334,Greece,2010,46.85,0.0,10.53,Europe
+1335,Greece,2011,51.04,0.0,8.15,Europe
+1336,Greece,2012,50.62,0.0,10.13,Europe
+1337,Greece,2013,42.76,0.0,14.36,Europe
+1338,Greece,2014,38.17,0.0,12.18,Europe
+1339,Greece,2015,36.98,0.0,14.85,Europe
+1340,Greece,2016,39.52,0.0,14.89,Europe
+1341,Greece,2017,41.38,0.0,13.8,Europe
+1342,Greece,2018,37.11,0.0,16.14,Europe
+1343,Greece,2019,32.48,0.0,16.1,Europe
+1344,Greece,2020,30.61,0.0,17.55,Europe
+1345,Grenada,2000,0.13,0.0,0.0,North America
+1346,Grenada,2001,0.14,0.0,0.0,North America
+1347,Grenada,2002,0.15,0.0,0.0,North America
+1348,Grenada,2003,0.16,0.0,0.0,North America
+1349,Grenada,2004,0.15,0.0,0.0,North America
+1350,Grenada,2005,0.15,0.0,0.0,North America
+1351,Grenada,2006,0.17,0.0,0.0,North America
+1352,Grenada,2007,0.18,0.0,0.0,North America
+1353,Grenada,2008,0.19,0.0,0.0,North America
+1354,Grenada,2009,0.2,0.0,0.0,North America
+1355,Grenada,2010,0.2,0.0,0.0,North America
+1356,Grenada,2011,0.2,0.0,0.0,North America
+1357,Grenada,2012,0.19,0.0,0.0,North America
+1358,Grenada,2013,0.19,0.0,0.0,North America
+1359,Grenada,2014,0.19,0.0,0.0,North America
+1360,Grenada,2015,0.19,0.0,0.0,North America
+1361,Grenada,2016,0.2,0.0,0.0,North America
+1362,Grenada,2017,0.21,0.0,0.0,North America
+1363,Grenada,2018,0.21,0.0,0.0,North America
+1364,Grenada,2019,0.21,0.0,0.0,North America
+1365,Grenada,2020,0.2,0.0,0.0,North America
+1366,Guatemala,2000,2.84,0.0,3.19,North America
+1367,Guatemala,2001,2.83,0.0,3.0,North America
+1368,Guatemala,2002,3.35,0.0,2.79,North America
+1369,Guatemala,2003,4.1,0.0,3.55,North America
+1370,Guatemala,2004,3.45,0.0,3.29,North America
+1371,Guatemala,2005,4.31,0.0,3.99,North America
+1372,Guatemala,2006,3.68,0.0,4.61,North America
+1373,Guatemala,2007,4.44,0.0,4.58,North America
+1374,Guatemala,2008,3.39,0.0,5.05,North America
+1375,Guatemala,2009,4.04,0.0,4.5,North America
+1376,Guatemala,2010,2.96,0.0,5.03,North America
+1377,Guatemala,2011,3.02,0.0,5.26,North America
+1378,Guatemala,2012,3.38,0.0,5.94,North America
+1379,Guatemala,2013,3.63,0.0,6.44,North America
+1380,Guatemala,2014,3.83,0.0,6.86,North America
+1381,Guatemala,2015,4.72,0.0,6.71,North America
+1382,Guatemala,2016,4.88,0.0,7.16,North America
+1383,Guatemala,2017,3.92,0.0,8.76,North America
+1384,Guatemala,2018,5.08,0.0,9.04,North America
+1385,Guatemala,2019,5.51,0.0,8.3,North America
+1386,Guatemala,2020,4.41,0.0,9.01,North America
+1387,Guinea,2000,0.34,0.0,0.41,Africa
+1388,Guinea,2001,0.39,0.0,0.55,Africa
+1389,Guinea,2002,0.4,0.0,0.59,Africa
+1390,Guinea,2003,0.47,0.0,0.4,Africa
+1391,Guinea,2004,0.39,0.0,0.55,Africa
+1392,Guinea,2005,0.39,0.0,0.49,Africa
+1393,Guinea,2006,0.39,0.0,0.46,Africa
+1394,Guinea,2007,0.41,0.0,0.53,Africa
+1395,Guinea,2008,0.44,0.0,0.52,Africa
+1396,Guinea,2009,0.44,0.0,0.52,Africa
+1397,Guinea,2010,0.44,0.0,0.48,Africa
+1398,Guinea,2011,0.44,0.0,0.41,Africa
+1399,Guinea,2012,0.22,0.0,0.49,Africa
+1400,Guinea,2013,0.16,0.0,0.48,Africa
+1401,Guinea,2014,0.27,0.0,0.42,Africa
+1402,Guinea,2015,0.24,0.0,0.9,Africa
+1403,Guinea,2016,0.51,0.0,1.1,Africa
+1404,Guinea,2017,0.54,0.0,1.23,Africa
+1405,Guinea,2018,0.73,0.0,0.76,Africa
+1406,Guinea,2019,0.75,0.0,1.31,Africa
+1407,Guinea,2020,0.71,0.0,2.49,Africa
+1408,Guinea-Bissau,2000,0.03,0.0,0.0,Africa
+1409,Guinea-Bissau,2001,0.03,0.0,0.0,Africa
+1410,Guinea-Bissau,2002,0.02,0.0,0.0,Africa
+1411,Guinea-Bissau,2003,0.02,0.0,0.0,Africa
+1412,Guinea-Bissau,2004,0.03,0.0,0.0,Africa
+1413,Guinea-Bissau,2005,0.03,0.0,0.0,Africa
+1414,Guinea-Bissau,2006,0.03,0.0,0.0,Africa
+1415,Guinea-Bissau,2007,0.03,0.0,0.0,Africa
+1416,Guinea-Bissau,2008,0.03,0.0,0.0,Africa
+1417,Guinea-Bissau,2009,0.03,0.0,0.0,Africa
+1418,Guinea-Bissau,2010,0.03,0.0,0.0,Africa
+1419,Guinea-Bissau,2011,0.03,0.0,0.0,Africa
+1420,Guinea-Bissau,2012,0.03,0.0,0.0,Africa
+1421,Guinea-Bissau,2013,0.03,0.0,0.0,Africa
+1422,Guinea-Bissau,2014,0.03,0.0,0.0,Africa
+1423,Guinea-Bissau,2015,0.06,0.0,0.0,Africa
+1424,Guinea-Bissau,2016,0.08,0.0,0.0,Africa
+1425,Guinea-Bissau,2017,0.08,0.0,0.0,Africa
+1426,Guinea-Bissau,2018,0.08,0.0,0.0,Africa
+1427,Guinea-Bissau,2019,0.08,0.0,0.0,Africa
+1428,Guinea-Bissau,2020,0.08,0.0,0.0,Africa
+1429,Guyana,2000,0.82,0.0,0.06,South America
+1430,Guyana,2001,0.85,0.0,0.06,South America
+1431,Guyana,2002,0.85,0.0,0.06,South America
+1432,Guyana,2003,0.77,0.0,0.05,South America
+1433,Guyana,2004,0.8,0.0,0.06,South America
+1434,Guyana,2005,0.6,0.0,0.05,South America
+1435,Guyana,2006,0.62,0.0,0.05,South America
+1436,Guyana,2007,0.65,0.0,0.05,South America
+1437,Guyana,2008,0.66,0.0,0.05,South America
+1438,Guyana,2009,0.61,0.0,0.11,South America
+1439,Guyana,2010,0.73,0.0,0.13,South America
+1440,Guyana,2011,0.77,0.0,0.14,South America
+1441,Guyana,2012,0.81,0.0,0.14,South America
+1442,Guyana,2013,0.85,0.0,0.14,South America
+1443,Guyana,2014,0.85,0.0,0.15,South America
+1444,Guyana,2015,0.88,0.0,0.16,South America
+1445,Guyana,2016,0.95,0.0,0.15,South America
+1446,Guyana,2017,0.99,0.0,0.15,South America
+1447,Guyana,2018,1.0,0.0,0.16,South America
+1448,Guyana,2019,1.06,0.0,0.16,South America
+1449,Guyana,2020,1.01,0.0,0.15,South America
+1450,Haiti,2000,0.25,0.0,0.28,North America
+1451,Haiti,2001,0.29,0.0,0.28,North America
+1452,Haiti,2002,0.27,0.0,0.26,North America
+1453,Haiti,2003,0.26,0.0,0.25,North America
+1454,Haiti,2004,0.27,0.0,0.26,North America
+1455,Haiti,2005,0.27,0.0,0.26,North America
+1456,Haiti,2006,0.28,0.0,0.27,North America
+1457,Haiti,2007,0.3,0.0,0.15,North America
+1458,Haiti,2008,0.29,0.0,0.18,North America
+1459,Haiti,2009,0.48,0.0,0.2,North America
+1460,Haiti,2010,0.39,0.0,0.17,North America
+1461,Haiti,2011,0.53,0.0,0.12,North America
+1462,Haiti,2012,0.83,0.0,0.22,North America
+1463,Haiti,2013,0.86,0.0,0.14,North America
+1464,Haiti,2014,0.89,0.0,0.09,North America
+1465,Haiti,2015,0.9,0.0,0.08,North America
+1466,Haiti,2016,0.95,0.0,0.07,North America
+1467,Haiti,2017,0.87,0.0,0.13,North America
+1468,Haiti,2018,0.8,0.0,0.2,North America
+1469,Haiti,2019,0.85,0.0,0.17,North America
+1470,Haiti,2020,0.81,0.0,0.11,North America
+1471,Honduras,2000,1.3,0.0,2.24,North America
+1472,Honduras,2001,1.86,0.0,1.89,North America
+1473,Honduras,2002,2.3,0.0,1.63,North America
+1474,Honduras,2003,2.54,0.0,1.81,North America
+1475,Honduras,2004,3.12,0.0,1.54,North America
+1476,Honduras,2005,3.48,0.0,1.92,North America
+1477,Honduras,2006,3.48,0.0,2.26,North America
+1478,Honduras,2007,3.61,0.0,2.44,North America
+1479,Honduras,2008,3.71,0.0,2.57,North America
+1480,Honduras,2009,3.31,0.0,3.07,North America
+1481,Honduras,2010,3.18,0.0,3.34,North America
+1482,Honduras,2011,3.6,0.0,3.4,North America
+1483,Honduras,2012,3.94,0.0,3.55,North America
+1484,Honduras,2013,4.15,0.0,3.57,North America
+1485,Honduras,2014,4.76,0.0,3.61,North America
+1486,Honduras,2015,5.11,0.0,4.28,North America
+1487,Honduras,2016,4.77,0.0,4.79,North America
+1488,Honduras,2017,4.19,0.0,5.41,North America
+1489,Honduras,2018,3.8,0.0,6.11,North America
+1490,Honduras,2019,5.39,0.0,5.73,North America
+1491,Honduras,2020,5.46,0.0,5.85,North America
+1492,Hungary,2000,20.77,14.18,0.24,Europe
+1493,Hungary,2001,22.03,14.13,0.26,Europe
+1494,Hungary,2002,21.97,13.95,0.23,Europe
+1495,Hungary,2003,22.79,11.01,0.33,Europe
+1496,Hungary,2004,20.86,11.91,0.94,Europe
+1497,Hungary,2005,20.05,13.83,1.87,Europe
+1498,Hungary,2006,20.9,13.46,1.49,Europe
+1499,Hungary,2007,23.4,14.68,1.88,Europe
+1500,Hungary,2008,22.85,14.82,2.35,Europe
+1501,Hungary,2009,17.59,15.43,2.89,Europe
+1502,Hungary,2010,18.59,15.76,3.02,Europe
+1503,Hungary,2011,17.62,15.69,2.71,Europe
+1504,Hungary,2012,16.19,15.79,2.64,Europe
+1505,Hungary,2013,12.1,15.37,2.78,Europe
+1506,Hungary,2014,10.54,15.65,3.16,Europe
+1507,Hungary,2015,11.24,15.83,3.22,Europe
+1508,Hungary,2016,12.51,16.05,3.25,Europe
+1509,Hungary,2017,13.25,16.1,3.48,Europe
+1510,Hungary,2018,12.43,15.73,3.77,Europe
+1511,Hungary,2019,13.2,16.29,4.7,Europe
+1512,Hungary,2020,13.2,16.06,5.52,Europe
+1513,Iceland,2000,0.0,0.0,7.61,Europe
+1514,Iceland,2001,0.0,0.0,7.96,Europe
+1515,Iceland,2002,0.01,0.0,8.34,Europe
+1516,Iceland,2003,0.01,0.0,8.43,Europe
+1517,Iceland,2004,0.01,0.0,8.54,Europe
+1518,Iceland,2005,0.01,0.0,8.61,Europe
+1519,Iceland,2006,0.01,0.0,9.85,Europe
+1520,Iceland,2007,0.0,0.0,11.89,Europe
+1521,Iceland,2008,0.0,0.0,16.34,Europe
+1522,Iceland,2009,0.0,0.0,16.71,Europe
+1523,Iceland,2010,0.0,0.0,16.74,Europe
+1524,Iceland,2011,0.0,0.0,16.85,Europe
+1525,Iceland,2012,0.0,0.0,17.29,Europe
+1526,Iceland,2013,0.0,0.0,17.99,Europe
+1527,Iceland,2014,0.0,0.0,17.8,Europe
+1528,Iceland,2015,0.0,0.0,18.55,Europe
+1529,Iceland,2016,0.0,0.0,18.17,Europe
+1530,Iceland,2017,0.0,0.0,18.84,Europe
+1531,Iceland,2018,0.0,0.0,19.43,Europe
+1532,Iceland,2019,0.0,0.0,19.12,Europe
+1533,Iceland,2020,0.0,0.0,18.78,Europe
+1534,India,2000,475.35,15.77,80.27,Asia
+1535,India,2001,491.01,18.89,76.19,Asia
+1536,India,2002,517.51,19.35,72.78,Asia
+1537,India,2003,545.36,18.14,74.63,Asia
+1538,India,2004,567.86,21.26,109.2,Asia
+1539,India,2005,579.32,17.73,107.47,Asia
+1540,India,2006,599.24,17.63,127.56,Asia
+1541,India,2007,636.68,17.83,141.75,Asia
+1542,India,2008,674.27,15.23,138.91,Asia
+1543,India,2009,728.56,16.82,134.33,Asia
+1544,India,2010,771.78,23.08,142.61,Asia
+1545,India,2011,828.16,32.22,173.62,Asia
+1546,India,2012,893.45,33.14,165.25,Asia
+1547,India,2013,924.93,33.31,187.9,Asia
+1548,India,2014,1025.29,34.69,202.04,Asia
+1549,India,2015,1080.44,38.31,203.21,Asia
+1550,India,2016,1155.52,37.9,208.21,Asia
+1551,India,2017,1198.85,37.41,234.9,Asia
+1552,India,2018,1276.32,39.05,263.61,Asia
+1553,India,2019,1273.59,45.16,303.16,Asia
+1554,India,2020,1202.34,44.61,315.76,Asia
+1576,Iraq,2000,29.41,0.0,0.61,Asia
+1577,Iraq,2001,29.74,0.0,0.61,Asia
+1578,Iraq,2002,31.34,0.0,0.51,Asia
+1579,Iraq,2003,26.23,0.0,0.43,Asia
+1580,Iraq,2004,29.89,0.0,0.49,Asia
+1581,Iraq,2005,22.94,0.0,5.94,Asia
+1582,Iraq,2006,26.07,0.0,6.04,Asia
+1583,Iraq,2007,25.85,0.0,5.68,Asia
+1584,Iraq,2008,31.35,0.0,3.45,Asia
+1585,Iraq,2009,39.83,0.0,3.19,Asia
+1586,Iraq,2010,41.49,0.0,4.72,Asia
+1587,Iraq,2011,47.48,0.0,3.36,Asia
+1588,Iraq,2012,39.13,0.0,4.35,Asia
+1589,Iraq,2013,50.45,0.0,4.76,Asia
+1590,Iraq,2014,60.94,0.0,2.96,Asia
+1591,Iraq,2015,62.17,0.0,2.58,Asia
+1592,Iraq,2016,72.06,0.0,3.4,Asia
+1593,Iraq,2017,80.07,0.0,2.21,Asia
+1594,Iraq,2018,80.93,0.0,2.18,Asia
+1595,Iraq,2019,83.85,0.0,5.34,Asia
+1596,Iraq,2020,86.45,0.0,5.3,Asia
+1597,Ireland,2000,22.49,0.0,1.18,Europe
+1598,Ireland,2001,23.61,0.0,1.03,Europe
+1599,Ireland,2002,23.46,0.0,1.38,Europe
+1600,Ireland,2003,23.72,0.0,1.14,Europe
+1601,Ireland,2004,23.83,0.0,1.39,Europe
+1602,Ireland,2005,23.75,0.0,1.87,Europe
+1603,Ireland,2006,24.64,0.0,2.47,Europe
+1604,Ireland,2007,25.56,0.0,2.81,Europe
+1605,Ireland,2008,26.32,0.0,3.6,Europe
+1606,Ireland,2009,23.85,0.0,4.12,Europe
+1607,Ireland,2010,24.44,0.0,3.72,Europe
+1608,Ireland,2011,21.73,0.0,5.43,Europe
+1609,Ireland,2012,21.88,0.0,5.25,Europe
+1610,Ireland,2013,19.94,0.0,5.63,Europe
+1611,Ireland,2014,19.42,0.0,6.39,Europe
+1612,Ireland,2015,20.24,0.0,7.86,Europe
+1613,Ireland,2016,22.71,0.0,7.52,Europe
+1614,Ireland,2017,21.78,0.0,8.88,Europe
+1615,Ireland,2018,20.7,0.0,10.2,Europe
+1616,Ireland,2019,18.92,0.0,11.8,Europe
+1617,Ireland,2020,18.51,0.0,13.46,Europe
+1618,Israel,2000,40.07,0.0,0.03,Asia
+1619,Israel,2001,41.3,0.0,0.02,Asia
+1620,Israel,2002,42.74,0.0,0.03,Asia
+1621,Israel,2003,44.18,0.0,0.04,Asia
+1622,Israel,2004,44.41,0.0,0.04,Asia
+1623,Israel,2005,45.65,0.0,0.04,Asia
+1624,Israel,2006,47.5,0.0,0.02,Asia
+1625,Israel,2007,50.53,0.0,0.03,Asia
+1626,Israel,2008,53.34,0.0,0.04,Asia
+1627,Israel,2009,54.67,0.0,0.07,Asia
+1628,Israel,2010,58.41,0.0,0.14,Asia
+1629,Israel,2011,59.34,0.0,0.26,Asia
+1630,Israel,2012,62.57,0.0,0.44,Asia
+1631,Israel,2013,60.76,0.0,0.58,Asia
+1632,Israel,2014,59.9,0.0,0.96,Asia
+1633,Israel,2015,62.99,0.0,1.25,Asia
+1634,Israel,2016,65.34,0.0,1.69,Asia
+1635,Israel,2017,65.81,0.0,1.79,Asia
+1636,Israel,2018,67.02,0.0,1.85,Asia
+1637,Israel,2019,68.82,0.0,2.9,Asia
+1638,Israel,2020,67.75,0.0,3.86,Asia
+1639,Italy,2000,218.28,0.0,50.87,Europe
+1640,Italy,2001,216.73,0.0,54.35,Europe
+1641,Italy,2002,228.45,0.0,48.31,Europe
+1642,Italy,2003,238.52,0.0,46.86,Europe
+1643,Italy,2004,240.95,0.0,53.88,Europe
+1644,Italy,2005,247.29,0.0,48.43,Europe
+1645,Italy,2006,256.03,0.0,50.64,Europe
+1646,Italy,2007,259.49,0.0,47.72,Europe
+1647,Italy,2008,254.34,0.0,58.16,Europe
+1648,Italy,2009,218.32,0.0,69.26,Europe
+1649,Italy,2010,220.93,0.0,76.98,Europe
+1650,Italy,2011,216.78,0.0,82.96,Europe
+1651,Italy,2012,204.26,0.0,92.22,Europe
+1652,Italy,2013,175.07,0.0,112.0,Europe
+1653,Italy,2014,156.76,0.0,120.68,Europe
+1654,Italy,2015,172.06,0.0,108.89,Europe
+1655,Italy,2016,179.19,0.0,108.01,Europe
+1656,Italy,2017,189.44,0.0,103.89,Europe
+1657,Italy,2018,172.98,0.0,114.41,Europe
+1658,Italy,2019,175.52,0.0,115.83,Europe
+1659,Italy,2020,161.17,0.0,116.9,Europe
+1660,Jamaica,2000,5.76,0.0,0.46,North America
+1661,Jamaica,2001,5.85,0.0,0.41,North America
+1662,Jamaica,2002,6.07,0.0,0.46,North America
+1663,Jamaica,2003,6.23,0.0,0.5,North America
+1664,Jamaica,2004,6.25,0.0,0.54,North America
+1665,Jamaica,2005,6.4,0.0,0.59,North America
+1666,Jamaica,2006,6.43,0.0,0.6,North America
+1667,Jamaica,2007,5.09,0.0,0.52,North America
+1668,Jamaica,2008,3.57,0.0,0.43,North America
+1669,Jamaica,2009,3.64,0.0,0.42,North America
+1670,Jamaica,2010,3.55,0.0,0.41,North America
+1671,Jamaica,2011,3.56,0.0,0.45,North America
+1672,Jamaica,2012,3.46,0.0,0.47,North America
+1673,Jamaica,2013,3.5,0.0,0.43,North America
+1674,Jamaica,2014,3.45,0.0,0.46,North America
+1675,Jamaica,2015,3.45,0.0,0.46,North America
+1676,Jamaica,2016,3.63,0.0,0.5,North America
+1677,Jamaica,2017,3.5,0.0,0.6,North America
+1678,Jamaica,2018,3.48,0.0,0.69,North America
+1679,Jamaica,2019,3.6,0.0,0.65,North America
+1680,Jamaica,2020,3.43,0.0,0.64,North America
+1681,Japan,2000,578.29,305.95,104.16,Asia
+1682,Japan,2001,564.95,303.86,101.36,Asia
+1683,Japan,2002,605.12,280.34,101.1,Asia
+1684,Japan,2003,633.76,228.01,114.18,Asia
+1685,Japan,2004,621.6,268.32,114.73,Asia
+1686,Japan,2005,634.09,280.5,100.57,Asia
+1687,Japan,2006,628.77,291.54,112.07,Asia
+1688,Japan,2007,705.37,267.34,100.8,Asia
+1689,Japan,2008,663.88,241.25,100.79,Asia
+1690,Japan,2009,611.86,263.05,102.28,Asia
+1691,Japan,2010,689.89,278.36,113.92,Asia
+1692,Japan,2011,777.1,153.38,116.5,Asia
+1693,Japan,2012,920.39,15.12,111.09,Asia
+1694,Japan,2013,897.88,10.43,121.48,Asia
+1695,Japan,2014,892.18,0.0,136.53,Asia
+1696,Japan,2015,844.23,3.24,157.34,Asia
+1697,Japan,2016,832.4,14.87,157.7,Asia
+1698,Japan,2017,806.12,27.75,175.12,Asia
+1699,Japan,2018,780.61,47.82,183.63,Asia
+1700,Japan,2019,735.66,63.88,192.72,Asia
+1701,Japan,2020,716.67,41.86,205.6,Asia
+1702,Jordan,2000,6.89,0.0,0.05,Asia
+1703,Jordan,2001,7.04,0.0,0.05,Asia
+1704,Jordan,2002,7.59,0.0,0.06,Asia
+1705,Jordan,2003,7.47,0.0,0.05,Asia
+1706,Jordan,2004,8.37,0.0,0.06,Asia
+1707,Jordan,2005,9.01,0.0,0.07,Asia
+1708,Jordan,2006,10.38,0.0,0.07,Asia
+1709,Jordan,2007,12.14,0.0,0.09,Asia
+1710,Jordan,2008,12.92,0.0,0.09,Asia
+1711,Jordan,2009,13.33,0.0,0.08,Asia
+1712,Jordan,2010,13.81,0.0,0.08,Asia
+1713,Jordan,2011,13.7,0.0,0.07,Asia
+1714,Jordan,2012,15.52,0.0,0.08,Asia
+1715,Jordan,2013,16.15,0.0,0.07,Asia
+1716,Jordan,2014,17.1,0.0,0.08,Asia
+1717,Jordan,2015,17.63,0.0,0.29,Asia
+1718,Jordan,2016,17.61,0.0,0.93,Asia
+1719,Jordan,2017,18.1,0.0,1.48,Asia
+1720,Jordan,2018,17.04,0.0,2.22,Asia
+1721,Jordan,2019,16.41,0.0,3.02,Asia
+1722,Jordan,2020,15.72,0.0,4.32,Asia
+1744,Kenya,2000,2.02,0.0,2.03,Africa
+1745,Kenya,2001,1.52,0.0,3.08,Africa
+1746,Kenya,2002,1.1,0.0,3.65,Africa
+1747,Kenya,2003,0.99,0.0,4.11,Africa
+1748,Kenya,2004,1.45,0.0,4.0,Africa
+1749,Kenya,2005,1.69,0.0,4.18,Africa
+1750,Kenya,2006,1.84,0.0,4.48,Africa
+1751,Kenya,2007,1.87,0.0,4.65,Africa
+1752,Kenya,2008,2.22,0.0,4.18,Africa
+1753,Kenya,2009,2.73,0.0,3.84,Africa
+1754,Kenya,2010,2.12,0.0,5.1,Africa
+1755,Kenya,2011,2.4,0.0,5.18,Africa
+1756,Kenya,2012,2.03,0.0,6.06,Africa
+1757,Kenya,2013,2.58,0.0,6.11,Africa
+1758,Kenya,2014,1.67,0.0,6.7,Africa
+1759,Kenya,2015,1.43,0.0,8.44,Africa
+1760,Kenya,2016,1.43,0.0,8.26,Africa
+1761,Kenya,2017,2.29,0.0,8.41,Africa
+1762,Kenya,2018,1.46,0.0,9.79,Africa
+1763,Kenya,2019,1.25,0.0,10.24,Africa
+1764,Kenya,2020,0.92,0.0,10.83,Africa
+1765,Kiribati,2000,0.01,0.0,0.0,Oceania
+1766,Kiribati,2001,0.01,0.0,0.0,Oceania
+1767,Kiribati,2002,0.01,0.0,0.0,Oceania
+1768,Kiribati,2003,0.02,0.0,0.0,Oceania
+1769,Kiribati,2004,0.02,0.0,0.0,Oceania
+1770,Kiribati,2005,0.02,0.0,0.0,Oceania
+1771,Kiribati,2006,0.02,0.0,0.0,Oceania
+1772,Kiribati,2007,0.02,0.0,0.0,Oceania
+1773,Kiribati,2008,0.02,0.0,0.0,Oceania
+1774,Kiribati,2009,0.02,0.0,0.0,Oceania
+1775,Kiribati,2010,0.02,0.0,0.0,Oceania
+1776,Kiribati,2011,0.02,0.0,0.0,Oceania
+1777,Kiribati,2012,0.02,0.0,0.0,Oceania
+1778,Kiribati,2013,0.02,0.0,0.0,Oceania
+1779,Kiribati,2014,0.02,0.0,0.0,Oceania
+1780,Kiribati,2015,0.02,0.0,0.0,Oceania
+1781,Kiribati,2016,0.03,0.0,0.0,Oceania
+1782,Kiribati,2017,0.03,0.0,0.0,Oceania
+1783,Kiribati,2018,0.03,0.0,0.0,Oceania
+1784,Kiribati,2019,0.03,0.0,0.0,Oceania
+1785,Kiribati,2020,0.03,0.0,0.0,Oceania
+1786,Kuwait,2000,30.38,0.0,0.0,Asia
+1787,Kuwait,2001,32.24,0.0,0.0,Asia
+1788,Kuwait,2002,34.18,0.0,0.0,Asia
+1789,Kuwait,2003,37.41,0.0,0.0,Asia
+1790,Kuwait,2004,38.78,0.0,0.0,Asia
+1791,Kuwait,2005,41.11,0.0,0.0,Asia
+1792,Kuwait,2006,44.75,0.0,0.0,Asia
+1793,Kuwait,2007,45.83,0.0,0.0,Asia
+1794,Kuwait,2008,48.64,0.0,0.0,Asia
+1795,Kuwait,2009,50.02,0.0,0.0,Asia
+1796,Kuwait,2010,53.66,0.0,0.0,Asia
+1797,Kuwait,2011,54.04,0.0,0.0,Asia
+1798,Kuwait,2012,57.45,0.0,0.0,Asia
+1799,Kuwait,2013,57.32,0.0,0.01,Asia
+1800,Kuwait,2014,61.23,0.0,0.01,Asia
+1801,Kuwait,2015,64.18,0.0,0.01,Asia
+1802,Kuwait,2016,65.83,0.0,0.02,Asia
+1803,Kuwait,2017,68.36,0.0,0.04,Asia
+1804,Kuwait,2018,69.58,0.0,0.06,Asia
+1805,Kuwait,2019,70.45,0.0,0.06,Asia
+1806,Kuwait,2020,66.89,0.0,0.05,Asia
+1807,Kyrgyzstan,2000,2.16,0.0,13.55,Asia
+1808,Kyrgyzstan,2001,2.36,0.0,12.31,Asia
+1809,Kyrgyzstan,2002,2.16,0.0,10.68,Asia
+1810,Kyrgyzstan,2003,1.94,0.0,13.38,Asia
+1811,Kyrgyzstan,2004,2.08,0.0,13.95,Asia
+1812,Kyrgyzstan,2005,1.98,0.0,12.66,Asia
+1813,Kyrgyzstan,2006,1.93,0.0,12.35,Asia
+1814,Kyrgyzstan,2007,1.97,0.0,12.61,Asia
+1815,Kyrgyzstan,2008,1.57,0.0,10.02,Asia
+1816,Kyrgyzstan,2009,0.81,0.0,10.11,Asia
+1817,Kyrgyzstan,2010,0.93,0.0,11.0,Asia
+1818,Kyrgyzstan,2011,0.96,0.0,14.0,Asia
+1819,Kyrgyzstan,2012,0.93,0.0,14.04,Asia
+1820,Kyrgyzstan,2013,0.86,0.0,13.0,Asia
+1821,Kyrgyzstan,2014,1.2,0.0,13.16,Asia
+1822,Kyrgyzstan,2015,1.81,0.0,10.99,Asia
+1823,Kyrgyzstan,2016,1.66,0.0,11.38,Asia
+1824,Kyrgyzstan,2017,1.23,0.0,14.06,Asia
+1825,Kyrgyzstan,2018,1.13,0.0,14.17,Asia
+1826,Kyrgyzstan,2019,1.13,0.0,13.71,Asia
+1827,Kyrgyzstan,2020,1.37,0.0,14.8,Asia
+1828,Latvia,2000,1.32,0.0,2.82,Europe
+1829,Latvia,2001,1.44,0.0,2.83,Europe
+1830,Latvia,2002,1.49,0.0,2.48,Europe
+1831,Latvia,2003,1.63,0.0,2.34,Europe
+1832,Latvia,2004,1.49,0.0,3.2,Europe
+1833,Latvia,2005,1.5,0.0,3.42,Europe
+1834,Latvia,2006,2.1,0.0,2.79,Europe
+1835,Latvia,2007,1.94,0.0,2.82,Europe
+1836,Latvia,2008,2.06,0.0,3.21,Europe
+1837,Latvia,2009,2.01,0.0,3.56,Europe
+1838,Latvia,2010,2.99,0.0,3.64,Europe
+1839,Latvia,2011,3.01,0.0,3.08,Europe
+1840,Latvia,2012,2.06,0.0,4.11,Europe
+1841,Latvia,2013,2.67,0.0,3.53,Europe
+1842,Latvia,2014,2.34,0.0,2.8,Europe
+1843,Latvia,2015,2.76,0.0,2.78,Europe
+1844,Latvia,2016,2.94,0.0,3.48,Europe
+1845,Latvia,2017,2.07,0.0,5.46,Europe
+1846,Latvia,2018,3.23,0.0,3.49,Europe
+1847,Latvia,2019,3.25,0.0,3.19,Europe
+1848,Latvia,2020,2.08,0.0,3.64,Europe
+1849,Lebanon,2000,8.75,0.0,0.44,Asia
+1850,Lebanon,2001,9.24,0.0,0.33,Asia
+1851,Lebanon,2002,10.38,0.0,0.67,Asia
+1852,Lebanon,2003,10.64,0.0,1.35,Asia
+1853,Lebanon,2004,10.68,0.0,1.11,Asia
+1854,Lebanon,2005,10.7,0.0,1.04,Asia
+1855,Lebanon,2006,10.26,0.0,0.69,Asia
+1856,Lebanon,2007,10.8,0.0,0.58,Asia
+1857,Lebanon,2008,12.2,0.0,0.37,Asia
+1858,Lebanon,2009,12.36,0.0,0.62,Asia
+1859,Lebanon,2010,13.98,0.0,0.83,Asia
+1860,Lebanon,2011,14.57,0.0,0.8,Asia
+1861,Lebanon,2012,14.54,0.0,1.01,Asia
+1862,Lebanon,2013,16.49,0.0,1.27,Asia
+1863,Lebanon,2014,16.7,0.0,0.22,Asia
+1864,Lebanon,2015,17.06,0.0,0.51,Asia
+1865,Lebanon,2016,17.82,0.0,0.46,Asia
+1866,Lebanon,2017,19.52,0.0,0.52,Asia
+1867,Lebanon,2018,19.57,0.0,0.47,Asia
+1868,Lebanon,2019,19.24,0.0,1.12,Asia
+1869,Lebanon,2020,18.28,0.0,1.21,Asia
+1870,Lesotho,2000,0.0,0.0,0.29,Africa
+1871,Lesotho,2001,0.0,0.0,0.28,Africa
+1872,Lesotho,2002,0.0,0.0,0.31,Africa
+1873,Lesotho,2003,0.0,0.0,0.32,Africa
+1874,Lesotho,2004,0.0,0.0,0.3,Africa
+1875,Lesotho,2005,0.0,0.0,0.46,Africa
+1876,Lesotho,2006,0.0,0.0,0.52,Africa
+1877,Lesotho,2007,0.0,0.0,0.55,Africa
+1878,Lesotho,2008,0.0,0.0,0.58,Africa
+1879,Lesotho,2009,0.0,0.0,0.65,Africa
+1880,Lesotho,2010,0.0,0.0,0.69,Africa
+1881,Lesotho,2011,0.0,0.0,0.49,Africa
+1882,Lesotho,2012,0.0,0.0,0.49,Africa
+1883,Lesotho,2013,0.0,0.0,0.51,Africa
+1884,Lesotho,2014,0.0,0.0,0.52,Africa
+1885,Lesotho,2015,0.0,0.0,0.53,Africa
+1886,Lesotho,2016,0.0,0.0,0.52,Africa
+1887,Lesotho,2017,0.0,0.0,0.54,Africa
+1888,Lesotho,2018,0.0,0.0,0.54,Africa
+1889,Lesotho,2019,0.0,0.0,0.5,Africa
+1890,Lesotho,2020,0.0,0.0,0.5,Africa
+1891,Liberia,2000,0.2,0.0,0.0,Africa
+1892,Liberia,2001,0.2,0.0,0.0,Africa
+1893,Liberia,2002,0.2,0.0,0.0,Africa
+1894,Liberia,2003,0.2,0.0,0.0,Africa
+1895,Liberia,2004,0.2,0.0,0.0,Africa
+1896,Liberia,2005,0.2,0.0,0.0,Africa
+1897,Liberia,2006,0.2,0.0,0.0,Africa
+1898,Liberia,2007,0.25,0.0,0.0,Africa
+1899,Liberia,2008,0.25,0.0,0.0,Africa
+1900,Liberia,2009,0.25,0.0,0.0,Africa
+1901,Liberia,2010,0.25,0.0,0.0,Africa
+1902,Liberia,2011,0.28,0.0,0.0,Africa
+1903,Liberia,2012,0.28,0.0,0.0,Africa
+1904,Liberia,2013,0.28,0.0,0.0,Africa
+1905,Liberia,2014,0.28,0.0,0.0,Africa
+1906,Liberia,2015,0.29,0.0,0.0,Africa
+1907,Liberia,2016,0.38,0.0,0.0,Africa
+1908,Liberia,2017,0.37,0.0,0.0,Africa
+1909,Liberia,2018,0.32,0.0,0.0,Africa
+1910,Liberia,2019,0.31,0.0,0.0,Africa
+1911,Liberia,2020,0.36,0.0,0.53,Africa
+1912,Libya,2000,14.56,0.0,0.0,Africa
+1913,Libya,2001,15.15,0.0,0.0,Africa
+1914,Libya,2002,16.48,0.0,0.0,Africa
+1915,Libya,2003,17.81,0.0,0.0,Africa
+1916,Libya,2004,18.99,0.0,0.0,Africa
+1917,Libya,2005,21.31,0.0,0.0,Africa
+1918,Libya,2006,23.26,0.0,0.0,Africa
+1919,Libya,2007,24.66,0.0,0.0,Africa
+1920,Libya,2008,28.88,0.0,0.0,Africa
+1921,Libya,2009,29.18,0.0,0.0,Africa
+1922,Libya,2010,30.6,0.0,0.01,Africa
+1923,Libya,2011,24.43,0.0,0.01,Africa
+1924,Libya,2012,32.21,0.0,0.01,Africa
+1925,Libya,2013,35.63,0.0,0.01,Africa
+1926,Libya,2014,35.46,0.0,0.01,Africa
+1927,Libya,2015,35.26,0.0,0.01,Africa
+1928,Libya,2016,29.52,0.0,0.01,Africa
+1929,Libya,2017,31.27,0.0,0.01,Africa
+1930,Libya,2018,32.11,0.0,0.01,Africa
+1931,Libya,2019,31.68,0.0,0.01,Africa
+1932,Libya,2020,30.09,0.0,0.01,Africa
+1933,Lithuania,2000,2.27,8.42,0.34,Europe
+1934,Lithuania,2001,2.6,11.36,0.33,Europe
+1935,Lithuania,2002,2.66,14.14,0.35,Europe
+1936,Lithuania,2003,2.85,15.48,0.33,Europe
+1937,Lithuania,2004,3.05,15.1,0.43,Europe
+1938,Lithuania,2005,3.42,10.34,0.46,Europe
+1939,Lithuania,2006,2.79,8.65,0.43,Europe
+1940,Lithuania,2007,2.82,9.83,0.58,Europe
+1941,Lithuania,2008,2.6,9.89,0.6,Europe
+1942,Lithuania,2009,2.84,10.85,0.68,Europe
+1943,Lithuania,2010,3.84,0.0,0.91,Europe
+1944,Lithuania,2011,2.88,0.0,1.11,Europe
+1945,Lithuania,2012,3.12,0.0,1.18,Europe
+1946,Lithuania,2013,2.45,0.0,1.53,Europe
+1947,Lithuania,2014,1.95,0.0,1.51,Europe
+1948,Lithuania,2015,2.32,0.0,1.68,Europe
+1949,Lithuania,2016,1.31,0.0,2.1,Europe
+1950,Lithuania,2017,0.82,0.0,2.53,Europe
+1951,Lithuania,2018,0.55,0.0,2.2,Europe
+1952,Lithuania,2019,0.67,0.0,2.47,Europe
+1953,Lithuania,2020,1.96,0.0,2.57,Europe
+1954,Luxembourg,2000,0.24,0.0,0.16,Europe
+1955,Luxembourg,2001,0.7,0.0,0.17,Europe
+1956,Luxembourg,2002,2.65,0.0,0.15,Europe
+1957,Luxembourg,2003,2.65,0.0,0.14,Europe
+1958,Luxembourg,2004,3.18,0.0,0.19,Europe
+1959,Luxembourg,2005,3.14,0.0,0.21,Europe
+1960,Luxembourg,2006,3.29,0.0,0.25,Europe
+1961,Luxembourg,2007,2.93,0.0,0.26,Europe
+1962,Luxembourg,2008,2.44,0.0,0.28,Europe
+1963,Luxembourg,2009,2.88,0.0,0.27,Europe
+1964,Luxembourg,2010,2.97,0.0,0.27,Europe
+1965,Luxembourg,2011,2.4,0.0,0.24,Europe
+1966,Luxembourg,2012,2.45,0.0,0.31,Europe
+1967,Luxembourg,2013,1.48,0.0,0.36,Europe
+1968,Luxembourg,2014,1.51,0.0,0.4,Europe
+1969,Luxembourg,2015,0.91,0.0,0.43,Europe
+1970,Luxembourg,2016,0.33,0.0,0.46,Europe
+1971,Luxembourg,2017,0.3,0.0,0.6,Europe
+1972,Luxembourg,2018,0.28,0.0,0.68,Europe
+1973,Luxembourg,2019,0.27,0.0,0.8,Europe
+1974,Luxembourg,2020,0.25,0.0,0.97,Europe
+1975,Madagascar,2000,0.24,0.0,0.54,Africa
+1976,Madagascar,2001,0.36,0.0,0.53,Africa
+1977,Madagascar,2002,0.33,0.0,0.54,Africa
+1978,Madagascar,2003,0.39,0.0,0.6,Africa
+1979,Madagascar,2004,0.47,0.0,0.63,Africa
+1980,Madagascar,2005,0.47,0.0,0.64,Africa
+1981,Madagascar,2006,0.5,0.0,0.63,Africa
+1982,Madagascar,2007,0.47,0.0,0.71,Africa
+1983,Madagascar,2008,0.54,0.0,0.69,Africa
+1984,Madagascar,2009,0.5,0.0,0.73,Africa
+1985,Madagascar,2010,0.62,0.0,0.7,Africa
+1986,Madagascar,2011,0.66,0.0,0.68,Africa
+1987,Madagascar,2012,0.95,0.0,0.75,Africa
+1988,Madagascar,2013,1.04,0.0,0.81,Africa
+1989,Madagascar,2014,1.08,0.0,0.89,Africa
+1990,Madagascar,2015,1.11,0.0,0.95,Africa
+1991,Madagascar,2016,1.12,0.0,0.9,Africa
+1992,Madagascar,2017,1.4,0.0,0.8,Africa
+1993,Madagascar,2018,1.29,0.0,0.98,Africa
+1994,Madagascar,2019,1.1,0.0,0.91,Africa
+1995,Madagascar,2020,1.29,0.0,0.68,Africa
+1996,Malawi,2000,0.15,0.0,1.09,Africa
+1997,Malawi,2001,0.15,0.0,1.11,Africa
+1998,Malawi,2002,0.16,0.0,1.17,Africa
+1999,Malawi,2003,0.12,0.0,1.23,Africa
+2000,Malawi,2004,0.15,0.0,1.34,Africa
+2001,Malawi,2005,0.14,0.0,1.39,Africa
+2002,Malawi,2006,0.14,0.0,1.42,Africa
+2003,Malawi,2007,0.14,0.0,1.45,Africa
+2004,Malawi,2008,0.11,0.0,1.62,Africa
+2005,Malawi,2009,0.13,0.0,1.58,Africa
+2006,Malawi,2010,0.13,0.0,1.83,Africa
+2007,Malawi,2011,0.13,0.0,1.88,Africa
+2008,Malawi,2012,0.13,0.0,1.96,Africa
+2009,Malawi,2013,0.13,0.0,1.96,Africa
+2010,Malawi,2014,0.13,0.0,2.08,Africa
+2011,Malawi,2015,0.13,0.0,2.08,Africa
+2012,Malawi,2016,0.15,0.0,2.05,Africa
+2013,Malawi,2017,0.19,0.0,1.9,Africa
+2014,Malawi,2018,0.2,0.0,1.44,Africa
+2015,Malawi,2019,0.2,0.0,1.5,Africa
+2016,Malawi,2020,0.21,0.0,1.5,Africa
+2038,Maldives,2000,0.1,0.0,0.0,Asia
+2039,Maldives,2001,0.11,0.0,0.0,Asia
+2040,Maldives,2002,0.12,0.0,0.0,Asia
+2041,Maldives,2003,0.13,0.0,0.0,Asia
+2042,Maldives,2004,0.15,0.0,0.0,Asia
+2043,Maldives,2005,0.17,0.0,0.0,Asia
+2044,Maldives,2006,0.2,0.0,0.0,Asia
+2045,Maldives,2007,0.23,0.0,0.0,Asia
+2046,Maldives,2008,0.26,0.0,0.0,Asia
+2047,Maldives,2009,0.28,0.0,0.0,Asia
+2048,Maldives,2010,0.34,0.0,0.0,Asia
+2049,Maldives,2011,0.36,0.0,0.0,Asia
+2050,Maldives,2012,0.39,0.0,0.0,Asia
+2051,Maldives,2013,0.4,0.0,0.0,Asia
+2052,Maldives,2014,0.5,0.0,0.01,Asia
+2053,Maldives,2015,0.56,0.0,0.01,Asia
+2054,Maldives,2016,0.6,0.0,0.01,Asia
+2055,Maldives,2017,0.6,0.0,0.02,Asia
+2056,Maldives,2018,0.61,0.0,0.03,Asia
+2057,Maldives,2019,0.61,0.0,0.03,Asia
+2058,Maldives,2020,0.57,0.0,0.04,Asia
+2059,Mali,2000,0.14,0.0,0.25,Africa
+2060,Mali,2001,0.15,0.0,0.25,Africa
+2061,Mali,2002,0.15,0.0,0.26,Africa
+2062,Mali,2003,0.17,0.0,0.26,Africa
+2063,Mali,2004,0.18,0.0,0.28,Africa
+2064,Mali,2005,0.29,0.0,0.49,Africa
+2065,Mali,2006,0.31,0.0,0.53,Africa
+2066,Mali,2007,0.31,0.0,0.52,Africa
+2067,Mali,2008,0.37,0.0,0.63,Africa
+2068,Mali,2009,0.39,0.0,0.73,Africa
+2069,Mali,2010,0.53,0.0,1.18,Africa
+2070,Mali,2011,0.66,0.0,1.24,Africa
+2071,Mali,2012,0.89,0.0,1.37,Africa
+2072,Mali,2013,1.04,0.0,1.24,Africa
+2073,Mali,2014,0.85,0.0,1.51,Africa
+2074,Mali,2015,1.05,0.0,1.27,Africa
+2075,Mali,2016,1.15,0.0,1.62,Africa
+2076,Mali,2017,1.64,0.0,1.65,Africa
+2077,Mali,2018,1.97,0.0,1.56,Africa
+2078,Mali,2019,2.15,0.0,1.17,Africa
+2079,Mali,2020,2.04,0.0,1.16,Africa
+2080,Malta,2000,1.92,0.0,0.0,Europe
+2081,Malta,2001,1.94,0.0,0.0,Europe
+2082,Malta,2002,2.05,0.0,0.0,Europe
+2083,Malta,2003,2.24,0.0,0.0,Europe
+2084,Malta,2004,2.22,0.0,0.0,Europe
+2085,Malta,2005,2.24,0.0,0.0,Europe
+2086,Malta,2006,2.26,0.0,0.0,Europe
+2087,Malta,2007,2.3,0.0,0.0,Europe
+2088,Malta,2008,2.31,0.0,0.0,Europe
+2089,Malta,2009,2.17,0.0,0.0,Europe
+2090,Malta,2010,2.11,0.0,0.0,Europe
+2091,Malta,2011,2.17,0.0,0.0,Europe
+2092,Malta,2012,2.27,0.0,0.03,Europe
+2093,Malta,2013,2.22,0.0,0.04,Europe
+2094,Malta,2014,2.17,0.0,0.08,Europe
+2095,Malta,2015,1.2,0.0,0.1,Europe
+2096,Malta,2016,0.72,0.0,0.14,Europe
+2097,Malta,2017,1.48,0.0,0.17,Europe
+2098,Malta,2018,1.77,0.0,0.2,Europe
+2099,Malta,2019,1.86,0.0,0.21,Europe
+2100,Malta,2020,1.9,0.0,0.25,Europe
+2101,Mauritania,2000,0.2,0.0,0.03,Africa
+2102,Mauritania,2001,0.24,0.0,0.03,Africa
+2103,Mauritania,2002,0.47,0.0,0.03,Africa
+2104,Mauritania,2003,0.43,0.0,0.04,Africa
+2105,Mauritania,2004,0.47,0.0,0.04,Africa
+2106,Mauritania,2005,0.45,0.0,0.05,Africa
+2107,Mauritania,2006,0.4,0.0,0.05,Africa
+2108,Mauritania,2007,0.42,0.0,0.05,Africa
+2109,Mauritania,2008,0.49,0.0,0.06,Africa
+2110,Mauritania,2009,0.47,0.0,0.11,Africa
+2111,Mauritania,2010,0.52,0.0,0.12,Africa
+2112,Mauritania,2011,0.7,0.0,0.13,Africa
+2113,Mauritania,2012,0.77,0.0,0.14,Africa
+2114,Mauritania,2013,0.73,0.0,0.21,Africa
+2115,Mauritania,2014,0.76,0.0,0.22,Africa
+2116,Mauritania,2015,0.82,0.0,0.32,Africa
+2117,Mauritania,2016,0.92,0.0,0.29,Africa
+2118,Mauritania,2017,1.18,0.0,0.33,Africa
+2119,Mauritania,2018,1.26,0.0,0.43,Africa
+2120,Mauritania,2019,1.36,0.0,0.46,Africa
+2121,Mauritania,2020,1.29,0.0,0.48,Africa
+2122,Mauritius,2000,1.4,0.0,0.28,Africa
+2123,Mauritius,2001,1.49,0.0,0.31,Africa
+2124,Mauritius,2002,1.52,0.0,0.33,Africa
+2125,Mauritius,2003,1.61,0.0,0.37,Africa
+2126,Mauritius,2004,1.68,0.0,0.37,Africa
+2127,Mauritius,2005,1.52,0.0,0.62,Africa
+2128,Mauritius,2006,1.87,0.0,0.35,Africa
+2129,Mauritius,2007,1.97,0.0,0.35,Africa
+2130,Mauritius,2008,2.06,0.0,0.37,Africa
+2131,Mauritius,2009,1.97,0.0,0.49,Africa
+2132,Mauritius,2010,2.1,0.0,0.47,Africa
+2133,Mauritius,2011,2.2,0.0,0.4,Africa
+2134,Mauritius,2012,2.29,0.0,0.35,Africa
+2135,Mauritius,2013,2.35,0.0,0.38,Africa
+2136,Mauritius,2014,2.38,0.0,0.42,Africa
+2137,Mauritius,2015,2.37,0.0,0.49,Africa
+2138,Mauritius,2016,2.42,0.0,0.48,Africa
+2139,Mauritius,2017,2.52,0.0,0.45,Africa
+2140,Mauritius,2018,2.45,0.0,0.52,Africa
+2141,Mauritius,2019,2.5,0.0,0.59,Africa
+2142,Mauritius,2020,2.17,0.0,0.57,Africa
+2143,Mexico,2000,141.8,7.81,44.51,North America
+2144,Mexico,2001,153.32,8.29,39.56,North America
+2145,Mexico,2002,159.81,9.26,35.67,North America
+2146,Mexico,2003,160.45,9.98,32.11,North America
+2147,Mexico,2004,173.66,8.73,38.19,North America
+2148,Mexico,2005,178.76,10.32,42.29,North America
+2149,Mexico,2006,182.76,10.4,43.63,North America
+2150,Mexico,2007,191.83,9.95,42.14,North America
+2151,Mexico,2008,184.51,9.36,53.22,North America
+2152,Mexico,2009,194.75,10.11,40.59,North America
+2153,Mexico,2010,207.38,5.66,51.37,North America
+2154,Mexico,2011,219.88,9.66,50.7,North America
+2155,Mexico,2012,229.14,8.41,47.2,North America
+2156,Mexico,2013,231.23,11.38,44.67,North America
+2157,Mexico,2014,223.43,9.3,57.46,North America
+2158,Mexico,2015,234.28,11.18,52.42,North America
+2159,Mexico,2016,239.78,10.27,52.97,North America
+2160,Mexico,2017,242.69,10.57,55.88,North America
+2161,Mexico,2018,259.92,13.32,58.78,North America
+2162,Mexico,2019,248.2,10.88,59.0,North America
+2163,Mexico,2020,245.46,10.87,69.19,North America
+2164,Mongolia,2000,2.82,0.0,0.0,Asia
+2165,Mongolia,2001,2.89,0.0,0.0,Asia
+2166,Mongolia,2002,2.99,0.0,0.0,Asia
+2167,Mongolia,2003,3.02,0.0,0.0,Asia
+2168,Mongolia,2004,3.19,0.0,0.0,Asia
+2169,Mongolia,2005,3.3,0.0,0.0,Asia
+2170,Mongolia,2006,3.43,0.0,0.0,Asia
+2171,Mongolia,2007,3.6,0.0,0.0,Asia
+2172,Mongolia,2008,3.9,0.0,0.01,Asia
+2173,Mongolia,2009,3.93,0.0,0.01,Asia
+2174,Mongolia,2010,4.01,0.0,0.05,Asia
+2175,Mongolia,2011,4.21,0.0,0.06,Asia
+2176,Mongolia,2012,4.47,0.0,0.06,Asia
+2177,Mongolia,2013,4.6,0.0,0.12,Asia
+2178,Mongolia,2014,4.86,0.0,0.21,Asia
+2179,Mongolia,2015,4.97,0.0,0.22,Asia
+2180,Mongolia,2016,5.09,0.0,0.25,Asia
+2181,Mongolia,2017,5.27,0.0,0.25,Asia
+2182,Mongolia,2018,5.71,0.0,0.44,Asia
+2183,Mongolia,2019,5.88,0.0,0.65,Asia
+2184,Mongolia,2020,6.04,0.0,0.68,Asia
+2185,Montenegro,2007,0.86,0.0,1.28,Europe
+2186,Montenegro,2008,1.29,0.0,1.54,Europe
+2187,Montenegro,2009,0.69,0.0,2.07,Europe
+2188,Montenegro,2010,1.27,0.0,2.75,Europe
+2189,Montenegro,2011,1.45,0.0,1.2,Europe
+2190,Montenegro,2012,1.37,0.0,1.48,Europe
+2191,Montenegro,2013,1.44,0.0,2.5,Europe
+2192,Montenegro,2014,1.42,0.0,1.75,Europe
+2193,Montenegro,2015,1.51,0.0,1.49,Europe
+2194,Montenegro,2016,1.3,0.0,1.84,Europe
+2195,Montenegro,2017,1.36,0.0,1.12,Europe
+2196,Montenegro,2018,1.55,0.0,2.25,Europe
+2197,Montenegro,2019,1.5,0.0,1.93,Europe
+2198,Montenegro,2020,1.62,0.0,1.77,Europe
+2199,Morocco,2000,11.36,0.0,0.77,Africa
+2200,Morocco,2001,13.13,0.0,1.07,Africa
+2201,Morocco,2002,14.13,0.0,1.03,Africa
+2202,Morocco,2003,14.84,0.0,1.64,Africa
+2203,Morocco,2004,15.71,0.0,1.79,Africa
+2204,Morocco,2005,17.59,0.0,1.18,Africa
+2205,Morocco,2006,18.1,0.0,1.17,Africa
+2206,Morocco,2007,18.15,0.0,1.19,Africa
+2207,Morocco,2008,18.42,0.0,1.22,Africa
+2208,Morocco,2009,17.09,0.0,2.93,Africa
+2209,Morocco,2010,19.54,0.0,4.1,Africa
+2210,Morocco,2011,22.3,0.0,2.69,Africa
+2211,Morocco,2012,24.97,0.0,2.42,Africa
+2212,Morocco,2013,22.59,0.0,4.19,Africa
+2213,Morocco,2014,24.13,0.0,3.61,Africa
+2214,Morocco,2015,25.09,0.0,4.45,Africa
+2215,Morocco,2016,25.74,0.0,4.74,Africa
+2216,Morocco,2017,26.86,0.0,4.69,Africa
+2217,Morocco,2018,27.71,0.0,6.52,Africa
+2218,Morocco,2019,32.38,0.0,7.6,Africa
+2219,Morocco,2020,31.36,0.0,7.02,Africa
+2220,Mozambique,2000,0.03,0.0,9.58,Africa
+2221,Mozambique,2001,0.04,0.0,11.74,Africa
+2222,Mozambique,2002,0.04,0.0,12.57,Africa
+2223,Mozambique,2003,0.05,0.0,10.78,Africa
+2224,Mozambique,2004,0.05,0.0,11.58,Africa
+2225,Mozambique,2005,0.04,0.0,13.15,Africa
+2226,Mozambique,2006,0.04,0.0,14.59,Africa
+2227,Mozambique,2007,0.04,0.0,15.92,Africa
+2228,Mozambique,2008,0.04,0.0,14.98,Africa
+2229,Mozambique,2009,0.04,0.0,16.8,Africa
+2230,Mozambique,2010,0.05,0.0,16.5,Africa
+2231,Mozambique,2011,0.06,0.0,16.66,Africa
+2232,Mozambique,2012,0.06,0.0,15.01,Africa
+2233,Mozambique,2013,0.28,0.0,14.51,Africa
+2234,Mozambique,2014,1.19,0.0,16.38,Africa
+2235,Mozambique,2015,2.07,0.0,17.62,Africa
+2236,Mozambique,2016,2.82,0.0,15.71,Africa
+2237,Mozambique,2017,2.63,0.0,14.16,Africa
+2238,Mozambique,2018,2.94,0.0,13.88,Africa
+2239,Mozambique,2019,3.65,0.0,15.06,Africa
+2240,Mozambique,2020,3.49,0.0,15.85,Africa
+2241,Myanmar,2000,2.8,0.0,2.11,Asia
+2242,Myanmar,2001,2.45,0.0,2.05,Asia
+2243,Myanmar,2002,2.55,0.0,2.45,Asia
+2244,Myanmar,2003,2.86,0.0,2.52,Asia
+2245,Myanmar,2004,2.79,0.0,2.6,Asia
+2246,Myanmar,2005,2.66,0.0,3.16,Asia
+2247,Myanmar,2006,2.47,0.0,3.49,Asia
+2248,Myanmar,2007,2.39,0.0,3.81,Asia
+2249,Myanmar,2008,2.19,0.0,4.24,Asia
+2250,Myanmar,2009,1.47,0.0,5.34,Asia
+2251,Myanmar,2010,2.1,0.0,5.24,Asia
+2252,Myanmar,2011,2.02,0.0,7.63,Asia
+2253,Myanmar,2012,2.73,0.0,7.94,Asia
+2254,Myanmar,2013,3.18,0.0,8.99,Asia
+2255,Myanmar,2014,4.99,0.0,8.99,Asia
+2256,Myanmar,2015,6.12,0.0,9.6,Asia
+2257,Myanmar,2016,7.53,0.0,10.02,Asia
+2258,Myanmar,2017,9.18,0.0,11.27,Asia
+2259,Myanmar,2018,9.78,0.0,12.61,Asia
+2260,Myanmar,2019,12.78,0.0,10.95,Asia
+2261,Myanmar,2020,12.25,0.0,11.31,Asia
+2262,Namibia,2000,0.04,0.0,1.37,Africa
+2263,Namibia,2001,0.0,0.0,1.36,Africa
+2264,Namibia,2002,0.0,0.0,1.45,Africa
+2265,Namibia,2003,0.01,0.0,1.5,Africa
+2266,Namibia,2004,0.0,0.0,1.59,Africa
+2267,Namibia,2005,0.04,0.0,1.64,Africa
+2268,Namibia,2006,0.09,0.0,1.59,Africa
+2269,Namibia,2007,0.04,0.0,1.56,Africa
+2270,Namibia,2008,0.17,0.0,1.48,Africa
+2271,Namibia,2009,0.08,0.0,1.39,Africa
+2272,Namibia,2010,0.05,0.0,1.25,Africa
+2273,Namibia,2011,0.03,0.0,1.4,Africa
+2274,Namibia,2012,0.03,0.0,1.6,Africa
+2275,Namibia,2013,0.06,0.0,1.28,Africa
+2276,Namibia,2014,0.02,0.0,1.5,Africa
+2277,Namibia,2015,0.03,0.0,1.53,Africa
+2278,Namibia,2016,0.06,0.0,1.41,Africa
+2279,Namibia,2017,0.06,0.0,1.68,Africa
+2280,Namibia,2018,0.02,0.0,1.39,Africa
+2281,Namibia,2019,0.04,0.0,1.32,Africa
+2282,Namibia,2020,0.06,0.0,1.89,Africa
+2283,Nauru,2000,0.03,0.0,0.0,Oceania
+2284,Nauru,2001,0.03,0.0,0.0,Oceania
+2285,Nauru,2002,0.03,0.0,0.0,Oceania
+2286,Nauru,2003,0.03,0.0,0.0,Oceania
+2287,Nauru,2004,0.03,0.0,0.0,Oceania
+2288,Nauru,2005,0.03,0.0,0.0,Oceania
+2289,Nauru,2006,0.03,0.0,0.0,Oceania
+2290,Nauru,2007,0.02,0.0,0.0,Oceania
+2291,Nauru,2008,0.02,0.0,0.0,Oceania
+2292,Nauru,2009,0.02,0.0,0.0,Oceania
+2293,Nauru,2010,0.02,0.0,0.0,Oceania
+2294,Nauru,2011,0.02,0.0,0.0,Oceania
+2295,Nauru,2012,0.02,0.0,0.0,Oceania
+2296,Nauru,2013,0.02,0.0,0.0,Oceania
+2297,Nauru,2014,0.02,0.0,0.0,Oceania
+2298,Nauru,2015,0.03,0.0,0.0,Oceania
+2299,Nauru,2016,0.03,0.0,0.0,Oceania
+2300,Nauru,2017,0.03,0.0,0.0,Oceania
+2301,Nauru,2018,0.03,0.0,0.0,Oceania
+2302,Nauru,2019,0.03,0.0,0.0,Oceania
+2303,Nauru,2020,0.04,0.0,0.0,Oceania
+2304,Nepal,2000,0.06,0.0,1.63,Asia
+2305,Nepal,2001,0.02,0.0,1.83,Asia
+2306,Nepal,2002,0.02,0.0,2.1,Asia
+2307,Nepal,2003,0.0,0.0,2.24,Asia
+2308,Nepal,2004,0.01,0.0,2.38,Asia
+2309,Nepal,2005,0.01,0.0,2.49,Asia
+2310,Nepal,2006,0.01,0.0,2.71,Asia
+2311,Nepal,2007,0.01,0.0,2.77,Asia
+2312,Nepal,2008,0.01,0.0,2.79,Asia
+2313,Nepal,2009,0.01,0.0,3.08,Asia
+2314,Nepal,2010,0.0,0.0,3.18,Asia
+2315,Nepal,2011,0.0,0.0,3.46,Asia
+2316,Nepal,2012,0.02,0.0,3.51,Asia
+2317,Nepal,2013,0.01,0.0,3.49,Asia
+2318,Nepal,2014,0.0,0.0,3.78,Asia
+2319,Nepal,2015,0.0,0.0,3.45,Asia
+2320,Nepal,2016,0.0,0.0,4.23,Asia
+2321,Nepal,2017,0.0,0.0,4.72,Asia
+2322,Nepal,2018,0.0,0.0,4.99,Asia
+2323,Nepal,2019,0.0,0.0,6.26,Asia
+2324,Nepal,2020,0.0,0.0,6.33,Asia
+2325,Netherlands,2000,82.49,3.93,2.97,Europe
+2326,Netherlands,2001,86.14,3.98,3.31,Europe
+2327,Netherlands,2002,87.86,3.91,3.98,Europe
+2328,Netherlands,2003,88.62,4.02,3.96,Europe
+2329,Netherlands,2004,91.89,3.82,5.3,Europe
+2330,Netherlands,2005,88.22,4.0,7.46,Europe
+2331,Netherlands,2006,87.17,3.47,8.05,Europe
+2332,Netherlands,2007,93.21,4.2,7.59,Europe
+2333,Netherlands,2008,93.7,4.17,9.53,Europe
+2334,Netherlands,2009,98.48,4.25,10.83,Europe
+2335,Netherlands,2010,103.95,3.97,11.19,Europe
+2336,Netherlands,2011,97.35,4.14,12.32,Europe
+2337,Netherlands,2012,86.69,3.91,12.47,Europe
+2338,Netherlands,2013,86.51,2.89,12.1,Europe
+2339,Netherlands,2014,87.48,4.09,11.65,Europe
+2340,Netherlands,2015,91.03,4.08,13.69,Europe
+2341,Netherlands,2016,95.09,3.96,14.78,Europe
+2342,Netherlands,2017,94.81,3.4,17.43,Europe
+2343,Netherlands,2018,91.26,3.51,18.91,Europe
+2344,Netherlands,2019,94.09,3.91,22.79,Europe
+2345,Netherlands,2020,85.95,4.09,32.75,Europe
+2346,New Caledonia,2000,1.12,0.0,0.45,Oceania
+2347,New Caledonia,2001,1.27,0.0,0.37,Oceania
+2348,New Caledonia,2002,1.34,0.0,0.33,Oceania
+2349,New Caledonia,2003,1.34,0.0,0.32,Oceania
+2350,New Caledonia,2004,1.26,0.0,0.33,Oceania
+2351,New Caledonia,2005,1.43,0.0,0.36,Oceania
+2352,New Caledonia,2006,1.46,0.0,0.31,Oceania
+2353,New Caledonia,2007,1.41,0.0,0.43,Oceania
+2354,New Caledonia,2008,1.3,0.0,0.48,Oceania
+2355,New Caledonia,2009,1.4,0.0,0.43,Oceania
+2356,New Caledonia,2010,1.7,0.0,0.31,Oceania
+2357,New Caledonia,2011,1.73,0.0,0.42,Oceania
+2358,New Caledonia,2012,1.72,0.0,0.46,Oceania
+2359,New Caledonia,2013,1.87,0.0,0.51,Oceania
+2360,New Caledonia,2014,2.5,0.0,0.35,Oceania
+2361,New Caledonia,2015,2.34,0.0,0.41,Oceania
+2362,New Caledonia,2016,2.67,0.0,0.29,Oceania
+2363,New Caledonia,2017,2.62,0.0,0.44,Oceania
+2364,New Caledonia,2018,2.58,0.0,0.42,Oceania
+2365,New Caledonia,2019,2.6,0.0,0.54,Oceania
+2366,New Caledonia,2020,2.73,0.0,0.42,Oceania
+2367,New Zealand,2000,10.69,0.0,27.51,Oceania
+2368,New Zealand,2001,13.51,0.0,24.84,Oceania
+2369,New Zealand,2002,11.39,0.0,28.07,Oceania
+2370,New Zealand,2003,12.62,0.0,26.9,Oceania
+2371,New Zealand,2004,10.91,0.0,30.61,Oceania
+2372,New Zealand,2005,13.93,0.0,27.6,Oceania
+2373,New Zealand,2006,13.99,0.0,28.08,Oceania
+2374,New Zealand,2007,13.95,0.0,28.46,Oceania
+2375,New Zealand,2008,14.42,0.0,27.97,Oceania
+2376,New Zealand,2009,11.49,0.0,30.68,Oceania
+2377,New Zealand,2010,11.27,0.0,32.3,Oceania
+2378,New Zealand,2011,10.07,0.0,33.18,Oceania
+2379,New Zealand,2012,11.74,0.0,31.4,Oceania
+2380,New Zealand,2013,10.55,0.0,31.82,Oceania
+2381,New Zealand,2014,8.66,0.0,34.0,Oceania
+2382,New Zealand,2015,8.42,0.0,34.92,Oceania
+2383,New Zealand,2016,6.73,0.0,36.2,Oceania
+2384,New Zealand,2017,7.98,0.0,35.33,Oceania
+2385,New Zealand,2018,7.13,0.0,36.3,Oceania
+2386,New Zealand,2019,7.84,0.0,35.97,Oceania
+2387,New Zealand,2020,8.42,0.0,34.77,Oceania
+2388,Nicaragua,2000,1.69,0.0,0.44,North America
+2389,Nicaragua,2001,1.87,0.0,0.46,North America
+2390,Nicaragua,2002,2.01,0.0,0.69,North America
+2391,Nicaragua,2003,1.78,0.0,0.82,North America
+2392,Nicaragua,2004,1.67,0.0,1.02,North America
+2393,Nicaragua,2005,1.82,0.0,1.19,North America
+2394,Nicaragua,2006,1.95,0.0,1.15,North America
+2395,Nicaragua,2007,1.93,0.0,0.99,North America
+2396,Nicaragua,2008,1.96,0.0,1.26,North America
+2397,Nicaragua,2009,2.39,0.0,1.16,North America
+2398,Nicaragua,2010,2.17,0.0,1.34,North America
+2399,Nicaragua,2011,2.35,0.0,1.31,North America
+2400,Nicaragua,2012,2.22,0.0,1.67,North America
+2401,Nicaragua,2013,1.99,0.0,2.05,North America
+2402,Nicaragua,2014,2.07,0.0,2.28,North America
+2403,Nicaragua,2015,2.2,0.0,2.24,North America
+2404,Nicaragua,2016,2.09,0.0,2.38,North America
+2405,Nicaragua,2017,2.08,0.0,2.3,North America
+2406,Nicaragua,2018,2.05,0.0,2.48,North America
+2407,Nicaragua,2019,2.17,0.0,2.31,North America
+2408,Nicaragua,2020,2.0,0.0,2.42,North America
+2409,Niger,2000,0.18,0.0,0.0,Africa
+2410,Niger,2001,0.16,0.0,0.0,Africa
+2411,Niger,2002,0.17,0.0,0.0,Africa
+2412,Niger,2003,0.18,0.0,0.0,Africa
+2413,Niger,2004,0.19,0.0,0.0,Africa
+2414,Niger,2005,0.22,0.0,0.0,Africa
+2415,Niger,2006,0.21,0.0,0.0,Africa
+2416,Niger,2007,0.21,0.0,0.0,Africa
+2417,Niger,2008,0.21,0.0,0.0,Africa
+2418,Niger,2009,0.24,0.0,0.0,Africa
+2419,Niger,2010,0.27,0.0,0.0,Africa
+2420,Niger,2011,0.32,0.0,0.0,Africa
+2421,Niger,2012,0.38,0.0,0.01,Africa
+2422,Niger,2013,0.41,0.0,0.01,Africa
+2423,Niger,2014,0.41,0.0,0.01,Africa
+2424,Niger,2015,0.5,0.0,0.01,Africa
+2425,Niger,2016,0.49,0.0,0.01,Africa
+2426,Niger,2017,0.52,0.0,0.01,Africa
+2427,Niger,2018,0.49,0.0,0.05,Africa
+2428,Niger,2019,0.56,0.0,0.05,Africa
+2429,Niger,2020,0.38,0.0,0.05,Africa
+2430,Nigeria,2000,8.45,0.0,5.7,Africa
+2431,Nigeria,2001,8.98,0.0,5.86,Africa
+2432,Nigeria,2002,12.51,0.0,8.16,Africa
+2433,Nigeria,2003,11.97,0.0,7.38,Africa
+2434,Nigeria,2004,15.2,0.0,8.05,Africa
+2435,Nigeria,2005,14.83,0.0,7.7,Africa
+2436,Nigeria,2006,15.83,0.0,6.21,Africa
+2437,Nigeria,2007,15.74,0.0,6.17,Africa
+2438,Nigeria,2008,14.47,0.0,5.67,Africa
+2439,Nigeria,2009,14.33,0.0,4.49,Africa
+2440,Nigeria,2010,18.56,0.0,6.33,Africa
+2441,Nigeria,2011,19.88,0.0,5.84,Africa
+2442,Nigeria,2012,21.66,0.0,5.64,Africa
+2443,Nigeria,2013,22.14,0.0,5.31,Africa
+2444,Nigeria,2014,25.26,0.0,5.34,Africa
+2445,Nigeria,2015,25.1,0.0,5.71,Africa
+2446,Nigeria,2016,23.89,0.0,8.12,Africa
+2447,Nigeria,2017,25.06,0.0,7.72,Africa
+2448,Nigeria,2018,24.11,0.0,7.74,Africa
+2449,Nigeria,2019,23.16,0.0,8.49,Africa
+2450,Nigeria,2020,21.98,0.0,7.75,Africa
+2451,North Macedonia,2000,5.64,0.0,1.17,Europe
+2452,North Macedonia,2001,5.74,0.0,0.63,Europe
+2453,North Macedonia,2002,5.33,0.0,0.76,Europe
+2454,North Macedonia,2003,5.36,0.0,1.37,Europe
+2455,North Macedonia,2004,5.18,0.0,1.48,Europe
+2456,North Macedonia,2005,5.45,0.0,1.49,Europe
+2457,North Macedonia,2006,5.36,0.0,1.65,Europe
+2458,North Macedonia,2007,5.49,0.0,1.01,Europe
+2459,North Macedonia,2008,5.47,0.0,0.84,Europe
+2460,North Macedonia,2009,5.55,0.0,1.27,Europe
+2461,North Macedonia,2010,4.83,0.0,2.43,Europe
+2462,North Macedonia,2011,5.33,0.0,1.43,Europe
+2463,North Macedonia,2012,5.22,0.0,1.04,Europe
+2464,North Macedonia,2013,4.5,0.0,1.59,Europe
+2465,North Macedonia,2014,4.09,0.0,1.29,Europe
+2466,North Macedonia,2015,3.62,0.0,2.03,Europe
+2467,North Macedonia,2016,3.56,0.0,2.07,Europe
+2468,North Macedonia,2017,4.31,0.0,1.29,Europe
+2469,North Macedonia,2018,3.65,0.0,1.96,Europe
+2470,North Macedonia,2019,4.53,0.0,1.34,Europe
+2471,North Macedonia,2020,3.86,0.0,1.48,Europe
+2472,Norway,2000,0.32,0.0,142.11,Europe
+2473,Norway,2001,0.42,0.0,120.74,Europe
+2474,Norway,2002,0.42,0.0,129.7,Europe
+2475,Norway,2003,0.56,0.0,106.03,Europe
+2476,Norway,2004,0.59,0.0,109.39,Europe
+2477,Norway,2005,0.58,0.0,136.52,Europe
+2478,Norway,2006,0.69,0.0,120.4,Europe
+2479,Norway,2007,1.0,0.0,134.94,Europe
+2480,Norway,2008,0.67,0.0,140.35,Europe
+2481,Norway,2009,4.41,0.0,126.49,Europe
+2482,Norway,2010,5.12,0.0,117.97,Europe
+2483,Norway,2011,4.31,0.0,121.9,Europe
+2484,Norway,2012,2.95,0.0,143.6,Europe
+2485,Norway,2013,2.85,0.0,130.42,Europe
+2486,Norway,2014,3.0,0.0,137.94,Europe
+2487,Norway,2015,2.99,0.0,140.07,Europe
+2488,Norway,2016,2.97,0.0,145.16,Europe
+2489,Norway,2017,2.93,0.0,145.48,Europe
+2490,Norway,2018,2.96,0.0,143.06,Europe
+2491,Norway,2019,2.76,0.0,131.07,Europe
+2492,Norway,2020,2.2,0.0,152.09,Europe
+2493,Oman,2000,8.56,0.0,0.0,Asia
+2494,Oman,2001,9.15,0.0,0.0,Asia
+2495,Oman,2002,9.71,0.0,0.0,Asia
+2496,Oman,2003,10.07,0.0,0.0,Asia
+2497,Oman,2004,10.81,0.0,0.0,Asia
+2498,Oman,2005,11.89,0.0,0.0,Asia
+2499,Oman,2006,13.26,0.0,0.0,Asia
+2500,Oman,2007,13.32,0.0,0.0,Asia
+2501,Oman,2008,14.88,0.0,0.0,Asia
+2502,Oman,2009,16.75,0.0,0.0,Asia
+2503,Oman,2010,18.63,0.0,0.0,Asia
+2504,Oman,2011,20.56,0.0,0.0,Asia
+2505,Oman,2012,23.52,0.0,0.0,Asia
+2506,Oman,2013,24.67,0.0,0.0,Asia
+2507,Oman,2014,27.38,0.0,0.0,Asia
+2508,Oman,2015,30.79,0.0,0.0,Asia
+2509,Oman,2016,32.17,0.0,0.0,Asia
+2510,Oman,2017,33.96,0.0,0.02,Asia
+2511,Oman,2018,35.45,0.0,0.02,Asia
+2512,Oman,2019,36.03,0.0,0.02,Asia
+2513,Oman,2020,34.21,0.0,0.13,Asia
+2514,Pakistan,2000,45.23,0.38,17.79,Asia
+2515,Pakistan,2001,47.33,1.98,19.54,Asia
+2516,Pakistan,2002,47.69,1.8,22.95,Asia
+2517,Pakistan,2003,48.18,1.81,27.49,Asia
+2518,Pakistan,2004,52.87,1.93,26.34,Asia
+2519,Pakistan,2005,55.7,2.41,31.52,Asia
+2520,Pakistan,2006,59.1,2.55,32.66,Asia
+2521,Pakistan,2007,58.94,2.31,29.53,Asia
+2522,Pakistan,2008,57.32,1.74,28.67,Asia
+2523,Pakistan,2009,60.55,2.64,29.05,Asia
+2524,Pakistan,2010,59.31,2.56,32.6,Asia
+2525,Pakistan,2011,61.62,3.84,29.37,Asia
+2526,Pakistan,2012,62.13,5.27,30.7,Asia
+2527,Pakistan,2013,67.27,4.4,33.26,Asia
+2528,Pakistan,2014,68.28,4.58,34.48,Asia
+2529,Pakistan,2015,71.17,4.33,36.82,Asia
+2530,Pakistan,2016,82.57,5.44,35.64,Asia
+2531,Pakistan,2017,91.08,8.11,32.39,Asia
+2532,Pakistan,2018,87.95,9.29,42.66,Asia
+2533,Pakistan,2019,86.44,9.07,40.52,Asia
+2534,Pakistan,2020,84.55,9.64,42.69,Asia
+2535,Panama,2000,1.36,0.0,3.4,North America
+2536,Panama,2001,2.43,0.0,2.51,North America
+2537,Panama,2002,1.75,0.0,3.4,North America
+2538,Panama,2003,2.55,0.0,2.84,North America
+2539,Panama,2004,1.83,0.0,3.77,North America
+2540,Panama,2005,1.95,0.0,3.72,North America
+2541,Panama,2006,2.28,0.0,3.58,North America
+2542,Panama,2007,2.65,0.0,3.67,North America
+2543,Panama,2008,2.25,0.0,3.99,North America
+2544,Panama,2009,2.82,0.0,3.92,North America
+2545,Panama,2010,2.95,0.0,4.2,North America
+2546,Panama,2011,3.42,0.0,4.14,North America
+2547,Panama,2012,2.94,0.0,5.42,North America
+2548,Panama,2013,3.47,0.0,5.2,North America
+2549,Panama,2014,3.16,0.0,5.19,North America
+2550,Panama,2015,2.66,0.0,6.69,North America
+2551,Panama,2016,2.76,0.0,7.24,North America
+2552,Panama,2017,2.73,0.0,7.9,North America
+2553,Panama,2018,1.9,0.0,8.74,North America
+2554,Panama,2019,4.15,0.0,6.24,North America
+2555,Panama,2020,2.7,0.0,8.35,North America
+2556,Papua New Guinea,2000,1.14,0.0,0.97,Oceania
+2557,Papua New Guinea,2001,1.59,0.0,1.0,Oceania
+2558,Papua New Guinea,2002,1.76,0.0,1.0,Oceania
+2559,Papua New Guinea,2003,2.03,0.0,1.07,Oceania
+2560,Papua New Guinea,2004,2.14,0.0,1.04,Oceania
+2561,Papua New Guinea,2005,2.05,0.0,1.28,Oceania
+2562,Papua New Guinea,2006,2.0,0.0,1.25,Oceania
+2563,Papua New Guinea,2007,2.0,0.0,1.34,Oceania
+2564,Papua New Guinea,2008,1.94,0.0,1.34,Oceania
+2565,Papua New Guinea,2009,2.03,0.0,1.32,Oceania
+2566,Papua New Guinea,2010,2.07,0.0,1.32,Oceania
+2567,Papua New Guinea,2011,2.11,0.0,1.42,Oceania
+2568,Papua New Guinea,2012,2.18,0.0,1.43,Oceania
+2569,Papua New Guinea,2013,2.35,0.0,1.47,Oceania
+2570,Papua New Guinea,2014,2.53,0.0,1.49,Oceania
+2571,Papua New Guinea,2015,2.67,0.0,1.48,Oceania
+2572,Papua New Guinea,2016,2.79,0.0,1.48,Oceania
+2573,Papua New Guinea,2017,2.99,0.0,1.27,Oceania
+2574,Papua New Guinea,2018,3.13,0.0,1.27,Oceania
+2575,Papua New Guinea,2019,3.16,0.0,1.28,Oceania
+2576,Papua New Guinea,2020,3.36,0.0,1.28,Oceania
+2577,Paraguay,2000,0.01,0.0,52.96,South America
+2578,Paraguay,2001,0.01,0.0,44.86,South America
+2579,Paraguay,2002,0.01,0.0,47.73,South America
+2580,Paraguay,2003,0.02,0.0,51.25,South America
+2581,Paraguay,2004,0.0,0.0,51.41,South America
+2582,Paraguay,2005,0.0,0.0,50.65,South America
+2583,Paraguay,2006,0.0,0.0,53.25,South America
+2584,Paraguay,2007,0.0,0.0,53.19,South America
+2585,Paraguay,2008,0.0,0.0,54.91,South America
+2586,Paraguay,2009,0.0,0.0,54.41,South America
+2587,Paraguay,2010,0.0,0.0,53.52,South America
+2588,Paraguay,2011,0.0,0.0,57.05,South America
+2589,Paraguay,2012,0.0,0.0,59.63,South America
+2590,Paraguay,2013,0.04,0.0,59.87,South America
+2591,Paraguay,2014,0.04,0.0,54.83,South America
+2592,Paraguay,2015,0.04,0.0,55.3,South America
+2593,Paraguay,2016,0.0,0.0,63.3,South America
+2594,Paraguay,2017,0.0,0.0,59.23,South America
+2595,Paraguay,2018,0.0,0.0,58.75,South America
+2596,Paraguay,2019,0.07,0.0,48.99,South America
+2597,Paraguay,2020,0.07,0.0,46.43,South America
+2598,Peru,2000,3.47,0.0,16.07,South America
+2599,Peru,2001,2.94,0.0,17.48,South America
+2600,Peru,2002,3.66,0.0,17.93,South America
+2601,Peru,2003,4.05,0.0,18.44,South America
+2602,Peru,2004,6.36,0.0,17.49,South America
+2603,Peru,2005,7.29,0.0,18.05,South America
+2604,Peru,2006,7.1,0.0,19.63,South America
+2605,Peru,2007,9.68,0.0,19.46,South America
+2606,Peru,2008,12.88,0.0,19.14,South America
+2607,Peru,2009,11.97,0.0,19.7,South America
+2608,Peru,2010,14.15,0.0,20.13,South America
+2609,Peru,2011,15.65,0.0,21.85,South America
+2610,Peru,2012,16.72,0.0,21.69,South America
+2611,Peru,2013,18.8,0.0,22.85,South America
+2612,Peru,2014,20.41,0.0,23.06,South America
+2613,Peru,2015,21.39,0.0,24.86,South America
+2614,Peru,2016,23.9,0.0,25.95,South America
+2615,Peru,2017,21.62,0.0,30.84,South America
+2616,Peru,2018,21.4,0.0,33.28,South America
+2617,Peru,2019,22.16,0.0,34.41,South America
+2618,Peru,2020,19.1,0.0,33.72,South America
+2619,Philippines,2000,24.29,0.0,19.37,Asia
+2620,Philippines,2001,27.72,0.0,17.5,Asia
+2621,Philippines,2002,29.29,0.0,17.22,Asia
+2622,Philippines,2003,33.03,0.0,17.64,Asia
+2623,Philippines,2004,34.83,0.0,18.82,Asia
+2624,Philippines,2005,35.94,0.0,18.25,Asia
+2625,Philippines,2006,34.12,0.0,20.39,Asia
+2626,Philippines,2007,38.29,0.0,18.8,Asia
+2627,Philippines,2008,37.75,0.0,20.56,Asia
+2628,Philippines,2009,39.1,0.0,20.26,Asia
+2629,Philippines,2010,46.55,0.0,18.15,Asia
+2630,Philippines,2011,49.04,0.0,20.09,Asia
+2631,Philippines,2012,51.82,0.0,21.06,Asia
+2632,Philippines,2013,55.06,0.0,20.18,Asia
+2633,Philippines,2014,57.07,0.0,20.18,Asia
+2634,Philippines,2015,60.82,0.0,21.59,Asia
+2635,Philippines,2016,68.44,0.0,22.38,Asia
+2636,Philippines,2017,71.03,0.0,23.35,Asia
+2637,Philippines,2018,76.05,0.0,23.73,Asia
+2638,Philippines,2019,83.3,0.0,22.78,Asia
+2639,Philippines,2020,79.27,0.0,23.21,Asia
+2640,Poland,2000,140.85,0.0,2.33,Europe
+2641,Poland,2001,140.94,0.0,2.78,Europe
+2642,Poland,2002,139.72,0.0,2.77,Europe
+2643,Poland,2003,147.76,0.0,2.25,Europe
+2644,Poland,2004,149.06,0.0,3.2,Europe
+2645,Poland,2005,151.2,0.0,3.85,Europe
+2646,Poland,2006,156.16,0.0,4.29,Europe
+2647,Poland,2007,153.08,0.0,5.43,Europe
+2648,Poland,2008,148.03,0.0,6.61,Europe
+2649,Poland,2009,142.4,0.0,8.69,Europe
+2650,Poland,2010,146.12,0.0,10.88,Europe
+2651,Poland,2011,149.88,0.0,13.13,Europe
+2652,Poland,2012,144.75,0.0,16.88,Europe
+2653,Poland,2013,146.85,0.0,17.06,Europe
+2654,Poland,2014,138.53,0.0,19.85,Europe
+2655,Poland,2015,141.55,0.0,22.69,Europe
+2656,Poland,2016,143.28,0.0,22.81,Europe
+2657,Poland,2017,145.8,0.0,24.13,Europe
+2658,Poland,2018,147.87,0.0,21.62,Europe
+2659,Poland,2019,137.58,0.0,25.46,Europe
+2660,Poland,2020,128.91,0.0,28.23,Europe
+2661,Portugal,2000,30.51,0.0,12.87,Europe
+2662,Portugal,2001,30.43,0.0,15.74,Europe
+2663,Portugal,2002,35.92,0.0,9.73,Europe
+2664,Portugal,2003,28.82,0.0,17.7,Europe
+2665,Portugal,2004,32.51,0.0,12.31,Europe
+2666,Portugal,2005,37.93,0.0,8.25,Europe
+2667,Portugal,2006,32.85,0.0,15.72,Europe
+2668,Portugal,2007,30.68,0.0,16.21,Europe
+2669,Portugal,2008,30.84,0.0,14.64,Europe
+2670,Portugal,2009,31.19,0.0,18.29,Europe
+2671,Portugal,2010,25.34,0.0,28.35,Europe
+2672,Portugal,2011,27.77,0.0,24.11,Europe
+2673,Portugal,2012,26.2,0.0,19.37,Europe
+2674,Portugal,2013,21.06,0.0,29.47,Europe
+2675,Portugal,2014,20.39,0.0,31.57,Europe
+2676,Portugal,2015,26.9,0.0,24.37,Europe
+2677,Portugal,2016,26.83,0.0,32.3,Europe
+2678,Portugal,2017,35.12,0.0,22.58,Europe
+2679,Portugal,2018,29.0,0.0,29.41,Europe
+2680,Portugal,2019,24.32,0.0,27.41,Europe
+2681,Portugal,2020,21.43,0.0,30.11,Europe
+2682,Puerto Rico,2000,21.66,0.0,0.15,North America
+2683,Puerto Rico,2001,22.17,0.0,0.13,North America
+2684,Puerto Rico,2002,23.06,0.0,0.11,North America
+2685,Puerto Rico,2003,23.83,0.0,0.1,North America
+2686,Puerto Rico,2004,23.99,0.0,0.14,North America
+2687,Puerto Rico,2005,24.82,0.0,0.14,North America
+2688,Puerto Rico,2006,23.69,0.0,0.14,North America
+2689,Puerto Rico,2007,22.14,0.0,0.16,North America
+2690,Puerto Rico,2008,20.76,0.0,0.16,North America
+2691,Puerto Rico,2009,20.53,0.0,0.17,North America
+2692,Puerto Rico,2010,20.74,0.0,0.16,North America
+2693,Puerto Rico,2011,19.87,0.0,0.15,North America
+2694,Puerto Rico,2012,21.08,0.0,0.12,North America
+2695,Puerto Rico,2013,20.2,0.0,0.29,North America
+2696,Puerto Rico,2014,20.07,0.0,0.35,North America
+2697,Puerto Rico,2015,20.03,0.0,0.38,North America
+2698,Puerto Rico,2016,20.57,0.0,0.39,North America
+2699,Puerto Rico,2017,16.32,0.0,0.37,North America
+2700,Puerto Rico,2018,16.75,0.0,0.24,North America
+2701,Puerto Rico,2019,16.8,0.0,0.46,North America
+2702,Puerto Rico,2020,16.67,0.0,0.47,North America
+2703,Qatar,2000,8.59,0.0,0.0,Asia
+2704,Qatar,2001,9.35,0.0,0.0,Asia
+2705,Qatar,2002,10.28,0.0,0.0,Asia
+2706,Qatar,2003,11.29,0.0,0.0,Asia
+2707,Qatar,2004,12.44,0.0,0.0,Asia
+2708,Qatar,2005,13.53,0.0,0.0,Asia
+2709,Qatar,2006,16.06,0.0,0.0,Asia
+2710,Qatar,2007,18.29,0.0,0.0,Asia
+2711,Qatar,2008,20.32,0.0,0.0,Asia
+2712,Qatar,2009,22.71,0.0,0.0,Asia
+2713,Qatar,2010,26.46,0.0,0.0,Asia
+2714,Qatar,2011,28.87,0.0,0.01,Asia
+2715,Qatar,2012,32.7,0.0,0.01,Asia
+2716,Qatar,2013,32.65,0.0,0.01,Asia
+2717,Qatar,2014,36.46,0.0,0.02,Asia
+2718,Qatar,2015,39.11,0.0,0.03,Asia
+2719,Qatar,2016,39.88,0.0,0.03,Asia
+2720,Qatar,2017,42.94,0.0,0.03,Asia
+2721,Qatar,2018,45.16,0.0,0.02,Asia
+2722,Qatar,2019,46.98,0.0,0.03,Asia
+2723,Qatar,2020,44.63,0.0,0.02,Asia
+2724,Romania,2000,31.32,5.46,14.78,Europe
+2725,Romania,2001,33.18,5.45,14.92,Europe
+2726,Romania,2002,32.86,5.51,16.05,Europe
+2727,Romania,2003,36.67,4.91,13.26,Europe
+2728,Romania,2004,34.43,5.55,16.51,Europe
+2729,Romania,2005,33.64,5.55,20.22,Europe
+2730,Romania,2006,38.71,5.63,18.36,Europe
+2731,Romania,2007,37.96,7.71,16.01,Europe
+2732,Romania,2008,36.5,11.23,17.22,Europe
+2733,Romania,2009,30.43,11.75,15.55,Europe
+2734,Romania,2010,28.69,11.62,20.3,Europe
+2735,Romania,2011,33.93,11.75,16.32,Europe
+2736,Romania,2012,32.38,11.47,14.93,Europe
+2737,Romania,2013,26.78,11.62,20.15,Europe
+2738,Romania,2014,26.39,11.68,27.12,Europe
+2739,Romania,2015,28.09,11.64,26.19,Europe
+2740,Romania,2016,26.33,11.29,26.97,Europe
+2741,Romania,2017,28.15,11.51,24.29,Europe
+2742,Romania,2018,26.87,11.38,26.19,Europe
+2743,Romania,2019,23.27,11.28,24.63,Europe
+2744,Romania,2020,19.54,11.47,24.61,Europe
+2745,Rwanda,2000,0.0,0.0,0.11,Africa
+2746,Rwanda,2001,0.0,0.0,0.09,Africa
+2747,Rwanda,2002,0.0,0.0,0.1,Africa
+2748,Rwanda,2003,0.0,0.0,0.12,Africa
+2749,Rwanda,2004,0.01,0.0,0.08,Africa
+2750,Rwanda,2005,0.04,0.0,0.06,Africa
+2751,Rwanda,2006,0.12,0.0,0.04,Africa
+2752,Rwanda,2007,0.11,0.0,0.04,Africa
+2753,Rwanda,2008,0.11,0.0,0.07,Africa
+2754,Rwanda,2009,0.14,0.0,0.1,Africa
+2755,Rwanda,2010,0.16,0.0,0.11,Africa
+2756,Rwanda,2011,0.18,0.0,0.13,Africa
+2757,Rwanda,2012,0.2,0.0,0.14,Africa
+2758,Rwanda,2013,0.23,0.0,0.15,Africa
+2759,Rwanda,2014,0.26,0.0,0.21,Africa
+2760,Rwanda,2015,0.28,0.0,0.3,Africa
+2761,Rwanda,2016,0.36,0.0,0.31,Africa
+2762,Rwanda,2017,0.4,0.0,0.36,Africa
+2763,Rwanda,2018,0.49,0.0,0.37,Africa
+2764,Rwanda,2019,0.55,0.0,0.47,Africa
+2765,Rwanda,2020,0.32,0.0,0.59,Africa
+2766,Saint Kitts and Nevis,2000,0.09,0.0,0.0,North America
+2767,Saint Kitts and Nevis,2001,0.09,0.0,0.0,North America
+2768,Saint Kitts and Nevis,2002,0.1,0.0,0.0,North America
+2769,Saint Kitts and Nevis,2003,0.12,0.0,0.0,North America
+2770,Saint Kitts and Nevis,2004,0.12,0.0,0.0,North America
+2771,Saint Kitts and Nevis,2005,0.13,0.0,0.0,North America
+2772,Saint Kitts and Nevis,2006,0.13,0.0,0.0,North America
+2773,Saint Kitts and Nevis,2007,0.16,0.0,0.0,North America
+2774,Saint Kitts and Nevis,2008,0.17,0.0,0.0,North America
+2775,Saint Kitts and Nevis,2009,0.17,0.0,0.0,North America
+2776,Saint Kitts and Nevis,2010,0.18,0.0,0.0,North America
+2777,Saint Kitts and Nevis,2011,0.18,0.0,0.0,North America
+2778,Saint Kitts and Nevis,2012,0.19,0.0,0.01,North America
+2779,Saint Kitts and Nevis,2013,0.2,0.0,0.01,North America
+2780,Saint Kitts and Nevis,2014,0.2,0.0,0.01,North America
+2781,Saint Kitts and Nevis,2015,0.19,0.0,0.01,North America
+2782,Saint Kitts and Nevis,2016,0.2,0.0,0.01,North America
+2783,Saint Kitts and Nevis,2017,0.21,0.0,0.0,North America
+2784,Saint Kitts and Nevis,2018,0.21,0.0,0.01,North America
+2785,Saint Kitts and Nevis,2019,0.21,0.0,0.01,North America
+2786,Saint Kitts and Nevis,2020,0.2,0.0,0.01,North America
+2787,Saint Lucia,2000,0.26,0.0,0.0,North America
+2788,Saint Lucia,2001,0.27,0.0,0.0,North America
+2789,Saint Lucia,2002,0.27,0.0,0.0,North America
+2790,Saint Lucia,2003,0.28,0.0,0.0,North America
+2791,Saint Lucia,2004,0.29,0.0,0.0,North America
+2792,Saint Lucia,2005,0.3,0.0,0.0,North America
+2793,Saint Lucia,2006,0.31,0.0,0.0,North America
+2794,Saint Lucia,2007,0.32,0.0,0.0,North America
+2795,Saint Lucia,2008,0.33,0.0,0.0,North America
+2796,Saint Lucia,2009,0.34,0.0,0.0,North America
+2797,Saint Lucia,2010,0.36,0.0,0.0,North America
+2798,Saint Lucia,2011,0.36,0.0,0.0,North America
+2799,Saint Lucia,2012,0.36,0.0,0.0,North America
+2800,Saint Lucia,2013,0.36,0.0,0.0,North America
+2801,Saint Lucia,2014,0.36,0.0,0.0,North America
+2802,Saint Lucia,2015,0.36,0.0,0.0,North America
+2803,Saint Lucia,2016,0.37,0.0,0.0,North America
+2804,Saint Lucia,2017,0.38,0.0,0.0,North America
+2805,Saint Lucia,2018,0.37,0.0,0.0,North America
+2806,Saint Lucia,2019,0.35,0.0,0.0,North America
+2807,Saint Lucia,2020,0.33,0.0,0.0,North America
+2808,Saint Vincent and the Grenadines,2000,0.06,0.0,0.03,North America
+2809,Saint Vincent and the Grenadines,2001,0.08,0.0,0.02,North America
+2810,Saint Vincent and the Grenadines,2002,0.08,0.0,0.02,North America
+2811,Saint Vincent and the Grenadines,2003,0.08,0.0,0.02,North America
+2812,Saint Vincent and the Grenadines,2004,0.09,0.0,0.03,North America
+2813,Saint Vincent and the Grenadines,2005,0.1,0.0,0.03,North America
+2814,Saint Vincent and the Grenadines,2006,0.1,0.0,0.02,North America
+2815,Saint Vincent and the Grenadines,2007,0.11,0.0,0.02,North America
+2816,Saint Vincent and the Grenadines,2008,0.11,0.0,0.02,North America
+2817,Saint Vincent and the Grenadines,2009,0.11,0.0,0.02,North America
+2818,Saint Vincent and the Grenadines,2010,0.11,0.0,0.03,North America
+2819,Saint Vincent and the Grenadines,2011,0.11,0.0,0.03,North America
+2820,Saint Vincent and the Grenadines,2012,0.11,0.0,0.03,North America
+2821,Saint Vincent and the Grenadines,2013,0.11,0.0,0.02,North America
+2822,Saint Vincent and the Grenadines,2014,0.12,0.0,0.01,North America
+2823,Saint Vincent and the Grenadines,2015,0.12,0.0,0.02,North America
+2824,Saint Vincent and the Grenadines,2016,0.13,0.0,0.02,North America
+2825,Saint Vincent and the Grenadines,2017,0.12,0.0,0.02,North America
+2826,Saint Vincent and the Grenadines,2018,0.12,0.0,0.02,North America
+2827,Saint Vincent and the Grenadines,2019,0.12,0.0,0.02,North America
+2828,Saint Vincent and the Grenadines,2020,0.11,0.0,0.04,North America
+2829,Samoa,2000,0.05,0.0,0.05,Oceania
+2830,Samoa,2001,0.05,0.0,0.06,Oceania
+2831,Samoa,2002,0.05,0.0,0.07,Oceania
+2832,Samoa,2003,0.05,0.0,0.06,Oceania
+2833,Samoa,2004,0.05,0.0,0.06,Oceania
+2834,Samoa,2005,0.05,0.0,0.06,Oceania
+2835,Samoa,2006,0.06,0.0,0.05,Oceania
+2836,Samoa,2007,0.06,0.0,0.05,Oceania
+2837,Samoa,2008,0.06,0.0,0.05,Oceania
+2838,Samoa,2009,0.06,0.0,0.05,Oceania
+2839,Samoa,2010,0.06,0.0,0.05,Oceania
+2840,Samoa,2011,0.07,0.0,0.05,Oceania
+2841,Samoa,2012,0.07,0.0,0.04,Oceania
+2842,Samoa,2013,0.08,0.0,0.03,Oceania
+2843,Samoa,2014,0.09,0.0,0.03,Oceania
+2844,Samoa,2015,0.09,0.0,0.04,Oceania
+2845,Samoa,2016,0.09,0.0,0.05,Oceania
+2846,Samoa,2017,0.09,0.0,0.05,Oceania
+2847,Samoa,2018,0.09,0.0,0.06,Oceania
+2848,Samoa,2019,0.09,0.0,0.06,Oceania
+2849,Samoa,2020,0.1,0.0,0.06,Oceania
+2850,Sao Tome and Principe,2000,0.02,0.0,0.01,Africa
+2851,Sao Tome and Principe,2001,0.02,0.0,0.0,Africa
+2852,Sao Tome and Principe,2002,0.02,0.0,0.01,Africa
+2853,Sao Tome and Principe,2003,0.02,0.0,0.01,Africa
+2854,Sao Tome and Principe,2004,0.03,0.0,0.01,Africa
+2855,Sao Tome and Principe,2005,0.04,0.0,0.0,Africa
+2856,Sao Tome and Principe,2006,0.03,0.0,0.01,Africa
+2857,Sao Tome and Principe,2007,0.03,0.0,0.01,Africa
+2858,Sao Tome and Principe,2008,0.04,0.0,0.01,Africa
+2859,Sao Tome and Principe,2009,0.04,0.0,0.01,Africa
+2860,Sao Tome and Principe,2010,0.05,0.0,0.0,Africa
+2861,Sao Tome and Principe,2011,0.05,0.0,0.01,Africa
+2862,Sao Tome and Principe,2012,0.05,0.0,0.01,Africa
+2863,Sao Tome and Principe,2013,0.06,0.0,0.01,Africa
+2864,Sao Tome and Principe,2014,0.07,0.0,0.01,Africa
+2865,Sao Tome and Principe,2015,0.07,0.0,0.01,Africa
+2866,Sao Tome and Principe,2016,0.08,0.0,0.01,Africa
+2867,Sao Tome and Principe,2017,0.08,0.0,0.01,Africa
+2868,Sao Tome and Principe,2018,0.08,0.0,0.01,Africa
+2869,Sao Tome and Principe,2019,0.08,0.0,0.01,Africa
+2870,Sao Tome and Principe,2020,0.09,0.0,0.01,Africa
+2892,Senegal,2000,1.39,0.0,0.05,Africa
+2893,Senegal,2001,1.63,0.0,0.05,Africa
+2894,Senegal,2002,1.55,0.0,0.24,Africa
+2895,Senegal,2003,1.52,0.0,0.38,Africa
+2896,Senegal,2004,1.65,0.0,0.34,Africa
+2897,Senegal,2005,1.94,0.0,0.32,Africa
+2898,Senegal,2006,1.99,0.0,0.29,Africa
+2899,Senegal,2007,2.22,0.0,0.24,Africa
+2900,Senegal,2008,2.31,0.0,0.28,Africa
+2901,Senegal,2009,2.36,0.0,0.29,Africa
+2902,Senegal,2010,2.42,0.0,0.4,Africa
+2903,Senegal,2011,2.47,0.0,0.39,Africa
+2904,Senegal,2012,2.71,0.0,0.45,Africa
+2905,Senegal,2013,2.83,0.0,0.47,Africa
+2906,Senegal,2014,3.15,0.0,0.49,Africa
+2907,Senegal,2015,3.36,0.0,0.53,Africa
+2908,Senegal,2016,3.68,0.0,0.49,Africa
+2909,Senegal,2017,3.9,0.0,0.58,Africa
+2910,Senegal,2018,3.97,0.0,0.7,Africa
+2911,Senegal,2019,4.45,0.0,0.72,Africa
+2912,Senegal,2020,4.23,0.0,1.0,Africa
+2913,Serbia,2007,26.51,0.0,9.46,Europe
+2914,Serbia,2008,27.26,0.0,9.56,Europe
+2915,Serbia,2009,27.17,0.0,10.54,Europe
+2916,Serbia,2010,25.53,0.0,11.89,Europe
+2917,Serbia,2011,29.35,0.0,8.67,Europe
+2918,Serbia,2012,26.89,0.0,9.3,Europe
+2919,Serbia,2013,29.01,0.0,10.22,Europe
+2920,Serbia,2014,22.41,0.0,11.03,Europe
+2921,Serbia,2015,27.48,0.0,10.11,Europe
+2922,Serbia,2016,27.75,0.0,10.86,Europe
+2923,Serbia,2017,27.15,0.0,9.29,Europe
+2924,Serbia,2018,25.77,0.0,10.9,Europe
+2925,Serbia,2019,26.35,0.0,10.51,Europe
+2926,Serbia,2020,27.02,0.0,10.21,Europe
+2927,Seychelles,2000,0.18,0.0,0.0,Africa
+2928,Seychelles,2001,0.18,0.0,0.0,Africa
+2929,Seychelles,2002,0.2,0.0,0.0,Africa
+2930,Seychelles,2003,0.21,0.0,0.0,Africa
+2931,Seychelles,2004,0.21,0.0,0.0,Africa
+2932,Seychelles,2005,0.22,0.0,0.0,Africa
+2933,Seychelles,2006,0.24,0.0,0.0,Africa
+2934,Seychelles,2007,0.25,0.0,0.0,Africa
+2935,Seychelles,2008,0.25,0.0,0.0,Africa
+2936,Seychelles,2009,0.26,0.0,0.0,Africa
+2937,Seychelles,2010,0.28,0.0,0.0,Africa
+2938,Seychelles,2011,0.38,0.0,0.0,Africa
+2939,Seychelles,2012,0.39,0.0,0.0,Africa
+2940,Seychelles,2013,0.4,0.0,0.01,Africa
+2941,Seychelles,2014,0.41,0.0,0.01,Africa
+2942,Seychelles,2015,0.43,0.0,0.01,Africa
+2943,Seychelles,2016,0.46,0.0,0.01,Africa
+2944,Seychelles,2017,0.47,0.0,0.01,Africa
+2945,Seychelles,2018,0.48,0.0,0.01,Africa
+2946,Seychelles,2019,0.49,0.0,0.04,Africa
+2947,Seychelles,2020,0.53,0.0,0.07,Africa
+2948,Sierra Leone,2000,0.07,0.0,0.01,Africa
+2949,Sierra Leone,2001,0.12,0.0,0.01,Africa
+2950,Sierra Leone,2002,0.13,0.0,0.02,Africa
+2951,Sierra Leone,2003,0.12,0.0,0.02,Africa
+2952,Sierra Leone,2004,0.1,0.0,0.02,Africa
+2953,Sierra Leone,2005,0.06,0.0,0.02,Africa
+2954,Sierra Leone,2006,0.04,0.0,0.0,Africa
+2955,Sierra Leone,2007,0.04,0.0,0.02,Africa
+2956,Sierra Leone,2008,0.04,0.0,0.02,Africa
+2957,Sierra Leone,2009,0.04,0.0,0.02,Africa
+2958,Sierra Leone,2010,0.04,0.0,0.12,Africa
+2959,Sierra Leone,2011,0.02,0.0,0.15,Africa
+2960,Sierra Leone,2012,0.06,0.0,0.12,Africa
+2961,Sierra Leone,2013,0.05,0.0,0.1,Africa
+2962,Sierra Leone,2014,0.04,0.0,0.15,Africa
+2963,Sierra Leone,2015,0.05,0.0,0.14,Africa
+2964,Sierra Leone,2016,0.06,0.0,0.16,Africa
+2965,Sierra Leone,2017,0.06,0.0,0.17,Africa
+2966,Sierra Leone,2018,0.06,0.0,0.2,Africa
+2967,Sierra Leone,2019,0.02,0.0,0.19,Africa
+2968,Sierra Leone,2020,0.02,0.0,0.19,Africa
+2969,Singapore,2000,29.0,0.0,0.0,Asia
+2970,Singapore,2001,32.05,0.0,0.0,Asia
+2971,Singapore,2002,33.53,0.0,0.0,Asia
+2972,Singapore,2003,34.21,0.0,0.0,Asia
+2973,Singapore,2004,35.56,0.0,0.0,Asia
+2974,Singapore,2005,36.84,0.0,0.0,Asia
+2975,Singapore,2006,38.03,0.0,0.0,Asia
+2976,Singapore,2007,39.64,0.0,0.0,Asia
+2977,Singapore,2008,40.27,0.0,0.0,Asia
+2978,Singapore,2009,40.47,0.0,0.0,Asia
+2979,Singapore,2010,43.05,0.0,0.0,Asia
+2980,Singapore,2011,43.66,0.0,0.01,Asia
+2981,Singapore,2012,44.51,0.0,0.01,Asia
+2982,Singapore,2013,45.5,0.0,0.16,Asia
+2983,Singapore,2014,46.68,0.0,0.28,Asia
+2984,Singapore,2015,47.45,0.0,0.41,Asia
+2985,Singapore,2016,48.58,0.0,0.53,Asia
+2986,Singapore,2017,49.16,0.0,0.55,Asia
+2987,Singapore,2018,49.87,0.0,0.67,Asia
+2988,Singapore,2019,50.96,0.0,0.78,Asia
+2989,Singapore,2020,50.04,0.0,0.83,Asia
+2990,Slovakia,2000,9.68,16.49,4.61,Europe
+2991,Slovakia,2001,9.65,17.1,5.08,Europe
+2992,Slovakia,2002,8.81,17.95,5.42,Europe
+2993,Slovakia,2003,9.52,17.86,3.58,Europe
+2994,Slovakia,2004,9.29,17.03,4.13,Europe
+2995,Slovakia,2005,8.93,17.73,4.68,Europe
+2996,Slovakia,2006,8.39,18.01,4.81,Europe
+2997,Slovakia,2007,7.57,15.33,4.93,Europe
+2998,Slovakia,2008,7.46,16.7,4.57,Europe
+2999,Slovakia,2009,6.89,14.08,4.92,Europe
+3000,Slovakia,2010,6.9,14.57,5.95,Europe
+3001,Slovakia,2011,7.8,15.41,5.0,Europe
+3002,Slovakia,2012,7.28,15.49,5.47,Europe
+3003,Slovakia,2013,6.36,15.72,6.36,Europe
+3004,Slovakia,2014,5.3,15.5,6.24,Europe
+3005,Slovakia,2015,5.34,15.15,6.05,Europe
+3006,Slovakia,2016,5.28,14.77,6.63,Europe
+3007,Slovakia,2017,5.67,15.08,6.54,Europe
+3008,Slovakia,2018,5.92,14.84,5.81,Europe
+3009,Slovakia,2019,6.26,15.28,6.65,Europe
+3010,Slovakia,2020,6.22,15.44,6.85,Europe
+3011,Slovenia,2000,4.95,4.76,3.9,Europe
+3012,Slovenia,2001,5.35,5.26,3.87,Europe
+3013,Slovenia,2002,5.66,5.53,3.41,Europe
+3014,Slovenia,2003,5.54,5.21,3.08,Europe
+3015,Slovenia,2004,5.6,5.46,4.21,Europe
+3016,Slovenia,2005,5.66,5.88,3.57,Europe
+3017,Slovenia,2006,5.86,5.55,3.7,Europe
+3018,Slovenia,2007,5.96,5.7,3.38,Europe
+3019,Slovenia,2008,5.83,6.27,4.31,Europe
+3020,Slovenia,2009,5.75,5.74,4.9,Europe
+3021,Slovenia,2010,5.85,5.66,4.75,Europe
+3022,Slovenia,2011,5.82,6.22,3.88,Europe
+3023,Slovenia,2012,5.69,5.53,4.33,Europe
+3024,Slovenia,2013,5.39,5.3,5.11,Europe
+3025,Slovenia,2014,4.18,6.37,6.6,Europe
+3026,Slovenia,2015,4.8,5.65,4.35,Europe
+3027,Slovenia,2016,5.45,5.72,5.06,Europe
+3028,Slovenia,2017,5.32,6.29,4.44,Europe
+3029,Slovenia,2018,5.12,5.78,5.22,Europe
+3030,Slovenia,2019,5.03,5.82,5.04,Europe
+3031,Slovenia,2020,4.96,6.35,5.58,Europe
+3032,Solomon Islands,2000,0.06,0.0,0.0,Oceania
+3033,Solomon Islands,2001,0.06,0.0,0.0,Oceania
+3034,Solomon Islands,2002,0.06,0.0,0.0,Oceania
+3035,Solomon Islands,2003,0.06,0.0,0.0,Oceania
+3036,Solomon Islands,2004,0.06,0.0,0.0,Oceania
+3037,Solomon Islands,2005,0.07,0.0,0.0,Oceania
+3038,Solomon Islands,2006,0.07,0.0,0.0,Oceania
+3039,Solomon Islands,2007,0.08,0.0,0.0,Oceania
+3040,Solomon Islands,2008,0.08,0.0,0.0,Oceania
+3041,Solomon Islands,2009,0.08,0.0,0.0,Oceania
+3042,Solomon Islands,2010,0.08,0.0,0.0,Oceania
+3043,Solomon Islands,2011,0.08,0.0,0.0,Oceania
+3044,Solomon Islands,2012,0.08,0.0,0.0,Oceania
+3045,Solomon Islands,2013,0.09,0.0,0.0,Oceania
+3046,Solomon Islands,2014,0.09,0.0,0.0,Oceania
+3047,Solomon Islands,2015,0.09,0.0,0.0,Oceania
+3048,Solomon Islands,2016,0.1,0.0,0.0,Oceania
+3049,Solomon Islands,2017,0.1,0.0,0.0,Oceania
+3050,Solomon Islands,2018,0.1,0.0,0.0,Oceania
+3051,Solomon Islands,2019,0.1,0.0,0.0,Oceania
+3052,Solomon Islands,2020,0.1,0.0,0.0,Oceania
+3053,Somalia,2000,0.23,0.0,0.0,Africa
+3054,Somalia,2001,0.25,0.0,0.0,Africa
+3055,Somalia,2002,0.26,0.0,0.0,Africa
+3056,Somalia,2003,0.26,0.0,0.0,Africa
+3057,Somalia,2004,0.26,0.0,0.0,Africa
+3058,Somalia,2005,0.27,0.0,0.0,Africa
+3059,Somalia,2006,0.28,0.0,0.0,Africa
+3060,Somalia,2007,0.29,0.0,0.0,Africa
+3061,Somalia,2008,0.3,0.0,0.0,Africa
+3062,Somalia,2009,0.31,0.0,0.0,Africa
+3063,Somalia,2010,0.31,0.0,0.0,Africa
+3064,Somalia,2011,0.31,0.0,0.0,Africa
+3065,Somalia,2012,0.32,0.0,0.0,Africa
+3066,Somalia,2013,0.33,0.0,0.0,Africa
+3067,Somalia,2014,0.33,0.0,0.0,Africa
+3068,Somalia,2015,0.33,0.0,0.0,Africa
+3069,Somalia,2016,0.33,0.0,0.01,Africa
+3070,Somalia,2017,0.33,0.0,0.02,Africa
+3071,Somalia,2018,0.33,0.0,0.02,Africa
+3072,Somalia,2019,0.33,0.0,0.02,Africa
+3073,Somalia,2020,0.35,0.0,0.03,Africa
+3074,South Africa,2000,181.67,13.01,1.79,Africa
+3075,South Africa,2001,183.36,10.72,2.46,Africa
+3076,South Africa,2002,188.79,11.99,2.81,Africa
+3077,South Africa,2003,204.39,12.66,1.19,Africa
+3078,South Africa,2004,212.63,14.28,1.33,Africa
+3079,South Africa,2005,215.23,12.24,1.75,Africa
+3080,South Africa,2006,223.25,10.07,3.28,Africa
+3081,South Africa,2007,232.91,12.6,1.3,Africa
+3082,South Africa,2008,226.32,12.75,1.66,Africa
+3083,South Africa,2009,218.17,11.57,1.86,Africa
+3084,South Africa,2010,227.57,12.9,2.51,Africa
+3085,South Africa,2011,229.06,12.94,2.49,Africa
+3086,South Africa,2012,226.84,12.4,1.66,Africa
+3087,South Africa,2013,223.28,13.61,1.62,Africa
+3088,South Africa,2014,218.42,14.76,3.38,Africa
+3089,South Africa,2015,214.88,10.97,6.09,Africa
+3090,South Africa,2016,213.09,15.21,7.69,Africa
+3091,South Africa,2017,212.77,15.09,10.04,Africa
+3092,South Africa,2018,214.25,10.56,12.22,Africa
+3093,South Africa,2019,208.39,13.6,12.57,Africa
+3094,South Africa,2020,197.5,11.62,12.83,Africa
+3095,South Sudan,2013,0.44,0.0,0.0,Africa
+3096,South Sudan,2014,0.46,0.0,0.0,Africa
+3097,South Sudan,2015,0.54,0.0,0.0,Africa
+3098,South Sudan,2016,0.49,0.0,0.0,Africa
+3099,South Sudan,2017,0.51,0.0,0.0,Africa
+3100,South Sudan,2018,0.55,0.0,0.01,Africa
+3101,South Sudan,2019,0.55,0.0,0.01,Africa
+3102,South Sudan,2020,0.53,0.0,0.01,Africa
+3103,Spain,2000,124.22,62.21,34.49,Europe
+3104,Spain,2001,120.06,63.71,49.3,Europe
+3105,Spain,2002,143.72,63.02,33.17,Europe
+3106,Spain,2003,139.67,61.88,55.75,Europe
+3107,Spain,2004,159.91,63.61,50.13,Europe
+3108,Spain,2005,184.65,57.54,42.27,Europe
+3109,Spain,2006,182.98,60.13,52.15,Europe
+3110,Spain,2007,188.13,55.1,58.3,Europe
+3111,Spain,2008,189.55,58.97,62.15,Europe
+3112,Spain,2009,164.69,52.76,74.08,Europe
+3113,Spain,2010,138.39,61.99,97.77,Europe
+3114,Spain,2011,146.12,57.72,87.53,Europe
+3115,Spain,2012,145.33,61.47,86.97,Europe
+3116,Spain,2013,113.32,56.73,111.42,Europe
+3117,Spain,2014,107.37,57.31,110.26,Europe
+3118,Spain,2015,123.19,57.2,97.09,Europe
+3119,Spain,2016,107.93,58.63,104.63,Europe
+3120,Spain,2017,126.93,58.04,87.93,Europe
+3121,Spain,2018,112.23,55.77,103.88,Europe
+3122,Spain,2019,111.55,58.35,100.99,Europe
+3123,Spain,2020,87.64,58.3,113.79,Europe
+3124,Sri Lanka,2000,3.28,0.0,3.17,Asia
+3125,Sri Lanka,2001,3.44,0.0,3.09,Asia
+3126,Sri Lanka,2002,4.12,0.0,2.68,Asia
+3127,Sri Lanka,2003,4.14,0.0,3.27,Asia
+3128,Sri Lanka,2004,4.94,0.0,2.94,Asia
+3129,Sri Lanka,2005,5.5,0.0,3.43,Asia
+3130,Sri Lanka,2006,4.55,0.0,3.86,Asia
+3131,Sri Lanka,2007,5.57,0.0,3.94,Asia
+3132,Sri Lanka,2008,5.46,0.0,4.16,Asia
+3133,Sri Lanka,2009,5.67,0.0,3.94,Asia
+3134,Sri Lanka,2010,4.76,0.0,5.69,Asia
+3135,Sri Lanka,2011,6.47,0.0,4.72,Asia
+3136,Sri Lanka,2012,7.89,0.0,3.48,Asia
+3137,Sri Lanka,2013,4.52,0.0,7.14,Asia
+3138,Sri Lanka,2014,7.1,0.0,4.87,Asia
+3139,Sri Lanka,2015,6.38,0.0,6.34,Asia
+3140,Sri Lanka,2016,9.01,0.0,4.68,Asia
+3141,Sri Lanka,2017,10.1,0.0,4.59,Asia
+3142,Sri Lanka,2018,7.92,0.0,7.04,Asia
+3143,Sri Lanka,2019,10.18,0.0,5.71,Asia
+3144,Sri Lanka,2020,9.64,0.0,5.94,Asia
+3145,Sudan,2000,1.23,0.0,1.35,Africa
+3146,Sudan,2001,1.38,0.0,1.45,Africa
+3147,Sudan,2002,1.59,0.0,1.5,Africa
+3148,Sudan,2003,2.0,0.0,1.33,Africa
+3149,Sudan,2004,2.2,0.0,1.26,Africa
+3150,Sudan,2005,2.38,0.0,1.42,Africa
+3151,Sudan,2006,2.9,0.0,1.56,Africa
+3152,Sudan,2007,3.28,0.0,1.66,Africa
+3153,Sudan,2008,3.76,0.0,1.64,Africa
+3154,Sudan,2009,3.07,0.0,3.35,Africa
+3155,Sudan,2010,1.3,0.0,6.2,Africa
+3156,Sudan,2011,1.9,0.0,6.48,Africa
+3157,Sudan,2012,2.53,0.0,6.8,Africa
+3158,Sudan,2013,1.82,0.0,8.41,Africa
+3159,Sudan,2014,2.23,0.0,9.04,Africa
+3160,Sudan,2015,4.09,0.0,8.73,Africa
+3161,Sudan,2016,5.6,0.0,8.5,Africa
+3162,Sudan,2017,5.45,0.0,9.77,Africa
+3163,Sudan,2018,5.82,0.0,10.08,Africa
+3164,Sudan,2019,5.98,0.0,10.33,Africa
+3165,Sudan,2020,5.68,0.0,10.79,Africa
+3166,Suriname,2000,0.69,0.0,0.71,South America
+3167,Suriname,2001,0.69,0.0,0.73,South America
+3168,Suriname,2002,0.69,0.0,0.74,South America
+3169,Suriname,2003,0.69,0.0,0.75,South America
+3170,Suriname,2004,0.69,0.0,0.76,South America
+3171,Suriname,2005,0.7,0.0,0.82,South America
+3172,Suriname,2006,0.7,0.0,0.86,South America
+3173,Suriname,2007,0.7,0.0,0.86,South America
+3174,Suriname,2008,0.7,0.0,0.86,South America
+3175,Suriname,2009,0.7,0.0,0.86,South America
+3176,Suriname,2010,0.48,0.0,1.2,South America
+3177,Suriname,2011,0.86,0.0,1.03,South America
+3178,Suriname,2012,1.07,0.0,0.82,South America
+3179,Suriname,2013,1.09,0.0,0.83,South America
+3180,Suriname,2014,1.37,0.0,0.55,South America
+3181,Suriname,2015,1.46,0.0,0.49,South America
+3182,Suriname,2016,1.12,0.0,0.8,South America
+3183,Suriname,2017,0.95,0.0,0.93,South America
+3184,Suriname,2018,0.89,0.0,1.0,South America
+3185,Suriname,2019,0.99,0.0,0.96,South America
+3186,Suriname,2020,0.94,0.0,0.98,South America
+3187,Sweden,2000,4.77,57.32,83.14,Europe
+3188,Sweden,2001,6.17,72.11,83.32,Europe
+3189,Sweden,2002,7.44,68.11,71.15,Europe
+3190,Sweden,2003,9.24,67.42,58.73,Europe
+3191,Sweden,2004,6.02,77.49,68.18,Europe
+3192,Sweden,2005,4.76,72.38,81.23,Europe
+3193,Sweden,2006,5.24,66.98,71.06,Europe
+3194,Sweden,2007,4.42,66.97,77.43,Europe
+3195,Sweden,2008,4.6,63.89,81.41,Europe
+3196,Sweden,2009,4.62,52.17,79.81,Europe
+3197,Sweden,2010,8.53,57.83,82.09,Europe
+3198,Sweden,2011,5.72,60.47,84.09,Europe
+3199,Sweden,2012,4.09,64.04,98.3,Europe
+3200,Sweden,2013,3.88,66.46,82.69,Europe
+3201,Sweden,2014,2.93,64.88,85.74,Europe
+3202,Sweden,2015,3.15,56.35,102.5,Europe
+3203,Sweden,2016,3.66,63.1,89.13,Europe
+3204,Sweden,2017,3.47,65.7,95.06,Europe
+3205,Sweden,2018,3.66,68.55,91.15,Europe
+3206,Sweden,2019,3.35,66.13,98.94,Europe
+3207,Sweden,2020,2.44,49.2,112.15,Europe
+3208,Switzerland,2000,2.63,25.12,34.0,Europe
+3209,Switzerland,2001,2.72,25.47,38.44,Europe
+3210,Switzerland,2002,2.79,25.87,32.47,Europe
+3211,Switzerland,2003,2.86,26.11,32.11,Europe
+3212,Switzerland,2004,2.92,25.61,31.12,Europe
+3213,Switzerland,2005,2.97,22.11,28.85,Europe
+3214,Switzerland,2006,3.1,26.37,28.46,Europe
+3215,Switzerland,2007,3.01,26.49,32.56,Europe
+3216,Switzerland,2008,3.04,26.27,33.41,Europe
+3217,Switzerland,2009,3.0,26.27,33.03,Europe
+3218,Switzerland,2010,3.32,25.2,33.53,Europe
+3219,Switzerland,2011,3.34,25.56,30.3,Europe
+3220,Switzerland,2012,3.51,24.34,36.32,Europe
+3221,Switzerland,2013,3.48,24.87,36.37,Europe
+3222,Switzerland,2014,3.37,26.37,36.2,Europe
+3223,Switzerland,2015,3.33,22.09,36.73,Europe
+3224,Switzerland,2016,3.69,20.24,33.57,Europe
+3225,Switzerland,2017,3.67,19.5,33.45,Europe
+3226,Switzerland,2018,3.54,24.41,34.32,Europe
+3227,Switzerland,2019,3.58,25.28,37.64,Europe
+3228,Switzerland,2020,3.62,22.99,40.79,Europe
+3229,Tajikistan,2000,0.21,0.0,13.77,Asia
+3230,Tajikistan,2001,0.17,0.0,14.06,Asia
+3231,Tajikistan,2002,0.13,0.0,15.01,Asia
+3232,Tajikistan,2003,0.16,0.0,16.17,Asia
+3233,Tajikistan,2004,0.14,0.0,16.18,Asia
+3234,Tajikistan,2005,0.12,0.0,16.8,Asia
+3235,Tajikistan,2006,0.23,0.0,16.53,Asia
+3236,Tajikistan,2007,0.38,0.0,16.94,Asia
+3237,Tajikistan,2008,0.35,0.0,16.64,Asia
+3238,Tajikistan,2009,0.22,0.0,15.74,Asia
+3239,Tajikistan,2010,0.03,0.0,16.24,Asia
+3240,Tajikistan,2011,0.04,0.0,16.04,Asia
+3241,Tajikistan,2012,0.07,0.0,16.73,Asia
+3242,Tajikistan,2013,0.04,0.0,16.9,Asia
+3243,Tajikistan,2014,0.15,0.0,15.84,Asia
+3244,Tajikistan,2015,0.15,0.0,16.83,Asia
+3245,Tajikistan,2016,0.56,0.0,16.47,Asia
+3246,Tajikistan,2017,0.92,0.0,16.96,Asia
+3247,Tajikistan,2018,1.27,0.0,18.21,Asia
+3248,Tajikistan,2019,1.42,0.0,19.17,Asia
+3249,Tajikistan,2020,1.62,0.0,18.11,Asia
+3250,Thailand,2000,83.15,0.0,6.38,Asia
+3251,Thailand,2001,88.97,0.0,6.76,Asia
+3252,Thailand,2002,93.51,0.0,8.07,Asia
+3253,Thailand,2003,100.61,0.0,8.36,Asia
+3254,Thailand,2004,109.46,0.0,7.63,Asia
+3255,Thailand,2005,115.58,0.0,7.42,Asia
+3256,Thailand,2006,119.41,0.0,9.82,Asia
+3257,Thailand,2007,122.12,0.0,10.2,Asia
+3258,Thailand,2008,127.43,0.0,8.95,Asia
+3259,Thailand,2009,128.09,0.0,9.09,Asia
+3260,Thailand,2010,141.72,0.0,8.58,Asia
+3261,Thailand,2011,135.31,0.0,11.83,Asia
+3262,Thailand,2012,143.73,0.0,13.42,Asia
+3263,Thailand,2013,148.29,0.0,12.33,Asia
+3264,Thailand,2014,149.26,0.0,13.68,Asia
+3265,Thailand,2015,153.4,0.0,13.33,Asia
+3266,Thailand,2016,161.79,0.0,15.97,Asia
+3267,Thailand,2017,161.88,0.0,19.92,Asia
+3268,Thailand,2018,156.26,0.0,25.84,Asia
+3269,Thailand,2019,162.59,0.0,28.02,Asia
+3270,Thailand,2020,154.52,0.0,24.73,Asia
+3271,Togo,2000,0.07,0.0,0.1,Africa
+3272,Togo,2001,0.07,0.0,0.05,Africa
+3273,Togo,2002,0.06,0.0,0.09,Africa
+3274,Togo,2003,0.05,0.0,0.12,Africa
+3275,Togo,2004,0.1,0.0,0.08,Africa
+3276,Togo,2005,0.11,0.0,0.07,Africa
+3277,Togo,2006,0.12,0.0,0.09,Africa
+3278,Togo,2007,0.09,0.0,0.09,Africa
+3279,Togo,2008,0.03,0.0,0.09,Africa
+3280,Togo,2009,0.03,0.0,0.11,Africa
+3281,Togo,2010,0.08,0.0,0.09,Africa
+3282,Togo,2011,0.02,0.0,0.1,Africa
+3283,Togo,2012,0.02,0.0,0.09,Africa
+3284,Togo,2013,0.06,0.0,0.04,Africa
+3285,Togo,2014,0.08,0.0,0.12,Africa
+3286,Togo,2015,0.31,0.0,0.06,Africa
+3287,Togo,2016,0.23,0.0,0.2,Africa
+3288,Togo,2017,0.56,0.0,0.21,Africa
+3289,Togo,2018,0.36,0.0,0.21,Africa
+3290,Togo,2019,0.45,0.0,0.25,Africa
+3291,Togo,2020,0.43,0.0,0.15,Africa
+3292,Tonga,2000,0.03,0.0,0.0,Oceania
+3293,Tonga,2001,0.04,0.0,0.0,Oceania
+3294,Tonga,2002,0.04,0.0,0.0,Oceania
+3295,Tonga,2003,0.04,0.0,0.0,Oceania
+3296,Tonga,2004,0.04,0.0,0.0,Oceania
+3297,Tonga,2005,0.05,0.0,0.0,Oceania
+3298,Tonga,2006,0.05,0.0,0.0,Oceania
+3299,Tonga,2007,0.05,0.0,0.0,Oceania
+3300,Tonga,2008,0.05,0.0,0.0,Oceania
+3301,Tonga,2009,0.05,0.0,0.0,Oceania
+3302,Tonga,2010,0.05,0.0,0.0,Oceania
+3303,Tonga,2011,0.05,0.0,0.0,Oceania
+3304,Tonga,2012,0.05,0.0,0.0,Oceania
+3305,Tonga,2013,0.05,0.0,0.0,Oceania
+3306,Tonga,2014,0.05,0.0,0.0,Oceania
+3307,Tonga,2015,0.05,0.0,0.0,Oceania
+3308,Tonga,2016,0.05,0.0,0.0,Oceania
+3309,Tonga,2017,0.05,0.0,0.01,Oceania
+3310,Tonga,2018,0.06,0.0,0.01,Oceania
+3311,Tonga,2019,0.06,0.0,0.01,Oceania
+3312,Tonga,2020,0.06,0.0,0.01,Oceania
+3313,Trinidad and Tobago,2000,5.11,0.0,0.03,North America
+3314,Trinidad and Tobago,2001,5.27,0.0,0.03,North America
+3315,Trinidad and Tobago,2002,5.27,0.0,0.03,North America
+3316,Trinidad and Tobago,2003,6.02,0.0,0.03,North America
+3317,Trinidad and Tobago,2004,6.01,0.0,0.03,North America
+3318,Trinidad and Tobago,2005,6.6,0.0,0.04,North America
+3319,Trinidad and Tobago,2006,6.71,0.0,0.04,North America
+3320,Trinidad and Tobago,2007,7.19,0.0,0.03,North America
+3321,Trinidad and Tobago,2008,7.26,0.0,0.0,North America
+3322,Trinidad and Tobago,2009,7.37,0.0,0.0,North America
+3323,Trinidad and Tobago,2010,7.97,0.0,0.0,North America
+3324,Trinidad and Tobago,2011,8.24,0.0,0.0,North America
+3325,Trinidad and Tobago,2012,8.58,0.0,0.0,North America
+3326,Trinidad and Tobago,2013,8.94,0.0,0.0,North America
+3327,Trinidad and Tobago,2014,8.85,0.0,0.0,North America
+3328,Trinidad and Tobago,2015,9.0,0.0,0.01,North America
+3329,Trinidad and Tobago,2016,8.85,0.0,0.01,North America
+3330,Trinidad and Tobago,2017,8.76,0.0,0.01,North America
+3331,Trinidad and Tobago,2018,8.67,0.0,0.01,North America
+3332,Trinidad and Tobago,2019,8.63,0.0,0.01,North America
+3333,Trinidad and Tobago,2020,8.2,0.0,0.01,North America
+3334,Tunisia,2000,9.88,0.0,0.08,Africa
+3335,Tunisia,2001,10.64,0.0,0.07,Africa
+3336,Tunisia,2002,11.04,0.0,0.09,Africa
+3337,Tunisia,2003,11.48,0.0,0.19,Africa
+3338,Tunisia,2004,12.1,0.0,0.19,Africa
+3339,Tunisia,2005,12.79,0.0,0.18,Africa
+3340,Tunisia,2006,13.15,0.0,0.13,Africa
+3341,Tunisia,2007,12.83,0.0,0.09,Africa
+3342,Tunisia,2008,13.44,0.0,0.07,Africa
+3343,Tunisia,2009,14.17,0.0,0.18,Africa
+3344,Tunisia,2010,14.76,0.0,0.19,Africa
+3345,Tunisia,2011,15.17,0.0,0.16,Africa
+3346,Tunisia,2012,16.48,0.0,0.32,Africa
+3347,Tunisia,2013,16.64,0.0,0.44,Africa
+3348,Tunisia,2014,17.27,0.0,0.59,Africa
+3349,Tunisia,2015,17.77,0.0,0.58,Africa
+3350,Tunisia,2016,17.86,0.0,0.63,Africa
+3351,Tunisia,2017,18.57,0.0,0.6,Africa
+3352,Tunisia,2018,18.88,0.0,0.64,Africa
+3353,Tunisia,2019,19.73,0.0,0.82,Africa
+3354,Tunisia,2020,18.73,0.0,0.85,Africa
+3355,Turkey,2000,93.17,0.0,31.16,Asia
+3356,Turkey,2001,97.85,0.0,24.34,Asia
+3357,Turkey,2002,94.46,0.0,33.96,Asia
+3358,Turkey,2003,103.96,0.0,35.56,Asia
+3359,Turkey,2004,103.43,0.0,46.31,Asia
+3360,Turkey,2005,121.81,0.0,39.74,Asia
+3361,Turkey,2006,131.65,0.0,44.52,Asia
+3362,Turkey,2007,154.95,0.0,36.46,Asia
+3363,Turkey,2008,163.89,0.0,34.42,Asia
+3364,Turkey,2009,156.58,0.0,38.15,Asia
+3365,Turkey,2010,155.34,0.0,55.72,Asia
+3366,Turkey,2011,171.19,0.0,58.09,Asia
+3367,Turkey,2012,174.17,0.0,65.21,Asia
+3368,Turkey,2013,170.65,0.0,69.22,Asia
+3369,Turkey,2014,199.0,0.0,52.62,Asia
+3370,Turkey,2015,177.64,0.0,83.65,Asia
+3371,Turkey,2016,183.45,0.0,90.24,Asia
+3372,Turkey,2017,209.19,0.0,87.24,Asia
+3373,Turkey,2018,206.09,0.0,97.77,Asia
+3374,Turkey,2019,170.53,0.0,132.26,Asia
+3375,Turkey,2020,177.08,0.0,128.34,Asia
+3376,Turkmenistan,2000,9.25,0.0,0.0,Asia
+3377,Turkmenistan,2001,9.97,0.0,0.0,Asia
+3378,Turkmenistan,2002,10.06,0.0,0.0,Asia
+3379,Turkmenistan,2003,10.15,0.0,0.0,Asia
+3380,Turkmenistan,2004,11.2,0.0,0.0,Asia
+3381,Turkmenistan,2005,12.05,0.0,0.0,Asia
+3382,Turkmenistan,2006,12.83,0.0,0.0,Asia
+3383,Turkmenistan,2007,13.98,0.0,0.0,Asia
+3384,Turkmenistan,2008,14.13,0.0,0.0,Asia
+3385,Turkmenistan,2009,15.02,0.0,0.0,Asia
+3386,Turkmenistan,2010,15.66,0.0,0.0,Asia
+3387,Turkmenistan,2011,16.19,0.0,0.0,Asia
+3388,Turkmenistan,2012,16.68,0.0,0.0,Asia
+3389,Turkmenistan,2013,17.74,0.0,0.0,Asia
+3390,Turkmenistan,2014,19.18,0.0,0.0,Asia
+3391,Turkmenistan,2015,21.18,0.0,0.0,Asia
+3392,Turkmenistan,2016,21.18,0.0,0.0,Asia
+3393,Turkmenistan,2017,21.18,0.0,0.0,Asia
+3394,Turkmenistan,2018,21.18,0.0,0.0,Asia
+3395,Turkmenistan,2019,21.18,0.0,0.0,Asia
+3396,Turkmenistan,2020,20.11,0.0,0.0,Asia
+3418,Uganda,2000,0.04,0.0,1.55,Africa
+3419,Uganda,2001,0.04,0.0,1.55,Africa
+3420,Uganda,2002,0.04,0.0,1.67,Africa
+3421,Uganda,2003,0.05,0.0,1.75,Africa
+3422,Uganda,2004,0.05,0.0,1.89,Africa
+3423,Uganda,2005,0.11,0.0,1.84,Africa
+3424,Uganda,2006,0.4,0.0,1.17,Africa
+3425,Uganda,2007,0.56,0.0,1.41,Africa
+3426,Uganda,2008,0.62,0.0,1.7,Africa
+3427,Uganda,2009,0.89,0.0,1.51,Africa
+3428,Uganda,2010,1.1,0.0,1.59,Africa
+3429,Uganda,2011,1.0,0.0,1.61,Africa
+3430,Uganda,2012,0.38,0.0,1.58,Africa
+3431,Uganda,2013,0.14,0.0,2.45,Africa
+3432,Uganda,2014,0.29,0.0,2.52,Africa
+3433,Uganda,2015,0.29,0.0,2.58,Africa
+3434,Uganda,2016,0.29,0.0,3.48,Africa
+3435,Uganda,2017,0.26,0.0,3.65,Africa
+3436,Uganda,2018,0.31,0.0,4.0,Africa
+3437,Uganda,2019,0.09,0.0,4.24,Africa
+3438,Uganda,2020,0.13,0.0,4.32,Africa
+3439,Ukraine,2000,82.65,77.34,11.28,Europe
+3440,Ukraine,2001,84.59,76.17,12.05,Europe
+3441,Ukraine,2002,85.93,77.99,9.65,Europe
+3442,Ukraine,2003,89.52,81.41,9.27,Europe
+3443,Ukraine,2004,83.22,87.02,11.78,Europe
+3444,Ukraine,2005,84.75,88.76,12.4,Europe
+3445,Ukraine,2006,90.09,90.22,12.92,Europe
+3446,Ukraine,2007,93.13,92.54,10.47,Europe
+3447,Ukraine,2008,90.92,89.84,11.82,Europe
+3448,Ukraine,2009,78.58,82.92,12.12,Europe
+3449,Ukraine,2010,86.28,89.15,13.39,Europe
+3450,Ukraine,2011,93.5,90.25,11.2,Europe
+3451,Ukraine,2012,96.99,90.14,11.23,Europe
+3452,Ukraine,2013,95.39,83.21,15.11,Europe
+3453,Ukraine,2014,83.42,88.39,10.17,Europe
+3454,Ukraine,2015,66.91,87.63,7.1,Europe
+3455,Ukraine,2016,72.66,80.95,9.25,Europe
+3456,Ukraine,2017,57.96,85.58,10.88,Europe
+3457,Ukraine,2018,60.81,84.4,13.02,Europe
+3458,Ukraine,2019,57.79,83.0,11.87,Europe
+3459,Ukraine,2020,54.5,76.2,17.56,Europe
+3460,United Arab Emirates,2000,37.54,0.0,0.0,Asia
+3461,United Arab Emirates,2001,40.58,0.0,0.0,Asia
+3462,United Arab Emirates,2002,44.04,0.0,0.0,Asia
+3463,United Arab Emirates,2003,46.48,0.0,0.0,Asia
+3464,United Arab Emirates,2004,49.27,0.0,0.0,Asia
+3465,United Arab Emirates,2005,57.05,0.0,0.0,Asia
+3466,United Arab Emirates,2006,62.76,0.0,0.0,Asia
+3467,United Arab Emirates,2007,74.03,0.0,0.0,Asia
+3468,United Arab Emirates,2008,77.06,0.0,0.0,Asia
+3469,United Arab Emirates,2009,82.9,0.0,0.01,Asia
+3470,United Arab Emirates,2010,88.31,0.0,0.02,Asia
+3471,United Arab Emirates,2011,93.19,0.0,0.03,Asia
+3472,United Arab Emirates,2012,99.83,0.0,0.02,Asia
+3473,United Arab Emirates,2013,103.33,0.0,0.08,Asia
+3474,United Arab Emirates,2014,109.26,0.0,0.31,Asia
+3475,United Arab Emirates,2015,119.45,0.0,0.31,Asia
+3476,United Arab Emirates,2016,121.53,0.0,0.32,Asia
+3477,United Arab Emirates,2017,125.79,0.0,0.75,Asia
+3478,United Arab Emirates,2018,126.61,0.0,1.32,Asia
+3479,United Arab Emirates,2019,125.85,0.0,3.8,Asia
+3480,United Arab Emirates,2020,119.49,1.56,5.5,Asia
+3481,United Kingdom,2000,279.34,85.06,9.98,Europe
+3482,United Kingdom,2001,282.72,90.09,9.56,Europe
+3483,United Kingdom,2002,285.62,87.85,11.13,Europe
+3484,United Kingdom,2003,296.15,88.69,10.62,Europe
+3485,United Kingdom,2004,297.15,80.0,14.14,Europe
+3486,United Kingdom,2005,296.87,81.62,16.93,Europe
+3487,United Kingdom,2006,299.88,75.45,18.11,Europe
+3488,United Kingdom,2007,310.26,63.03,19.69,Europe
+3489,United Kingdom,2008,310.5,52.49,21.85,Europe
+3490,United Kingdom,2009,278.73,69.1,25.25,Europe
+3491,United Kingdom,2010,290.59,62.14,26.18,Europe
+3492,United Kingdom,2011,260.88,68.98,35.2,Europe
+3493,United Kingdom,2012,249.25,70.4,41.24,Europe
+3494,United Kingdom,2013,231.56,70.61,53.21,Europe
+3495,United Kingdom,2014,206.94,63.75,64.52,Europe
+3496,United Kingdom,2015,182.43,70.34,82.57,Europe
+3497,United Kingdom,2016,181.56,71.73,82.99,Europe
+3498,United Kingdom,2017,165.91,70.34,98.85,Europe
+3499,United Kingdom,2018,155.41,65.06,110.03,Europe
+3500,United Kingdom,2019,144.99,56.18,120.48,Europe
+3501,United Kingdom,2020,124.78,50.85,131.74,Europe
+3502,United States,2000,2697.28,753.89,350.93,North America
+3503,United States,2001,2678.68,768.83,280.06,North America
+3504,United States,2002,2727.83,780.06,336.34,North America
+3505,United States,2003,2756.03,763.73,349.18,North America
+3506,United States,2004,2818.28,788.53,345.14,North America
+3507,United States,2005,2899.96,781.99,353.04,North America
+3508,United States,2006,2878.56,787.22,381.16,North America
+3509,United States,2007,2988.24,806.42,347.91,North America
+3510,United States,2008,2924.21,806.21,377.11,North America
+3511,United States,2009,2725.41,798.85,415.56,North America
+3512,United States,2010,2882.49,806.97,424.48,North America
+3513,United States,2011,2788.93,790.2,509.74,North America
+3514,United States,2012,2779.02,769.33,492.32,North America
+3515,United States,2013,2746.21,789.02,520.38,North America
+3516,United States,2014,2752.01,797.17,546.83,North America
+3517,United States,2015,2730.32,797.18,556.49,North America
+3518,United States,2016,2656.96,805.69,624.91,North America
+3519,United States,2017,2540.17,804.95,707.19,North America
+3520,United States,2018,2661.3,807.08,733.17,North America
+3521,United States,2019,2588.21,809.41,760.76,North America
+3522,United States,2020,2431.9,789.88,821.4,North America
+3523,Uruguay,2000,0.49,0.0,7.0,South America
+3524,Uruguay,2001,0.06,0.0,9.1,South America
+3525,Uruguay,2002,0.07,0.0,9.44,South America
+3526,Uruguay,2003,0.08,0.0,8.45,South America
+3527,Uruguay,2004,1.01,0.0,4.77,South America
+3528,Uruguay,2005,0.9,0.0,6.66,South America
+3529,Uruguay,2006,1.87,0.0,3.6,South America
+3530,Uruguay,2007,0.97,0.0,8.31,South America
+3531,Uruguay,2008,3.01,0.0,5.5,South America
+3532,Uruguay,2009,2.72,0.0,6.08,South America
+3533,Uruguay,2010,1.72,0.0,9.31,South America
+3534,Uruguay,2011,2.76,0.0,7.61,South America
+3535,Uruguay,2012,3.85,0.0,6.76,South America
+3536,Uruguay,2013,2.04,0.0,9.41,South America
+3537,Uruguay,2014,1.64,0.0,11.21,South America
+3538,Uruguay,2015,1.91,0.0,11.7,South America
+3539,Uruguay,2016,1.34,0.0,12.41,South America
+3540,Uruguay,2017,1.32,0.0,12.93,South America
+3541,Uruguay,2018,1.36,0.0,13.14,South America
+3542,Uruguay,2019,1.89,0.0,14.16,South America
+3543,Uruguay,2020,2.4,0.0,11.14,South America
+3544,Uzbekistan,2000,38.51,0.0,5.82,Asia
+3545,Uzbekistan,2001,39.05,0.0,5.9,Asia
+3546,Uzbekistan,2002,40.55,0.0,6.12,Asia
+3547,Uzbekistan,2003,39.27,0.0,7.54,Asia
+3548,Uzbekistan,2004,38.48,0.0,8.92,Asia
+3549,Uzbekistan,2005,38.13,0.0,8.84,Asia
+3550,Uzbekistan,2006,39.25,0.0,4.65,Asia
+3551,Uzbekistan,2007,40.0,0.0,4.61,Asia
+3552,Uzbekistan,2008,35.76,0.0,4.44,Asia
+3553,Uzbekistan,2009,38.18,0.0,6.42,Asia
+3554,Uzbekistan,2010,41.16,0.0,8.11,Asia
+3555,Uzbekistan,2011,44.28,0.0,5.65,Asia
+3556,Uzbekistan,2012,43.56,0.0,6.59,Asia
+3557,Uzbekistan,2013,45.97,0.0,5.65,Asia
+3558,Uzbekistan,2014,46.7,0.0,6.01,Asia
+3559,Uzbekistan,2015,47.55,0.0,7.0,Asia
+3560,Uzbekistan,2016,48.75,0.0,7.25,Asia
+3561,Uzbekistan,2017,49.71,0.0,8.35,Asia
+3562,Uzbekistan,2018,53.58,0.0,5.85,Asia
+3563,Uzbekistan,2019,53.64,0.0,6.47,Asia
+3564,Uzbekistan,2020,50.93,0.0,5.01,Asia
+3565,Vanuatu,2000,0.04,0.0,0.0,Oceania
+3566,Vanuatu,2001,0.04,0.0,0.0,Oceania
+3567,Vanuatu,2002,0.04,0.0,0.0,Oceania
+3568,Vanuatu,2003,0.04,0.0,0.0,Oceania
+3569,Vanuatu,2004,0.04,0.0,0.0,Oceania
+3570,Vanuatu,2005,0.04,0.0,0.0,Oceania
+3571,Vanuatu,2006,0.04,0.0,0.0,Oceania
+3572,Vanuatu,2007,0.05,0.0,0.0,Oceania
+3573,Vanuatu,2008,0.05,0.0,0.0,Oceania
+3574,Vanuatu,2009,0.05,0.0,0.0,Oceania
+3575,Vanuatu,2010,0.05,0.0,0.0,Oceania
+3576,Vanuatu,2011,0.05,0.0,0.01,Oceania
+3577,Vanuatu,2012,0.05,0.0,0.01,Oceania
+3578,Vanuatu,2013,0.05,0.0,0.02,Oceania
+3579,Vanuatu,2014,0.05,0.0,0.02,Oceania
+3580,Vanuatu,2015,0.05,0.0,0.02,Oceania
+3581,Vanuatu,2016,0.05,0.0,0.02,Oceania
+3582,Vanuatu,2017,0.05,0.0,0.01,Oceania
+3583,Vanuatu,2018,0.05,0.0,0.02,Oceania
+3584,Vanuatu,2019,0.05,0.0,0.02,Oceania
+3585,Vanuatu,2020,0.05,0.0,0.02,Oceania
+3586,Yemen,2000,3.21,0.0,0.0,Asia
+3587,Yemen,2001,3.42,0.0,0.0,Asia
+3588,Yemen,2002,3.54,0.0,0.0,Asia
+3589,Yemen,2003,3.85,0.0,0.0,Asia
+3590,Yemen,2004,4.1,0.0,0.0,Asia
+3591,Yemen,2005,4.48,0.0,0.0,Asia
+3592,Yemen,2006,5.06,0.0,0.0,Asia
+3593,Yemen,2007,5.67,0.0,0.0,Asia
+3594,Yemen,2008,6.15,0.0,0.0,Asia
+3595,Yemen,2009,6.34,0.0,0.0,Asia
+3596,Yemen,2010,7.29,0.0,0.0,Asia
+3597,Yemen,2011,5.83,0.0,0.0,Asia
+3598,Yemen,2012,6.65,0.0,0.0,Asia
+3599,Yemen,2013,7.99,0.0,0.0,Asia
+3600,Yemen,2014,7.19,0.0,0.01,Asia
+3601,Yemen,2015,5.81,0.0,0.12,Asia
+3602,Yemen,2016,4.36,0.0,0.16,Asia
+3603,Yemen,2017,3.63,0.0,0.19,Asia
+3604,Yemen,2018,2.82,0.0,0.48,Asia
+3605,Yemen,2019,2.93,0.0,0.48,Asia
+3606,Yemen,2020,2.74,0.0,0.49,Asia
+3607,Zambia,2000,0.07,0.0,7.69,Africa
+3608,Zambia,2001,0.07,0.0,7.83,Africa
+3609,Zambia,2002,0.08,0.0,8.03,Africa
+3610,Zambia,2003,0.08,0.0,8.18,Africa
+3611,Zambia,2004,0.07,0.0,8.39,Africa
+3612,Zambia,2005,0.08,0.0,8.8,Africa
+3613,Zambia,2006,0.08,0.0,9.58,Africa
+3614,Zambia,2007,0.06,0.0,9.54,Africa
+3615,Zambia,2008,0.04,0.0,9.45,Africa
+3616,Zambia,2009,0.05,0.0,9.81,Africa
+3617,Zambia,2010,0.05,0.0,10.36,Africa
+3618,Zambia,2011,0.05,0.0,11.4,Africa
+3619,Zambia,2012,0.06,0.0,12.26,Africa
+3620,Zambia,2013,0.05,0.0,13.18,Africa
+3621,Zambia,2014,0.35,0.0,14.01,Africa
+3622,Zambia,2015,0.36,0.0,13.0,Africa
+3623,Zambia,2016,0.65,0.0,10.97,Africa
+3624,Zambia,2017,1.8,0.0,12.64,Africa
+3625,Zambia,2018,2.24,0.0,13.89,Africa
+3626,Zambia,2019,2.05,0.0,12.62,Africa
+3627,Zambia,2020,2.0,0.0,13.1,Africa
+3628,Zimbabwe,2000,3.3,0.0,3.44,Africa
+3629,Zimbabwe,2001,4.33,0.0,3.25,Africa
+3630,Zimbabwe,2002,4.12,0.0,4.14,Africa
+3631,Zimbabwe,2003,2.98,0.0,5.56,Africa
+3632,Zimbabwe,2004,3.63,0.0,5.78,Africa
+3633,Zimbabwe,2005,3.84,0.0,5.2,Africa
+3634,Zimbabwe,2006,2.23,0.0,5.45,Africa
+3635,Zimbabwe,2007,1.86,0.0,5.49,Africa
+3636,Zimbabwe,2008,1.6,0.0,5.79,Africa
+3637,Zimbabwe,2009,1.57,0.0,5.54,Africa
+3638,Zimbabwe,2010,2.49,0.0,5.95,Africa
+3639,Zimbabwe,2011,3.43,0.0,5.51,Africa
+3640,Zimbabwe,2012,3.25,0.0,5.68,Africa
+3641,Zimbabwe,2013,3.9,0.0,5.36,Africa
+3642,Zimbabwe,2014,3.92,0.0,5.79,Africa
+3643,Zimbabwe,2015,4.02,0.0,5.37,Africa
+3644,Zimbabwe,2016,3.5,0.0,3.32,Africa
+3645,Zimbabwe,2017,3.05,0.0,4.3,Africa
+3646,Zimbabwe,2018,3.73,0.0,5.46,Africa
+3647,Zimbabwe,2019,3.66,0.0,4.58,Africa
+3648,Zimbabwe,2020,3.4,0.0,4.19,Africa

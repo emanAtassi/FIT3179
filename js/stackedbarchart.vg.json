@@ -1,0 +1,114 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Electricity Generation by Source",
+    "width": 800,
+    "height": 400,
+    "data": {
+      "url": "../data/rc.csv"
+    },
+    "params": [
+        {
+            "name": "country_selection",
+            "bind": {
+              "input": "select",
+              "options": [null,  "Afghanistan", "Albania", "Algeria", "Angola","Antigua and Barbuda", "Argentina", "Armenia", "Aruba","Australia", "Austria", "Azerbaijan", "Bahamas", "Bahrain","Bangladesh", "Barbados", "Belarus", "Belgium", "Belize", "Benin",
+       "Bermuda", "Bhutan", "Bosnia and Herzegovina", "Botswana","Brazil", "Bulgaria", "Burkina Faso", "Burundi", "Cambodia","Cameroon", "Canada", "Cayman Islands", "Central African Republic","Chad", "China", "Colombia", "Comoros", "Congo", "Costa Rica","Croatia", "Cuba", "Cyprus", "Czechia", "Denmark", "Djibouti",
+       "Dominica", "Dominican Republic", "Ecuador", "Egypt","El Salvador", "Equatorial Guinea", "Eritrea", "Estonia", "Eswatini", "Ethiopia", "Fiji", "Finland", "France",
+       "French Guiana", "Gabon", "Gambia", "Georgia", "Germany", "Ghana","Greece", "Grenada", "Guatemala", "Guinea", "Guinea-Bissau","Guyana", "Haiti", "Honduras", "Hungary", "Iceland", "India",
+       "Iraq", "Ireland", "Israel", "Italy", "Jamaica", "Japan", "Jordan","Kenya", "Kiribati", "Kuwait", "Kyrgyzstan", "Latvia", "Lebanon","Lesotho", "Liberia", "Libya", "Lithuania", "Luxembourg",
+       "Madagascar", "Malawi", "Maldives", "Mali", "Malta", "Mauritania",
+       "Mauritius", "Mexico", "Mongolia", "Montenegro", "Morocco",
+       "Mozambique", "Myanmar", "Namibia", "Nauru", "Nepal",
+       "Netherlands", "New Caledonia", "New Zealand", "Nicaragua",
+       "Niger", "Nigeria", "North Macedonia", "Norway", "Oman",
+       "Pakistan", "Panama", "Papua New Guinea", "Paraguay", "Peru",
+       "Philippines", "Poland", "Portugal", "Puerto Rico", "Qatar",
+       "Romania", "Rwanda", "Saint Kitts and Nevis", "Saint Lucia",
+       "Saint Vincent and the Grenadines", "Samoa",
+       "Sao Tome and Principe", "Senegal", "Serbia", "Seychelles",
+       "Sierra Leone", "Singapore", "Slovakia", "Slovenia",
+       "Solomon Islands", "Somalia", "South Africa", "South Sudan",
+       "Spain", "Sri Lanka", "Sudan", "Suriname", "Sweden", "Switzerland",
+       "Tajikistan", "Thailand", "Togo", "Tonga", "Trinidad and Tobago",
+       "Tunisia", "Turkey", "Turkmenistan", "Uganda", "Ukraine",
+       "United Arab Emirates", "United Kingdom", "United States",
+       "Uruguay", "Uzbekistan", "Vanuatu", "Yemen", "Zambia", "Zimbabwe"],
+            "labels": ["Show All", "Afghanistan", "Albania", "Algeria", "Angola",
+            "Antigua and Barbuda", "Argentina", "Armenia", "Aruba",
+            "Australia", "Austria", "Azerbaijan", "Bahamas", "Bahrain",
+            "Bangladesh", "Barbados", "Belarus", "Belgium", "Belize", "Benin",
+            "Bermuda", "Bhutan", "Bosnia and Herzegovina", "Botswana",
+            "Brazil", "Bulgaria", "Burkina Faso", "Burundi", "Cambodia",
+            "Cameroon", "Canada", "Cayman Islands", "Central African Republic",
+            "Chad", "China", "Colombia", "Comoros", "Congo", "Costa Rica",
+            "Croatia", "Cuba", "Cyprus", "Czechia", "Denmark", "Djibouti",
+            "Dominica", "Dominican Republic", "Ecuador", "Egypt",
+            "El Salvador", "Equatorial Guinea", "Eritrea", "Estonia",
+            "Eswatini", "Ethiopia", "Fiji", "Finland", "France",
+            "French Guiana", "Gabon", "Gambia", "Georgia", "Germany", "Ghana",
+            "Greece", "Grenada", "Guatemala", "Guinea", "Guinea-Bissau",
+            "Guyana", "Haiti", "Honduras", "Hungary", "Iceland", "India",
+            "Iraq", "Ireland", "Israel", "Italy", "Jamaica", "Japan", "Jordan",
+            "Kenya", "Kiribati", "Kuwait", "Kyrgyzstan", "Latvia", "Lebanon",
+            "Lesotho", "Liberia", "Libya", "Lithuania", "Luxembourg",
+            "Madagascar", "Malawi", "Maldives", "Mali", "Malta", "Mauritania",
+            "Mauritius", "Mexico", "Mongolia", "Montenegro", "Morocco",
+            "Mozambique", "Myanmar", "Namibia", "Nauru", "Nepal",
+            "Netherlands", "New Caledonia", "New Zealand", "Nicaragua",
+            "Niger", "Nigeria", "North Macedonia", "Norway", "Oman",
+            "Pakistan", "Panama", "Papua New Guinea", "Paraguay", "Peru",
+            "Philippines", "Poland", "Portugal", "Puerto Rico", "Qatar",
+            "Romania", "Rwanda", "Saint Kitts and Nevis", "Saint Lucia",
+            "Saint Vincent and the Grenadines", "Samoa",
+            "Sao Tome and Principe", "Senegal", "Serbia", "Seychelles",
+            "Sierra Leone", "Singapore", "Slovakia", "Slovenia",
+            "Solomon Islands", "Somalia", "South Africa", "South Sudan",
+            "Spain", "Sri Lanka", "Sudan", "Suriname", "Sweden", "Switzerland",
+            "Tajikistan", "Thailand", "Togo", "Tonga", "Trinidad and Tobago",
+            "Tunisia", "Turkey", "Turkmenistan", "Uganda", "Ukraine",
+            "United Arab Emirates", "United Kingdom", "United States",
+            "Uruguay", "Uzbekistan", "Vanuatu", "Yemen", "Zambia", "Zimbabwe"
+            ],
+              "name": "Select a Country: "
+            }
+          }
+    ],
+    "mark": "bar",
+    "encoding": {
+      "x": {"field": "year", "type": "ordinal", "title": "Year"},
+      "y": {
+        "aggregate": "sum", "field": "Electricity",
+        "type": "quantitative", "title": "Electricity (TWh)", 
+        "axis": null,
+        "stack": "normalize"
+      },
+      "color": {"field": "Source", "type": "nominal", "title": "Energy Source", 
+      "scale": {
+        "domain": ["Electricity from fossil fuels (TWh)", "Electricity from nuclear (TWh)", "Electricity from renewables (TWh)"],
+        "range": ["#7D7E7E", "#8BB3B0", "#D6AD58"]
+    }}, 
+    "tooltip": [
+        {
+          "field": "Source",
+          "title": "Energy Source"
+        },
+        {
+          "field": "Electricity",
+          "aggregate": "sum",
+          "title": "Sum of Electricity (TWh)"
+        }
+      ]
+    }, 
+    "transform": [
+        {
+          "fold": ["Electricity from fossil fuels (TWh)", "Electricity from nuclear (TWh)", "Electricity from renewables (TWh)"],
+          "as": ["Source", "Electricity"]
+        },
+        {
+          "calculate": "indexof(['Electricity from renewables (TWh)', 'Electricity from nuclear (TWh)', 'Electricity from fossil fuels (TWh)'], datum.Source)",
+          "as": "order"
+        }, 
+        {"filter": "country_selection == null || datum.Entity == country_selection"}
+      ]
+  }
+  
