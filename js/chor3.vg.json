@@ -127,7 +127,7 @@
     },
     {
     "data": {
-        "url": "../data/global-data-on-sustainable-energy (1).csv"
+        "url": "https://raw.githubusercontent.com/emanAtassi/FIT3179/main/data/global-data-on-sustainable-energy%20(1).csv"
     },
     "transform": [
         {
