@@ -16,17 +16,6 @@
             }
         },
         {
-            "name": "zoom",
-            "value": 140,
-            "bind": {
-            "input": "range",
-            "min": 140,
-            "max": 600,
-            "step": 20,
-            "name": "Zoom: "
-            }
-        },
-        {
             "name": "signal_map_scale",
             "value": 140,
             "bind": {
