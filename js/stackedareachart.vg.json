@@ -60,7 +60,7 @@
                 "type": "nominal", 
                 "scale": {
                     "domain": ["top5_emissions", "others_emissions"],
-                    "range": ["#ff7f0e", "#1f77b4"]  
+                    "range": ["#ff7f0e", "grey"]  
                 }, 
                 "legend": {
                   "orient": "top", 
