@@ -19,7 +19,7 @@
           "labelColor": "white"
       }
   },
-    "data": {"url": "../data/ac.csv", "format": {
+    "data": {"url": "https://raw.githubusercontent.com/emanAtassi/FIT3179/main/data/ac.csv", "format": {
         "parse": {"year": "number"}
       }},
     "params": [

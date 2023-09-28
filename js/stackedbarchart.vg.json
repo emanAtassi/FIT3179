@@ -21,7 +21,7 @@
       }
   },
     "data": {
-      "url": "../data/rc.csv"
+      "url": "https://raw.githubusercontent.com/emanAtassi/FIT3179/main/data/rc.csv"
     },
     "params": [
         {

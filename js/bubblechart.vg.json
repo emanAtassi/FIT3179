@@ -22,7 +22,7 @@
     },
     "title": "GDP vs Renewable Electricity",
     "data": {
-        "url": "../data/bc.csv"
+        "url": "https://raw.githubusercontent.com/emanAtassi/FIT3179/main/data/bc.csv"
     },
     "mark": "circle",
     "params": [

@@ -3,7 +3,7 @@
     "width": 300,  
     "height": 300,  
     "title": "South America",
-    "data": {"url": "../data/gc.csv"},
+    "data": {"url": "https://raw.githubusercontent.com/emanAtassi/FIT3179/main/data/gc.csv"},
     "background": "transparent",
     "config": {
         "axisX": {

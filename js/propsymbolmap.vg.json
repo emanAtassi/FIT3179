@@ -127,7 +127,7 @@
     },
     {
     "data": {
-        "url": "../data/ps.csv"
+        "url": "https://raw.githubusercontent.com/emanAtassi/FIT3179/main/data/ps.csv"
     },
     "transform": [
 

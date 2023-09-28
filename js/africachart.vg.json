@@ -16,7 +16,7 @@
         }
     },
     "title": "Africa",
-    "data": {"url": "../data/gc.csv"},
+    "data": {"url": "https://raw.githubusercontent.com/emanAtassi/FIT3179/main/data/gc.csv"},
     "transform": [
         {
             "filter": "datum.continent == 'Africa'"
