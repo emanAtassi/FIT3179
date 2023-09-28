@@ -1,0 +1,98 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 500,
+    "height": 400,
+    "title": "CO2 Emissions over the years (By countries)",
+    "data": {"url": "../data/bcp.csv"}, 
+    "params": [
+        {
+            "name": "Continent_selection",
+            "bind": {
+              "input": "select",
+              "options": [
+                null,
+                "North America",
+                "South America",
+                "Europe",
+                "Africa",
+                "Asia",
+                "Oceania"
+              ],
+              "labels": [
+                "Show All",
+                "North America",
+                "South America",
+                "Europe",
+                "Africa",
+                "Asia",
+                "Oceania"
+              ],
+              "name": "Select a continent: "
+            }
+        }
+    ], 
+    "transform": [ 
+        {"filter": "datum['co2_emissions'] > 600"}, 
+        {"filter": "Continent_selection == null || datum.continent == Continent_selection"}
+      ],
+    "encoding": {
+        "x": {"field": "year", "type": "temporal", "title": "Year"},
+        "y": {"field": "co2_emissions", "type": "quantitative", "title": "CO2 Emissions"}
+    }, 
+    "layer": [
+        {
+        "mark": "line",
+        "transform": [ 
+            {"filter": "datum['rank'] <= 5"}
+        ],
+        "encoding": {
+            "color": {
+                "field": "Entity",
+                "type": "nominal", 
+                "scale": {
+                    "range": ["#333333"] 
+                }, 
+                "legend": null 
+            }, 
+            "tooltip": [
+                {
+                    "field": "Entity",
+                    "title": "Country"
+                },
+                {
+                    "field": "co2_emissions",
+                    "title": "CO2 Emissions",
+                    "format": ".2f"
+                }
+            ]
+            }
+        }, 
+        {
+            "mark": "line",
+            "transform": [ 
+                {"filter": "datum['rank'] > 5"}
+            ],
+            "encoding": {
+                "color": {
+                    "field": "Entity",
+                    "type": "nominal"
+                }, 
+                "opacity": {
+
+                    "value": 0.1
+                    },
+                "tooltip": [
+                    {
+                        "field": "Entity",
+                        "title": "Country"
+                    },
+                    {
+                        "field": "co2_emissions",
+                        "title": "CO2 Emissions",
+                        "format": ".2f"
+                    }
+                ]
+                }
+            }
+        ]
+}

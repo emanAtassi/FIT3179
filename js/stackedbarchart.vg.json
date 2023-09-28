@@ -1,8 +1,25 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": "Electricity Generation by Source",
-    "width": 800,
+    "width": 750,
     "height": 400,
+    "background": "black", 
+    "config": {
+      "axisX": {
+        "labelAngle": 0
+    }, 
+      "title": {
+          "color": "white" 
+      },
+      "axis": {
+          "labelColor": "white", 
+          "titleColor": "white" 
+      },
+      "legend": {
+          "titleColor": "white", 
+          "labelColor": "white"
+      }
+  },
     "data": {
       "url": "../data/rc.csv"
     },
@@ -86,7 +103,9 @@
       "scale": {
         "domain": ["Electricity from fossil fuels (TWh)", "Electricity from nuclear (TWh)", "Electricity from renewables (TWh)"],
         "range": ["#7D7E7E", "#8BB3B0", "#D6AD58"]
-    }}, 
+      }, 
+      "legend": {"orient": "top"}
+  }, 
     "tooltip": [
         {
           "field": "Source",

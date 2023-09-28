@@ -1,0 +1,54 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 300,  
+    "height": 300,  
+    "title": "Asia",
+    "background": "transparent",
+    "config": {
+        "axisX": {
+            "labelAngle": 0
+        }, 
+        "title": {
+            "color": "white" 
+        },
+        "axis": {
+            "labelColor": "white", 
+            "titleColor": "white" 
+        }
+    },
+    "data": {"url": "../data/gc.csv"},
+    "transform": [
+        {
+            "filter": "datum.continent == 'Asia'"
+        }, 
+        {
+            "calculate": "datum['co2_emissions_change'] > 0 ? 'Did not reduce Emissions' : 'Reduced Emissions'",
+            "as": "positive_change"
+        }
+    ],
+    "mark": "circle",
+    "encoding": {
+        "x": {"field": "positive_change", "type": "nominal", "title": "Country"} ,
+        "y": {"field": "co2_emissions_change", "type": "quantitative",  "title": "CO2 Emissions Change (%)"},
+        "color": {
+            "field": "change",
+            "type": "nominal", 
+            "scale": {
+                "domain": ["positive",  "negative"],
+                "range": ["gray", "blue"]
+              }, "legend": null
+        },
+        "size": {"value": 100}, 
+        "tooltip": [
+            {
+                "field": "Entity",
+                "title": "Country"
+            },
+            {
+                "field": "co2_emissions_change",
+                "title": "CO2 Emissions change (%)",
+                "format": ",d"
+            }
+        ]
+    }
+}

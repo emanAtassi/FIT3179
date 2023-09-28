@@ -1,164 +1,164 @@
-,Entity,continent,co2_emissions_change
-0,Afghanistan,Asia,699.99999
-1,Albania,Europe,52.36592820189273
-2,Algeria,Africa,113.92879450343536
-3,Angola,Africa,55.617278271604945
-4,Antigua and Barbuda,North America,57.57575178787878
-5,Argentina,South America,27.088535646783097
-6,Armenia,Asia,73.31460887640449
-7,Aruba,North America,-62.865947611710325
-8,Australia,Oceania,13.869494417439975
-9,Austria,Europe,1.951828490476936
-10,Azerbaijan,Asia,28.2412362585771
-11,Bahrain,Asia,109.44583324937027
-12,Bangladesh,Asia,319.1223919630485
-13,Barbados,North America,0.8064516129032258
-14,Belarus,Europe,8.934639535323004
-15,Belgium,Europe,-20.687300980642963
-16,Belize,North America,42.22221904444445
-17,Benin,Africa,414.0845204929578
-18,Bermuda,North America,18.439716312056735
-19,Bhutan,Asia,399.9999771428571
-20,Bosnia and Herzegovina,Europe,50.93122987106018
-21,Botswana,Africa,79.90074441687345
-22,Brazil,South America,38.457610801160456
-23,Bulgaria,Europe,-9.857210064486418
-24,Burkina Faso,Africa,431.9148936170213
-25,Burundi,Africa,176.9230879230769
-26,Cambodia,Asia,725.5102198979591
-27,Cameroon,Africa,80.99808646833011
-28,Canada,North America,12.833032943098285
-29,Cayman Islands,North America,17.3228346456693
-30,Central African Republic,Africa,-2.2499999966877717e-06
-31,Chad,Africa,675.8620689655172
-32,Chile,South America,81.21777618008727
-33,China,Asia,219.94991020549642
-34,Colombia,South America,38.909840452519724
-35,Comoros,Africa,219.99999279999994
-36,Costa Rica,North America,66.46464183838386
-37,Croatia,Europe,-8.42571807095344
-38,Cuba,North America,-8.606702469135803
-39,Cyprus,Asia,0.8415155259467069
-40,Czechia,Europe,-21.82349523422911
-41,Denmark,Europe,-43.53612022813688
-42,Djibouti,Africa,13.513509972972976
-43,Dominica,North America,30.76923215384616
-44,Dominican Republic,North America,45.84895307980718
-45,Ecuador,South America,78.1859452154195
-46,El Salvador,North America,38.543520266429844
-47,Equatorial Guinea,Africa,140.9909867117117
-48,Eritrea,Africa,37.499999249999995
-49,Estonia,Europe,-31.769434919571047
-50,Eswatini,Africa,39.13043166666667
-51,Ethiopia,Africa,415.7303542134831
-52,Fiji,Oceania,101.2345672839506
-53,Finland,Europe,-26.11615411978221
-54,France,Europe,-19.457550117924526
-55,Gabon,Africa,-13.651315789473683
-56,Georgia,Asia,111.94967840670857
-57,Germany,Europe,-20.82188847135906
-58,Ghana,Africa,249.12893588850173
-59,Greece,Europe,-36.48105017997036
-60,Grenada,North America,57.14286338095238
-61,Guatemala,North America,104.98937866242038
-62,Guinea,Africa,165.1006743624161
-63,Guinea-Bissau,Africa,120.00000873333332
-64,Guyana,South America,71.68674126506025
-65,Haiti,North America,125.85033557823128
-66,Honduras,North America,104.80962464929861
-67,Hungary,Europe,-15.10159057294527
-68,Iceland,Europe,-26.4573997309417
-69,India,Asia,161.9047671294223
-70,Indonesia,Asia,120.85873041154464
-71,Iraq,Asia,99.20118406938263
-72,Ireland,Europe,-15.941688220079945
-73,Israel,Asia,9.912283385964916
-74,Italy,Europe,-27.288565161586064
-75,Jamaica,North America,-16.600394204771373
-76,Japan,Asia,-8.54381867225882
-77,Jordan,Asia,51.38290817455439
-78,Kazakhstan,Asia,76.53766175613816
-79,Kenya,Africa,167.78846983173077
-80,Kiribati,Oceania,200.00001193333335
-81,Kuwait,Asia,85.89486663322631
-82,Latvia,Europe,9.235211717171717
-83,Lebanon,Asia,78.36630989151244
-84,Lesotho,Africa,97.43589253846153
-85,Liberia,Africa,174.41859255813952
-86,Libya,Africa,27.01252066189624
-87,Lithuania,Europe,11.607988011417705
-88,Luxembourg,Europe,10.864483306074774
-89,Madagascar,Africa,149.69696278787876
-90,Malawi,Africa,104.22535887323944
-91,Malaysia,Asia,103.65873616918624
-92,Maldives,Asia,358.69562934782607
-93,Mali,Africa,313.4751719148936
-94,Malta,Europe,-22.065729248826294
-95,Mauritania,Africa,211.02362582677165
-96,Mauritius,Africa,71.60494139917697
-97,Mexico,North America,18.4846218154966
-98,Mongolia,Asia,156.3333298888889
-99,Montenegro,Europe,23.809524886621364
-100,Morocco,Africa,117.39660389294404
-101,Mozambique,Africa,424.4755244755245
-102,Myanmar,Asia,288.98306377118644
-103,Namibia,Africa,117.52576237113401
-104,Nauru,Oceania,-33.33333482222222
-105,Nepal,Asia,317.70185745341615
-106,Netherlands,Europe,-9.722395866748922
-107,New Caledonia,Oceania,138.5878489326765
-108,New Zealand,Oceania,15.48386526315789
-109,Nicaragua,North America,38.99203636604774
-110,Niger,Africa,220.89553656716413
-111,Nigeria,Africa,18.576423369677023
-112,North Macedonia,Europe,-5.251139372146128
-113,Norway,Europe,4.841063750364545
-114,Oman,Asia,202.78772911190757
-115,Pakistan,Asia,93.72776995018806
-116,Panama,North America,152.65151799242426
-117,Papua New Guinea,Oceania,167.8445202826855
-118,Paraguay,South America,133.23863744318183
-119,Peru,South America,98.21865176388404
-120,Philippines,Asia,101.69209181692094
-121,Poland,Europe,-0.21638269601379456
-122,Portugal,Europe,-27.602985095686023
-123,Qatar,Asia,220.9002136078158
-124,Romania,Europe,-16.928783475623455
-125,Rwanda,Africa,146.29630425925924
-126,Samoa,Oceania,100.00000793333335
-127,Sao Tome and Principe,Africa,200.00001200000003
-128,Saudi Arabia,Asia,109.79733609709203
-129,Senegal,Africa,161.57635197044334
-130,Serbia,Europe,-10.707342437830448
-131,Seychelles,Africa,110.34483251724137
-132,Sierra Leone,Africa,172.72726551515152
-133,Singapore,Asia,12.488131695156692
-134,Slovenia,Europe,-6.464921733149935
-135,Solomon Islands,Oceania,50.000005958333325
-136,Somalia,Africa,40.81632604081633
-137,South Africa,Africa,54.44390311248507
-138,South Sudan,Africa,17.241378739595735
-139,Spain,Europe,-18.182129589853737
-140,Sri Lanka,Asia,117.56633751143642
-141,Sudan,Africa,262.3901729349737
-142,Suriname,South America,79.05406047297296
-143,Sweden,Europe,-34.30930930930931
-144,Switzerland,Europe,-14.481809494394879
-145,Tajikistan,Asia,328.1818216363637
-146,Thailand,Asia,62.374610189069244
-147,Togo,Africa,86.6141642519685
-148,Tonga,Oceania,59.999996399999986
-149,Trinidad and Tobago,North America,68.52941696078433
-150,Tunisia,Africa,44.49275289855073
-151,Turkmenistan,Asia,89.22358543235524
-152,Tuvalu,Oceania,-2.240000007702747e-06
-153,Uganda,Africa,350.7692410769231
-154,Ukraine,Europe,-41.24352824668774
-155,United Arab Emirates,Asia,122.89625941225069
-156,United Kingdom,Europe,-34.27640125072991
-157,United States,North America,-16.58797268261941
-158,Uruguay,South America,18.864464670329667
-159,Uzbekistan,Asia,-5.734594055407478
-160,Vanuatu,Oceania,133.333326
-161,Zambia,Africa,275.6906182872928
-162,Zimbabwe,Africa,-14.160582262773724
+,Unnamed: 0,Entity,continent,co2_emissions_change,change
+0,0,Afghanistan,Asia,699.99999,positive
+1,1,Albania,Europe,52.36592820189273,positive
+2,2,Algeria,Africa,113.92879450343536,positive
+3,3,Angola,Africa,55.61727827160495,positive
+4,4,Antigua and Barbuda,North America,57.57575178787878,positive
+5,5,Argentina,South America,27.088535646783097,positive
+6,6,Armenia,Asia,73.31460887640449,positive
+7,7,Aruba,North America,-62.865947611710325,negative
+8,8,Australia,Oceania,13.869494417439975,positive
+9,9,Austria,Europe,1.951828490476936,positive
+10,10,Azerbaijan,Asia,28.2412362585771,positive
+11,11,Bahrain,Asia,109.44583324937028,positive
+12,12,Bangladesh,Asia,319.1223919630485,positive
+13,13,Barbados,North America,0.8064516129032258,positive
+14,14,Belarus,Europe,8.934639535323004,positive
+15,15,Belgium,Europe,-20.687300980642963,negative
+16,16,Belize,North America,42.22221904444445,positive
+17,17,Benin,Africa,414.0845204929578,positive
+18,18,Bermuda,North America,18.43971631205673,positive
+19,19,Bhutan,Asia,399.9999771428571,positive
+20,20,Bosnia and Herzegovina,Europe,50.93122987106018,positive
+21,21,Botswana,Africa,79.90074441687345,positive
+22,22,Brazil,South America,38.457610801160456,positive
+23,23,Bulgaria,Europe,-9.857210064486418,negative
+24,24,Burkina Faso,Africa,431.9148936170213,positive
+25,25,Burundi,Africa,176.9230879230769,positive
+26,26,Cambodia,Asia,725.5102198979591,positive
+27,27,Cameroon,Africa,80.99808646833011,positive
+28,28,Canada,North America,12.833032943098283,positive
+29,29,Cayman Islands,North America,17.3228346456693,positive
+30,30,Central African Republic,Africa,-2.249999996687772e-06,negative
+31,31,Chad,Africa,675.8620689655172,positive
+32,32,Chile,South America,81.21777618008727,positive
+33,33,China,Asia,219.9499102054964,positive
+34,34,Colombia,South America,38.90984045251973,positive
+35,35,Comoros,Africa,219.99999279999997,positive
+36,36,Costa Rica,North America,66.46464183838386,positive
+37,37,Croatia,Europe,-8.42571807095344,negative
+38,38,Cuba,North America,-8.606702469135803,negative
+39,39,Cyprus,Asia,0.8415155259467069,positive
+40,40,Czechia,Europe,-21.82349523422911,negative
+41,41,Denmark,Europe,-43.53612022813688,negative
+42,42,Djibouti,Africa,13.513509972972976,positive
+43,43,Dominica,North America,30.76923215384616,positive
+44,44,Dominican Republic,North America,45.84895307980718,positive
+45,45,Ecuador,South America,78.1859452154195,positive
+46,46,El Salvador,North America,38.54352026642984,positive
+47,47,Equatorial Guinea,Africa,140.9909867117117,positive
+48,48,Eritrea,Africa,37.49999925,positive
+49,49,Estonia,Europe,-31.769434919571047,negative
+50,50,Eswatini,Africa,39.13043166666667,positive
+51,51,Ethiopia,Africa,415.7303542134831,positive
+52,52,Fiji,Oceania,101.2345672839506,positive
+53,53,Finland,Europe,-26.11615411978221,negative
+54,54,France,Europe,-19.457550117924526,negative
+55,55,Gabon,Africa,-13.651315789473683,negative
+56,56,Georgia,Asia,111.94967840670856,positive
+57,57,Germany,Europe,-20.82188847135906,negative
+58,58,Ghana,Africa,249.12893588850173,positive
+59,59,Greece,Europe,-36.48105017997036,negative
+60,60,Grenada,North America,57.14286338095238,positive
+61,61,Guatemala,North America,104.98937866242038,positive
+62,62,Guinea,Africa,165.1006743624161,positive
+63,63,Guinea-Bissau,Africa,120.00000873333332,positive
+64,64,Guyana,South America,71.68674126506025,positive
+65,65,Haiti,North America,125.85033557823128,positive
+66,66,Honduras,North America,104.8096246492986,positive
+67,67,Hungary,Europe,-15.10159057294527,negative
+68,68,Iceland,Europe,-26.4573997309417,negative
+69,69,India,Asia,161.9047671294223,positive
+70,70,Indonesia,Asia,120.85873041154464,positive
+71,71,Iraq,Asia,99.20118406938263,positive
+72,72,Ireland,Europe,-15.941688220079945,negative
+73,73,Israel,Asia,9.912283385964916,positive
+74,74,Italy,Europe,-27.288565161586064,negative
+75,75,Jamaica,North America,-16.600394204771373,negative
+76,76,Japan,Asia,-8.54381867225882,negative
+77,77,Jordan,Asia,51.38290817455439,positive
+78,78,Kazakhstan,Asia,76.53766175613816,positive
+79,79,Kenya,Africa,167.78846983173077,positive
+80,80,Kiribati,Oceania,200.00001193333333,positive
+81,81,Kuwait,Asia,85.89486663322631,positive
+82,82,Latvia,Europe,9.235211717171715,positive
+83,83,Lebanon,Asia,78.36630989151244,positive
+84,84,Lesotho,Africa,97.43589253846152,positive
+85,85,Liberia,Africa,174.41859255813952,positive
+86,86,Libya,Africa,27.01252066189624,positive
+87,87,Lithuania,Europe,11.607988011417705,positive
+88,88,Luxembourg,Europe,10.864483306074774,positive
+89,89,Madagascar,Africa,149.69696278787876,positive
+90,90,Malawi,Africa,104.22535887323944,positive
+91,91,Malaysia,Asia,103.65873616918624,positive
+92,92,Maldives,Asia,358.69562934782607,positive
+93,93,Mali,Africa,313.4751719148936,positive
+94,94,Malta,Europe,-22.06572924882629,negative
+95,95,Mauritania,Africa,211.02362582677165,positive
+96,96,Mauritius,Africa,71.60494139917697,positive
+97,97,Mexico,North America,18.4846218154966,positive
+98,98,Mongolia,Asia,156.3333298888889,positive
+99,99,Montenegro,Europe,23.809524886621364,positive
+100,100,Morocco,Africa,117.39660389294404,positive
+101,101,Mozambique,Africa,424.4755244755245,positive
+102,102,Myanmar,Asia,288.98306377118644,positive
+103,103,Namibia,Africa,117.525762371134,positive
+104,104,Nauru,Oceania,-33.33333482222222,negative
+105,105,Nepal,Asia,317.7018574534161,positive
+106,106,Netherlands,Europe,-9.722395866748922,negative
+107,107,New Caledonia,Oceania,138.5878489326765,positive
+108,108,New Zealand,Oceania,15.48386526315789,positive
+109,109,Nicaragua,North America,38.99203636604774,positive
+110,110,Niger,Africa,220.89553656716413,positive
+111,111,Nigeria,Africa,18.576423369677023,positive
+112,112,North Macedonia,Europe,-5.251139372146128,negative
+113,113,Norway,Europe,4.841063750364545,positive
+114,114,Oman,Asia,202.7877291119076,positive
+115,115,Pakistan,Asia,93.72776995018806,positive
+116,116,Panama,North America,152.65151799242426,positive
+117,117,Papua New Guinea,Oceania,167.8445202826855,positive
+118,118,Paraguay,South America,133.23863744318183,positive
+119,119,Peru,South America,98.21865176388404,positive
+120,120,Philippines,Asia,101.69209181692094,positive
+121,121,Poland,Europe,-0.2163826960137945,negative
+122,122,Portugal,Europe,-27.602985095686023,negative
+123,123,Qatar,Asia,220.9002136078158,positive
+124,124,Romania,Europe,-16.928783475623455,negative
+125,125,Rwanda,Africa,146.29630425925924,positive
+126,126,Samoa,Oceania,100.00000793333336,positive
+127,127,Sao Tome and Principe,Africa,200.00001200000003,positive
+128,128,Saudi Arabia,Asia,109.79733609709204,positive
+129,129,Senegal,Africa,161.57635197044334,positive
+130,130,Serbia,Europe,-10.707342437830448,negative
+131,131,Seychelles,Africa,110.34483251724136,positive
+132,132,Sierra Leone,Africa,172.72726551515152,positive
+133,133,Singapore,Asia,12.488131695156692,positive
+134,134,Slovenia,Europe,-6.464921733149935,negative
+135,135,Solomon Islands,Oceania,50.000005958333325,positive
+136,136,Somalia,Africa,40.81632604081633,positive
+137,137,South Africa,Africa,54.44390311248507,positive
+138,138,South Sudan,Africa,17.241378739595735,positive
+139,139,Spain,Europe,-18.182129589853737,negative
+140,140,Sri Lanka,Asia,117.56633751143642,positive
+141,141,Sudan,Africa,262.3901729349737,positive
+142,142,Suriname,South America,79.05406047297296,positive
+143,143,Sweden,Europe,-34.30930930930931,negative
+144,144,Switzerland,Europe,-14.48180949439488,negative
+145,145,Tajikistan,Asia,328.1818216363637,positive
+146,146,Thailand,Asia,62.37461018906925,positive
+147,147,Togo,Africa,86.6141642519685,positive
+148,148,Tonga,Oceania,59.99999639999999,positive
+149,149,Trinidad and Tobago,North America,68.52941696078433,positive
+150,150,Tunisia,Africa,44.49275289855073,positive
+151,151,Turkmenistan,Asia,89.22358543235524,positive
+152,152,Tuvalu,Oceania,-2.240000007702747e-06,negative
+153,153,Uganda,Africa,350.7692410769231,positive
+154,154,Ukraine,Europe,-41.24352824668774,negative
+155,155,United Arab Emirates,Asia,122.89625941225069,positive
+156,156,United Kingdom,Europe,-34.27640125072991,negative
+157,157,United States,North America,-16.58797268261941,negative
+158,158,Uruguay,South America,18.864464670329667,positive
+159,159,Uzbekistan,Asia,-5.734594055407478,negative
+160,160,Vanuatu,Oceania,133.333326,positive
+161,161,Zambia,Africa,275.6906182872928,positive
+162,162,Zimbabwe,Africa,-14.160582262773724,negative

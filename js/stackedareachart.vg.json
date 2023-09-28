@@ -1,0 +1,85 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 700,
+    "height": 500,
+    "background": "black",
+    "config": {
+        "axisX": {
+          "labelAngle": 0
+      }, 
+      "title": {
+          "color": "white" 
+      },
+      "axis": {
+          "labelColor": "white", 
+          "titleColor": "white" 
+      },
+      "legend": {
+          "titleColor": "white", 
+          "labelColor": "white"
+      }
+  },
+    "data": {"url": "../data/ac.csv", "format": {
+        "parse": {"year": "number"}
+      }},
+    "params": [
+        {
+            "name": "yearfilter",
+            "value": 2000,
+            "bind": {
+                "input": "range",
+                "min": 2000,
+                "max": 2019,
+                "step": 1,
+                "name": "Filter the years: "
+            }
+        }
+    ],
+    "transform": [
+        {"filter": "datum.year >= yearfilter"}
+    ],
+    "encoding": {
+      "x": {"field": "year",  "title": "Year", "axis": {"grid": false}},
+      "y": {"field": "value", "type": "quantitative", "aggregate": "sum", "title": "CO2 Emissions"},
+      "tooltip": [
+        {
+            "field": "value",
+            "title": "CO2 Emissions",
+            "format": ".2f"
+        }
+    ]
+    },
+    "layer": [
+        {
+            "mark": {"type": "area", 
+            "opacity": 1, 
+            "line": true},
+            "encoding": {
+              "color": {
+                "field": "type",
+                "type": "nominal", 
+                "scale": {
+                    "domain": ["top5_emissions", "others_emissions"],
+                    "range": ["#ff7f0e", "#1f77b4"]  
+                }, 
+                "legend": {
+                  "orient": "top", 
+                  "title": ""
+                }
+              }, 
+              "order": {"field": "year"}
+            }
+          },
+      {
+        "mark": {"type": "area", 
+        "opacity": 0.4},
+        "encoding": {
+          "color": {
+            "field": "type",
+            "type": "nominal"
+          }, 
+          "order": {"field": "value", "sort": "descending"}
+        }
+      }
+    ]
+  }

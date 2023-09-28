@@ -1,12 +1,25 @@
 {
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 650,
+    "height": 400,
+    "background": "transparent",
     "config": {
         "view": {
             "stroke": null
+        }, 
+            "title": {
+                "color": "white" 
+            },
+            "axis": {
+                "labelColor": "white", 
+                "titleColor": "white" 
+            },
+            "legend": {
+                "titleColor": "white", 
+                "labelColor": "white",
+                "symbolFillColor": "white"
         }
     },
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 500,
-    "height": 400,
     "title": "GDP vs Renewable Electricity",
     "data": {
         "url": "../data/bc.csv"

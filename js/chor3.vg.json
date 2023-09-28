@@ -1,8 +1,26 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 800,
-    "height": 450,
+    "width": 1200,
+    "height": 500,
     "title": "Access to Electricity Across the World (%)",
+    "background": "transparent",
+    "config": {
+        "axisX": {
+            "labelAngle": 0
+        }, 
+        "title": {
+            "color": "white" 
+        },
+        "axis": {
+            "labelColor": "white", 
+            "titleColor": "white" 
+        }, 
+        "legend": {
+            "titleColor": "white", 
+            "labelColor": "white",
+            "symbolFillColor": "white"
+    }
+    },
     "params": [
         {
             "name": "yearfilter",
@@ -148,6 +166,7 @@
     "encoding": {
         "color": {
             "field": "access_to_electricity",
+            "title": "Acess to Electricity (%)", 
             "type": "quantitative",
             "scale": {
                 "type": "log",
