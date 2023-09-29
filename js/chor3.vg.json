@@ -38,7 +38,7 @@
             "value": 190,
             "bind": {
               "input": "range",
-              "min": 200,
+              "min": 190,
               "max": 4000,
               "step": 50,
               "name": "Map scale: "
