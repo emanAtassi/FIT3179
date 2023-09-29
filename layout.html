@@ -58,7 +58,7 @@
 
     <div id="choroplethsection" class="sections">
 
-        <h3>Access to Electricity Across the World (%):</h3>
+        <h3 class = "text">Access to Electricity Across the World (%):</h3>
 
         <div class="pure-g">
             <div class="pure-u-1-1">
@@ -128,7 +128,7 @@
         <h3>Anuual GDP Per Capita vs Renewable Energy Consumption:</h3>
 
         <div class="pure-g">
-            
+
             <div class="pure-u-3-5">
                 <p><br></p>
                 <div id="bubblechart"></div>
@@ -267,8 +267,8 @@
         <div class="pure-g">
 
             <div class="pure-u-1-2">
+                <div class="description">
                 <p>
-                    <br>
                     <br>
                     This is a <span class="keywords">stacked area chart</span> which compares the CO2 Emissions produced by <span class="keywords"><b>the Top 10 Pollutors (countries)
                     vs the Rest of the World</b></span>.
@@ -286,6 +286,7 @@
                     to cleaner energy sources. These factors, along with high energy consumption driven by industries and urbanization, 
                     contribute to their significant carbon footprints on the global scale.
                 </p>
+            </div>
             </div>
 
         <div class="pure-u-1-2">
@@ -337,40 +338,40 @@
 
     <script>
         var spec1 = "js/chor3.vg.json";
-        vegaEmbed("#choroplethmap1", spec1, { mode: "vega-lite" }).then(console.log).catch(console.warn);
+        vegaEmbed("#choroplethmap1", spec1, { "actions": false }).then(console.log).catch(console.warn);
 
         var spec2 = "js/propsymbolmap.vg.json";
-        vegaEmbed("#propsymbolmap", spec2, { mode: "vega-lite" }).then(console.log).catch(console.warn);
+        vegaEmbed("#propsymbolmap", spec2, { "actions": false }).then(console.log).catch(console.warn);
 
         var spec3 = "js/bubblechart.vg.json";
-        vegaEmbed("#bubblechart", spec3, { mode: "vega-lite" }).then(console.log).catch(console.warn);
+        vegaEmbed("#bubblechart", spec3,  { "actions": false }).then(console.log).catch(console.warn);
 
         var spec4 = "js/stackedbarchart.vg.json";
-        vegaEmbed("#stackedbarchart", spec4, { mode: "vega-lite" }).then(console.log).catch(console.warn);
+        vegaEmbed("#stackedbarchart", spec4, { "actions": false }).then(console.log).catch(console.warn);
 
         var africaspec = "js/africachart.vg.json";
-        vegaEmbed("#africachart", africaspec, { mode: "vega-lite" }).then(console.log).catch(console.warn);
+        vegaEmbed("#africachart", africaspec, { "actions": false }).then(console.log).catch(console.warn);
 
         var asiaspec = "js/asiachart.vg.json";
-        vegaEmbed("#asiachart", asiaspec, { mode: "vega-lite" }).then(console.log).catch(console.warn);
+        vegaEmbed("#asiachart", asiaspec, { "actions": false }).then(console.log).catch(console.warn);
 
         var oceaniaspec = "js/oceaniachart.vg.json";
-        vegaEmbed("#oceaniachart", oceaniaspec, { mode: "vega-lite" }).then(console.log).catch(console.warn);
+        vegaEmbed("#oceaniachart", oceaniaspec, { "actions": false }).then(console.log).catch(console.warn);
 
         var europespec = "js/europechart.vg.json";
-        vegaEmbed("#europechart", europespec, { mode: "vega-lite" }).then(console.log).catch(console.warn);
+        vegaEmbed("#europechart", europespec, { "actions": false }).then(console.log).catch(console.warn);
 
         var northamericaspec = "js/northamerica.vg.json";
-        vegaEmbed("#northamericachart", northamericaspec, { mode: "vega-lite" }).then(console.log).catch(console.warn);
+        vegaEmbed("#northamericachart", northamericaspec,{ "actions": false }).then(console.log).catch(console.warn);
 
         var southamericaspec = "js/southamerica.vg.json";
-        vegaEmbed("#southamericachart", southamericaspec, { mode: "vega-lite" }).then(console.log).catch(console.warn);
+        vegaEmbed("#southamericachart", southamericaspec, { "actions": false }).then(console.log).catch(console.warn);
 
         var spec5 = "js/stackedareachart.vg.json";
-        vegaEmbed("#stackedareachart", spec5, { mode: "vega-lite" }).then(console.log).catch(console.warn);
+        vegaEmbed("#stackedareachart", spec5, { "actions": false }).then(console.log).catch(console.warn);
 
         var spec6 = "js/rankbarchart.vg.json";
-        vegaEmbed("#rankedbarchart", spec6, { mode: "vega-lite" }).then(console.log).catch(console.warn);
+        vegaEmbed("#rankedbarchart", spec6, { "actions": false }).then(console.log).catch(console.warn);
     </script>
 
 </body>
