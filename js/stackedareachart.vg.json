@@ -63,7 +63,7 @@
                 "field": "type",
                 "type": "nominal", 
                 "scale": {
-                    "domain": ["top10_emissions", "others_emissions"],
+                    "domain": ["top5_emissions", "others_emissions"],
                     "range": ["#ff7f0e", "grey"]  
                 }, 
                 "legend": {
