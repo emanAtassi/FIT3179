@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "CO2 Emissions by the Top 50 Polluters (Ranked)",
+    "title": "CO2 Emissions by the Top 30 Polluters",
     "width": 550,
     "height": 600,
     "background": "transparent",
@@ -38,7 +38,7 @@
         }
     ], 
     "transform": [
-        {"filter": "datum['rank'] <= 50.0"},
+        {"filter": "datum['rank'] <= 30.0"},
         {
             "filter": "datum.year==yearfilter"
         }
