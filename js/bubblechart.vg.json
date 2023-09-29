@@ -20,7 +20,7 @@
                 "symbolFillColor": "white"
         }
     },
-    "title": "GDP vs Renewable Electricity",
+    "title": "Average GDP vs Renewable Electricity",
     "data": {
         "url": "https://raw.githubusercontent.com/emanAtassi/FIT3179/main/data/bc.csv"
     },
@@ -95,7 +95,7 @@
         "x": {
             "field": "gdp_per_capita",
             "type": "quantitative",
-            "title": "GDP Per Capita",
+            "title": "Average GDP Per Capita",
             "axis": {
                 "tickCount": 7,
                 "grid": false
