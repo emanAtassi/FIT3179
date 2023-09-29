@@ -3,7 +3,7 @@
     "title": "Electricity Generation by Source",
     "width": 750,
     "height": 400,
-    "background": "black", 
+    "background": "transparent", 
     "config": {
       "axisX": {
         "labelAngle": 0

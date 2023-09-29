@@ -2,6 +2,7 @@ body {
     background-color: rgb(30, 34, 35);
     color: rgb(255, 255, 255); /* Set the text color to white for better visibility on a black background */
     margin-bottom: 100px;
+    font-family:  sans-serif;
     
 }
 
@@ -13,32 +14,82 @@ body {
 .header {
     text-align: center; /* Center-align the text */
     background: rgb(42,133,139);
-background: linear-gradient(183deg, rgba(42,133,139,1) 0%, rgba(0,0,0,0.6432948179271709) 58%);
+background: linear-gradient(183deg, rgba(42,133,139,1) 0%, rgb(30, 34, 35) 58%);
     color: #ffffff; /* Set the text color to white for better readability on a colored background */
     padding: 20px; /* Add some padding for spacing */
     margin-bottom: 100px; 
   }
-  
+  .title {
+    font-family: "Times New Roman", Times, serif;
+  }
   .header h3 {
     margin: 0; /* Remove default margin for the h3 element */
 
   }
 
-  .choroplethsection {
-    padding: 50px; 
-    margin-top: 10px;
-    text-align: center;
+  a {
+    color:rgb(192, 203, 207)
   }
 
-  .proportionalsymbolsection {
-    display: flex;
-    justify-content: center; /* Horizontal centering */
-    align-items: center; /* Vertical centering */
+  a:visited {
+    color: rgb(83, 195, 186); /* Change this to your desired color */
+}
+
+  #meta {
+    color:rgb(192, 203, 207)
   }
+
+  .keywords {
+    color: rgb(83, 195, 186);
+  }
+
+  .colours {
+    color: rgb(224, 76, 81);
+  }
+
+
+  .fossil {
+    color: #acb8b8;
+  }
+
+  .nuclear {
+    color:#9dc0be;
+  }
+
+  .renewable {
+    color: #D6AD58;
+  }
+
+  .blue {
+    color: #34c3eb;
+  }
+
+  .grey {
+    color: #bcc2c6;
+  }
+
+
+  #choroplethsection {
+    padding: 50px; 
+    margin-top: 10px;
+    /* text-align: center; */
+  }
+
+  #stackedarea {
+    padding-right: 100px; 
+  }
+
+
+  .sections {
+    padding: 50px; 
+    margin-top: 10px;
+  }
+
 
 
   h3 {
     padding: 20px; 
+    margin: auto;
     margin-top: 10px;
     text-align: center;
     border-bottom: 0.2px solid #fcfcfc;
@@ -67,7 +118,8 @@ background: linear-gradient(183deg, rgba(42,133,139,1) 0%, rgba(0,0,0,0.64329481
 
   .description {
     padding: 10px; 
-    text-align: center;
+    text-align: left;
+    margin: auto;
   }
 
   .bubblechart {

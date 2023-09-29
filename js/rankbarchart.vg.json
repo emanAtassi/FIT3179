@@ -1,0 +1,80 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "CO2 Emissions by the Top 50 Polluters (Ranked)",
+    "width": 550,
+    "height": 600,
+    "background": "transparent",
+    "config": {
+        "view": {
+            "stroke": null
+        }, 
+            "title": {
+                "color": "white" 
+            },
+            "axis": {
+                "labelColor": "white", 
+                "titleColor": "white" 
+            },
+            "legend": {
+                "titleColor": "white", 
+                "labelColor": "white",
+                "symbolFillColor": "white"
+        }
+    },
+    "data": {
+      "url": "https://raw.githubusercontent.com/emanAtassi/FIT3179/main/data/bcp.csv"
+    },
+    "params": [
+        {
+            "name": "yearfilter",
+            "value": 2019,
+            "bind": {
+                "input": "range",
+                "min": 2000,
+                "max": 2019,
+                "step": 1,
+                "name": "Select the year: "
+            }
+        }
+    ], 
+    "transform": [
+        {"filter": "datum['rank'] <= 50.0"},
+        {
+            "filter": "datum.year==yearfilter"
+        }
+    ], 
+    "mark": {
+        "type": "bar", 
+        "opacity": 0.6
+    } , 
+    "encoding": {
+      "x": {
+        "field": "co2_emissions",
+        "type": "quantitative",
+        "title": "CO2 Emissions (metric tons)",
+        "sort": "-y" , 
+        "axis": {"grid": false} 
+      },
+      "y": {
+        "field": "Entity",
+        "type": "nominal",
+        "title": "Country",
+        "sort": "-x" 
+      }, 
+      "color":{
+        "condition": {"test": "datum.rank <= 5", "value": "#ff7f0e"},
+        "value": "grey"
+      }, 
+      "tooltip": [
+        {
+            "field": "Entity",
+            "title": "Country"
+        }, 
+        {
+            "field": "co2_emissions",
+            "title": "CO2 Emissions",
+            "format": ".2f"
+        }
+    ]
+    }
+  }

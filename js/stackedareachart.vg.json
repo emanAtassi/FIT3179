@@ -1,8 +1,8 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 700,
-    "height": 500,
-    "background": "black",
+    "width": 560,
+    "height": 600,
+    "background": "transparent",
     "config": {
         "axisX": {
           "labelAngle": 0
@@ -40,7 +40,11 @@
     ],
     "encoding": {
       "x": {"field": "year",  "title": "Year", "axis": {"grid": false}},
-      "y": {"field": "value", "type": "quantitative", "aggregate": "sum", "title": "CO2 Emissions"},
+      "y": {"field": "value", 
+      "type": "quantitative", 
+      "aggregate": "sum", 
+      "axis": {"grid": false}, 
+      "title": "CO2 Emissions"},
       "tooltip": [
         {
             "field": "value",
@@ -59,7 +63,7 @@
                 "field": "type",
                 "type": "nominal", 
                 "scale": {
-                    "domain": ["top5_emissions", "others_emissions"],
+                    "domain": ["top10_emissions", "others_emissions"],
                     "range": ["#ff7f0e", "grey"]  
                 }, 
                 "legend": {

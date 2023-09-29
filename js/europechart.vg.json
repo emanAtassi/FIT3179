@@ -33,14 +33,14 @@
     ],
     "mark": "circle",
     "encoding": {
-        "x": {"field": "positive_change", "type": "nominal", "title": "Country"} ,
+        "x": {"field": "positive_change", "type": "nominal", "title": ""} ,
         "y": {"field": "co2_emissions_change", "type": "quantitative",  "title": "CO2 Emissions Change (%)"},
         "color": {
             "field": "change",
             "type": "nominal", 
             "scale": {
                 "domain": ["positive",  "negative"],
-                "range": ["gray", "blue"]
+                "range": ["gray", "#34c3eb"]
               }, "legend": null
         },
         "size": {"value": 100}, 
