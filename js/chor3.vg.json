@@ -35,41 +35,35 @@
         },
         {
             "name": "signal_map_scale",
-            "value": 140,
+            "value": 190,
             "bind": {
               "input": "range",
-              "min": 140,
+              "min": 200,
               "max": 4000,
               "step": 50,
               "name": "Map scale: "
-            },
-            "on": [
-              {
-                "events": {"type": "wheel", "consume": true},
-                "update": "round(clamp(signal_map_scale * pow(1.0005, -event.deltaY * pow(16, event.deltaMode)), 140, 4000))"
-              }
-            ]
-          },
+            }
+          }, 
           {
             "name": "signal_translate_xy",
-            "value": [400, 250],
+            "value": [530, 250],
             "update": "[clamp(signal_translate_last_xy[0] + signal_mouse_delta_xy[0], -300, 1200), clamp(signal_translate_last_xy[1] + signal_mouse_delta_xy[1], -200, 800)]"
           },
           {
             "name": "signal_translate_last_xy",
-            "value": [400, 250],
+            "value": [530, 250],
             "on": [
               {"events": [{"type": "mousedown"}], "update": "signal_translate_xy"}
             ]
           },
           {
             "name": "signal_mouse_start_xy",
-            "value": [0, 0],
+            "value": [530, 250],
             "on": [{"events": [{"type": "mousedown"}], "update": "xy()"}]
           },
           {
             "name": "signal_mouse_drag_xy",
-            "value": [0, 0],
+            "value": [530, 250],
             "on": [
               {
                 "events": [
@@ -88,8 +82,7 @@
             "update": "[signal_mouse_drag_xy[0] - signal_mouse_start_xy[0], signal_mouse_drag_xy[1] - signal_mouse_start_xy[1]]"
           }
     ],
-    "projection": {"type": "equalEarth", "center": [0,0], "scale": {"signal": "signal_map_scale"},
-    "translate": {"signal": "signal_translate_xy"}},
+    "projection": {"type": "equalEarth", "center": [0,0], "scale": {"expr": "signal_map_scale"}, "translate": {"signal": "signal_translate_xy"}},
     "data": {
         "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/3_choropleth_map/js/ne_110m_admin_0_countries.topojson",
         "format": {
