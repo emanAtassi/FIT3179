@@ -136,3 +136,28 @@ background: linear-gradient(183deg, rgba(42,133,139,1) 0%, rgb(30, 34, 35) 58%);
   .bubblechart {
     width: 80%;
   }
+
+  .scroll-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1000;
+    display: none;
+}
+
+.scroll-to-top a {
+    display: block;
+    background-color: #33c4c6a0;
+    color: #fff;
+    text-align: center;
+    font-size: 24px;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-decoration: none;
+    border-radius: 90%;
+}
+
+.scroll-to-top a:hover {
+    background-color: #0056b3;
+}

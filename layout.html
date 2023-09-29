@@ -333,7 +333,10 @@
         </div>
     </div>
 
+</div>
 
+<div id="scroll-to-top" class="scroll-to-top">
+    <a href="#top">^</a>
 </div>
 
     <script>
@@ -372,6 +375,28 @@
 
         var spec6 = "js/rankbarchart.vg.json";
         vegaEmbed("#rankedbarchart", spec6, { "actions": false }).then(console.log).catch(console.warn);
+
+        function scrollToTop() {
+        if (window.scrollY !== 0) {
+            window.scrollTo(0, 0);
+        }
+    }
+
+    // Show/hide the scroll-to-top button based on scroll position
+    window.addEventListener("scroll", function () {
+        var scrollButton = document.getElementById("scroll-to-top");
+        if (window.scrollY > 300) {
+            scrollButton.style.display = "block";
+        } else {
+            scrollButton.style.display = "none";
+        }
+    });
+
+    // Attach the scrollToTop function to the click event of the button
+    document.getElementById("scroll-to-top").addEventListener("click", scrollToTop);
+</script>
+
+
     </script>
 
 </body>
