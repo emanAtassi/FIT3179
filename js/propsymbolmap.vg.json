@@ -202,7 +202,7 @@
           },
           "opacity": {
               "condition": {
-                  "test": "datum['properties.NAME'] == 'China' || datum['properties.NAME'] == 'Brazil' || datum['properties.NAME'] == 'Australia' || datum['properties.NAME'] == 'Malaysia' ||  datum['properties.NAME'] == 'Sudan' ||  datum['properties.NAME'] == 'Somalia' ||  datum['properties.NAME'] == 'Chad' ||  datum['properties.NAME'] == 'Indonesia' ||  datum['properties.NAME'] == 'Afghanistan' ||  datum['properties.NAME'] == 'Papua New Guinea'",
+                  "test": "datum['properties.NAME'] == 'China' || datum['properties.NAME'] == 'Brazil' || datum['properties.NAME'] == 'Australia' || datum['properties.NAME'] == 'Malaysia' ||  datum['properties.NAME'] == 'Sudan' ||  datum['properties.NAME'] == 'Somalia' ||  datum['properties.NAME'] == 'Chad' ||  datum['properties.NAME'] == 'Indonesia' ||  datum['properties.NAME'] == 'Afghanistan' ||  datum['properties.NAME'] == 'Papua New Guinea' || datum['properties.NAME'] == 'Mexico' || datum['properties.NAME'] == 'Argentina' || datum['properties.NAME'] == 'Peru' || datum['properties.NAME'] == 'Jordan' || datum['properties.NAME'] == 'Morocco'",
                   "value": 1
               },
               "value": 0
