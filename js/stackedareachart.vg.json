@@ -63,7 +63,7 @@
                 "field": "type",
                 "type": "nominal", 
                 "scale": {
-                    "domain": ["top 5 polluters", "the"],
+                    "domain": ["top 5 polluters", "the rest"],
                     "range": ["#ff7f0e", "grey"]  
                 }, 
                 "legend": {
