@@ -1,0 +1,308 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json", 
+    "width": 900, 
+    "height": 900, 
+    "background": "transparent",
+    "config": {
+        "axisX": {
+            "labelAngle": 0
+        }, 
+        "title": {
+            "color": "white" 
+        },
+        "axis": {
+            "labelColor": "white", 
+            "titleColor": "white" 
+        }, 
+        "legend": {
+            "titleColor": "white", 
+            "labelColor": "white",
+            "symbolFillColor": "white"
+    }
+    },
+    "selection": {
+        "legendToggle": {
+            "type": "multi",
+            "fields": ["positive_change"],
+            "bind": "legend"
+        }
+    }, 
+    "data": {"url": "https://raw.githubusercontent.com/emanAtassi/FIT3179/main/data/gc.csv"}, 
+    "vconcat": [
+        {
+            "spacing": 40, 
+            "hconcat": [
+                {
+                    "title": "Asia",
+                    "transform": [
+                        {
+                            "filter": "datum.continent == 'Asia'"
+                        }, 
+                        {
+                            "calculate": "datum['co2_emissions_change'] > 0 ? 'Did not reduce Emissions' : 'Reduced Emissions'",
+                            "as": "positive_change"
+                        }
+                    ],
+                    "mark": "circle",
+                    "width": 300, 
+                    "height": 300, 
+                    "encoding": {
+                        "x": {"field": "positive_change", "type": "nominal", "axis":
+                        {"title": ""}} ,
+                        "y": {"field": "co2_emissions_change", "type": "quantitative",  "title": "CO2 Emissions Change (%)"},
+                        "color": {
+                            "field": "change",
+                            "type": "nominal", 
+                            "scale": {
+                                "domain": ["positive",  "negative"],
+                                "range": ["gray", "#34c3eb"]
+                              }, 
+                              "legend": {
+                                "selection": "legendToggle" 
+                            }
+                        }, 
+                        "size": {"value": 100}, 
+                        "tooltip": [
+                            {
+                                "field": "Entity",
+                                "title": "Country"
+                            },
+                            {
+                                "field": "co2_emissions_change",
+                                "title": "CO2 Emissions change (%)",
+                                "format": ",d"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "title": "Africa",
+                    "transform": [
+                        {
+                            "filter": "datum.continent == 'Africa'"
+                        }, 
+                        {
+                            "calculate": "datum['co2_emissions_change'] > 0 ? 'Did not reduce Emissions' : 'Reduced Emissions'",
+                            "as": "positive_change"
+                        }
+                    ],
+                    "mark": "circle",
+                    "width": 300, 
+                    "height": 300, 
+                    "encoding": {
+                        "x": {"field": "positive_change", "type": "nominal", "axis":
+                        {"title": ""}} ,
+                        "y": {"field": "co2_emissions_change", "type": "quantitative",  "title": "CO2 Emissions Change (%)"},
+                        "color": {
+                            "field": "change",
+                            "type": "nominal", 
+                            "scale": {
+                                "domain": ["positive",  "negative"],
+                                "range": ["gray", "#34c3eb"]
+                              }, 
+                              "legend": {
+                                "selection": "legendToggle" 
+                            }
+                        },
+                        "size": {"value": 100}, 
+                        "tooltip": [
+                            {
+                                "field": "Entity",
+                                "title": "Country"
+                            },
+                            {
+                                "field": "co2_emissions_change",
+                                "title": "CO2 Emissions change (%)",
+                                "format": ",d"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "title": "Oceania",
+                    "transform": [
+                        {
+                            "filter": "datum.continent == 'Oceania'"
+                        }, 
+                        {
+                            "calculate": "datum['co2_emissions_change'] > 0 ? 'Did not reduce Emissions' : 'Reduced Emissions'",
+                            "as": "positive_change"
+                        }
+                    ],
+                    "mark": "circle",
+                    "width": 300, 
+                    "height": 300, 
+                    "encoding": {
+                        "x": {"field": "positive_change", "type": "nominal", "axis":
+                        {"title": ""}} ,
+                        "y": {"field": "co2_emissions_change", "type": "quantitative",  "title": "CO2 Emissions Change (%)"},
+                        "color": {
+                            "field": "change",
+                            "type": "nominal", 
+                            "scale": {
+                                "domain": ["positive",  "negative"],
+                                "range": ["gray", "#34c3eb"]
+                              }, 
+                              "legend": {
+                                "selection": "legendToggle" 
+                            }
+                        },
+                        "size": {"value": 100}, 
+                        "tooltip": [
+                            {
+                                "field": "Entity",
+                                "title": "Country"
+                            },
+                            {
+                                "field": "co2_emissions_change",
+                                "title": "CO2 Emissions change (%)",
+                                "format": ",d"
+                            }
+                        ]
+                    }
+                }
+            ]
+
+        }, 
+        {
+            "spacing": 45, 
+            "hconcat": [
+
+                {
+                    "title": "North America",
+                    "transform": [
+                        {
+                            "filter": "datum.continent == 'North America'"
+                        }, 
+                        {
+                            "calculate": "datum['co2_emissions_change'] > 0 ? 'Did not reduce Emissions' : 'Reduced Emissions'",
+                            "as": "positive_change"
+                        }
+                    ],
+                    "mark": "circle",
+                    "width": 300, 
+                    "height": 300, 
+                    "encoding": {
+                        "x": {"field": "positive_change", "type": "nominal", "axis":
+                        {"title": ""}} ,
+                        "y": {"field": "co2_emissions_change", "type": "quantitative",  "title": "CO2 Emissions Change (%)"},
+                        "color": {
+                            "field": "change",
+                            "type": "nominal", 
+                            "scale": {
+                                "domain": ["positive",  "negative"],
+                                "range": ["gray", "#34c3eb"]
+                              }, 
+                              "legend": {
+                                "selection": "legendToggle" 
+                            }
+                        },
+                        "size": {"value": 100}, 
+                        "tooltip": [
+                            {
+                                "field": "Entity",
+                                "title": "Country"
+                            },
+                            {
+                                "field": "co2_emissions_change",
+                                "title": "CO2 Emissions change (%)",
+                                "format": ",d"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "title": "South America",
+                    "transform": [
+                        {
+                            "filter": "datum.continent == 'South America'"
+                        }, 
+                        {
+                            "calculate": "datum['co2_emissions_change'] > 0 ? 'Did not reduce Emissions' : 'Reduced Emissions'",
+                            "as": "positive_change"
+                        }
+                    ],
+                    "mark": "circle",
+                    "width": 300, 
+                    "height": 300, 
+                    "encoding": {
+                        "x": {"field": "positive_change", "type": "nominal", "axis":
+                        {"title": ""}} ,
+                        "y": {"field": "co2_emissions_change", "type": "quantitative",  "title": "CO2 Emissions Change (%)"},
+                        "color": {
+                            "field": "change",
+                            "type": "nominal", 
+                            "scale": {
+                                "domain": ["positive",  "negative"],
+                                "range": ["gray", "#34c3eb"]
+                              }, 
+                              "legend": {
+                                "selection": "legendToggle" 
+                            }
+                        },
+                        "size": {"value": 100}, 
+                        "tooltip": [
+                            {
+                                "field": "Entity",
+                                "title": "Country"
+                            },
+                            {
+                                "field": "co2_emissions_change",
+                                "title": "CO2 Emissions change (%)",
+                                "format": ",d"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "title": "Europe",
+                    "transform": [
+                        {
+                            "filter": "datum.continent == 'Europe'"
+                        }, 
+                        {
+                            "calculate": "datum['co2_emissions_change'] > 0 ? 'Did not reduce Emissions' : 'Reduced Emissions'",
+                            "as": "positive_change"
+                        }
+                    ],
+                    "mark": "circle",
+                    "width": 300, 
+                    "height": 300, 
+                    "encoding": {
+                        "x": {"field": "positive_change", "type": "nominal", "axis":
+                        {"title": ""}} ,
+                        "y": {"field": "co2_emissions_change", "type": "quantitative",  "title": "CO2 Emissions Change (%)"},
+                        "color": {
+                            "field": "change",
+                            "type": "nominal", 
+                            "scale": {
+                                "domain": ["positive",  "negative"],
+                                "range": ["gray", "#34c3eb"]
+                              }, 
+                              "legend": {
+                                "selection": "legendToggle" 
+                            }
+                        },
+                        "size": {"value": 100}, 
+                        "tooltip": [
+                            {
+                                "field": "Entity",
+                                "title": "Country"
+                            },
+                            {
+                                "field": "co2_emissions_change",
+                                "title": "CO2 Emissions change (%)",
+                                "format": ",d"
+                            }
+                        ]
+                    }
+                }
+            ]
+
+        }
+        
+
+
+
+    ]
+}

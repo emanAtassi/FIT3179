@@ -226,7 +226,11 @@
             </p>
         </div>
 
-        <div class="pure-g">
+        <div>
+            <div id="concatchart"></div>
+        </div>
+
+        <!-- <div class="pure-g">
 
             <div class="pure-u-1-3">
                 <div id="africachart"></div>
@@ -257,7 +261,7 @@
             </div>
 
         </div>
-    </div>
+    </div> -->
 
 
     <div id="stackedareachartchartsection" class="sections">
@@ -354,6 +358,9 @@
 
         var africaspec = "js/africachart.vg.json";
         vegaEmbed("#africachart", africaspec, { "actions": false }).then(console.log).catch(console.warn);
+
+        var concatchartspec = "js/concateddotchart.vg.json";
+        vegaEmbed("#concatchart", concatchartspec, { "actions": false }).then(console.log).catch(console.warn);
 
         var asiaspec = "js/asiachart.vg.json";
         vegaEmbed("#asiachart", asiaspec, { "actions": false }).then(console.log).catch(console.warn);
