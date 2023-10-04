@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json", 
-    "width": 900, 
+    "width": "container", 
     "height": 900, 
     "background": "transparent",
     "config": {
@@ -20,28 +20,48 @@
             "symbolFillColor": "white"
     }
     },
-    "selection": {
-        "legendToggle": {
-            "type": "multi",
-            "fields": ["positive_change"],
-            "bind": "legend"
-        }
-    }, 
     "data": {"url": "https://raw.githubusercontent.com/emanAtassi/FIT3179/main/data/gc.csv"}, 
+    "transform": [
+        {
+            "calculate": "datum['co2_emissions_change'] > 0 ? 'Did not reduce Emissions' : 'Reduced Emissions'",
+            "as": "positive_change"
+        }, 
+        {
+            "fold": ["Entity", "co2_emissions_change"],
+            "as": ["entityName", "emissionsChange"]
+        },
+        {
+            "window": [{"op": "max", "field": "emissionsChange", "as": "maxEmissions"}],
+            "groupby": ["change"]
+        },
+        {
+            "filter": "datum.emissionsChange == datum.maxEmissions"
+        }
+    ],
+    "params": [
+        {
+          "name": "highlight",
+          "select": {"type": "point", "on": "mouseover"}
+        },
+        {"name": "select", "select": "point"}, 
+        {
+            "name": "types",
+            "select": {"type": "point", "fields": ["change"]},
+            "bind": "legend"
+          }
+    ],
     "vconcat": [
         {
             "spacing": 40, 
             "hconcat": [
                 {
+                    "layer": [
+                    {
                     "title": "Asia",
                     "transform": [
                         {
                             "filter": "datum.continent == 'Asia'"
-                        }, 
-                        {
-                            "calculate": "datum['co2_emissions_change'] > 0 ? 'Did not reduce Emissions' : 'Reduced Emissions'",
-                            "as": "positive_change"
-                        }
+                        }   
                     ],
                     "mark": "circle",
                     "width": 300, 
@@ -62,6 +82,14 @@
                             }
                         }, 
                         "size": {"value": 100}, 
+                        "fillOpacity": {
+                            "condition": {"param": "select", "value": 1},
+                            "value": 0.3
+                        },
+                        "opacity": {
+                            "condition": {"param": "types", "value": 1},
+                            "value": 0.2
+                        }, 
                         "tooltip": [
                             {
                                 "field": "Entity",
@@ -74,16 +102,14 @@
                             }
                         ]
                     }
+                }
+            ]           
                 },
                 {
                     "title": "Africa",
                     "transform": [
                         {
                             "filter": "datum.continent == 'Africa'"
-                        }, 
-                        {
-                            "calculate": "datum['co2_emissions_change'] > 0 ? 'Did not reduce Emissions' : 'Reduced Emissions'",
-                            "as": "positive_change"
                         }
                     ],
                     "mark": "circle",
@@ -103,6 +129,14 @@
                               "legend": {
                                 "selection": "legendToggle" 
                             }
+                        },
+                        "fillOpacity": {
+                            "condition": {"param": "select", "value": 1},
+                            "value": 0.3
+                        }, 
+                        "opacity": {
+                            "condition": {"param": "types", "value": 1},
+                            "value": 0.2
                         },
                         "size": {"value": 100}, 
                         "tooltip": [
@@ -123,10 +157,6 @@
                     "transform": [
                         {
                             "filter": "datum.continent == 'Oceania'"
-                        }, 
-                        {
-                            "calculate": "datum['co2_emissions_change'] > 0 ? 'Did not reduce Emissions' : 'Reduced Emissions'",
-                            "as": "positive_change"
                         }
                     ],
                     "mark": "circle",
@@ -148,6 +178,14 @@
                             }
                         },
                         "size": {"value": 100}, 
+                        "fillOpacity": {
+                            "condition": {"param": "select", "value": 1},
+                            "value": 0.3
+                        },
+                        "opacity": {
+                            "condition": {"param": "types", "value": 1},
+                            "value": 0.2
+                        },
                         "tooltip": [
                             {
                                 "field": "Entity",
@@ -173,10 +211,6 @@
                     "transform": [
                         {
                             "filter": "datum.continent == 'North America'"
-                        }, 
-                        {
-                            "calculate": "datum['co2_emissions_change'] > 0 ? 'Did not reduce Emissions' : 'Reduced Emissions'",
-                            "as": "positive_change"
                         }
                     ],
                     "mark": "circle",
@@ -196,6 +230,14 @@
                               "legend": {
                                 "selection": "legendToggle" 
                             }
+                        },
+                        "fillOpacity": {
+                            "condition": {"param": "select", "value": 1},
+                            "value": 0.3
+                        },
+                        "opacity": {
+                            "condition": {"param": "types", "value": 1},
+                            "value": 0.2
                         },
                         "size": {"value": 100}, 
                         "tooltip": [
@@ -216,10 +258,6 @@
                     "transform": [
                         {
                             "filter": "datum.continent == 'South America'"
-                        }, 
-                        {
-                            "calculate": "datum['co2_emissions_change'] > 0 ? 'Did not reduce Emissions' : 'Reduced Emissions'",
-                            "as": "positive_change"
                         }
                     ],
                     "mark": "circle",
@@ -239,6 +277,14 @@
                               "legend": {
                                 "selection": "legendToggle" 
                             }
+                        },
+                        "fillOpacity": {
+                            "condition": {"param": "select", "value": 1},
+                            "value": 0.3
+                        },
+                        "opacity": {
+                            "condition": {"param": "types", "value": 1},
+                            "value": 0.2
                         },
                         "size": {"value": 100}, 
                         "tooltip": [
@@ -259,10 +305,6 @@
                     "transform": [
                         {
                             "filter": "datum.continent == 'Europe'"
-                        }, 
-                        {
-                            "calculate": "datum['co2_emissions_change'] > 0 ? 'Did not reduce Emissions' : 'Reduced Emissions'",
-                            "as": "positive_change"
                         }
                     ],
                     "mark": "circle",
@@ -283,6 +325,14 @@
                                 "selection": "legendToggle" 
                             }
                         },
+                        "fillOpacity": {
+                            "condition": {"param": "select", "value": 1},
+                            "value": 0.3
+                        },
+                        "opacity": {
+                            "condition": {"param": "types", "value": 1},
+                            "value": 0.2
+                        },
                         "size": {"value": 100}, 
                         "tooltip": [
                             {
@@ -300,9 +350,5 @@
             ]
 
         }
-        
-
-
-
     ]
 }

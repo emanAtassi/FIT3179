@@ -93,6 +93,19 @@
                     }
                 ]
                 }
+            }, 
+            {
+                "encoding": {
+                    "text": {"field": "Entity", "type": "nominal"},
+                    "color": {"value": "black"},
+                    "opacity": {
+                    "condition": {
+                    "test": "datum['year'] == 2017 || datum['Entity'] == 'China' || datum['Entity'] == 'United States' || datum['Entity'] == 'India'",
+                    "value": 1
+                    },
+                    "value": 0
+                    }
+                    }
             }
         ]
 }
