@@ -50,7 +50,7 @@
                             "type": "nominal", 
                             "scale": {
                                 "domain": ["positive",  "negative"],
-                                "range": ["gray", "#34c3eb"]
+                                "range": ["#D5DADA", "#34c3eb"]
                               }, 
                               "legend": {
                                 "selection": "legendToggle" 
@@ -127,7 +127,7 @@
                         "text": {"field": "text_annotation"}, 
                         "size": {
                             "value": 20
-                        }
+                        }                   
                     }
                 },
                 {
@@ -245,7 +245,7 @@
                         "type": "text",
                         "align": "bottom",
                         "dx": 10,
-                        "dy": 0
+                        "dy": 3
                         
                     },
                     "encoding": {
