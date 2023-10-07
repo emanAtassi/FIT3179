@@ -8,27 +8,370 @@
     <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.6/build/pure-min.css"
         integrity="sha384-Uu6IeWbM+gzNVXJcM9XV3SohHtmWE+3VGi496jvgX1jyvDTXfdK+rfZc8C1Aehk5" crossorigin="anonymous">
     <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.6/build/grids-responsive-min.css" />
-    <!-- <link rel="stylesheet" href="css/styles.css"> -->
+    <link rel="stylesheet" href="css/styles.css">
 </head>
 
 <body>
 
-    <div id="intro">
-        <h3 Electricity and Clean Energy Across the World></h3>
+    <div class="page">
+    <div class="header">
+
+        <h1 id = "title">Electricity and Clean Energy Across the World</h1>
+        <p>
+            In an era defined by progress and innovation, the global demand for electricity has surged to unprecedented heights. 
+            Electricity, often referred to as the lifeblood of modern civilization, powers our homes, industries, and economies, 
+            enabling the conveniences and advancements we often take for granted. However, this remarkable energy source comes 
+            with a significant responsibility—its production and consumption can impact our planet's health and sustainability. 
+            This is where the concept of clean energy enters the stage.
+        </p>
+        <p>
+
+            Clean energy, a term synonymous with environmental stewardship, represents a pivotal shift in the way we generate and harness electricity.
+            It champions sustainability, striving to reduce our reliance on fossil fuels and mitigate the harmful emissions they produce. 
+            Clean energy sources encompass a wide array of technologies, from wind and solar power to hydropower, geothermal energy, and beyond. 
+            These sources not only reduce our carbon footprint but also offer the promise of a greener, more sustainable future.
+        </p>
+        <p>
+
+            The journey towards clean energy is multifaceted, involving international cooperation, policy changes, technological advancements,
+            and public awareness. It transcends borders, as countries worldwide seek to balance their growing energy needs with the imperative
+            to protect our environment. From initiatives to improve access to electricity in underserved regions to ambitious renewable energy goals,
+            the global community is forging a path towards a more sustainable and electrified world.
+        </p>
+        <p>
+            
+            In the pages that follow, it explores a series of visualizations that illuminate the diverse facets of electricity and clean
+            energy on a global scale. These visual insights offer a deeper understanding of the global use of <span class="keywords">electricity consumption and sources</span>, 
+            and compares the progress of <span class="keywords">countries' progress</span>, or lack thereof, of leading a sustainable world.
+        </p>
+        <p>
+            The data used in  this visualisation ranges from 2000 to 2020, or 2019 for some charts. Please view the page in full view 
+            to get the best display!
+        </p>
+
+        <p id="meta">
+            Data source can be found <a href="https://www.kaggle.com/datasets/anshtanwar/global-data-on-sustainable-energy">here</a>.
+            <br>
+            By: Iman Al Atassi
+        </p>
     </div>
 
-    <div id="choroplethsection">
+    <div id="choroplethsection" class="sections">
+
+        <h3 class = "text">Access to Electricity Across the World (%)</h3>
+
+        <div class="pure-g">
+            <div class="pure-u-1-1">
+
+        <div class="description">
+            <p>
+                The chart below is a <span class="keywords">choropleth map</span>, which displays the % of individuals that have <span class="keywords">access to electricity per country</span>.
+                The <span class="keywords">slider</span> below allows for filtering the values by year. Move the slider through to see the progress of countries' 
+                accessibility to electricity!
+                The <span class="keywords">map scale</span> allows for zooming into the map to get a more detailed look.
+            </p>
+            <p>
+                The <span class="keywords">colour scale</span> used denotes the % of access to electricity, <span class="keywords">where the darker the colour, the higher the %</span>. 
+                Note that some countries are in grey due to missing data.
+            </p>
+            <p>
+                As we can see from the map, most countries, if not all, have experienced a positive improvement from 2000 in terms of 
+                citizens having access to electricity. Especially <span class="keywords">Afghanistan</span> for instance; it improved drastically <span class="keywords">from 2% to 97%</span>!
+                These changes indicate electricity has become profoundly more accessible in the past two decades, and invites hope that
+                it will only become more widely accessible in the future.
+            </p>
+        </div>
+
+        </div>
+        </div>
 
         <div id="choroplethmap1"></div>
-
+  
     </div>
-    
 
 
+    <div id="proportionalsymbolsection" class="sections">
+
+        <h3>Financial Aid ($US) to Developing Counrties vs Access to Clean Fuels (%)</h3>
+
+        <div class="description">
+        <p>
+            This is a <span class="keywords">proportional symbol map</span>, which displays the average financial aid received by developing countries (in $US) vs
+            their access to clean fuels as a %. Clean fuels refers to fuel that is safe for consumption, such as for cooking. 
+            The <span class="keywords">size of the circles</span> denotes the average amount of financial aid received in that particular year per 10,000 persons.
+            The <span class="colours">colours</span> denote the % of clean fuels accessed by citizens of a particular country.
+        </p>
+        <p>
+            Likewise to the above graph, there is a <span class="keywords">year slider</span> that filters data by the chosen year, as well as <span class="keywords">a map scale</span> that 
+            allows for zooming into the map. Zoom in to get a closer and clearer look at the data!
+        </p>
+        <p>
+            Overall, it can be said from the graph that <span class="keywords">the bigger the circles, the darker the colour</span>, which indicates receiving financial 
+            aid may assist in having more access to clean fuels for use. However, there are many countries whre despite receiving a substantial
+            amount of aid, they still lack in access to clean fuels. This indicates that, in fact, the correlation between financial aid and 
+            accessing clean fuels is not very strong.
+        </p>
+        <p>
+            Despite receiving financial aid for clean energy initiatives, many countries in regions like <span class="keywords">Africa</span> face persistent challenges 
+            in achieving widespread access to clean fuels. Factors such as inadequate infrastructure, economic constraints, political instability, 
+            and a lack of technical expertise can impede progress. 
+            Additionally, cultural preferences, energy subsidies, and global energy dynamics play a role. 
+        </p>
+    </div>
+
+        <div id="propsymbolmap"></div>
+  
+    </div>
+
+    <div id="bubblechartsection" class="sections">
+
+        <h3>Anuual GDP Per Capita vs Renewable Energy Consumption</h3>
+
+        <div class="pure-g">
+
+            <div class="pure-u-3-5">
+                <p><br></p>
+                <div id="bubblechart"></div>
+            </div>
+
+            <div class="pure-u-2-5">
+                <div class="description">
+                    <p>
+                        <br>
+                        <br>
+                        This is <span class="keywords">a bubble chart</span> that displays the average GDP Per Capita against renewable electricity generation per person, 
+                        which describes the installed renewable energy capacity per person. 
+                        Each <span class="keywords">circle</span> represents a country, and the <span class="keywords">size</span> of the circles denotes the population of said country. 
+                        Moreover, the <span class="keywords">colour scheme</span> denotes the continent to which the country belongs.
+                    </p>
+                    <p>
+                        There is a <span class="keywords">year slider</span> that allows for filtering the data by a specific year. 
+                        There is also a <span class="keywords">checkbox</span> if you want to review the entire data for all years.
+                        Lastly, you can select to <span class="keywords">filter the data by a specific continent</span>. 
+                    </p>
+                    <p>
+                       We can see that there a <span class="keywords">positive correlation</span> between the GDP and Renwable Energy, which highlights that the 
+                       higher-income countries, the more renewable energy being installed is, whereas for lower-income countries, 
+                       they may still be reliant on cheaper, yet less sustainable energy sources such as fossil fuels. 
+                       See the below chart to more detailed information regarding this.
+                    </p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+    <div id="stackedareachartchartsection" class="sections">
+
+        <h3>Generation of Electricity by Sources Over the Years</h3>
+
+        <div class="pure-g">
+
+            <div class="pure-u-3-5">
+                <p><br></p>
+                <div id="stackedbarchart"></div>
+            </div>
+
+
+            <div class="pure-u-2-5">
+
+                <div class="description">
+                    <p>
+                        <br>
+                        <br>
+                        This is <span class="keywords">a normalised stacked bar chart</span>, which displays and compares the use of energy sources of <span class="fossil"><b>fossil 
+                        fuels</b></span>, <span class="nuclear">nuclear</span> and <span class="renewable">renewables</span> for each year from 2000 to 2020 as portions of a whole.
+                        You can <span class="keywords">select a specific country</span> to view its use of electricity for each year.  
+                    </p>
+                    <p>
+                        Overall, we can see that <span class="fossil"><b>fossil fuels</b></span>, despite their detrimental harm on the environment, are the dominant source 
+                        of electricity due to their historical infrastructure, 
+                        reliability, high energy density, and cost-effectiveness in many regions. Additionally, energy security and political 
+                        influence play significant roles in their continued use.
+                    </p>
+                    <p>
+                        If you filter through the countries, we can see that <span class="keywords">Asian, African and American</span> countries suffer the most from lack
+                        of clean energy like <span class="nuclear">nuclear</span> and <span class="renewable">renewables</span>. On the other hand, <span class="keywords">European countries such as Sweden and Switzerland</span> dominate in their use of <span class="nuclear">nuclear</span>
+                        and <span class="renewable">renewable</span> electricity.
+                    </p>
+                    <p>
+                        The variation in energy source usage among countries stems from a blend of historical, geographic, economic, and policy factors. 
+                        For instance, early investments in clean energy, geographical access to resources, economic development levels, government policies,
+                         and cultural attitudes all play a role. Some countries have abundant <span class="renewable">renewable</span> resources and prioritize them, while others rely on
+                         <span class="fossil"><b>fossil</b></span> fuels due to economic constraints, energy security concerns, or historical infrastructure. Global commitments and environmental
+                        awareness are also pushing many nations toward cleaner energy sources, reflecting a complex interplay of influences.
+                    </p>
+                </div>
+            </div> 
+
+
+        </div>
+    </div>
+
+    <div id="dotchartsection" class="sections">
+
+        <h3>Countries that have reduced their CO2 Emissions from 2000 to 2019 by Continent</h3>
+
+        <div class="description">
+            <p>
+                The <span class="keywords">below dot charts</span> display the countries that belong to each continent (i.e. in each chart), where the <span class="keywords">circles</span> represent
+                the country, and the <span class="keywords">colour</span> represents whether a country has reduced its CO2 emissions from 2000 to 2019. <span class="blue">Colour blue</span>
+                indicates that it reduced emissions, while the <span class="grey"><b>colour grey</b></span> indicates the opposite.
+            </p>            
+            <p>
+                As expected from the above chart, <span class="keywords">European countries</span> perform signficantly better in comparison with all the continents, 
+                whilst all other continents' countries still have progress to make on reducing emissions and embracing better
+                sustainable practices.
+            </p>
+        </div>
+
+        <div>
+            <div id="concatchart"></div>
+        </div>
+    </div> 
+
+
+    <div id="stackedareachartchartsection" class="sections">
+
+        <h3>The Top Pollutors vs The Rest</h3>
+
+        <div class="pure-g">
+
+            <div class="pure-u-1-2">
+                <div class="description">
+                <p>
+                    <br>
+                    This is a <span class="keywords">stacked area chart</span> which compares the CO2 Emissions produced by <span class="keywords"><b>the Top 10 Pollutors (countries)
+                    vs the Rest of the World</b></span>.
+                    You can use the <span class="keywords">year slider</span> to filter the years, and get closer year intervals for more detail.
+                </p>
+                <p>
+                    Countries like <span class="orange"><b>China, United Status and India</b></span> have dominated in their carbon emissions for years now, 
+                    as can be shown in the years displayed on the chart. 
+                    These top countries, in comparison to hundreds of other, produce over 3 times as much as the rest of the world! 
+                    and their emissions are increasing by the year.
+                </p>
+                <p>
+                    Potential reasons for their notably higher carbon emissions compared to other countries are due to their large
+                    populations, rapid industrialization, diverse economies, historical reliance on fossil fuels, and ongoing transition 
+                    to cleaner energy sources. These factors, along with high energy consumption driven by industries and urbanization, 
+                    contribute to their significant carbon footprints on the global scale.
+                </p>
+            </div>
+            </div>
+
+        <div class="pure-u-1-2">
+
+            
+        <div class="description">
+            <p>
+                <br>
+                This accompanying bar chart provides more detailed insights on the specific countries that produce the most CO2 emissions. 
+                <br>
+                The colour <span class="orange"><b>orange</b></span> highlights <span class="keywords"><b>the top 5 Pollutors</b></span> in each year.
+            </p>
+            <p>
+                If you slide the year filter, you can see the dominating countries for the past 2 decades. Specifically, China had overtaken 
+                the United States from 2005 and has been disproportionately been producing more CO2 emissions than all other countries.
+            </p>
+            <p>
+                It is paramount for countries like <span class="orange"><b>China, the United States, and India</b></span> to prioritize carbon emissions reduction and embrace sustainability.
+                As some of the world's largest carbon emitters, their actions significantly impact global climate change. Addressing these issues is not
+                just a matter of environmental responsibility; it's a collective endeavor to safeguard the planet's future. 
+                Embracing sustainable practices, transitioning to cleaner energy sources, and reducing greenhouse gas emissions are crucial steps towards 
+                ensuring a healthier, more sustainable world for current and future generations.
+            </p>
+        </div>
+
+
+        </div>
+
+        <div class="pure-g">
+
+            <div class="pure-u-1-2">
+                <p><br></p>
+                <div id="stackedarea">
+                <div id="stackedareachart"></div>
+            </div>
+            </div>
+
+
+
+            <div class="pure-u-1-2">
+                <p><br></p>
+                <div id="rankedbarchart"></div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<div id="scroll-to-top" class="scroll-to-top">
+    <a href="#top">^</a>
+</div>
 
     <script>
-        var spec1 = "js/chorHw.vg.json";
-        vegaEmbed("#choroplethmap1", spec1, { mode: "vega-lite" }).then(console.log).catch(console.warn);
+        var spec1 = "js/chor3.vg.json";
+        vegaEmbed("#choroplethmap1", spec1, { "actions": false }).then(console.log).catch(console.warn);
+
+        var spec2 = "js/propsymbolmap.vg.json";
+        vegaEmbed("#propsymbolmap", spec2, { "actions": false }).then(console.log).catch(console.warn);
+
+        var spec3 = "js/bubblechart.vg.json";
+        vegaEmbed("#bubblechart", spec3,  { "actions": false }).then(console.log).catch(console.warn);
+
+        var spec4 = "js/stackedbarchart.vg.json";
+        vegaEmbed("#stackedbarchart", spec4, { "actions": false }).then(console.log).catch(console.warn);
+
+        var africaspec = "js/africachart.vg.json";
+        vegaEmbed("#africachart", africaspec, { "actions": false }).then(console.log).catch(console.warn);
+
+        var concatchartspec = "js/concateddotchart.vg.json";
+        vegaEmbed("#concatchart", concatchartspec, { "actions": false }).then(console.log).catch(console.warn);
+
+        var asiaspec = "js/asiachart.vg.json";
+        vegaEmbed("#asiachart", asiaspec, { "actions": false }).then(console.log).catch(console.warn);
+
+        var oceaniaspec = "js/oceaniachart.vg.json";
+        vegaEmbed("#oceaniachart", oceaniaspec, { "actions": false }).then(console.log).catch(console.warn);
+
+        var europespec = "js/europechart.vg.json";
+        vegaEmbed("#europechart", europespec, { "actions": false }).then(console.log).catch(console.warn);
+
+        var northamericaspec = "js/northamerica.vg.json";
+        vegaEmbed("#northamericachart", northamericaspec,{ "actions": false }).then(console.log).catch(console.warn);
+
+        var southamericaspec = "js/southamerica.vg.json";
+        vegaEmbed("#southamericachart", southamericaspec, { "actions": false }).then(console.log).catch(console.warn);
+
+        var spec5 = "js/stackedareachart.vg.json";
+        vegaEmbed("#stackedareachart", spec5, { "actions": false }).then(console.log).catch(console.warn);
+
+        var spec6 = "js/rankbarchart.vg.json";
+        vegaEmbed("#rankedbarchart", spec6, { "actions": false }).then(console.log).catch(console.warn);
+
+        function scrollToTop() {
+        if (window.scrollY !== 0) {
+            window.scrollTo(0, 0);
+        }
+    }
+
+    // Show/hide the scroll-to-top button based on scroll position
+    window.addEventListener("scroll", function () {
+        var scrollButton = document.getElementById("scroll-to-top");
+        if (window.scrollY > 300) {
+            scrollButton.style.display = "block";
+        } else {
+            scrollButton.style.display = "none";
+        }
+    });
+
+    // Attach the scrollToTop function to the click event of the button
+    document.getElementById("scroll-to-top").addEventListener("click", scrollToTop);
+</script>
+
+
     </script>
 
 </body>
