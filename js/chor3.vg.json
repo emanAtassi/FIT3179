@@ -150,14 +150,7 @@
         },
         {
             "filter": "datum.Year==yearfilter"
-        }, 
-        {
-            "calculate" :  "datum['access_to_electricity'] + 0.01",
-            "as": "access_to_electricity"
-        } , 
-        {
-            "filter": "access_to_electricity > 0"
-        } 
+        }
       ],
       "mark": {
         "type": "geoshape",
@@ -166,13 +159,12 @@
     "encoding": {
         "color": {
             "field": "access_to_electricity",
-            "title": "Acess to Electricity (%)", 
+            "title": "Access to Electricity (%)", 
             "type": "quantitative",
             "scale": {
                 "type": "log",
                 "domain": [
                     1,
-
                     100
                 ],
                 "range": [
