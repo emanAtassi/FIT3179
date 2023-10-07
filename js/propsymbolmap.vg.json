@@ -169,43 +169,50 @@
     }
     }, 
     {
-      "transform": [
-          {
-              "lookup": "properties.NAME",
-              "from": {
-                  "data": {
-                      "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/3_choropleth_map/data/countryInfo.csv"
-                  },
-                  "key": "name",
-                  "fields": [
-                      "latitude",
-                      "longitude"
-                  ]
-              }
-          }
-      ],
+      "data": {
+        "url": "https://raw.githubusercontent.com/emanAtassi/FIT3179/main/data/ps.csv"
+    },
+    "transform": [
+      {
+        "calculate": "parseFloat(datum.financial_flow) /parseFloat(datum.population) * 10000",
+        "as": "Financial Flow 10,000 population"
+      }, 
+        {
+            "filter": "datum.year==yearfilter"
+        } ,
+        {
+            "filter": "datum['Financial Flow 10,000 population'] > 0"
+        } ,
+        {
+            "window":[{"op":"rank", "as": "ranking"}],
+            "sort": [{"field": "Financial Flow 10,000 population", "order": "descending"}]
+        },
+        {
+            "filter": "datum.ranking <= 5"
+        },
+        {
+        "calculate": "datum['Entity']",
+        "as": "text_annotation_raw"
+        },
+        {
+        "calculate": "split(datum.text_annotation_raw,';')",
+        "as": "text_annotation"
+        }
+    ],
       "mark": {
           "type": "text"
       },
       "encoding": {
           "longitude": {
-              "field": "longitude",
+              "field": "Longitude",
               "type": "quantitative"
           },
           "latitude": {
-              "field": "latitude",
+              "field": "Latitude",
               "type": "quantitative"
           },
           "text": {
-              "field": "properties.NAME",
-              "type": "nominal"
-          },
-          "opacity": {
-              "condition": {
-                  "test": "datum['properties.NAME'] == 'China' || datum['properties.NAME'] == 'Brazil' || datum['properties.NAME'] == 'Australia' || datum['properties.NAME'] == 'Malaysia' ||  datum['properties.NAME'] == 'Sudan' ||  datum['properties.NAME'] == 'Somalia' ||  datum['properties.NAME'] == 'Chad' ||  datum['properties.NAME'] == 'Indonesia' ||  datum['properties.NAME'] == 'Afghanistan' ||  datum['properties.NAME'] == 'Papua New Guinea' || datum['properties.NAME'] == 'Mexico' || datum['properties.NAME'] == 'Argentina' || datum['properties.NAME'] == 'Peru' || datum['properties.NAME'] == 'Jordan' || datum['properties.NAME'] == 'Morocco'",
-                  "value": 1
-              },
-              "value": 0
+              "field": "text_annotation"
           }
       }
   }

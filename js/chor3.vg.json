@@ -191,19 +191,30 @@
     }
     }, 
     {
+        "data": {
+            "url": "https://raw.githubusercontent.com/emanAtassi/FIT3179/main/data/global-data-on-sustainable-energy%20(1).csv"
+        },
         "transform": [
             {
-                "lookup": "properties.NAME",
-                "from": {
-                    "data": {
-                        "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/3_choropleth_map/data/countryInfo.csv"
-                    },
-                    "key": "name",
-                    "fields": [
-                        "latitude",
-                        "longitude"
-                    ]
-                }
+                "filter": "datum.Year==yearfilter"
+            } ,
+            {
+                "filter": "datum.access_to_electricity > 0"
+            } ,
+            {
+                "window":[{"op":"rank", "as": "ranking"}],
+                "sort": [{"field": "access_to_electricity", "order": "descending"}]
+            },
+            {
+                "filter": "datum.ranking <= 5"
+            },
+            {
+            "calculate": "datum['Entity']",
+            "as": "text_annotation_raw"
+            },
+            {
+            "calculate": "split(datum.text_annotation_raw,';')",
+            "as": "text_annotation"
             }
         ],
         "mark": {
@@ -211,24 +222,18 @@
         },
         "encoding": {
             "longitude": {
-                "field": "longitude",
+                "field": "Longitude",
                 "type": "quantitative"
             },
             "latitude": {
-                "field": "latitude",
+                "field": "Latitude",
                 "type": "quantitative"
             },
             "text": {
-                "field": "properties.NAME",
-                "type": "nominal"
-            },
-            "opacity": {
-                "condition": {
-                    "test": "datum['properties.NAME'] == 'China' || datum['properties.NAME'] == 'Brazil' || datum['properties.NAME'] == 'Australia' || datum['properties.NAME'] == 'Malaysia' ||  datum['properties.NAME'] == 'Sudan' ||  datum['properties.NAME'] == 'Somalia' ||  datum['properties.NAME'] == 'Chad' ||  datum['properties.NAME'] == 'Indonesia' ||  datum['properties.NAME'] == 'Afghanistan' ||  datum['properties.NAME'] == 'Papua New Guinea'",
-                    "value": 1
-                },
-                "value": 0
+                "field": "text_annotation"
+              
             }
+            
         }
     }
     ]

@@ -1,0 +1,150 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json", 
+    "width": 300, 
+    "height": 300, 
+    "title": "Asia",
+    "background": "black",
+    "config": {
+        "axisX": {
+            "labelAngle": 0
+        }, 
+        "title": {
+            "color": "white" 
+        },
+        "axis": {
+            "labelColor": "white", 
+            "titleColor": "white" 
+        }, 
+        "legend": {
+            "titleColor": "white", 
+            "labelColor": "white",
+            "symbolFillColor": "white"
+        }
+    },
+    "data": {"url": "https://raw.githubusercontent.com/emanAtassi/FIT3179/main/data/gc.csv"}, 
+    "encoding": {
+        "x": {"field": "positive_change", "type": "nominal", "axis":
+        {"title": ""}} ,
+        "y": {"field": "co2_emissions_change", "type": "quantitative",  "title": "CO2 Emissions Change (%)"},
+        "color": {
+            "field": "change",
+            "type": "nominal", 
+            "scale": {
+                "domain": ["positive",  "negative"],
+                "range": ["gray", "#34c3eb"]
+            }, 
+            "legend": {
+                "selection": "legendToggle" 
+            }
+        }, 
+        "size": {"value": 100}, 
+        "fillOpacity": {
+            "condition": {"param": "select", "value": 1},
+            "value": 0.3
+        },
+        "opacity": {
+            "condition": {"param": "types", "value": 1},
+            "value": 0.2
+        }, 
+        "tooltip": [
+            {
+                "field": "Entity",
+                "title": "Country"
+            },
+            {
+                "field": "co2_emissions_change",
+                "title": "CO2 Emissions change (%)",
+                "format": ",d"
+            }
+        ]
+    },
+    "transform": [
+        {
+            "filter": "datum.continent == 'Asia'"
+        }, 
+        {
+            "calculate": "datum['co2_emissions_change'] > 0 ? 'Did not reduce Emissions' : 'Reduced Emissions'",
+            "as": "positive_change"
+        }
+    ],
+    "layer": [
+        {
+            "mark": "circle",
+            "params": [
+                {
+                    "name": "highlight",
+                    "select": {"type": "point", "on": "mouseover"} 
+                },
+                {
+                    "name": "select",
+                    "select": "point"
+                }, 
+                {
+                    "name": "types",
+                    "select": {"type": "point", "fields": ["change"]},
+                    "bind": "legend"
+                }
+            ]
+        }, 
+        {
+            "transform": [
+                {
+                    "calculate": "parseFloat(datum['co2_emissions_change'])",
+                    "as": "co2_emissions_change"
+                },
+                {
+                    "window": [{"op": "rank", "as": "ranking"}],
+                    "sort": [{"field": "co2_emissions_change", "order": "descending"}]
+                },
+                {"filter": "datum.ranking == 1"},
+                {
+                    "calculate": "datum['Entity']",
+                    "as": "text_annotation"
+                }
+            ],
+            "mark": {
+                "type": "text",
+                "align": "left",
+                "dx": 10,
+                "dy": -10
+                
+            },
+            "encoding": {
+                "text": {"field": "text_annotation"}, 
+                "size": {
+                    "value": 20
+                }
+            }
+        },
+        {
+            "transform": [
+                {
+                    "calculate": "parseFloat(datum['co2_emissions_change'])",
+                    "as": "co2_emissions_change"
+                },
+                {
+                    "window": [{"op": "rank", "as": "ranking"}],
+                    "sort": [{"field": "co2_emissions_change", "order": "ascending"}]
+                },
+                {"filter": "datum.ranking == 1"},
+                {
+                    "calculate": "datum['Entity']",
+                    "as": "text_annotation"
+                }
+            ],
+            "mark": {
+                "type": "text",
+                "align": "left",
+                "dx": 10,
+                "dy": -10
+                
+            },
+            "encoding": {
+                "text": {"field": "text_annotation"}, 
+                "size": {
+                    "value": 20
+                }
+            }
+        }
+    ]
+}

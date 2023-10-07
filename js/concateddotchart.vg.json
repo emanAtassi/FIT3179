@@ -23,96 +23,272 @@
     "data": {"url": "https://raw.githubusercontent.com/emanAtassi/FIT3179/main/data/gc.csv"}, 
     "transform": [
         {
+            "calculate": "parseFloat(datum['co2_emissions_change'])",
+            "as": "co2_emissions_change"
+        },
+        {
             "calculate": "datum['co2_emissions_change'] > 0 ? 'Did not reduce Emissions' : 'Reduced Emissions'",
             "as": "positive_change"
-        }, 
-        {
-            "fold": ["Entity", "co2_emissions_change"],
-            "as": ["entityName", "emissionsChange"]
-        },
-        {
-            "window": [{"op": "max", "field": "emissionsChange", "as": "maxEmissions"}],
-            "groupby": ["change"]
-        },
-        {
-            "filter": "datum.emissionsChange == datum.maxEmissions"
         }
     ],
-    "params": [
+    "concat": [
         {
-          "name": "highlight",
-          "select": {"type": "point", "on": "mouseover"}
-        },
-        {"name": "select", "select": "point"}, 
-        {
-            "name": "types",
-            "select": {"type": "point", "fields": ["change"]},
-            "bind": "legend"
-          }
-    ],
     "vconcat": [
         {
             "spacing": 40, 
             "hconcat": [
                 {
-                    "layer": [
-                    {
+                    "spacing": 40, 
+                    "width": 300, 
+                    "height": 300, 
+                    "encoding": {
+                        "x": {"field": "positive_change", "type": "nominal", "axis":
+                        {"title": ""}} ,
+                        "y": {"field": "co2_emissions_change", "type": "quantitative",  "title": "CO2 Emissions Change (%)"},
+                        "color": {
+                            "field": "change",
+                            "type": "nominal", 
+                            "scale": {
+                                "domain": ["positive",  "negative"],
+                                "range": ["gray", "#34c3eb"]
+                              }, 
+                              "legend": {
+                                "selection": "legendToggle" 
+                            }
+                        }, 
+                        "size": {"value": 100}, 
+                        "fillOpacity": {
+                            "condition": {"param": "select", "value": 1},
+                            "value": 0.3
+                        },
+                        "opacity": {
+                            "condition": {"param": "types", "value": 1},
+                            "value": 0.2
+                        }, 
+                        "tooltip": [
+                            {
+                                "field": "Entity",
+                                "title": "Country"
+                            },
+                            {
+                                "field": "co2_emissions_change",
+                                "title": "CO2 Emissions change (%)",
+                                "format": ",d"
+                            }
+                        ]
+                    }, 
                     "title": "Asia",
                     "transform": [
                         {
                             "filter": "datum.continent == 'Asia'"
                         }   
                     ],
-                    "mark": "circle",
-                    "width": 300, 
-                    "height": 300, 
-                    "encoding": {
-                        "x": {"field": "positive_change", "type": "nominal", "axis":
-                        {"title": ""}} ,
-                        "y": {"field": "co2_emissions_change", "type": "quantitative",  "title": "CO2 Emissions Change (%)"},
-                        "color": {
-                            "field": "change",
-                            "type": "nominal", 
-                            "scale": {
-                                "domain": ["positive",  "negative"],
-                                "range": ["gray", "#34c3eb"]
-                              }, 
-                              "legend": {
-                                "selection": "legendToggle" 
-                            }
-                        }, 
-                        "size": {"value": 100}, 
-                        "fillOpacity": {
-                            "condition": {"param": "select", "value": 1},
-                            "value": 0.3
-                        },
-                        "opacity": {
-                            "condition": {"param": "types", "value": 1},
-                            "value": 0.2
-                        }, 
-                        "tooltip": [
+                    "layer": [
+                    {
+                        "params": [
                             {
-                                "field": "Entity",
-                                "title": "Country"
+                              "name": "highlight",
+                              "select": {"type": "point", "on": "mouseover"}
                             },
+                            {"name": "select", "select": "point"}, 
                             {
-                                "field": "co2_emissions_change",
-                                "title": "CO2 Emissions change (%)",
-                                "format": ",d"
-                            }
-                        ]
+                                "name": "types",
+                                "select": {"type": "point", "fields": ["change"]},
+                                "bind": "legend"
+                              }
+                        ],
+                    "mark": "circle"
+                    
+                }, 
+                {
+                    "transform": [
+                        {
+                            "calculate": "parseFloat(datum['co2_emissions_change'])",
+                            "as": "co2_emissions_change"
+                        },
+                        {
+                            "window": [{"op": "rank", "as": "ranking"}],
+                            "sort": [{"field": "co2_emissions_change", "order": "descending"}]
+                        },
+                        {"filter": "datum.ranking == 1"},
+                        {
+                            "calculate": "datum['Entity']",
+                            "as": "text_annotation"
+                        }
+                    ],
+                    "mark": {
+                        "type": "text",
+                        "align": "left",
+                        "dx": 10,
+                        "dy": -10
+                        
+                    },
+                    "encoding": {
+                        "text": {"field": "text_annotation"}, 
+                        "size": {
+                            "value": 20
+                        }
+                    }
+                },
+                {
+                    "transform": [
+                        {
+                            "calculate": "parseFloat(datum['co2_emissions_change'])",
+                            "as": "co2_emissions_change"
+                        },
+                        {
+                            "window": [{"op": "rank", "as": "ranking"}],
+                            "sort": [{"field": "co2_emissions_change", "order": "ascending"}]
+                        },
+                        {"filter": "datum.ranking == 1"},
+                        {
+                            "calculate": "datum['Entity']",
+                            "as": "text_annotation"
+                        }
+                    ],
+                    "mark": {
+                        "type": "text",
+                        "align": "left",
+                        "dx": 10,
+                        "dy": -10
+                        
+                    },
+                    "encoding": {
+                        "text": {"field": "text_annotation"}, 
+                        "size": {
+                            "value": 20
+                        }
                     }
                 }
             ]           
                 },
                 {
+                    "spacing": 40, 
+                    "width": 300, 
+                    "height": 300, 
+                    "encoding": {
+                        "x": {"field": "positive_change", "type": "nominal", "axis":
+                        {"title": ""}} ,
+                        "y": {"field": "co2_emissions_change", "type": "quantitative",  "title": "CO2 Emissions Change (%)"},
+                        "color": {
+                            "field": "change",
+                            "type": "nominal", 
+                            "scale": {
+                                "domain": ["positive",  "negative"],
+                                "range": ["gray", "#34c3eb"]
+                                }, 
+                                "legend": {
+                                "selection": "legendToggle" 
+                            }
+                        }, 
+                        "size": {"value": 100}, 
+                        "fillOpacity": {
+                            "condition": {"param": "select", "value": 1},
+                            "value": 0.3
+                        },
+                        "opacity": {
+                            "condition": {"param": "types", "value": 1},
+                            "value": 0.2
+                        }, 
+                        "tooltip": [
+                            {
+                                "field": "Entity",
+                                "title": "Country"
+                            },
+                            {
+                                "field": "co2_emissions_change",
+                                "title": "CO2 Emissions change (%)",
+                                "format": ",d"
+                            }
+                        ]
+                    }, 
                     "title": "Africa",
                     "transform": [
                         {
                             "filter": "datum.continent == 'Africa'"
+                        }   
+                    ],
+                    "layer": [
+                    {
+                        "params": [
+                            {
+                                "name": "highlight",
+                                "select": {"type": "point", "on": "mouseover"}
+                            },
+                            {"name": "select", "select": "point"}, 
+                            {
+                                "name": "types",
+                                "select": {"type": "point", "fields": ["change"]},
+                                "bind": "legend"
+                                }
+                        ],
+                    "mark": "circle"
+                    
+                }, 
+                {
+                    "transform": [
+                        {
+                            "calculate": "parseFloat(datum['co2_emissions_change'])",
+                            "as": "co2_emissions_change"
+                        },
+                        {
+                            "window": [{"op": "rank", "as": "ranking"}],
+                            "sort": [{"field": "co2_emissions_change", "order": "descending"}]
+                        },
+                        {"filter": "datum.ranking == 1"},
+                        {
+                            "calculate": "datum['Entity']",
+                            "as": "text_annotation"
                         }
                     ],
-                    "mark": "circle",
+                    "mark": {
+                        "type": "text",
+                        "align": "bottom",
+                        "dx": 10,
+                        "dy": 0
+                        
+                    },
+                    "encoding": {
+                        "text": {"field": "text_annotation"}, 
+                        "size": {
+                            "value": 20
+                        }
+                    }
+                    },
+                    {
+                        "transform": [
+                            {
+                                "calculate": "parseFloat(datum['co2_emissions_change'])",
+                                "as": "co2_emissions_change"
+                            },
+                            {
+                                "window": [{"op": "rank", "as": "ranking"}],
+                                "sort": [{"field": "co2_emissions_change", "order": "ascending"}]
+                            },
+                            {"filter": "datum.ranking == 1"},
+                            {
+                                "calculate": "datum['Entity']",
+                                "as": "text_annotation"
+                            }
+                        ],
+                        "mark": {
+                            "type": "text",
+                            "align": "left",
+                            "dx": 10,
+                            "dy": -10
+                            
+                        },
+                        "encoding": {
+                            "text": {"field": "text_annotation"}, 
+                            "size": {
+                                "value": 20
+                            }
+                        }
+                    }
+                ]           
+                },
+                {
+                    "spacing": 10, 
                     "width": 300, 
                     "height": 300, 
                     "encoding": {
@@ -125,20 +301,20 @@
                             "scale": {
                                 "domain": ["positive",  "negative"],
                                 "range": ["gray", "#34c3eb"]
-                              }, 
-                              "legend": {
+                                }, 
+                                "legend": {
                                 "selection": "legendToggle" 
                             }
-                        },
+                        }, 
+                        "size": {"value": 100}, 
                         "fillOpacity": {
                             "condition": {"param": "select", "value": 1},
                             "value": 0.3
-                        }, 
+                        },
                         "opacity": {
                             "condition": {"param": "types", "value": 1},
                             "value": 0.2
-                        },
-                        "size": {"value": 100}, 
+                        }, 
                         "tooltip": [
                             {
                                 "field": "Entity",
@@ -150,70 +326,225 @@
                                 "format": ",d"
                             }
                         ]
-                    }
-                },
-                {
+                    }, 
                     "title": "Oceania",
                     "transform": [
                         {
                             "filter": "datum.continent == 'Oceania'"
+                        }   
+                    ],
+                    "layer": [
+                    {
+                        "params": [
+                            {
+                                "name": "highlight",
+                                "select": {"type": "point", "on": "mouseover"}
+                            },
+                            {"name": "select", "select": "point"}, 
+                            {
+                                "name": "types",
+                                "select": {"type": "point", "fields": ["change"]},
+                                "bind": "legend"
+                                }
+                        ],
+                    "mark": "circle"
+                    
+                }, 
+                {
+                    "transform": [
+                        {
+                            "calculate": "parseFloat(datum['co2_emissions_change'])",
+                            "as": "co2_emissions_change"
+                        },
+                        {
+                            "window": [{"op": "rank", "as": "ranking"}],
+                            "sort": [{"field": "co2_emissions_change", "order": "descending"}]
+                        },
+                        {"filter": "datum.ranking == 1"},
+                        {
+                            "calculate": "datum['Entity']",
+                            "as": "text_annotation"
                         }
                     ],
-                    "mark": "circle",
-                    "width": 300, 
-                    "height": 300, 
+                    "mark": {
+                        "type": "text",
+                        "align": "bottom",
+                        "dx": 10,
+                        "dy": -10
+                        
+                    },
                     "encoding": {
-                        "x": {"field": "positive_change", "type": "nominal", "axis":
-                        {"title": ""}} ,
-                        "y": {"field": "co2_emissions_change", "type": "quantitative",  "title": "CO2 Emissions Change (%)"},
-                        "color": {
-                            "field": "change",
-                            "type": "nominal", 
-                            "scale": {
-                                "domain": ["positive",  "negative"],
-                                "range": ["gray", "#34c3eb"]
-                              }, 
-                              "legend": {
-                                "selection": "legendToggle" 
-                            }
-                        },
-                        "size": {"value": 100}, 
-                        "fillOpacity": {
-                            "condition": {"param": "select", "value": 1},
-                            "value": 0.3
-                        },
-                        "opacity": {
-                            "condition": {"param": "types", "value": 1},
-                            "value": 0.2
-                        },
-                        "tooltip": [
+                        "text": {"field": "text_annotation"}, 
+                        "size": {
+                            "value": 20
+                        }
+                    }
+                    },
+                    {
+                        "transform": [
                             {
-                                "field": "Entity",
-                                "title": "Country"
+                                "calculate": "parseFloat(datum['co2_emissions_change'])",
+                                "as": "co2_emissions_change"
                             },
                             {
-                                "field": "co2_emissions_change",
-                                "title": "CO2 Emissions change (%)",
-                                "format": ",d"
+                                "window": [{"op": "rank", "as": "ranking"}],
+                                "sort": [{"field": "co2_emissions_change", "order": "ascending"}]
+                            },
+                            {"filter": "datum.ranking == 1"},
+                            {
+                                "calculate": "datum['Entity']",
+                                "as": "text_annotation"
                             }
-                        ]
+                        ],
+                        "mark": {
+                            "type": "text",
+                            "align": "left",
+                            "dx": 10,
+                            "dy": -10
+                            
+                        },
+                        "encoding": {
+                            "text": {"field": "text_annotation"}, 
+                            "size": {
+                                "value": 20
+                            }
+                        }
                     }
+                ]           
                 }
             ]
 
         }, 
         {
-            "spacing": 45, 
+            "spacing": 50, 
             "hconcat": [
-
                 {
+                    "spacing": 40, 
+                    "width": 300, 
+                    "height": 300, 
+                    "encoding": {
+                        "x": {"field": "positive_change", "type": "nominal", "axis":
+                        {"title": ""}} ,
+                        "y": {"field": "co2_emissions_change", "type": "quantitative",  "title": "CO2 Emissions Change (%)"},
+                        "color": {
+                            "field": "change",
+                            "type": "nominal", 
+                            "scale": {
+                                "domain": ["positive",  "negative"],
+                                "range": ["gray", "#34c3eb"]
+                                }, 
+                                "legend": {
+                                "selection": "legendToggle" 
+                            }
+                        }, 
+                        "size": {"value": 100}, 
+                        "fillOpacity": {
+                            "condition": {"param": "select", "value": 1},
+                            "value": 0.3
+                        },
+                        "opacity": {
+                            "condition": {"param": "types", "value": 1},
+                            "value": 0.2
+                        }, 
+                        "tooltip": [
+                            {
+                                "field": "Entity",
+                                "title": "Country"
+                            },
+                            {
+                                "field": "co2_emissions_change",
+                                "title": "CO2 Emissions change (%)",
+                                "format": ",d"
+                            }
+                        ]
+                    }, 
                     "title": "North America",
                     "transform": [
                         {
                             "filter": "datum.continent == 'North America'"
+                        }   
+                    ],
+                    "layer": [
+                    {
+                        "params": [
+                            {
+                                "name": "highlight",
+                                "select": {"type": "point", "on": "mouseover"}
+                            },
+                            {"name": "select", "select": "point"}, 
+                            {
+                                "name": "types",
+                                "select": {"type": "point", "fields": ["change"]},
+                                "bind": "legend"
+                                }
+                        ],
+                    "mark": "circle"
+                    
+                }, 
+                {
+                    "transform": [
+                        {
+                            "calculate": "parseFloat(datum['co2_emissions_change'])",
+                            "as": "co2_emissions_change"
+                        },
+                        {
+                            "window": [{"op": "rank", "as": "ranking"}],
+                            "sort": [{"field": "co2_emissions_change", "order": "descending"}]
+                        },
+                        {"filter": "datum.ranking == 1"},
+                        {
+                            "calculate": "datum['Entity']",
+                            "as": "text_annotation"
                         }
                     ],
-                    "mark": "circle",
+                    "mark": {
+                        "type": "text",
+                        "align": "bottom",
+                        "dx": 10,
+                        "dy": 0
+                        
+                    },
+                    "encoding": {
+                        "text": {"field": "text_annotation"}, 
+                        "size": {
+                            "value": 20
+                        }
+                    }
+                    },
+                    {
+                        "transform": [
+                            {
+                                "calculate": "parseFloat(datum['co2_emissions_change'])",
+                                "as": "co2_emissions_change"
+                            },
+                            {
+                                "window": [{"op": "rank", "as": "ranking"}],
+                                "sort": [{"field": "co2_emissions_change", "order": "ascending"}]
+                            },
+                            {"filter": "datum.ranking == 1"},
+                            {
+                                "calculate": "datum['Entity']",
+                                "as": "text_annotation"
+                            }
+                        ],
+                        "mark": {
+                            "type": "text",
+                            "align": "left",
+                            "dx": 10,
+                            "dy": -10
+                            
+                        },
+                        "encoding": {
+                            "text": {"field": "text_annotation"}, 
+                            "size": {
+                                "value": 20
+                            }
+                        }
+                    }
+                ]           
+                },
+                {
+                    "spacing": 40, 
                     "width": 300, 
                     "height": 300, 
                     "encoding": {
@@ -226,11 +557,12 @@
                             "scale": {
                                 "domain": ["positive",  "negative"],
                                 "range": ["gray", "#34c3eb"]
-                              }, 
-                              "legend": {
+                                }, 
+                                "legend": {
                                 "selection": "legendToggle" 
                             }
-                        },
+                        }, 
+                        "size": {"value": 100}, 
                         "fillOpacity": {
                             "condition": {"param": "select", "value": 1},
                             "value": 0.3
@@ -238,8 +570,7 @@
                         "opacity": {
                             "condition": {"param": "types", "value": 1},
                             "value": 0.2
-                        },
-                        "size": {"value": 100}, 
+                        }, 
                         "tooltip": [
                             {
                                 "field": "Entity",
@@ -251,16 +582,94 @@
                                 "format": ",d"
                             }
                         ]
-                    }
-                },
-                {
+                    }, 
                     "title": "South America",
                     "transform": [
                         {
                             "filter": "datum.continent == 'South America'"
+                        }   
+                    ],
+                    "layer": [
+                    {
+                        "params": [
+                            {
+                                "name": "highlight",
+                                "select": {"type": "point", "on": "mouseover"}
+                            },
+                            {"name": "select", "select": "point"}, 
+                            {
+                                "name": "types",
+                                "select": {"type": "point", "fields": ["change"]},
+                                "bind": "legend"
+                                }
+                        ],
+                    "mark": "circle"
+                    
+                }, 
+                {
+                    "transform": [
+                        {
+                            "calculate": "parseFloat(datum['co2_emissions_change'])",
+                            "as": "co2_emissions_change"
+                        },
+                        {
+                            "window": [{"op": "rank", "as": "ranking"}],
+                            "sort": [{"field": "co2_emissions_change", "order": "descending"}]
+                        },
+                        {"filter": "datum.ranking == 1"},
+                        {
+                            "calculate": "datum['Entity']",
+                            "as": "text_annotation"
                         }
                     ],
-                    "mark": "circle",
+                    "mark": {
+                        "type": "text",
+                        "align": "bottom",
+                        "dx": 10,
+                        "dy": 0
+                        
+                    },
+                    "encoding": {
+                        "text": {"field": "text_annotation"}, 
+                        "size": {
+                            "value": 20
+                        }
+                    }
+                    },
+                    {
+                        "transform": [
+                            {
+                                "calculate": "parseFloat(datum['co2_emissions_change'])",
+                                "as": "co2_emissions_change"
+                            },
+                            {
+                                "window": [{"op": "rank", "as": "ranking"}],
+                                "sort": [{"field": "co2_emissions_change", "order": "ascending"}]
+                            },
+                            {"filter": "datum.ranking == 1"},
+                            {
+                                "calculate": "datum['Entity']",
+                                "as": "text_annotation"
+                            }
+                        ],
+                        "mark": {
+                            "type": "text",
+                            "align": "left",
+                            "dx": 10,
+                            "dy": -10
+                            
+                        },
+                        "encoding": {
+                            "text": {"field": "text_annotation"}, 
+                            "size": {
+                                "value": 20
+                            }
+                        }
+                    }
+                ]           
+                },
+                {
+  
                     "width": 300, 
                     "height": 300, 
                     "encoding": {
@@ -273,11 +682,12 @@
                             "scale": {
                                 "domain": ["positive",  "negative"],
                                 "range": ["gray", "#34c3eb"]
-                              }, 
-                              "legend": {
+                                }, 
+                                "legend": {
                                 "selection": "legendToggle" 
                             }
-                        },
+                        }, 
+                        "size": {"value": 100}, 
                         "fillOpacity": {
                             "condition": {"param": "select", "value": 1},
                             "value": 0.3
@@ -285,8 +695,7 @@
                         "opacity": {
                             "condition": {"param": "types", "value": 1},
                             "value": 0.2
-                        },
-                        "size": {"value": 100}, 
+                        }, 
                         "tooltip": [
                             {
                                 "field": "Entity",
@@ -298,57 +707,99 @@
                                 "format": ",d"
                             }
                         ]
-                    }
-                },
-                {
+                    }, 
                     "title": "Europe",
                     "transform": [
                         {
                             "filter": "datum.continent == 'Europe'"
+                        }   
+                    ],
+                    "layer": [
+                    {
+                        "params": [
+                            {
+                                "name": "highlight",
+                                "select": {"type": "point", "on": "mouseover"}
+                            },
+                            {"name": "select", "select": "point"}, 
+                            {
+                                "name": "types",
+                                "select": {"type": "point", "fields": ["change"]},
+                                "bind": "legend"
+                                }
+                        ],
+                    "mark": "circle"
+                    
+                }, 
+                {
+                    "transform": [
+                        {
+                            "calculate": "parseFloat(datum['co2_emissions_change'])",
+                            "as": "co2_emissions_change"
+                        },
+                        {
+                            "window": [{"op": "rank", "as": "ranking"}],
+                            "sort": [{"field": "co2_emissions_change", "order": "descending"}]
+                        },
+                        {"filter": "datum.ranking == 1"},
+                        {
+                            "calculate": "datum['Entity']",
+                            "as": "text_annotation"
                         }
                     ],
-                    "mark": "circle",
-                    "width": 300, 
-                    "height": 300, 
+                    "mark": {
+                        "type": "text",
+                        "align": "bottom",
+                        "dx": 10,
+                        "dy": 0
+                        
+                    },
                     "encoding": {
-                        "x": {"field": "positive_change", "type": "nominal", "axis":
-                        {"title": ""}} ,
-                        "y": {"field": "co2_emissions_change", "type": "quantitative",  "title": "CO2 Emissions Change (%)"},
-                        "color": {
-                            "field": "change",
-                            "type": "nominal", 
-                            "scale": {
-                                "domain": ["positive",  "negative"],
-                                "range": ["gray", "#34c3eb"]
-                              }, 
-                              "legend": {
-                                "selection": "legendToggle" 
-                            }
-                        },
-                        "fillOpacity": {
-                            "condition": {"param": "select", "value": 1},
-                            "value": 0.3
-                        },
-                        "opacity": {
-                            "condition": {"param": "types", "value": 1},
-                            "value": 0.2
-                        },
-                        "size": {"value": 100}, 
-                        "tooltip": [
+                        "text": {"field": "text_annotation"}, 
+                        "size": {
+                            "value": 20
+                        }
+                    }
+                    },
+                    {
+                        "transform": [
                             {
-                                "field": "Entity",
-                                "title": "Country"
+                                "calculate": "parseFloat(datum['co2_emissions_change'])",
+                                "as": "co2_emissions_change"
                             },
                             {
-                                "field": "co2_emissions_change",
-                                "title": "CO2 Emissions change (%)",
-                                "format": ",d"
+                                "window": [{"op": "rank", "as": "ranking"}],
+                                "sort": [{"field": "co2_emissions_change", "order": "ascending"}]
+                            },
+                            {"filter": "datum.ranking == 1"},
+                            {
+                                "calculate": "datum['Entity']",
+                                "as": "text_annotation"
                             }
-                        ]
+                        ],
+                        "mark": {
+                            "type": "text",
+                            "align": "left",
+                            "dx": 10,
+                            "dy": -10
+                            
+                        },
+                        "encoding": {
+                            "text": {"field": "text_annotation"}, 
+                            "size": {
+                                "value": 20
+                            }
+                        }
                     }
+                ]           
                 }
             ]
 
         }
-    ]
+    ], 
+    "resolve": {"scale": {"y": "independent"}},
+      "align": "each", 
+      "columns": 1
+}
+]
 }
