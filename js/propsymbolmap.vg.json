@@ -17,7 +17,13 @@
         "legend": {
             "titleColor": "white", 
             "labelColor": "white",
-            "symbolFillColor": "white"
+            "symbolFillColor": "white", 
+            "titleFontSize": 10,
+            "labelFontSize": 14, 
+            "symbolStrokeWidth": 2,
+            "columns": 1,
+            "offset": 10, 
+            "labelLimit" : 80
     }
     },
     "title": "Financial Aid to Developing Countries ($US) vs Access to Clean fuels (%)",
@@ -169,52 +175,31 @@
     }
     }, 
     {
-      "data": {
-        "url": "https://raw.githubusercontent.com/emanAtassi/FIT3179/main/data/ps.csv"
-    },
-    "transform": [
-      {
-        "calculate": "parseFloat(datum.financial_flow) /parseFloat(datum.population) * 10000",
-        "as": "Financial Flow 10,000 population"
-      }, 
+      "transform": [
         {
-            "filter": "datum.year==yearfilter"
-        } ,
-        {
-            "filter": "datum['Financial Flow 10,000 population'] > 0"
-        } ,
-        {
-            "window":[{"op":"rank", "as": "ranking"}],
-            "sort": [{"field": "Financial Flow 10,000 population", "order": "descending"}]
-        },
-        {
-            "filter": "datum.ranking <= 5"
-        },
-        {
-        "calculate": "datum['Entity']",
-        "as": "text_annotation_raw"
-        },
-        {
-        "calculate": "split(datum.text_annotation_raw,';')",
-        "as": "text_annotation"
-        }
-    ],
-      "mark": {
-          "type": "text"
-      },
-      "encoding": {
-          "longitude": {
-              "field": "Longitude",
-              "type": "quantitative"
-          },
-          "latitude": {
-              "field": "Latitude",
-              "type": "quantitative"
-          },
-          "text": {
-              "field": "text_annotation"
+          "lookup": "properties.NAME",
+          "from": {
+            "data": {
+              "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/3_choropleth_map/data/countryInfo.csv"
+            },
+            "key": "name",
+            "fields": ["latitude", "longitude"]
           }
+        }
+      ],
+      "mark": {"type": "text", "size": 14, "fontWeight": "bold", "color": "black"},
+      "encoding": {
+        "longitude": {"field": "longitude", "type": "quantitative"},
+        "latitude": {"field": "latitude", "type": "quantitative"},
+        "text": {"field": "properties.NAME", "type": "nominal"},
+        "opacity": {
+          "condition": {
+            "test": "datum['properties.NAME'] == 'Morocco' || datum['properties.NAME'] == 'Mexico' || datum['properties.NAME'] == 'Peru' || datum['properties.NAME'] == 'Afghanistan' || datum['properties.NAME'] == 'Somalia' || datum['properties.NAME'] == 'Australia' || datum['properties.NAME'] == 'Papua New Guinea' ||  datum['properties.NAME'] == 'Cambodia' ||  datum['properties.NAME'] == 'Mozambique'",
+            "value": 1
+          },
+          "value": 0
+        }
       }
-  }
+    }
     ]
   }

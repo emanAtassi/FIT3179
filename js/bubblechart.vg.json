@@ -112,7 +112,7 @@
         "y": {
             "field": "renewable",
             "type": "quantitative",
-            "title": "Renewable Electricity Generating Capacity Per Capita",
+            "title": "Average Renewable Electricity Generating Capacity Per Capita",
             "axis": {
                 "tickCount": 6
             },
@@ -182,6 +182,10 @@
             {
                 "field": "continent",
                 "title": "Continent"
+            },
+            {
+                "field": "Country",
+                "title": "Country"
             },
             {
                 "field": "population",

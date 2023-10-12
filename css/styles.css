@@ -19,7 +19,7 @@ body {
 background: linear-gradient(183deg, rgba(42,133,139,1) 0%, rgb(30, 34, 35) 58%);
     color: #ffffff; /* Set the text color to white for better readability on a colored background */
     padding: 20px; /* Add some padding for spacing */
-    margin-bottom: 100px; 
+    margin-bottom: 5px; 
   }
   .text {
     font-family: "Times New Roman", Times, serif;

@@ -18,7 +18,9 @@
             "legend": {
                 "titleColor": "white", 
                 "labelColor": "white",
-                "symbolFillColor": "white"
+                "symbolFillColor": "white", 
+                "titleFontSize": 16,
+                "labelFontSize": 12
         }
     },
     "data": {
