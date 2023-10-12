@@ -1,7 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": "Electricity Generation by Source",
-    "width": 660,
+    "width": 700,
     "height": 400,
     "background": "transparent", 
     "config": {
@@ -9,15 +9,19 @@
         "labelAngle": 0
     }, 
       "title": {
-          "color": "white" 
+          "color": "white" , 
+          "fontSize": 16
       },
       "axis": {
           "labelColor": "white", 
-          "titleColor": "white" 
+          "titleColor": "white" , 
+          "grid": false, 
+          "labelFontSize": 12
       },
       "legend": {
           "titleColor": "white", 
-          "labelColor": "white"
+          "labelColor": "white", 
+          "labelFontSize": 10
       }
   },
     "data": {
@@ -96,8 +100,11 @@
       "y": {
         "aggregate": "sum", "field": "Electricity",
         "type": "quantitative", "title": "Electricity (TWh)", 
-        "axis": null,
-        "stack": "normalize"
+              
+        "stack": "normalize", 
+        "axis": {
+          "format": "%"
+        }
       },
       "color": {"field": "Source", "type": "nominal", "title": "Energy Source", 
       "scale": {
@@ -107,6 +114,7 @@
       "legend": {"orient": "top"}
   }, 
     "tooltip": [
+      {"field": "year", "type": "ordinal", "title": "Year"},
         {
           "field": "Source",
           "title": "Energy Source"
