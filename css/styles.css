@@ -82,12 +82,13 @@ background: linear-gradient(183deg, rgba(42,133,139,1) 0%, rgb(30, 34, 35) 58%);
   }
 
   #stackedarea {
-    padding-right: 100px; 
+    padding-right: 10px; 
   }
 
 
   .sections {
     padding: 50px; 
+
     margin-top: 20px;
     font-family: "Times New Roman", Times, serif;
   }
@@ -131,7 +132,7 @@ background: linear-gradient(183deg, rgba(42,133,139,1) 0%, rgb(30, 34, 35) 58%);
     width: 100%
   }
   
-  #rankedbarchart {}
+
 
   .description {
     padding: 10px; 
