@@ -18,7 +18,13 @@
         "legend": {
             "titleColor": "white", 
             "labelColor": "white",
-            "symbolFillColor": "white"
+            "symbolFillColor": "white", 
+            "titleFontSize": 14,
+            "labelFontSize": 14, 
+            "symbolType": "square", 
+            "symbolStrokeWidth": 2,
+            "columns": 1,
+            "padding": 16
     }
     },
     "params": [
@@ -196,47 +202,31 @@
     }
     }, 
     {
-        "data": {
-            "url": "https://raw.githubusercontent.com/emanAtassi/FIT3179/main/data/global-data-on-sustainable-energy%20(1).csv"
-        },
         "transform": [
-            {
-                "filter": "datum.Year==yearfilter"
-            } ,
-            {
-                "window":[{"op":"rank", "as": "ranking"}],
-                "sort": [{"field": "access_to_electricity", "order": "descending"}]
-            },
-            {
-                "filter": "datum.ranking <= 5"
-            },
-            {
-            "calculate": "datum['Entity']",
-            "as": "text_annotation_raw"
-            },
-            {
-            "calculate": "split(datum.text_annotation_raw,';')",
-            "as": "text_annotation"
+          {
+            "lookup": "properties.NAME",
+            "from": {
+              "data": {
+                "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/3_choropleth_map/data/countryInfo.csv"
+              },
+              "key": "name",
+              "fields": ["latitude", "longitude"]
             }
+          }
         ],
-        "mark": {
-            "type": "text"
-        },
+        "mark": {"type": "text", "size": 14, "fontWeight": "bold", "color": "black"},
         "encoding": {
-            "longitude": {
-                "field": "Longitude",
-                "type": "quantitative"
+          "longitude": {"field": "longitude", "type": "quantitative"},
+          "latitude": {"field": "latitude", "type": "quantitative"},
+          "text": {"field": "properties.NAME", "type": "nominal"},
+          "opacity": {
+            "condition": {
+              "test": "datum['properties.NAME'] == 'Peru' || datum['properties.NAME'] == 'Afghanistan' || datum['properties.NAME'] == 'Somalia' || datum['properties.NAME'] == 'Australia' || datum['properties.NAME'] == 'Papua New Guinea' ||  datum['properties.NAME'] == 'Cambodia' ||  datum['properties.NAME'] == 'Mozambique'",
+              "value": 1
             },
-            "latitude": {
-                "field": "Latitude",
-                "type": "quantitative"
-            },
-            "text": {
-                "field": "text_annotation"
-              
-            }
-            
+            "value": 0
+          }
         }
-    }
+      }
     ]
   }
