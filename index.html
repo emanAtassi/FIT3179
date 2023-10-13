@@ -395,10 +395,12 @@
         vegaEmbed("#rankedbarchart", spec6, { "actions": false }).then(console.log).catch(console.warn);
 
         function scrollToTop() {
-        if (window.scrollY !== 0) {
-            window.scrollTo(0, 0);
-        }
+        window.scrollTo({
+            top: 0,
+            behavior: 'smooth' // Smooth scroll behavior
+      });
     }
+
 
     // Show/hide the scroll-to-top button based on scroll position
     window.addEventListener("scroll", function () {
