@@ -13,7 +13,10 @@
             },
             "axis": {
                 "labelColor": "white", 
-                "titleColor": "white" 
+                "titleColor": "white", 
+                "labelFontSize": 11, 
+                "titleFontSize": 12
+                
             },
             "legend": {
                 "titleColor": "white", 
@@ -74,7 +77,7 @@
         }, 
         {
             "field": "co2_emissions",
-            "title": "CO2 Emissions",
+            "title": "CO2 Emissions (TWh)",
             "format": ".2f"
         }
     ]

@@ -12,11 +12,14 @@
       },
       "axis": {
           "labelColor": "white", 
-          "titleColor": "white" 
+          "titleColor": "white" , 
+          "labelFontSize": 11, 
+          "titleFontSize": 12
       },
       "legend": {
           "titleColor": "white", 
-          "labelColor": "white"
+          "labelColor": "white", 
+          "labelFontSize": 12
       }
   },
     "data": {"url": "https://raw.githubusercontent.com/emanAtassi/FIT3179/main/data/ac.csv", "format": {
@@ -48,7 +51,7 @@
       "tooltip": [
         {
             "field": "value",
-            "title": "CO2 Emissions",
+            "title": "CO2 Emissions (TWh)",
             "format": ".2f"
         }
     ]
