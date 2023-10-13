@@ -51,7 +51,7 @@
       "tooltip": [
         {
             "field": "value",
-            "title": "CO2 Emissions (TWh)",
+            "title": "CO2 Emissions (Mg)",
             "format": ".2f"
         }
     ]
@@ -66,7 +66,7 @@
                 "field": "type",
                 "type": "nominal", 
                 "scale": {
-                    "domain": ["top 5 polluters", "the rest"],
+                    "domain": ["top 5 pollutors", "the rest"],
                     "range": ["#ff7f0e", "grey"]  
                 }, 
                 "legend": {
